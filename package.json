@@ -4,14 +4,19 @@
   "description": "Static site generated with Eleventy (11ty)",
   "main": "index.js",
   "scripts": {
-    "build": "eleventy",
-    "start": "eleventy --serve"
+    "build:css": "postcss src/assets/styles.css -o src/assets/styles.generated.css",
+    "build": "npm run build:css && eleventy",
+    "start": "npm run build:css && eleventy --serve"
   },
   "author": "joshualinog",
   "license": "MIT",
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0",
-    "nunjucks": "^3.2.4"
+    "autoprefixer": "^10.4.19",
+    "nunjucks": "^3.2.4",
+    "postcss": "^8.4.38",
+    "postcss-cli": "^11.0.1",
+    "tailwindcss": "^3.4.1"
   }
 }
