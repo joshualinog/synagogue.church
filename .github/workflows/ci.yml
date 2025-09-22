@@ -17,10 +17,8 @@ jobs:
           node-version: "20.x"
       - name: Install dependencies
         run: npm install
-      - name: Build Tailwind CSS
-        run: npm run build:css
       - name: Build site
-        run: eleventy
+        run: npm run build
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
