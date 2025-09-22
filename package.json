@@ -6,7 +6,7 @@
   "scripts": {
     "build:css": "postcss src/assets/styles.css -o src/assets/styles.generated.css",
     "build": "npm run build:css && eleventy",
-    "start": "npm run build:css && eleventy --serve"
+    "start": "npm run build:css && eleventy --serve --pathprefix=''"
   },
   "author": "joshualinog",
   "license": "MIT",
