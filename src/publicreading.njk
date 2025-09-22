@@ -1,0 +1,11 @@
+---
+title: Public Reading Schedule
+---
+<h1>Public Reading Schedule</h1>
+<ul>
+  {% for reading in publicreadingschedule %}
+    <li>
+      <strong>{{ reading.date }}</strong>: {{ reading.torahTitle }} ({{ reading.torahPassage }}) / {{ reading.gospelPassage }}
+    </li>
+  {% endfor %}
+</ul>
