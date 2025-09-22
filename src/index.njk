@@ -1,8 +1,12 @@
 ---
+layout: layout.njk
 title: Home
 ---
-<link rel="stylesheet" href="{{ '/assets/styles.generated.css' | url }}">
-<h1>Welcome to Synagogue.Church</h1>
-<h2>coming soon friends</h2>
-<p>This site is built with Eleventy and Nunjucks.</p>
-<a href="/publicreading/">View Public Reading Schedule</a>
+
+{% include "hero.njk" %}
+
+<main class="max-w-5xl mx-auto px-4 py-8">
+  <h2 class="text-2xl font-bold mb-4">Welcome to Synagogue.Church</h2>
+  <p class="mb-6">This is your new Eleventy + Tailwind CSS site, ready for content and customization.</p>
+  <a href="/publicreading/">View Public Reading Schedule</a>
+</main>

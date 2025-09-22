@@ -1,5 +1,6 @@
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/assets");
+  const isProd = process.env.ELEVENTY_ENV === "production";
   return {
     dir: {
       input: "src",
@@ -10,6 +11,6 @@ module.exports = function (eleventyConfig) {
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
-    pathPrefix: "/synagogue.church/",
+    pathPrefix: isProd ? "/synagogue.church/" : "/",
   };
 };
