@@ -2,7 +2,7 @@ name: Eleventy Build and Deploy
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   schedule:
     - cron: '*/30 * * * *' # every 30 minutes
 
