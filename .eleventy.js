@@ -2,6 +2,7 @@ const { DateTime } = require("luxon");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/assets");
+  eleventyConfig.addPassthroughCopy("CNAME");
 
   // Add a Nunjucks 'date' filter using luxon
   eleventyConfig.addNunjucksFilter("date", (value, format = "yyyy") => {
