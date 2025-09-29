@@ -4,9 +4,9 @@
 	{% else %}
 		{% set side = 'right' %}
 	{% endif %}
-	<section class="{{ item.color }} py-16">
+	<section class="bg-{{ item.color }}-50 py-16">
 		<div class="container mx-auto">
-			<h2 class="text-8xl font-extrabold mb-8 uppercase {{ item.color | replace('bg-', 'text-') }}">{{ item.name }}</h2>
+			<h2 class="text-8xl font-extrabold mb-8 uppercase text-black {% if side == 'left' %}text-left{% else %}text-right{% endif %}">{{ item.name }}</h2>
 			{% include "top-card.njk" %}
 		</div>
 	</section>
