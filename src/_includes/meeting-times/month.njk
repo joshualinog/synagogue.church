@@ -14,8 +14,8 @@
         .map(ev => {
           let title = ev.title;
           let start = ev.date;
-          // For candle lighting events, use the time from the date property in 12-hour PM format
-          if (ev.category && ev.category === 'candles') {
+          let classNames = [];
+          if (ev.category === 'candles') {
             const d = new Date(ev.date);
             let hours = d.getHours();
             let minutes = d.getMinutes();
@@ -25,12 +25,21 @@
             let minutesStr = minutes < 10 ? '0' + minutes : minutes;
             let sundownTime = `${hours}:${minutesStr}${ampm}`;
             title = `SUNDOWN - ${sundownTime}`;
+            classNames.push('bg-purple-600', 'border-purple-400');
+          } else if (ev.category === 'havdalah') {
+            classNames.push('bg-purple-600', 'border-purple-400');
+          } else if (ev.yomtov) {
+            classNames.push('bg-purple-300', 'border-purple-300');
+          }
+          // Add purple-600 bg for any event with 'erev' in the title
+          if (title && title.toLowerCase().includes('erev')) {
+            classNames.push('bg-purple-600');
           }
           return {
             title,
             start,
             allDay: true,
-            classNames: ev.yomtov ? ['bg-yellow-200', 'border-yellow-400'] : []
+            classNames
           };
         });
       const calendar = new window.FullCalendar.Calendar(document.getElementById('month-calendar'), {
