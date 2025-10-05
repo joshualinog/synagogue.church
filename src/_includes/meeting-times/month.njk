@@ -6,39 +6,33 @@
 
 <div id="month-calendar" style="min-height: 600px;"></div>
 <script>
-             fetch('https://www.hebcal.com/hebcal?v=1&cfg=json&maj=on&min=on&year=2025&month=10&s=on&geo=il&c=on&lg=s')
+             fetch('https://www.hebcal.com/hebcal?cfg=json&i=on&year=2025&month=10&maj=on&min=on&nx=on&ss=on&mf=on&c=on&m=0&zip=29455')
     .then(response => response.json())
     .then(data => {
-      const yomTovTitles = [
-        'Yom Kippur',
-        'Sukkot I',
-        'Shemini Atzeret',
-        'Simchat Torah',
-        'Pesach I',
-        'Pesach VII',
-        'Shavuot I',
-        'Shavuot II',
-        'Rosh Hashana I',
-        'Rosh Hashana II'
-      ];
-      const events = (data.items || [])
-        .filter(ev => {
-          // Remove Torah readings
-          if (ev.title.startsWith('Parashat')) return false;
-          // Remove Simchat Torah if not on same day as Shemini Atzeret (Israel calendar)
-          if (ev.title === 'Simchat Torah') {
-            // Only keep Simchat Torah if it is on same date as Shemini Atzeret
-            const shemini = (data.items || []).find(e2 => e2.title === 'Shemini Atzeret');
-            return shemini && ev.date === shemini.date;
+  console.log('Hebcal raw items:', data.items);
+  const events = (data.items || [])
+        .map(ev => {
+          let title = ev.title;
+          let start = ev.date;
+          // For candle lighting events, use the time from the date property in 12-hour PM format
+          if (ev.category && ev.category === 'candles') {
+            const d = new Date(ev.date);
+            let hours = d.getHours();
+            let minutes = d.getMinutes();
+            let ampm = hours >= 12 ? 'PM' : 'AM';
+            hours = hours % 12;
+            hours = hours ? hours : 12; // the hour '0' should be '12'
+            let minutesStr = minutes < 10 ? '0' + minutes : minutes;
+            let sundownTime = `${hours}:${minutesStr}${ampm}`;
+            title = `SUNDOWN - ${sundownTime}`;
           }
-          return true;
-        })
-        .map(ev => ({
-          title: ev.title,
-          start: ev.date,
-          allDay: true,
-          classNames: yomTovTitles.some(t => ev.title.trim() === t) ? ['bg-yellow-200', 'border-yellow-400'] : []
-        }));
+          return {
+            title,
+            start,
+            allDay: true,
+            classNames: ev.yomtov ? ['bg-yellow-200', 'border-yellow-400'] : []
+          };
+        });
       const calendar = new window.FullCalendar.Calendar(document.getElementById('month-calendar'), {
         initialView: 'dayGridMonth',
         events: events,
