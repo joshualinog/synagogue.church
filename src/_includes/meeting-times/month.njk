@@ -1,0 +1,59 @@
+
+<link href="https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.8/index.global.min.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/@fullcalendar/daygrid@6.1.8/index.global.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.8/index.global.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@fullcalendar/daygrid@6.1.8/index.global.min.js"></script>
+
+<div id="month-calendar" style="min-height: 600px;"></div>
+<script>
+             fetch('https://www.hebcal.com/hebcal?v=1&cfg=json&maj=on&min=on&year=2025&month=10&s=on&geo=il&c=on&lg=s')
+    .then(response => response.json())
+    .then(data => {
+      const yomTovTitles = [
+        'Yom Kippur',
+        'Sukkot I',
+        'Shemini Atzeret',
+        'Simchat Torah',
+        'Pesach I',
+        'Pesach VII',
+        'Shavuot I',
+        'Shavuot II',
+        'Rosh Hashana I',
+        'Rosh Hashana II'
+      ];
+      const events = (data.items || [])
+        .filter(ev => {
+          // Remove Torah readings
+          if (ev.title.startsWith('Parashat')) return false;
+          // Remove Simchat Torah if not on same day as Shemini Atzeret (Israel calendar)
+          if (ev.title === 'Simchat Torah') {
+            // Only keep Simchat Torah if it is on same date as Shemini Atzeret
+            const shemini = (data.items || []).find(e2 => e2.title === 'Shemini Atzeret');
+            return shemini && ev.date === shemini.date;
+          }
+          return true;
+        })
+        .map(ev => ({
+          title: ev.title,
+          start: ev.date,
+          allDay: true,
+          classNames: yomTovTitles.some(t => ev.title.trim() === t) ? ['bg-yellow-200', 'border-yellow-400'] : []
+        }));
+      const calendar = new window.FullCalendar.Calendar(document.getElementById('month-calendar'), {
+        initialView: 'dayGridMonth',
+        events: events,
+        headerToolbar: {
+          left: 'prev,next today',
+          center: 'title',
+          right: ''
+        },
+        eventClassNames: function(arg) {
+          return arg.event.classNames;
+        }
+      });
+      calendar.render();
+    })
+    .catch(() => {
+      document.getElementById('month-calendar').innerHTML = '<div class="text-red-600 p-4">Calendar failed to load.</div>';
+    });
+</script>
