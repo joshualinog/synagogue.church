@@ -1,3 +1,19 @@
 {% if nextReading %}
-  <div>{{ nextReading.torahTitle }} - {{ nextReading.date }}</div>
+  <div>
+    <ul>
+        <li>{{ nextReading.date }}</li>
+        <li>{{ nextReading.torahTitle }}</li>
+        <li>{{ nextReading.torahPassage }}</li>
+        <li>{{ nextReading.torahVerseTotal }}</li>
+        <li>{{ nextReading.gospelPassage }}</li>
+        <li>{{ nextReading.gospelVerseTotal }}</li>
+        <li>{{ nextReading.notes }}</li>
+        <li>{{ nextReading.kriyahOrder }}</li>
+        <li>{{ nextReading.aliyah }}</li>
+        <li>{{ nextReading.parashahTorah }}</li>
+        <li>{{ nextReading.parashahGospel }}</li>
+    </ul>
+  </div>
 {% endif %}
+
+
