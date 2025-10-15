@@ -1,0 +1,24 @@
+name: Deploy Eleventy Site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: Install dependencies
+        run: npm install
+      - name: Fetch Google Sheet data
+        run: node scripts/fetch-google-sheet.js
+      - name: Build Eleventy site
+        run: npm run build
+      # Add your deploy step here, e.g. upload to Netlify, Vercel, etc.

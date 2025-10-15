@@ -8,7 +8,9 @@
     "watch:css": "postcss src/assets/styles.css -o src/assets/styles.generated.css --watch",
     "build": "npm run build:css && eleventy",
     "serve": "eleventy --serve --pathprefix=''",
-    "start": "npm-run-all --parallel watch:css serve"
+    "start": "npm run prebuild && npm-run-all --parallel watch:css serve",
+    "prebuild": "node scripts/fetch-google-sheet.js",
+    "build": "eleventy"
   },
   "author": "joshualinog",
   "license": "MIT",
@@ -25,6 +27,7 @@
   "dependencies": {
     "@fullcalendar/core": "^6.1.19",
     "@fullcalendar/daygrid": "^6.1.19",
-    "luxon": "^3.7.2"
+    "luxon": "^3.7.2",
+    "node-fetch": "^2.7.0"
   }
 }
