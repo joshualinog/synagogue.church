@@ -1,11 +1,63 @@
+
 ---
+layout: layout.njk
 title: Public Reading Schedule
+pagination:
+  data: publicreading
+  size: 10
+  alias: page
 ---
-<h1>Public Reading Schedule</h1>
-<ul>
-  {% for reading in publicreadingschedule %}
-    <li>
-      <strong>{{ reading.date }}</strong>: {{ reading.torahTitle }} ({{ reading.torahPassage }}) / {{ reading.gospelPassage }}
-    </li>
-  {% endfor %}
-</ul>
+
+{# Make the current page's slice of readings available under `publicreading` so the include will render them #}
+{# keep a copy of the full data so we can compute page counts for a fallback pager #}
+{% set allPublicreading = publicreading if publicreading else [] %}
+{% set publicreading = pagination.items %}
+
+<h1 class="sr-only">Public Reading Schedule</h1>
+
+<!-- DEBUG: pagination diagnostics -->
+<div class="p-4 bg-yellow-50 text-sm text-gray-800">
+  <div><strong>pagination.pageNumber:</strong> {{ pagination.pageNumber | default('undefined') }}</div>
+  <div><strong>pagination.pages length:</strong> {{ pagination.pages | length }}</div>
+  <div><strong>pagination.items length:</strong> {{ pagination.items | length }}</div>
+  <div><strong>first item preview:</strong> {{ pagination.items[0] | dump }}</div>
+</div>
+
+{# Render the same include you already use for a condensed readings table #}
+{% include "public-reading/upcoming-readings-short.njk" %}
+
+{# Pagination controls (Eleventy pagination object) #}
+<nav class="mt-6 flex items-center justify-center gap-3" aria-label="Pagination">
+  {# Prefer Eleventy-provided links when available #}
+  {% if pagination.hrefPrevious %}
+    <a class="px-3 py-2 rounded border" href="{{ pagination.hrefPrevious }}">Previous</a>
+  {% endif %}
+
+  {% if pagination.pages and (pagination.pages | length) > 0 %}
+    {% for p in pagination.pages %}
+      <a href="{{ p.href }}" class="px-3 py-2 rounded {% if p.pageNumber == pagination.pageNumber %}bg-gray-900 text-white{% else %}bg-white text-gray-900 border{% endif %}">{{ p.pageNumber + 1 }}</a>
+    {% endfor %}
+  {% else %}
+    {# Fallback numeric pager computed from the original data length #}
+    {% set total = allPublicreading | length %}
+    {% set size = pagination.size | default(10) %}
+    {# compute pageCount by iterating so we avoid using complex filter args #}
+    {% set pageCount = 0 %}
+    {% for _ in range(0, total) %}
+      {% if loop.index0 % size == 0 %}{% set pageCount = pageCount + 1 %}{% endif %}
+    {% endfor %}
+    {% for i in range(0, pageCount) %}
+      {% if i == 0 %}
+        {% set href = '/publicreading/' %}
+      {% else %}
+        {% set href = '/publicreading/' ~ (i+1) ~ '/' %}
+      {% endif %}
+      <a href="{{ href }}" class="px-3 py-2 rounded {% if i == pagination.pageNumber %}bg-gray-900 text-white{% else %}bg-white text-gray-900 border{% endif %}">{{ i + 1 }}</a>
+    {% endfor %}
+  {% endif %}
+
+  {% if pagination.hrefNext %}
+    <a class="px-3 py-2 rounded border" href="{{ pagination.hrefNext }}">Next</a>
+  {% endif %}
+</nav>
+

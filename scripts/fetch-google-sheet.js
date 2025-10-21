@@ -7,14 +7,38 @@ const RANGE = "readings"; // Change to your sheet/tab name
 const OUT_PATH = "./src/_data/publicreading.json";
 
 (async () => {
-  const url = `https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/${RANGE}?key=${API_KEY}`;
-  const res = await fetch(url);
-  if (!res.ok) {
-    const text = await res.text();
-    console.error("Google Sheets API error:", res.status, text);
-    process.exit(1);
-  }
-  const data = await res.json();
+    // Allow skipping the remote fetch (useful for CI or GitHub Pages builds)
+    if (process.env.SKIP_FETCH === '1') {
+      console.log('SKIP_FETCH=1 set — skipping Google Sheets fetch.');
+      return;
+    }
+
+    const url = `https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/${RANGE}?key=${API_KEY}`;
+    try {
+      const res = await fetch(url);
+      if (!res.ok) {
+        const text = await res.text();
+        console.error("Google Sheets API error:", res.status, text);
+        // don't fail the whole build — prefer to keep existing data if present
+        if (fs.existsSync(OUT_PATH)) {
+          console.log(`Keeping existing ${OUT_PATH}`);
+          return;
+        }
+        console.log(`No existing ${OUT_PATH} found; writing empty array.`);
+        fs.writeFileSync(OUT_PATH, JSON.stringify([], null, 2));
+        return;
+      }
+      var data = await res.json();
+    } catch (err) {
+      console.error('Failed to fetch Google Sheets:', err && err.message ? err.message : err);
+      if (fs.existsSync(OUT_PATH)) {
+        console.log(`Keeping existing ${OUT_PATH}`);
+        return;
+      }
+      console.log(`No existing ${OUT_PATH} found; writing empty array.`);
+      fs.writeFileSync(OUT_PATH, JSON.stringify([], null, 2));
+      return;
+    }
   // Convert rows to array of objects using header row
   const rows = data.values;
   if (!rows || rows.length < 2) {
