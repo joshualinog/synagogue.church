@@ -41,3 +41,33 @@ body {
  p{
     font-weight: 300;
  }
+
+/* Responsive overflow guards */
+/* Ensure hero image never forces page wider than viewport */
+.hero-image,
+.hero-image img,
+section.relative img[alt="bg-img"] {
+	max-width: 100vw;
+	height: auto;
+	object-fit: cover;
+}
+
+/* Make FullCalendar tables fluid and allow horizontal scroll on small screens */
+#month-calendar {
+	width: 100%;
+	max-width: 100%;
+	overflow-x: auto;
+	-webkit-overflow-scrolling: touch;
+}
+#month-calendar table,
+#month-calendar .fc-scrollgrid-sync-table {
+	width: 100% !important;
+	table-layout: fixed;
+}
+
+/* Fallback: hide accidental horizontal overflow (use sparingly) */
+@media (max-width: 640px) {
+	html, body {
+		overflow-x: hidden;
+	}
+}
