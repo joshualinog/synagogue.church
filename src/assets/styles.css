@@ -1,3 +1,43 @@
+/* Nunito Sans Google Fonts import: 200, 200italic, 300, 300italic, 500, 500italic, 900, 900italic */
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,500;0,900;1,200;1,300;1,500;1,900&display=swap');
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* DRY: Define Nunito Sans font family utility */
+:root {
+	--font-nunito-sans: 'Nunito Sans', Arial, Helvetica, sans-serif;
+}
+
+body {
+	font-family: var(--font-nunito-sans);
+}
+
+/* Example font-weight utility classes (optional, for DRY usage) */
+.font-extralight {
+	font-weight: 200;
+}
+.font-light {
+	font-weight: 300;
+}
+.font-medium {
+	font-weight: 500;
+}
+.font-black {
+	font-weight: 900;
+}
+
+/* mainthree */
+
+.Pray{
+    color:white!important;
+}
+
+
+
+/* elements */
+ p{
+    font-weight: 300;
+ }
