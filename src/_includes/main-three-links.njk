@@ -1,5 +1,5 @@
 
-	<div class="grid grid-cols-1 gap-8 lg:grid-cols-3">
+	<div class="grid grid-cols-1 gap-8 lg:grid-cols-3 p-8">
 			{% for item in mainThree or [] %}
 				<div class="overflow-hidden rounded-2xl bg-{{ item.color }}-500 p-4 lg:p-12 {{ item.name }}">
 					<div class="flex items-center text-{{ item.color }}-500">
@@ -8,7 +8,7 @@
 			  <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
 			</svg>
 		  </div>
-		  <h2 class="mt-4 text-4xl font-light">{{ item.short }}</h2>
+		  <h2 class="mt-4 text-5xl font-extralight text-center">{{ item.short }}</h2>
 		  <p class="mt-4 text-lg ">{{ item.description }}</p>
 		  <div class="mt-12 flex transform items-center justify-center transition-transform duration-150 ease-in-out hover:scale-125">
 			<a href="{{ item.link }}" class="rounded-full py-2 px-8 text-center text-black border-black border-2 bg-yellow-300 font-light text-xl">{{ item.name }}</a>
