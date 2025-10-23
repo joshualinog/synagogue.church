@@ -852,9 +852,6 @@ video {
 .w-2\/4{
   width: 50%;
 }
-.w-3\/12{
-  width: 25%;
-}
 .w-4{
   width: 1rem;
 }
@@ -3858,6 +3855,9 @@ video {
 .pr-3{
   padding-right: 0.75rem;
 }
+.pr-4{
+  padding-right: 1rem;
+}
 .pt-2{
   padding-top: 0.5rem;
 }
@@ -3869,9 +3869,6 @@ video {
 }
 .pt-8{
   padding-top: 2rem;
-}
-.pr-4{
-  padding-right: 1rem;
 }
 .text-left{
   text-align: left;
