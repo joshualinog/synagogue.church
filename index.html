@@ -3,7 +3,12 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+  <title>Home</title>
+  
+  
+  
+  
+  <meta name="twitter:card" content="summary_large_image">
   <link rel="stylesheet" href="/assets/styles.generated.css">
   </head>
   <body class="bg-gray-50 text-gray-900">
@@ -7221,8 +7226,30 @@
             if (p !== null) showPage(Math.min(Math.max(0, p), totalPages - 1));
         });
 
-        // initial render: ensure the page that contains startIndex is shown (full page)
-        showPage(currentPage, true);
+        // initial render: if server provided a startIndex, prefer showing that exact row
+        // as the top of the list (so the include begins exactly one reading after nextReading).
+        // Fallback to page-aligned behavior when startIndex is 0 or out-of-range.
+        if (startIndex > 0 && startIndex < total) {
+            // compute start page so that the top row is startIndex
+            const startPage = Math.floor(startIndex / pageSize);
+            // compute offset within the page for exact top-row placement
+            const offsetInPage = startIndex % pageSize;
+            // If offsetInPage is 0, startIndex already aligns to page top; just show that page.
+            if (offsetInPage === 0) {
+                showPage(startPage, false);
+            } else {
+                // To place startIndex at the top, we'll temporarily show the window [startIndex .. startIndex+pageSize-1]
+                const start = startIndex;
+                const end = Math.min(start + pageSize, total);
+                rows.forEach((r, idx) => r.style.display = (idx >= start && idx < end) ? '' : 'none');
+                currentPage = Math.floor(start / pageSize);
+                buildPager(currentPage);
+                history.replaceState(null, '', `#page=${currentPage + 1}`);
+            }
+        } else {
+            // no server preference; show page containing currentPage (or from hash)
+            showPage(currentPage, true);
+        }
     })();
 </script>
 </section>
