@@ -3,7 +3,7 @@
   <div>
 
   <div class="reading-container container flex flex-col md:flex-row gap-6">
-      <div class="torah bg-white border-black border-2 rounded-2xl reading-short flex-1 flex items-stretch p-0 overflow-hidden relative min-h-[220px]">
+      <div class="torah bg-green-500 border-black border-2 rounded-2xl reading-short flex-1 flex items-stretch p-0 overflow-hidden relative min-h-[220px]">
         <figcaption class="absolute top-2 left-2 z-10 bg-yellow-300 text-black font-bold px-4 py-1 rounded-full border-2 border-black text-sm shadow">
           torah
         </figcaption>
@@ -16,13 +16,18 @@
           <small class="font-extralight font-italic pl-4"> This reading is from: <span class="uppercase">{{nextReading.torahTitle}} </span></small>
           <br>
           <div class="border-t-2 pt-4 border-black w-full">
-           <span class="font-extralight inline-block pl-4 mb-4 sm:mb-0 w-full">TOTAL NUMBER OF VERSES:</span> 
-           <span class="font-black text-2xl text-white ml-4 bg-black sm:py-1 px-7 inline-block border-2 border-black w-3/12 rounded-full">{{ nextReading.torahVerseTotal }}</span>
+           <div class="flex items-center justify-left w-full">
+             <span class="font-extralight inline-block pl-4 mb-4 sm:mb-0">TOTAL NUMBER OF VERSES:</span>
+             <span class="font-black text-2xl text-white ml-4 bg-black sm:py-1 px-7 inline-block border-2 border-black rounded-full">{{ nextReading.torahVerseTotal }}</span>
+           </div>
+           <div class="flex justify-end mt-3 pr-4">
+             <a href="/public-reading/{{ nextReading.slug }}/" class="font-block inline-block text-3xl">read this!</a>
+           </div>
           </div>
         </div>
       </div>
 
-        <div class="gospel bg-white border-black border-2 rounded-2xl reading-short flex-1 flex items-stretch p-0 overflow-hidden relative min-h-[220px]">
+        <div class="gospel bg-green-500 border-black border-2 rounded-2xl reading-short flex-1 flex items-stretch p-0 overflow-hidden relative min-h-[220px]">
         <figcaption class="absolute top-2 left-2 z-10 bg-yellow-300 text-black font-bold px-4 py-1 rounded-full border-2 border-black text-sm shadow">
          gospel
         </figcaption>
@@ -37,7 +42,13 @@
           {% endif %}
           <br>
           <div class="border-t-2 pt-4 border-black w-full">
-           <span class="font-extralight inline-block pl-4">TOTAL NUMBER OF VERSES:</span> <span class="font-black text-2xl text-white ml-4 bg-black py-1 px-7 inline-block border-2 border-black rounded-full">{{ nextReading.gospelVerseTotal }}</span>
+           <div class="flex items-center justify-left w-full">
+             <span class="font-extralight inline-block pl-4 mb-4 sm:mb-0">TOTAL NUMBER OF VERSES:</span>
+             <span class="font-black text-2xl text-white ml-4 bg-black sm:py-1 px-7 inline-block border-2 border-black rounded-full">{{ nextReading.gospelVerseTotal }}</span>
+           </div>
+           <div class="flex justify-end mt-3 pr-4">
+             <a href="/public-reading/{{ nextReading.slug }}/" class="font-block inline-block text-3xl">read this!</a>
+           </div>
           </div>
         </div>
       </div>
