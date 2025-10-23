@@ -6,6 +6,26 @@ const API_KEY = "AIzaSyAaurtph5DZzRSd6rRMu57_0DDnJyRtcSc";
 const RANGE = "readings"; // Change to your sheet/tab name
 const OUT_PATH = "./src/_data/publicreading.json";
 
+function makeWeeklySlug(dateStr, fallback) {
+  // Try to parse common date formats; fallback to sanitized text
+  if (!dateStr && fallback) dateStr = fallback;
+  try {
+    const d = new Date(dateStr);
+    if (!isNaN(d)) {
+      const mm = String(d.getMonth() + 1).padStart(2, '0');
+      const dd = String(d.getDate()).padStart(2, '0');
+      const yy = String(d.getFullYear()).slice(-2);
+      return `weekly-${mm}-${dd}-${yy}`;
+    }
+  } catch (e) {
+    // ignore
+  }
+  // sanitize fallback string
+  const base = String(dateStr || fallback || '').trim();
+  if (!base) return 'weekly-unknown';
+  return 'weekly-' + base.replace(/[^0-9a-zA-Z]+/g, '-').replace(/(^-|-$)/g, '').toLowerCase();
+}
+
 (async () => {
   // Allow skipping the remote fetch (useful for CI or GitHub Pages builds)
   if (process.env.SKIP_FETCH === "1") {
@@ -55,6 +75,8 @@ const OUT_PATH = "./src/_data/publicreading.json";
     header.forEach((key, i) => {
       obj[key] = row[i] !== undefined ? row[i] : "";
     });
+    // Ensure a stable slug is present for permalink generation
+    obj.slug = makeWeeklySlug(obj.date || obj.torahTitle || obj.title || '', obj.torahTitle || obj.title || obj.date || 'unknown');
     return obj;
   });
   fs.writeFileSync(OUT_PATH, JSON.stringify(objects, null, 2));

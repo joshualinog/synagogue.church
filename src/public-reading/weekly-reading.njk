@@ -1,0 +1,11 @@
+---
+pagination:
+  data: publicreading
+  size: 1
+  alias: reading
+permalink: "/public-reading/{{ reading.slug }}/"
+layout: "layout.njk"
+eleventyExcludeFromCollections: false
+---
+
+{% include "public-reading/weekly-reading-content.njk" %}

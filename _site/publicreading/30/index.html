@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Public Reading Schedule</title>
+  <link rel="stylesheet" href="/assets/styles.generated.css">
+  </head>
+  <body class="bg-gray-50 text-gray-900">
+    <div class="px-4 md:px-10 sticky top-4 z-50">
+  <div class="mx-auto container">
+    <nav class="block w-full max-w-screen-2xl rounded-xl px-4 md:px-8 shadow-md backdrop-saturate-200 backdrop-blur-2xl bg-opacity-80 border-white/80 bg-white text-white z-50 mt-6 relative border-0 pr-3 py-3 pl-6">
+      <div class="flex items-center justify-between">
+  <p class="block antialiased font-sans text-black text-lg font-bold text-left lg:text-left">Synagogue.Church</p>
+  <ul class="ml-10 hidden items-center gap-8 lg:flex">
+          
+            <li class="Gather">
+              <a href="#gather" target="_self" class="antialiased font-sans text-base leading-relaxed flex items-center gap-2 font-medium blue px-3 py-2 rounded transition-all">
+                
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" class="h-5 w-5"><path d="M5.566 4.657A4.505 4.505 0 016.75 4.5h10.5c.41 0 .806.055 1.183.157A3 3 0 0015.75 3h-7.5a3 3 0 00-2.684 1.657zM2.25 12a3 3 0 013-3h13.5a3 3 0 013 3v6a3 3 0 01-3 3H5.25a3 3 0 01-3-3v-6zM5.25 7.5c-.41 0-.806.055-1.184.157A3 3 0 016.75 6h10.5a3 3 0 012.683 1.657A4.505 4.505 0 0018.75 7.5H5.25z"></path></svg>
+                
+                Gather
+              </a>
+            </li>
+          
+            <li class="Pray">
+              <a href="#pray" target="_self" class="antialiased font-sans text-base leading-relaxed flex items-center gap-2 font-medium red px-3 py-2 rounded transition-all">
+                
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" class="h-5 w-5"><path fill-rule="evenodd" d="M18.685 19.097A9.723 9.723 0 0021.75 12c0-5.385-4.365-9.75-9.75-9.75S2.25 6.615 2.25 12a9.723 9.723 0 003.065 7.097A9.716 9.716 0 0012 21.75a9.716 9.716 0 006.685-2.653zm-12.54-1.285A7.486 7.486 0 0112 15a7.486 7.486 0 015.855 2.812A8.224 8.224 0 0112 20.25a8.224 8.224 0 01-5.855-2.438zM15.75 9a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0z" clip-rule="evenodd"></path></svg>
+                
+                Pray
+              </a>
+            </li>
+          
+            <li class="Read">
+              <a href="#read" target="_self" class="antialiased font-sans text-base leading-relaxed flex items-center gap-2 font-medium green px-3 py-2 rounded transition-all">
+                
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" class="h-5 w-5"><path fill-rule="evenodd" d="M2.25 6a3 3 0 013-3h13.5a3 3 0 013 3v12a3 3 0 01-3 3H5.25a3 3 0 01-3-3V6zm3.97.97a.75.75 0 011.06 0l2.25 2.25a.75.75 0 010 1.06l-2.25 2.25a.75.75 0 01-1.06-1.06l1.72-1.72-1.72-1.72a.75.75 0 010-1.06zm4.28 4.28a.75.75 0 000 1.5h3a.75.75 0 000-1.5h-3z" clip-rule="evenodd"></path></svg>
+                
+                Read
+              </a>
+            </li>
+          
+        </ul>
+        <div class="hidden items-center gap-4 lg:flex">
+          <button class="align-middle select-none font-sans font-bold text-center uppercase transition-all disabled:opacity-50 disabled:shadow-none disabled:pointer-events-none text-xs py-3 px-6 rounded-lg text-gray-900 hover:bg-gray-900/10 active:bg-gray-900/20" type="button">Log in</button>
+          <a href="https://www.material-tailwind.com/blocks" target="_blank">
+            <button class="align-middle select-none font-sans font-bold text-center uppercase transition-all disabled:opacity-50 disabled:shadow-none disabled:pointer-events-none text-xs py-3 px-6 rounded-lg bg-gray-900 text-white shadow-md shadow-gray-900/10 hover:shadow-lg hover:shadow-gray-900/20 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none" type="button">Blocks</button>
+          </a>
+        </div>
+        <button id="mobile-menu-toggle" class="relative align-middle select-none font-sans font-medium text-center uppercase transition-all disabled:opacity-50 disabled:shadow-none disabled:pointer-events-none w-10 max-w-[40px] h-10 max-h-[40px] rounded-lg text-xs text-gray-900 hover:bg-gray-900/10 active:bg-gray-900/20 ml-auto inline-block lg:hidden" type="button" aria-label="Open menu">
+          <span class="absolute top-1/2 left-1/2 transform -translate-y-1/2 -translate-x-1/2">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" stroke-width="2" class="h-6 w-6"><path fill-rule="evenodd" d="M3 6.75A.75.75 0 013.75 6h16.5a.75.75 0 010 1.5H3.75A.75.75 0 013 6.75zM3 12a.75.75 0 01.75-.75h16.5a.75.75 0 010 1.5H3.75A.75.75 0 013 12zm0 5.25a.75.75 0 01.75-.75h16.5a.75.75 0 010 1.5H3.75a.75.75 0 01-.75-.75z" clip-rule="evenodd"></path></svg>
+          </span>
+        </button>
+      </div>
+    </nav>
+  </div>
+</div>
+<footer id="mobile-menu" class="fixed bottom-0 left-0 w-full bg-white border-t border-gray-200 shadow-lg z-50 flex flex-col items-center py-6 gap-4 lg:hidden transition-all duration-300 ease-in-out translate-y-full invisible opacity-0">
+  <ul class="flex flex-col gap-4 w-full items-center">
+    <li><a href="#" class="antialiased font-sans text-base leading-relaxed flex items-center gap-2 font-medium text-gray-900">Page</a></li>
+    <li><a href="#" class="antialiased font-sans text-base leading-relaxed flex items-center gap-2 font-medium text-gray-900">Account</a></li>
+    <li><a href="https://www.material-tailwind.com/docs/react/installation" target="_blank" class="antialiased font-sans text-base leading-relaxed flex items-center gap-2 font-medium text-gray-900">Docs</a></li>
+    <li><a href="#" class="antialiased font-sans text-base leading-relaxed flex items-center gap-2 font-medium text-gray-900">Log in</a></li>
+    <li><a href="https://www.material-tailwind.com/blocks" target="_blank" class="antialiased font-sans text-base leading-relaxed flex items-center gap-2 font-medium text-white bg-gray-900 px-4 py-2 rounded-lg">Blocks</a></li>
+  </ul>
+</footer>
+
+<script>
+  const toggle = document.getElementById('mobile-menu-toggle');
+  const menu = document.getElementById('mobile-menu');
+  let open = false;
+  toggle.addEventListener('click', () => {
+    open = !open;
+    if (open) {
+      menu.classList.remove('translate-y-full', 'invisible', 'opacity-0');
+      menu.classList.add('translate-y-0', 'visible', 'opacity-100');
+    } else {
+      menu.classList.add('translate-y-full', 'invisible', 'opacity-0');
+      menu.classList.remove('translate-y-0', 'visible', 'opacity-100');
+    }
+  });
+</script>
+      </div>
+    </nav>
+  </div>
+</div>
+
+  
+
+
+
+
+
+<h1 class="sr-only">Public Reading Schedule</h1>
+
+<!-- DEBUG: pagination diagnostics -->
+<div class="p-4 bg-yellow-50 text-sm text-gray-800">
+  <div><strong>pagination.pageNumber:</strong> 30</div>
+  <div><strong>pagination.pages length:</strong> 37</div>
+  <div><strong>pagination.items length:</strong> 10</div>
+  <div><strong>first item preview:</strong> {&quot;date&quot;:&quot;7/3/27&quot;,&quot;torahTitle&quot;:&quot;Eikev, עֵקֶב&quot;,&quot;torahPassage&quot;:&quot;Deuteronomy 10:12 - 11:9&quot;,&quot;torahVerseTotal&quot;:&quot;20&quot;,&quot;gospelPassage&quot;:&quot;Acts 7:17 - 7:34&quot;,&quot;gospelVerseTotal&quot;:&quot;18&quot;,&quot;notes&quot;:&quot;&quot;,&quot;kriyahOrder&quot;:&quot;&quot;,&quot;aliyah&quot;:&quot;&quot;,&quot;parashahTorah&quot;:&quot;&quot;,&quot;parashahGospel&quot;:&quot;&quot;}</div>
+</div>
+
+
+<!-- component -->
+<style>
+  #journal-scroll::-webkit-scrollbar {
+            width: 4px;
+            cursor: pointer;
+            /*background-color: rgba(229, 231, 235, var(--bg-opacity));*/
+
+        }
+        #journal-scroll::-webkit-scrollbar-track {
+            background-color: rgba(229, 231, 235, var(--bg-opacity));
+            cursor: pointer;
+            /*background: red;*/
+        }
+        #journal-scroll::-webkit-scrollbar-thumb {
+            cursor: pointer;
+            background-color: #a0aec0;
+            /*outline: 1px solid slategrey;*/
+        }
+</style>
+
+
+
+<div class="max-w-3xl mx-auto py-10 px-2">
+    <div class="bg-white rounded-2xl shadow p-4">
+        <div class="text-4xl font-extralight text-black px-5 py-2 border-b border-black border-b-2">
+            Upcoming Readings
+        </div>
+        <div class="overflow-auto" id="journal-scroll">
+            <table class="w-full">
+                <tbody>
+
+
+
+
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+
+
+        <tr class="text-xs border-b border-black hover:bg-blue-50 transition" data-pr-index="0">
+                <td class="pl-5 pr-3 py-3 align-top w-1/4">
+                        <div class="font-black text-black text-lg">7/3/27</div>
+                        <div class="font-extralight text-sm text-black">Eikev, עֵקֶב</div>
+                </td>
+                <td class="px-2 py-3 align-top w-2/4">
+                        <div class="text-gray-900 font-extralight text-lg w-full"><span class="font-black lowercase text-sm">torah: </span>Deuteronomy 10:12 - 11:9 <span class="bg-black rounded-full inline-block text-white font-black px-2 text-sm">20 </div>
+                        <div class="text-gray-900 font-extralight text-lg w-full"><span class="font-black lowercase text-sm">gospel: </span>Acts 7:17 - 7:34 <span class="bg-black rounded-full inline-block text-white font-black px-2 text-sm">18 </div>
+                       
+                         
+                </td>
+                 <td class="px-2 py-3 align-top w-1/4">
+                        <button type="button" class="text-black bg-green-500 hover:bg-yellow-300 focus:outline-none focus:ring-4 focus:ring-green-500 font-medium rounded-full text-sm px-5 py-2.5 text-center me-2 mb-2 dark:focus:ring-green-500 border-black border-2">Read This!</button>
+                </td>
+        </tr>
+
+        <tr class="text-xs border-b border-black hover:bg-blue-50 transition" data-pr-index="1">
+                <td class="pl-5 pr-3 py-3 align-top w-1/4">
+                        <div class="font-black text-black text-lg">7/10/27</div>
+                        <div class="font-extralight text-sm text-black">Eikev, עֵקֶב</div>
+                </td>
+                <td class="px-2 py-3 align-top w-2/4">
+                        <div class="text-gray-900 font-extralight text-lg w-full"><span class="font-black lowercase text-sm">torah: </span>Deuteronomy 11:10 - 11:21 <span class="bg-black rounded-full inline-block text-white font-black px-2 text-sm">12 </div>
+                        <div class="text-gray-900 font-extralight text-lg w-full"><span class="font-black lowercase text-sm">gospel: </span>Acts 7:35 - 7:43 <span class="bg-black rounded-full inline-block text-white font-black px-2 text-sm">9 </div>
+                       
+                         
+                </td>
+                 <td class="px-2 py-3 align-top w-1/4">
+                        <button type="button" class="text-black bg-green-500 hover:bg-yellow-300 focus:outline-none focus:ring-4 focus:ring-green-500 font-medium rounded-full text-sm px-5 py-2.5 text-center me-2 mb-2 dark:focus:ring-green-500 border-black border-2">Read This!</button>
+                </td>
+        </tr>
+
+        <tr class="text-xs border-b border-black hover:bg-blue-50 transition" data-pr-index="2">
+                <td class="pl-5 pr-3 py-3 align-top w-1/4">
+                        <div class="font-black text-black text-lg">7/17/27</div>
+                        <div class="font-extralight text-sm text-black">Eikev, עֵקֶב</div>
+                </td>
+                <td class="px-2 py-3 align-top w-2/4">
+                        <div class="text-gray-900 font-extralight text-lg w-full"><span class="font-black lowercase text-sm">torah: </span>Deuteronomy 11:22 - 11:25 <span class="bg-black rounded-full inline-block text-white font-black px-2 text-sm">4 </div>
+                        <div class="text-gray-900 font-extralight text-lg w-full"><span class="font-black lowercase text-sm">gospel: </span>Acts 7:44 - 7:53 <span class="bg-black rounded-full inline-block text-white font-black px-2 text-sm">10 </div>
+                       
+                         
+                </td>
+                 <td class="px-2 py-3 align-top w-1/4">
+                        <button type="button" class="text-black bg-green-500 hover:bg-yellow-300 focus:outline-none focus:ring-4 focus:ring-green-500 font-medium rounded-full text-sm px-5 py-2.5 text-center me-2 mb-2 dark:focus:ring-green-500 border-black border-2">Read This!</button>
+                </td>
+        </tr>
+
+        <tr class="text-xs border-b border-black hover:bg-blue-50 transition" data-pr-index="3">
+                <td class="pl-5 pr-3 py-3 align-top w-1/4">
+                        <div class="font-black text-black text-lg">7/24/27</div>
+                        <div class="font-extralight text-sm text-black">Re&#39;eh, רְאֵה</div>
+                </td>
+                <td class="px-2 py-3 align-top w-2/4">
+                        <div class="text-gray-900 font-extralight text-lg w-full"><span class="font-black lowercase text-sm">torah: </span>Deuteronomy 11:26 - 12:10 <span class="bg-black rounded-full inline-block text-white font-black px-2 text-sm">17 </div>
+                        <div class="text-gray-900 font-extralight text-lg w-full"><span class="font-black lowercase text-sm">gospel: </span>Acts 7:54 - 7:60 <span class="bg-black rounded-full inline-block text-white font-black px-2 text-sm">7 </div>
+                       
+                         
+                </td>
+                 <td class="px-2 py-3 align-top w-1/4">
+                        <button type="button" class="text-black bg-green-500 hover:bg-yellow-300 focus:outline-none focus:ring-4 focus:ring-green-500 font-medium rounded-full text-sm px-5 py-2.5 text-center me-2 mb-2 dark:focus:ring-green-500 border-black border-2">Read This!</button>
+                </td>
+        </tr>
+
+        <tr class="text-xs border-b border-black hover:bg-blue-50 transition" data-pr-index="4">
+                <td class="pl-5 pr-3 py-3 align-top w-1/4">
+                        <div class="font-black text-black text-lg">7/31/27</div>
+                        <div class="font-extralight text-sm text-black">Re&#39;eh, רְאֵה</div>
+                </td>
+                <td class="px-2 py-3 align-top w-2/4">
+                        <div class="text-gray-900 font-extralight text-lg w-full"><span class="font-black lowercase text-sm">torah: </span>Deuteronomy 12:11 - 12:28 <span class="bg-black rounded-full inline-block text-white font-black px-2 text-sm">18 </div>
+                        <div class="text-gray-900 font-extralight text-lg w-full"><span class="font-black lowercase text-sm">gospel: </span>Acts 8:1 - 8:8 <span class="bg-black rounded-full inline-block text-white font-black px-2 text-sm">8 </div>
+                       
+                         
+                </td>
+                 <td class="px-2 py-3 align-top w-1/4">
+                        <button type="button" class="text-black bg-green-500 hover:bg-yellow-300 focus:outline-none focus:ring-4 focus:ring-green-500 font-medium rounded-full text-sm px-5 py-2.5 text-center me-2 mb-2 dark:focus:ring-green-500 border-black border-2">Read This!</button>
+                </td>
+        </tr>
+
+        <tr class="text-xs border-b border-black hover:bg-blue-50 transition" data-pr-index="5">
+                <td class="pl-5 pr-3 py-3 align-top w-1/4">
+                        <div class="font-black text-black text-lg">8/7/27</div>
+                        <div class="font-extralight text-sm text-black">Re&#39;eh, רְאֵה</div>
+                </td>
+                <td class="px-2 py-3 align-top w-2/4">
+                        <div class="text-gray-900 font-extralight text-lg w-full"><span class="font-black lowercase text-sm">torah: </span>Deuteronomy 12:29 - 13:19 <span class="bg-black rounded-full inline-block text-white font-black px-2 text-sm">22 </div>
+                        <div class="text-gray-900 font-extralight text-lg w-full"><span class="font-black lowercase text-sm">gospel: </span>Acts 8:9 - 8:25 <span class="bg-black rounded-full inline-block text-white font-black px-2 text-sm">17 </div>
+                       
+                         
+                </td>
+                 <td class="px-2 py-3 align-top w-1/4">
+                        <button type="button" class="text-black bg-green-500 hover:bg-yellow-300 focus:outline-none focus:ring-4 focus:ring-green-500 font-medium rounded-full text-sm px-5 py-2.5 text-center me-2 mb-2 dark:focus:ring-green-500 border-black border-2">Read This!</button>
+                </td>
+        </tr>
+
+        <tr class="text-xs border-b border-black hover:bg-blue-50 transition" data-pr-index="6">
+                <td class="pl-5 pr-3 py-3 align-top w-1/4">
+                        <div class="font-black text-black text-lg">8/14/27</div>
+                        <div class="font-extralight text-sm text-black">Re&#39;eh, רְאֵה</div>
+                </td>
+                <td class="px-2 py-3 align-top w-2/4">
+                        <div class="text-gray-900 font-extralight text-lg w-full"><span class="font-black lowercase text-sm">torah: </span>Deuteronomy 14:1 - 14:21 <span class="bg-black rounded-full inline-block text-white font-black px-2 text-sm">21 </div>
+                        <div class="text-gray-900 font-extralight text-lg w-full"><span class="font-black lowercase text-sm">gospel: </span>Acts 8:26 - 8:40 <span class="bg-black rounded-full inline-block text-white font-black px-2 text-sm">15 </div>
+                       
+                         
+                </td>
+                 <td class="px-2 py-3 align-top w-1/4">
+                        <button type="button" class="text-black bg-green-500 hover:bg-yellow-300 focus:outline-none focus:ring-4 focus:ring-green-500 font-medium rounded-full text-sm px-5 py-2.5 text-center me-2 mb-2 dark:focus:ring-green-500 border-black border-2">Read This!</button>
+                </td>
+        </tr>
+
+        <tr class="text-xs border-b border-black hover:bg-blue-50 transition" data-pr-index="7">
+                <td class="pl-5 pr-3 py-3 align-top w-1/4">
+                        <div class="font-black text-black text-lg">8/21/27</div>
+                        <div class="font-extralight text-sm text-black">Re&#39;eh, רְאֵה</div>
+                </td>
+                <td class="px-2 py-3 align-top w-2/4">
+                        <div class="text-gray-900 font-extralight text-lg w-full"><span class="font-black lowercase text-sm">torah: </span>Deuteronomy 14:22 - 14:29 <span class="bg-black rounded-full inline-block text-white font-black px-2 text-sm">8 </div>
+                        <div class="text-gray-900 font-extralight text-lg w-full"><span class="font-black lowercase text-sm">gospel: </span>Acts 9:1 - 9:19 <span class="bg-black rounded-full inline-block text-white font-black px-2 text-sm">19 </div>
+                       
+                         
+                </td>
+                 <td class="px-2 py-3 align-top w-1/4">
+                        <button type="button" class="text-black bg-green-500 hover:bg-yellow-300 focus:outline-none focus:ring-4 focus:ring-green-500 font-medium rounded-full text-sm px-5 py-2.5 text-center me-2 mb-2 dark:focus:ring-green-500 border-black border-2">Read This!</button>
+                </td>
+        </tr>
+
+        <tr class="text-xs border-b border-black hover:bg-blue-50 transition" data-pr-index="8">
+                <td class="pl-5 pr-3 py-3 align-top w-1/4">
+                        <div class="font-black text-black text-lg">8/28/27</div>
+                        <div class="font-extralight text-sm text-black">Re&#39;eh, רְאֵה</div>
+                </td>
+                <td class="px-2 py-3 align-top w-2/4">
+                        <div class="text-gray-900 font-extralight text-lg w-full"><span class="font-black lowercase text-sm">torah: </span>Deuteronomy 15:1 - 15:18 <span class="bg-black rounded-full inline-block text-white font-black px-2 text-sm">18 </div>
+                        <div class="text-gray-900 font-extralight text-lg w-full"><span class="font-black lowercase text-sm">gospel: </span>Acts 9:20 - 9:31 <span class="bg-black rounded-full inline-block text-white font-black px-2 text-sm">12 </div>
+                       
+                         
+                </td>
+                 <td class="px-2 py-3 align-top w-1/4">
+                        <button type="button" class="text-black bg-green-500 hover:bg-yellow-300 focus:outline-none focus:ring-4 focus:ring-green-500 font-medium rounded-full text-sm px-5 py-2.5 text-center me-2 mb-2 dark:focus:ring-green-500 border-black border-2">Read This!</button>
+                </td>
+        </tr>
+
+        <tr class="text-xs border-b border-black hover:bg-blue-50 transition" data-pr-index="9">
+                <td class="pl-5 pr-3 py-3 align-top w-1/4">
+                        <div class="font-black text-black text-lg">9/4/27</div>
+                        <div class="font-extralight text-sm text-black">Re&#39;eh, רְאֵה</div>
+                </td>
+                <td class="px-2 py-3 align-top w-2/4">
+                        <div class="text-gray-900 font-extralight text-lg w-full"><span class="font-black lowercase text-sm">torah: </span>Deuteronomy 15:19 - 16:17 <span class="bg-black rounded-full inline-block text-white font-black px-2 text-sm">22 </div>
+                        <div class="text-gray-900 font-extralight text-lg w-full"><span class="font-black lowercase text-sm">gospel: </span>Acts 9:32 - 9:43 <span class="bg-black rounded-full inline-block text-white font-black px-2 text-sm">12 </div>
+                       
+                         
+                </td>
+                 <td class="px-2 py-3 align-top w-1/4">
+                        <button type="button" class="text-black bg-green-500 hover:bg-yellow-300 focus:outline-none focus:ring-4 focus:ring-green-500 font-medium rounded-full text-sm px-5 py-2.5 text-center me-2 mb-2 dark:focus:ring-green-500 border-black border-2">Read This!</button>
+                </td>
+        </tr>
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<!-- Client-side pagination controls (10 items per page) -->
+<div class="max-w-3xl mx-auto py-6 px-2">
+    <nav id="pr-pager" data-start-index="0" class="flex items-center justify-center gap-2" aria-label="Pagination"></nav>
+</div>
+
+<script>
+    (function(){
+        // Configuration
+        const pageSize = 10;
+
+        // Find all rows and compute total pages
+        const tbody = document.currentScript ? document.currentScript.parentNode.querySelector('table tbody') : document.querySelector('#journal-scroll table tbody');
+        if (!tbody) return;
+        const rows = Array.from(tbody.querySelectorAll('tr[data-pr-index]'));
+        const total = rows.length;
+        if (total === 0) return;
+        const totalPages = Math.ceil(total / pageSize);
+
+        const pager = document.getElementById('pr-pager');
+        if (!pager) return;
+
+        // Determine startIndex computed on the server (if present)
+        let startIndex = 0;
+        if (pager.dataset && pager.dataset.startIndex) {
+            const s = parseInt(pager.dataset.startIndex, 10);
+            if (!isNaN(s)) startIndex = s;
+        }
+
+        // initial page — position to the page containing the server startIndex calculation
+        let currentPage = Math.floor(startIndex / pageSize) || 0;
+
+            function renderPage(page, alignToStartIndex) {
+                let start;
+                if (alignToStartIndex && typeof startIndex === 'number' && startIndex > 0) {
+                    start = startIndex;
+                } else {
+                    start = page * pageSize;
+                }
+                const end = start + pageSize;
+            rows.forEach((r, idx) => {
+                if (idx >= start && idx < end) {
+                    r.style.display = '';
+                } else {
+                    r.style.display = 'none';
+                }
+            });
+            // rebuild pager
+            buildPager(page);
+        }
+
+        function buildPager(activePage) {
+            pager.innerHTML = '';
+            // Prev
+            const prev = document.createElement('button');
+            prev.textContent = 'Prev';
+            prev.className = 'px-3 py-2 rounded border bg-white text-gray-900';
+            prev.disabled = activePage === 0;
+            prev.addEventListener('click', () => { if (activePage > 0) { currentPage = activePage -1; renderPage(currentPage); } });
+            pager.appendChild(prev);
+
+            // page numbers (limit to reasonable window)
+            const maxButtons = 7; // show up to 7
+            let start = Math.max(0, activePage - 3);
+            let finish = Math.min(totalPages -1, start + maxButtons -1);
+            if (finish - start + 1 < maxButtons) {
+                start = Math.max(0, finish - maxButtons + 1);
+            }
+            for (let i = start; i <= finish; i++) {
+                const btn = document.createElement('button');
+                btn.textContent = (i + 1).toString();
+                btn.className = (i === activePage) ? 'px-3 py-2 rounded bg-gray-900 text-white' : 'px-3 py-2 rounded bg-white text-gray-900 border';
+                btn.addEventListener('click', (e) => { currentPage = i; renderPage(currentPage); });
+                pager.appendChild(btn);
+            }
+
+            // Next
+            const next = document.createElement('button');
+            next.textContent = 'Next';
+            next.className = 'px-3 py-2 rounded border bg-white text-gray-900';
+            next.disabled = activePage >= totalPages -1;
+            next.addEventListener('click', () => { if (activePage < totalPages -1) { currentPage = activePage +1; renderPage(currentPage); } });
+            pager.appendChild(next);
+        }
+
+            // Initialize: align first render to server startIndex when available
+            renderPage(currentPage, true);
+    })();
+</script>
+
+
+<nav class="mt-6 flex items-center justify-center gap-3" aria-label="Pagination">
+  
+  
+
+  
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+      <a href="" class="px-3 py-2 rounded bg-white text-gray-900 border">NaN</a>
+    
+  
+
+  
+</nav>
+
+
+  <footer class="px-8 pt-24 pb-8 bg-gray-900">
+  <div class="container max-w-6xl flex flex-col mx-auto">
+    <div class="grid grid-cols-1 lg:grid-cols-3 w-full">
+      <div class=" page-links flex col-span-2 items-start gap-10 mb-10 lg:mb-0 md:gap-20">
+        <ul>
+          <h6 class="block antialiased tracking-normal font-sans text-base font-semibold leading-relaxed text-gray-200 mb-4">Synagogue.Church</h6>
+          <li><a href="#" class="block antialiased font-sans text-base leading-relaxed text-inherit py-1 font-normal !text-gray-700 transition-colors hover:!text-gray-900">About Us</a></li>
+          <li><a href="#" class="block antialiased font-sans text-base leading-relaxed text-inherit py-1 font-normal !text-gray-700 transition-colors hover:!text-gray-900">Careers</a></li>
+          <li><a href="#" class="block antialiased font-sans text-base leading-relaxed text-inherit py-1 font-normal !text-gray-700 transition-colors hover:!text-gray-900">Premium Tools</a></li>
+          <li><a href="#" class="block antialiased font-sans text-base leading-relaxed text-inherit py-1 font-normal !text-gray-700 transition-colors hover:!text-gray-900">Blog</a></li>
+        </ul>
+        <ul>
+          <h6 class="block antialiased tracking-normal font-sans text-base font-semibold leading-relaxed text-blue-gray-100 mb-4">Pages</h6>
+          <li><a href="#" class="block antialiased font-sans text-base leading-relaxed text-inherit py-1 font-normal !text-gray-700 transition-colors hover:!text-gray-900">Login</a></li>
+          <li><a href="#" class="block antialiased font-sans text-base leading-relaxed text-inherit py-1 font-normal !text-gray-700 transition-colors hover:!text-gray-900">Register</a></li>
+          <li><a href="#" class="block antialiased font-sans text-base leading-relaxed text-inherit py-1 font-normal !text-gray-700 transition-colors hover:!text-gray-900">Add List</a></li>
+          <li><a href="#" class="block antialiased font-sans text-base leading-relaxed text-inherit py-1 font-normal !text-gray-700 transition-colors hover:!text-gray-900">Contact</a></li>
+        </ul>
+        <ul>
+          <h6 class="block antialiased tracking-normal font-sans text-base font-semibold leading-relaxed text-blue-gray-100 mb-4">Legal</h6>
+          <li><a href="#" class="block antialiased font-sans text-base leading-relaxed text-inherit py-1 font-normal !text-gray-700 transition-colors hover:!text-gray-900">Terms</a></li>
+          <li><a href="#" class="block antialiased font-sans text-base leading-relaxed text-inherit py-1 font-normal !text-gray-700 transition-colors hover:!text-gray-900">Privacy</a></li>
+          <li><a href="#" class="block antialiased font-sans text-base leading-relaxed text-inherit py-1 font-normal !text-gray-700 transition-colors hover:!text-gray-900">Team</a></li>
+          <li><a href="#" class="block antialiased font-sans text-base leading-relaxed text-inherit py-1 font-normal !text-gray-700 transition-colors hover:!text-gray-900">About Us</a></li>
+        </ul>
+      </div>
+        <div class="subscribe-form lg:justify-self-end lg:ml-auto">
+        <h6 class="block antialiased tracking-normal font-sans text-base font-semibold leading-relaxed text-white mb-3 text-left">Subscribe</h6>
+        <p class="block antialiased font-sans text-gray-400 font-normal mb-4 text-base">Get access to subscriber exclusive deals and be the first who gets informed about fresh sales.</p>
+        <p class="block antialiased font-sans text-sm leading-normal font-medium mb-2 text-left">Your Email</p>
+        <div class="flex mb-3 flex-col lg:flex-row items-start gap-4">
+          <div class="w-full">
+            <div class="relative w-full min-w-[200px] h-10">
+              <input class="peer w-full h-full bg-gray-800 text-white font-sans font-normal outline-none border border-gray-700 focus:border-2 focus:border-white transition-all text-sm px-3 py-2.5 rounded-[7px] placeholder-gray-400" placeholder="Email">
+            </div>
+            <p class="block antialiased font-sans text-sm font-medium mt-3 text-gray-400 text-left">I agree to the <a href="#" class="font-bold underline hover:text-white transition-colors">Terms and Conditions</a></p>
+          </div>
+          <button class="align-middle select-none font-sans font-bold text-center uppercase transition-all disabled:opacity-50 disabled:shadow-none disabled:pointer-events-none text-xs py-3 px-6 rounded-lg bg-white text-gray-900 shadow-md shadow-gray-900/10 hover:shadow-lg hover:shadow-gray-900/20 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none w-full lg:w-fit" type="button">Subscribe</button>
+        </div>
+      </div>
+    </div>
+    <p class="block antialiased font-sans text-base leading-relaxed text-blue-gray-900 md:text-center mt-16 font-normal !text-gray-700">© Invalid DateTime </p>
+  </div>
+</footer>
+
+  </body>
+</html>

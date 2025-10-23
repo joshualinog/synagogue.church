@@ -1,0 +1,24 @@
+<article class="max-w-3xl mx-auto py-12 px-4">
+  <header class="mb-6">
+    <h1 class="text-3xl font-extrabold">{{ reading.torahTitle }} — {{ reading.date }}</h1>
+    {% if reading.torahPassage %}<p class="text-sm text-gray-600">Torah: {{ reading.torahPassage }} <span class="ml-2">({{ reading.torahVerseTotal }})</span></p>{% endif %}
+    {% if reading.gospelPassage %}<p class="text-sm text-gray-600">Gospel: {{ reading.gospelPassage }} <span class="ml-2">({{ reading.gospelVerseTotal }})</span></p>{% endif %}
+  </header>
+
+  <section class="prose">
+    {% if reading.notes %}
+      <h2>Notes</h2>
+      <p>{{ reading.notes }}</p>
+    {% endif %}
+
+    <h2>Passages</h2>
+    <ul>
+      <li><strong>Torah:</strong> {{ reading.torahPassage }}</li>
+      <li><strong>Gospel:</strong> {{ reading.gospelPassage }}</li>
+    </ul>
+  </section>
+
+  <footer class="mt-8">
+    <a href="/publicreading/" class="text-sm text-gray-700">Back to all readings</a>
+  </footer>
+</article>
