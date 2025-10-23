@@ -1,0 +1,8 @@
+{
+  "leb": "https://github.com/fangniude/bible-data/blob/master/bibledata-en-leb.zip",
+  "nirv": "https://github.com/fangniude/bible-data/blob/master/bibledata-en-nirv.zip"
+}
+
+# Place your actual sources in data/bibles/sources.json. Each key will become
+# data/bibles/<key>.json after extraction. Values may be a URL (http/https)
+# or a local path relative to the repository root (for local zip files).

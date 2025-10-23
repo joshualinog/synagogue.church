@@ -16,9 +16,13 @@
       <li><strong>Torah:</strong> {{ reading.torahPassage }}</li>
       <li><strong>Gospel:</strong> {{ reading.gospelPassage }}</li>
     </ul>
+    {# Render the passages include which will show translations and provide a version toggle. #}
+    {% include "public-reading/passages.njk" %}
   </section>
 
   <footer class="mt-8">
     <a href="/publicreading/" class="text-sm text-gray-700">Back to all readings</a>
   </footer>
 </article>
+
+<script src="/assets/js/bible-toggle.js" defer></script>

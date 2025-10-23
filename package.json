@@ -8,9 +8,12 @@
     "watch:css": "postcss src/assets/styles.css -o src/assets/styles.generated.css --watch",
     "build": "npm run build:css && eleventy",
     "serve": "eleventy --serve --pathprefix=''",
-    "start": "npm run prebuild && npm-run-all --parallel watch:css serve",
-    "prebuild": "node scripts/fetch-google-sheet.js",
-    "build": "eleventy"
+  "start": "npm run prebuild && npm-run-all --parallel watch:css serve",
+  "prebuild": "node scripts/fetch-google-sheet.js && npm run build-bible-data && node scripts/copy-per-reading-to-assets.js",
+  "copy-per-reading-to-assets": "node scripts/copy-per-reading-to-assets.js",
+    "fetch-bibles": "node scripts/fetch-and-extract-bibles.js",
+    "build-bible-data": "node scripts/build-bible-data-zip.js",
+    "test:parse": "node scripts/tests/run-parse-tests.js"
   },
   "author": "joshualinog",
   "license": "MIT",

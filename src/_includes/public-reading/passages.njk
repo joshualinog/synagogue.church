@@ -1,0 +1,107 @@
+{# Minimal passages include: server-render LEB from per-reading _data when available. No inline JS to avoid Nunjucks compilation issues. #}
+{# expects `reading` in context #}
+{% set slug = '' %}
+{% if reading is defined and reading.slug is defined %}
+  {% set slug = reading.slug %}
+{% elif data.fileSlug is defined %}
+  {% set slug = data.fileSlug %}
+{% endif %}
+
+{# Try several lookup patterns: data['bible/per-reading/<slug>'], data.bible['per-reading'][slug], or data[slug] if included directly #}
+{% set pr = none %}
+{% set perReadingKey = 'bible/per-reading/' ~ slug %}
+{# Try top-level `bible` data (Eleventy often exposes nested _data folders as top-level vars) #}
+{% if bible is defined and bible['per-reading'] is defined and bible['per-reading'][slug] is defined %}
+  {% set pr = bible['per-reading'][slug] %}
+{% elif data[perReadingKey] is defined %}
+  {% set pr = data[perReadingKey] %}
+{% elif data.bible is defined and data.bible['per-reading'] is defined and data.bible['per-reading'][slug] is defined %}
+  {% set pr = data.bible['per-reading'][slug] %}
+{% elif data[slug] is defined %}
+  {% set pr = data[slug] %}
+{% endif %}
+
+{# NOTE: temporary debug removed. We use top-level `bible` lookup first, which Eleventy exposes for nested _data dirs. #}
+
+<div class="prose max-w-3xl mx-auto py-6">
+  {% if pr %}
+    <div class="bible-passages" data-slug="{{ slug }}">
+      <h2 class="text-xl font-bold">Torah — {{ pr.torah.passage }}</h2>
+      <div class="bible-block" data-section="torah">
+        <div class="version-group">
+          <h3 class="sr-only">LEB translation</h3>
+          <div class="version leb">
+            {% if pr.torah.versions.leb %}
+              {% for v in pr.torah.versions.leb %}
+                {% if v.isHeading %}
+                  <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
+                {% else %}
+                  <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
+                {% endif %}
+              {% endfor %}
+            {% else %}
+              <div class="text-sm text-gray-600">LEB not available for {{ slug }} (torah).</div>
+            {% endif %}
+          </div>
+        </div>
+
+        <div class="version-group mt-4">
+          <h3 class="sr-only">NIRV translation</h3>
+          {# Render NIRV server-side but keep it hidden; client toggle will fetch and show it on demand #}
+          <div class="version nirv server-nirv hidden">
+            {% if pr.torah.versions.nirv %}
+              {% for v in pr.torah.versions.nirv %}
+                {% if v.isHeading %}
+                  <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
+                {% else %}
+                  <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
+                {% endif %}
+              {% endfor %}
+            {% else %}
+              <div class="text-sm text-gray-600">NIRV not available for {{ slug }} (torah).</div>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+
+      <h2 class="text-xl font-bold mt-6">Gospel — {{ pr.gospel.passage }}</h2>
+      <div class="bible-block" data-section="gospel">
+        <div class="version-group">
+          <h3 class="sr-only">LEB translation</h3>
+          <div class="version leb">
+            {% if pr.gospel.versions.leb %}
+              {% for v in pr.gospel.versions.leb %}
+                {% if v.isHeading %}
+                  <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
+                {% else %}
+                  <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
+                {% endif %}
+              {% endfor %}
+            {% else %}
+              <div class="text-sm text-gray-600">LEB not available for {{ slug }} (gospel).</div>
+            {% endif %}
+          </div>
+        </div>
+
+        <div class="version-group mt-4">
+          <h3 class="sr-only">NIRV translation</h3>
+          <div class="version nirv server-nirv hidden">
+            {% if pr.gospel.versions.nirv %}
+              {% for v in pr.gospel.versions.nirv %}
+                {% if v.isHeading %}
+                  <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
+                {% else %}
+                  <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
+                {% endif %}
+              {% endfor %}
+            {% else %}
+              <div class="text-sm text-gray-600">NIRV not available for {{ slug }} (gospel).</div>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  {% else %}
+    <div class="text-sm text-gray-600">Passages not available for {{ slug }} yet.</div>
+  {% endif %}
+</div>
