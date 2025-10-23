@@ -852,9 +852,6 @@ video {
 .w-2\/4{
   width: 50%;
 }
-.w-3\/12{
-  width: 25%;
-}
 .w-4{
   width: 1rem;
 }
@@ -956,6 +953,9 @@ video {
 }
 .justify-start{
   justify-content: flex-start;
+}
+.justify-end{
+  justify-content: flex-end;
 }
 .justify-center{
   justify-content: center;
@@ -3854,6 +3854,9 @@ video {
 }
 .pr-3{
   padding-right: 0.75rem;
+}
+.pr-4{
+  padding-right: 1rem;
 }
 .pt-2{
   padding-top: 0.5rem;
