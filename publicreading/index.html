@@ -76,10 +76,7 @@ pagination:
 
 <script>
     (function(){
-        // Configuration
         const pageSize = 10;
-
-        // Find all rows and compute total pages
         const tbody = document.currentScript ? document.currentScript.parentNode.querySelector('table tbody') : document.querySelector('#journal-scroll table tbody');
         if (!tbody) return;
         const rows = Array.from(tbody.querySelectorAll('tr[data-pr-index]'));
@@ -90,49 +87,55 @@ pagination:
         const pager = document.getElementById('pr-pager');
         if (!pager) return;
 
-        // Determine startIndex computed on the server (if present)
+        // server-provided startIndex (row index to prefer)
         let startIndex = 0;
         if (pager.dataset && pager.dataset.startIndex) {
             const s = parseInt(pager.dataset.startIndex, 10);
             if (!isNaN(s)) startIndex = s;
         }
 
-        // initial page — position to the page containing the server startIndex calculation
-        let currentPage = Math.floor(startIndex / pageSize) || 0;
+        // If hash present, use it (deep-link): #page=2 (1-based)
+        function pageFromHash() {
+            const h = location.hash.replace(/^#/, '');
+            const m = h.match(/page=(\d+)/);
+            if (m) return Math.max(0, parseInt(m[1], 10) - 1);
+            return null;
+        }
 
-            function renderPage(page, alignToStartIndex) {
-                let start;
-                if (alignToStartIndex && typeof startIndex === 'number' && startIndex > 0) {
-                    start = startIndex;
-                } else {
-                    start = page * pageSize;
-                }
-                const end = start + pageSize;
-            rows.forEach((r, idx) => {
-                if (idx >= start && idx < end) {
-                    r.style.display = '';
-                } else {
-                    r.style.display = 'none';
-                }
-            });
-            // rebuild pager
-            buildPager(page);
+        let initialPage = pageFromHash();
+        if (initialPage === null) {
+            // page that contains startIndex
+            initialPage = Math.floor(startIndex / pageSize) || 0;
+        }
+        let currentPage = Math.min(Math.max(0, initialPage), totalPages - 1);
+
+        function showPage(page, alignToStartIndex) {
+            let start = page * pageSize;
+            if (alignToStartIndex && startIndex > 0) {
+                // align whole page so that startIndex is included on that page
+                const containing = Math.floor(startIndex / pageSize);
+                start = containing * pageSize;
+            }
+            const end = start + pageSize;
+            rows.forEach((r, idx) => r.style.display = (idx >= start && idx < end) ? '' : 'none');
+            currentPage = Math.floor(start / pageSize);
+            buildPager(currentPage);
+            // update hash for deep-linking
+            history.replaceState(null, '', `#page=${currentPage + 1}`);
         }
 
         function buildPager(activePage) {
             pager.innerHTML = '';
-            // Prev
             const prev = document.createElement('button');
             prev.textContent = 'Prev';
             prev.className = 'px-3 py-2 rounded border bg-white text-gray-900';
             prev.disabled = activePage === 0;
-            prev.addEventListener('click', () => { if (activePage > 0) { currentPage = activePage -1; renderPage(currentPage); } });
+            prev.addEventListener('click', () => { if (activePage > 0) showPage(activePage - 1); });
             pager.appendChild(prev);
 
-            // page numbers (limit to reasonable window)
-            const maxButtons = 7; // show up to 7
+            const maxButtons = 7;
             let start = Math.max(0, activePage - 3);
-            let finish = Math.min(totalPages -1, start + maxButtons -1);
+            let finish = Math.min(totalPages - 1, start + maxButtons - 1);
             if (finish - start + 1 < maxButtons) {
                 start = Math.max(0, finish - maxButtons + 1);
             }
@@ -140,21 +143,26 @@ pagination:
                 const btn = document.createElement('button');
                 btn.textContent = (i + 1).toString();
                 btn.className = (i === activePage) ? 'px-3 py-2 rounded bg-gray-900 text-white' : 'px-3 py-2 rounded bg-white text-gray-900 border';
-                btn.addEventListener('click', (e) => { currentPage = i; renderPage(currentPage); });
+                btn.addEventListener('click', () => showPage(i));
                 pager.appendChild(btn);
             }
 
-            // Next
             const next = document.createElement('button');
             next.textContent = 'Next';
             next.className = 'px-3 py-2 rounded border bg-white text-gray-900';
-            next.disabled = activePage >= totalPages -1;
-            next.addEventListener('click', () => { if (activePage < totalPages -1) { currentPage = activePage +1; renderPage(currentPage); } });
+            next.disabled = activePage >= totalPages - 1;
+            next.addEventListener('click', () => { if (activePage < totalPages - 1) showPage(activePage + 1); });
             pager.appendChild(next);
         }
 
-            // Initialize: align first render to server startIndex when available
-            renderPage(currentPage, true);
+        // react to back/forward
+        window.addEventListener('hashchange', () => {
+            const p = pageFromHash();
+            if (p !== null) showPage(Math.min(Math.max(0, p), totalPages - 1));
+        });
+
+        // initial render: ensure the page that contains startIndex is shown (full page)
+        showPage(currentPage, true);
     })();
 </script>
 
