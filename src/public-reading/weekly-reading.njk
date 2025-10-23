@@ -6,6 +6,12 @@ pagination:
 permalink: "/public-reading/{{ reading.slug }}/"
 layout: "layout.njk"
 eleventyExcludeFromCollections: false
+
+eleventyComputed:
+  title: "{{ reading.torahTitle }} — {{ reading.date }}"
+  metaDescription: "{% if reading.notes and reading.notes | length > 0 %}{{ reading.notes | striptags }}{% else %}Torah: {{ reading.torahPassage }}. Gospel: {{ reading.gospelPassage }}.{% endif %}"
+  ogTitle: "{{ reading.torahTitle }} — {{ reading.date }}"
+  ogDescription: "{% if reading.notes and reading.notes | length > 0 %}{{ reading.notes | striptags }}{% else %}Torah: {{ reading.torahPassage }}. Gospel: {{ reading.gospelPassage }}.{% endif %}"
 ---
 
 {% include "public-reading/weekly-reading-content.njk" %}

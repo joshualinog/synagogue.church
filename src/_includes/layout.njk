@@ -3,7 +3,12 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ title or "Synagogue.Church" }}</title>
+  <title>{{ title or "Synagogue.Church" }}</title>
+  {% if metaDescription %}<meta name="description" content="{{ metaDescription }}">{% endif %}
+  {% if ogTitle %}<meta property="og:title" content="{{ ogTitle }}">{% endif %}
+  {% if ogDescription %}<meta property="og:description" content="{{ ogDescription }}">{% endif %}
+  {% if permalink %}<meta property="og:url" content="{{ permalink | url }}">{% endif %}
+  <meta name="twitter:card" content="summary_large_image">
   <link rel="stylesheet" href="{{ '/assets/styles.generated.css' | url }}">
   </head>
   <body class="bg-gray-50 text-gray-900">
