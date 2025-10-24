@@ -36,7 +36,11 @@
                 {% if v.isHeading %}
                   <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
                 {% else %}
-                  <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
+                  {% if v.text and v.text | trim %}
+                    <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
+                  {% else %}
+                    <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
+                  {% endif %}
                 {% endif %}
               {% endfor %}
             {% else %}
@@ -54,7 +58,11 @@
                 {% if v.isHeading %}
                   <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
                 {% else %}
-                  <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
+                  {% if v.text and v.text | trim %}
+                    <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
+                  {% else %}
+                    <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
+                  {% endif %}
                 {% endif %}
               {% endfor %}
             {% else %}
@@ -74,7 +82,11 @@
                 {% if v.isHeading %}
                   <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
                 {% else %}
-                  <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
+                  {% if v.text and v.text | trim %}
+                    <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
+                  {% else %}
+                    <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
+                  {% endif %}
                 {% endif %}
               {% endfor %}
             {% else %}
@@ -91,7 +103,11 @@
                 {% if v.isHeading %}
                   <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
                 {% else %}
-                  <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
+                  {% if v.text and v.text | trim %}
+                    <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
+                  {% else %}
+                    <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
+                  {% endif %}
                 {% endif %}
               {% endfor %}
             {% else %}
