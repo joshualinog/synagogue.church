@@ -7,73 +7,857 @@
           "chapter": 10,
           "verse": 12,
           "text": "And Yahweh said to Moses, “Stretch out your hand over the land of Egypt with the locusts so that they may come up over the land of Egypt, and let them eat all the vegetation of the land, all that the hail left behind.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#24=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/בָּרָֽד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./ba.Rad",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "hail",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H1259}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1259",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1259",
+                  "lemma": "בָּרָד",
+                  "translit": "ba.rad",
+                  "morph": "H:N-M",
+                  "gloss": "hail 1) hail<br>1a) of God's judgment (fig.)",
+                  "raw": "H1259\tH1259 =\tH1259\tבָּרָד\tba.rad\tH:N-M\thail\t1) hail<br>1a) of God's judgment (fig.)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H1259=בָּרָד=hail}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#24=L הַ/בָּרָֽד\\׃ ha./ba.Rad the/ hail H9009/{H1259}\\H9016 HTd/Ncmsa H1259 H9009=ה=the/{H1259=בָּרָד=hail}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 13,
           "text": "And Moses stretched out his staff over the land of Egypt, and Yahweh drove an east wind into the land all that day and all night. The morning came, and the east wind had brought the locusts.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#24=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אַרְבֶּֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'ar.Beh",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "locust[s]",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0697}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0697",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0697",
+                  "lemma": "אַרְבֶּה",
+                  "translit": "ar.beh",
+                  "morph": "H:N-M",
+                  "gloss": "locust 1) a kind of locust, locust swarm (coll)<br>2) (CLBL)<br>2a) sudden disappearance (fig.)<br>2b) insignificance (fig.)<br>2c) activity (fig.)",
+                  "raw": "H0697\tH0697 =\tH0697\tאַרְבֶּה\tar.beh\tH:N-M\tlocust\t1) a kind of locust, locust swarm (coll)<br>2) (CLBL)<br>2a) sudden disappearance (fig.)<br>2b) insignificance (fig.)<br>2c) activity (fig.)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0697=אַרְבֶּה=locust}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#24=L הָ/אַרְבֶּֽה\\׃ ha./'ar.Beh the/ locust[s] H9009/{H0697}\\H9016 HTd/Ncmsa H0697 H9009=ה=the/{H0697=אַרְבֶּה=locust}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 14,
           "text": "And the locusts went up over all the land of Egypt, and they settled in all the territory of Egypt, very severe. Before it there were not locusts like them, nor will there be after it.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "כֵּֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ken",
+                "wordIndex": 2
+              },
+              {
+                "text": "thus",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3651C}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HD",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3651C_B",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H3651C=כֵּן=so}\\H9016=׃=verseEnd",
+                "wordIndex": 7
+              }
+            ],
+            "originalVerseText": "#22=L כֵּֽן\\׃ Ken thus {H3651C}\\H9016 HD H3651C_B {H3651C=כֵּן=so}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 15,
           "text": "And they covered the surface of all the land, and the land was dark with them, and they ate all the vegetation of the land and all the fruit of the trees that the hail had left, and no green was left in the trees nor in the vegetation of the field in all the land of Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#29=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4714G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#29=L מִצְרָֽיִם\\׃ mitz.Ra.yim Egypt {H4714G}\\H9016 HNpl H4714G {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 16,
           "text": "And Pharaoh hurried to call Moses and Aaron, and he said, “I have sinned against Yahweh your God and against you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/לָ/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./la./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "to",
+                "wordIndex": 4
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 5
+              },
+              {
+                "text": "you",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/H9005/{H9036}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Rd/Sp2mp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H9036",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9036",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Op2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural",
+                  "raw": "H9036\tH9036 =\tH9036\tכֶם\tkhem\tOp2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural"
+                }
+              },
+              {
+                "text": "H9002=ו=and/H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L וְ/לָ/כֶֽם\\׃ ve./la./Khem and/ to <the>/ you H9002/H9005/{H9036}\\H9016 HC/Rd/Sp2mp H9036 H9002=ו=and/H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 17,
           "text": "And now forgive my sin surely this time, and pray to Yahweh your God so that he may only remove from me this death.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/זֶּֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Zeh",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "this",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2088}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Tm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2088",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2088",
+                  "lemma": "זֶה",
+                  "translit": "zeh",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2088\tH2088 =\tH2088\tזֶה\tzeh\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L הַ/זֶּֽה\\׃ ha./Zeh <the>/ this H9009/{H2088}\\H9016 HTd/Tm H2088 H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 18,
           "text": "And he went out from Pharaoh, and he prayed to Yahweh.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יְהוָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yah.weh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3068G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "HNpt",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3068G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L יְהוָֽה\\׃ Yah.weh Yahweh {H3068G}\\H9016 HNpt H3068G {H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 19,
           "text": "And Yahweh turned a very strong west wind and lifted up the locusts and thrust them into the Red Sea, and not one locust remained in all the territory of Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4714G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L מִצְרָֽיִם\\׃ mitz.Ra.yim Egypt {H4714G}\\H9016 HNpl H4714G {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 20,
           "text": "And Yahweh hardened Pharaoh’s heart, and he did not release the Israelites.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִשְׂרָאֵֽל\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "Yis.ra.'El",
+                "wordIndex": 3
+              },
+              {
+                "text": "Israel",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3478}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3478",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L יִשְׂרָאֵֽל\\׃\\ \\פ Yis.ra.'El Israel {H3478}\\H9016\\ \\H9017 HNpl H3478 {H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 10,
           "verse": 21,
           "text": "And Yahweh said to Moses, “Stretch out your hand toward the heavens so that there may be darkness over the land of Egypt and so that a person can feel darkness.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "חֹֽשֶׁךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Cho.shekh",
+                "wordIndex": 2
+              },
+              {
+                "text": "darkness",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H2822}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H2822",
+                  "lemma": "חֹ֫שֶׁךְ",
+                  "translit": "cho.shekh",
+                  "morph": "H:N-M",
+                  "gloss": "darkness 1) darkness, obscurity<br>1a) darkness<br>1b) secret place",
+                  "raw": "H2822\tH2822 =\tH2822\tחֹ֫שֶׁךְ\tcho.shekh\tH:N-M\tdarkness\t1) darkness, obscurity<br>1a) darkness<br>1b) secret place"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H2822_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H2822",
+                  "lemma": "חֹ֫שֶׁךְ",
+                  "translit": "cho.shekh",
+                  "morph": "H:N-M",
+                  "gloss": "darkness 1) darkness, obscurity<br>1a) darkness<br>1b) secret place",
+                  "raw": "H2822\tH2822 =\tH2822\tחֹ֫שֶׁךְ\tcho.shekh\tH:N-M\tdarkness\t1) darkness, obscurity<br>1a) darkness<br>1b) secret place"
+                }
+              },
+              {
+                "text": "{H2822=חֹ֫שֶׁךְ=darkness}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2822",
+                  "lemma": "חֹ֫שֶׁךְ",
+                  "translit": "cho.shekh",
+                  "morph": "H:N-M",
+                  "gloss": "darkness 1) darkness, obscurity<br>1a) darkness<br>1b) secret place",
+                  "raw": "H2822\tH2822 =\tH2822\tחֹ֫שֶׁךְ\tcho.shekh\tH:N-M\tdarkness\t1) darkness, obscurity<br>1a) darkness<br>1b) secret place"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L חֹֽשֶׁךְ\\׃ Cho.shekh darkness {H2822}\\H9016 HNcmsa H2822_B {H2822=חֹ֫שֶׁךְ=darkness}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 22,
           "text": "And Moses stretched out his hand toward the heavens, and there was darkness of night in all the land of Egypt for three days.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יָמִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ya.Mim",
+                "wordIndex": 2
+              },
+              {
+                "text": "days",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3117G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3117G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "{H3117G=יוֹם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L יָמִֽים\\׃ ya.Mim days {H3117G}\\H9016 HNcmpa H3117G {H3117G=יוֹם=: day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 23,
           "text": "No one could see his brother, and because of it no one could move from where they were for three days, but there was light for the Israelites in their dwellings.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/מוֹשְׁבֹתָֽ/ם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./mo.she.vo.Ta/m",
+                "wordIndex": 2
+              },
+              {
+                "text": "in/",
+                "wordIndex": 3
+              },
+              {
+                "text": "dwelling",
+                "wordIndex": 4
+              },
+              {
+                "text": "places/",
+                "wordIndex": 5
+              },
+              {
+                "text": "their",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9003/{H4186}/H9028\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncfpc/Sp3mp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H4186",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4186",
+                  "lemma": "מוֹשָׁב",
+                  "translit": "mo.shav",
+                  "morph": "H:N-M",
+                  "gloss": "seat 1) seat, assembly, dwelling-place, dwelling, dwellers<br>1a) seat, sitting, those sitting, sitting company or assembly<br>1b) dwelling place, dwelling<br>1c) situation, location<br>1d) time of dwelling<br>1e) those dwelling, dweller",
+                  "raw": "H4186\tH4186 =\tH4186\tמוֹשָׁב\tmo.shav\tH:N-M\tseat\t1) seat, assembly, dwelling-place, dwelling, dwellers<br>1a) seat, sitting, those sitting, sitting company or assembly<br>1b) dwelling place, dwelling<br>1c) situation, location<br>1d) time of dwelling<br>1e) those dwelling, dweller"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H4186=מוֹשָׁב=seat}/H9028=Pp3m=their\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#17=L בְּ/מוֹשְׁבֹתָֽ/ם\\׃ be./mo.she.vo.Ta/m in/ dwelling places/ their H9003/{H4186}/H9028\\H9016 HR/Ncfpc/Sp3mp H4186 H9003=ב=in/{H4186=מוֹשָׁב=seat}/H9028=Pp3m=their\\H9016=׃=verseEnd"
+          }
         }
       ],
       "nirv": [
@@ -81,73 +865,857 @@
           "chapter": 10,
           "verse": 12,
           "text": "The Lord said to Moses, “Reach out your hand over Egypt. Locusts will cover the land. They will eat up everything that is growing in the fields. They will eat up everything that was left by the hail.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#24=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/בָּרָֽד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./ba.Rad",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "hail",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H1259}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1259",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1259",
+                  "lemma": "בָּרָד",
+                  "translit": "ba.rad",
+                  "morph": "H:N-M",
+                  "gloss": "hail 1) hail<br>1a) of God's judgment (fig.)",
+                  "raw": "H1259\tH1259 =\tH1259\tבָּרָד\tba.rad\tH:N-M\thail\t1) hail<br>1a) of God's judgment (fig.)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H1259=בָּרָד=hail}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#24=L הַ/בָּרָֽד\\׃ ha./ba.Rad the/ hail H9009/{H1259}\\H9016 HTd/Ncmsa H1259 H9009=ה=the/{H1259=בָּרָד=hail}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 13,
           "text": "So Moses reached his wooden staff out over Egypt. Then the Lord made an east wind blow across the land. It blew all that day and all that night. By morning the wind had brought the locusts.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#24=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אַרְבֶּֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'ar.Beh",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "locust[s]",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0697}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0697",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0697",
+                  "lemma": "אַרְבֶּה",
+                  "translit": "ar.beh",
+                  "morph": "H:N-M",
+                  "gloss": "locust 1) a kind of locust, locust swarm (coll)<br>2) (CLBL)<br>2a) sudden disappearance (fig.)<br>2b) insignificance (fig.)<br>2c) activity (fig.)",
+                  "raw": "H0697\tH0697 =\tH0697\tאַרְבֶּה\tar.beh\tH:N-M\tlocust\t1) a kind of locust, locust swarm (coll)<br>2) (CLBL)<br>2a) sudden disappearance (fig.)<br>2b) insignificance (fig.)<br>2c) activity (fig.)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0697=אַרְבֶּה=locust}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#24=L הָ/אַרְבֶּֽה\\׃ ha./'ar.Beh the/ locust[s] H9009/{H0697}\\H9016 HTd/Ncmsa H0697 H9009=ה=the/{H0697=אַרְבֶּה=locust}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 14,
           "text": "They came into every part of Egypt. They settled down in every area of the country in large numbers. There had never been a plague of locusts like it before. And there will never be one like it again.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "כֵּֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ken",
+                "wordIndex": 2
+              },
+              {
+                "text": "thus",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3651C}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HD",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3651C_B",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H3651C=כֵּן=so}\\H9016=׃=verseEnd",
+                "wordIndex": 7
+              }
+            ],
+            "originalVerseText": "#22=L כֵּֽן\\׃ Ken thus {H3651C}\\H9016 HD H3651C_B {H3651C=כֵּן=so}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 15,
           "text": "The locusts covered the ground until it was black. They ate up everything that was left after the hail. They ate up everything that was growing in the fields. They ate up the fruit on the trees. There was nothing green left on any tree or plant in the whole land of Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#29=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4714G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#29=L מִצְרָֽיִם\\׃ mitz.Ra.yim Egypt {H4714G}\\H9016 HNpl H4714G {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 16,
           "text": "Pharaoh quickly sent for Moses and Aaron. He said, “I have sinned against the Lord your God. I’ve also sinned against you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/לָ/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./la./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "to",
+                "wordIndex": 4
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 5
+              },
+              {
+                "text": "you",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/H9005/{H9036}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Rd/Sp2mp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H9036",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9036",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Op2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural",
+                  "raw": "H9036\tH9036 =\tH9036\tכֶם\tkhem\tOp2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural"
+                }
+              },
+              {
+                "text": "H9002=ו=and/H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L וְ/לָ/כֶֽם\\׃ ve./la./Khem and/ to <the>/ you H9002/H9005/{H9036}\\H9016 HC/Rd/Sp2mp H9036 H9002=ו=and/H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 17,
           "text": "Now forgive my sin one more time. Pray to the Lord your God to take this deadly plague away from me.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/זֶּֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Zeh",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "this",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2088}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Tm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2088",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2088",
+                  "lemma": "זֶה",
+                  "translit": "zeh",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2088\tH2088 =\tH2088\tזֶה\tzeh\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L הַ/זֶּֽה\\׃ ha./Zeh <the>/ this H9009/{H2088}\\H9016 HTd/Tm H2088 H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 18,
           "text": "After Moses left Pharaoh, he prayed to the Lord.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יְהוָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yah.weh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3068G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "HNpt",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3068G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L יְהוָֽה\\׃ Yah.weh Yahweh {H3068G}\\H9016 HNpt H3068G {H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 19,
           "text": "The Lord changed the wind to a very strong west wind. The wind picked up the locusts. It blew them into the Red Sea. Not even one locust was left anywhere in Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4714G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L מִצְרָֽיִם\\׃ mitz.Ra.yim Egypt {H4714G}\\H9016 HNpl H4714G {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 20,
           "text": "But the Lord made Pharaoh’s heart stubborn. And Pharaoh wouldn’t let the people of Israel go.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִשְׂרָאֵֽל\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "Yis.ra.'El",
+                "wordIndex": 3
+              },
+              {
+                "text": "Israel",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3478}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3478",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L יִשְׂרָאֵֽל\\׃\\ \\פ Yis.ra.'El Israel {H3478}\\H9016\\ \\H9017 HNpl H3478 {H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 10,
           "verse": 21,
           "text": "The Lord spoke to Moses. He said, “Reach out your hand toward the sky. Darkness will spread over Egypt. It will be so dark that people can feel it.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "חֹֽשֶׁךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Cho.shekh",
+                "wordIndex": 2
+              },
+              {
+                "text": "darkness",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H2822}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H2822",
+                  "lemma": "חֹ֫שֶׁךְ",
+                  "translit": "cho.shekh",
+                  "morph": "H:N-M",
+                  "gloss": "darkness 1) darkness, obscurity<br>1a) darkness<br>1b) secret place",
+                  "raw": "H2822\tH2822 =\tH2822\tחֹ֫שֶׁךְ\tcho.shekh\tH:N-M\tdarkness\t1) darkness, obscurity<br>1a) darkness<br>1b) secret place"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H2822_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H2822",
+                  "lemma": "חֹ֫שֶׁךְ",
+                  "translit": "cho.shekh",
+                  "morph": "H:N-M",
+                  "gloss": "darkness 1) darkness, obscurity<br>1a) darkness<br>1b) secret place",
+                  "raw": "H2822\tH2822 =\tH2822\tחֹ֫שֶׁךְ\tcho.shekh\tH:N-M\tdarkness\t1) darkness, obscurity<br>1a) darkness<br>1b) secret place"
+                }
+              },
+              {
+                "text": "{H2822=חֹ֫שֶׁךְ=darkness}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2822",
+                  "lemma": "חֹ֫שֶׁךְ",
+                  "translit": "cho.shekh",
+                  "morph": "H:N-M",
+                  "gloss": "darkness 1) darkness, obscurity<br>1a) darkness<br>1b) secret place",
+                  "raw": "H2822\tH2822 =\tH2822\tחֹ֫שֶׁךְ\tcho.shekh\tH:N-M\tdarkness\t1) darkness, obscurity<br>1a) darkness<br>1b) secret place"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L חֹֽשֶׁךְ\\׃ Cho.shekh darkness {H2822}\\H9016 HNcmsa H2822_B {H2822=חֹ֫שֶׁךְ=darkness}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 22,
           "text": "So Moses reached out his hand toward the sky. Then complete darkness covered Egypt for three days.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יָמִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ya.Mim",
+                "wordIndex": 2
+              },
+              {
+                "text": "days",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3117G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3117G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "{H3117G=יוֹם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L יָמִֽים\\׃ ya.Mim days {H3117G}\\H9016 HNcmpa H3117G {H3117G=יוֹם=: day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 23,
           "text": "No one could see anyone else or go anywhere for three days. But all of the people of Israel had light where they lived.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/מוֹשְׁבֹתָֽ/ם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./mo.she.vo.Ta/m",
+                "wordIndex": 2
+              },
+              {
+                "text": "in/",
+                "wordIndex": 3
+              },
+              {
+                "text": "dwelling",
+                "wordIndex": 4
+              },
+              {
+                "text": "places/",
+                "wordIndex": 5
+              },
+              {
+                "text": "their",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9003/{H4186}/H9028\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncfpc/Sp3mp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H4186",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4186",
+                  "lemma": "מוֹשָׁב",
+                  "translit": "mo.shav",
+                  "morph": "H:N-M",
+                  "gloss": "seat 1) seat, assembly, dwelling-place, dwelling, dwellers<br>1a) seat, sitting, those sitting, sitting company or assembly<br>1b) dwelling place, dwelling<br>1c) situation, location<br>1d) time of dwelling<br>1e) those dwelling, dweller",
+                  "raw": "H4186\tH4186 =\tH4186\tמוֹשָׁב\tmo.shav\tH:N-M\tseat\t1) seat, assembly, dwelling-place, dwelling, dwellers<br>1a) seat, sitting, those sitting, sitting company or assembly<br>1b) dwelling place, dwelling<br>1c) situation, location<br>1d) time of dwelling<br>1e) those dwelling, dweller"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H4186=מוֹשָׁב=seat}/H9028=Pp3m=their\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#17=L בְּ/מוֹשְׁבֹתָֽ/ם\\׃ be./mo.she.vo.Ta/m in/ dwelling places/ their H9003/{H4186}/H9028\\H9016 HR/Ncfpc/Sp3mp H4186 H9003=ב=in/{H4186=מוֹשָׁב=seat}/H9028=Pp3m=their\\H9016=׃=verseEnd"
+          }
         }
       ]
     }

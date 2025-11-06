@@ -7,67 +7,830 @@
           "chapter": 37,
           "verse": 12,
           "text": "Now his brothers went to pasture the flock of their father in Shechem.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בִּ/שְׁכֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "bi/sh.Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "at/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Shechem",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9003/{H7927G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7927G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7927",
+                  "lemma": "שְׁכֶם",
+                  "translit": "she.khem",
+                  "morph": "N:N-M-P",
+                  "gloss": "Shechem A man living at the time of the Patriarchs, first mentioned at Gen.33.19; <br> son of: Hamor (H2544)<BR> § Shechem = \"back\" or \"shoulder\"<br>1) son of Hamor, the chieftain of the Hivites at Shechem at the time of Jacob's arrival<br>2) a city in Manasseh; located in a valley between Mount Ebal and Mount Gerizim, 34 miles (54 km) north of Jerusalem and 7 miles (10.5 km) south- east of Samaria",
+                  "raw": "H7927\tH7927H =\tH7927H\tשְׁכֶם\tshe.khem\tN:N-M-P\tShechem\tA man living at the time of the Patriarchs, first mentioned at Gen.33.19; <br> son of: Hamor (H2544)<BR> § Shechem = \"back\" or \"shoulder\"<br>1) son of Hamor, the chieftain of the Hivites at Shechem at the time of Jacob's arrival<br>2) a city in Manasseh; located in a valley between Mount Ebal and Mount Gerizim, 34 miles (54 km) north of Jerusalem and 7 miles (10.5 km) south- east of Samaria"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H7927G=שְׁכֶם=Shechem»Shechem@Gen.12.6-Act}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#07=L בִּ/שְׁכֶֽם\\׃ bi/sh.Khem at/ Shechem H9003/{H7927G}\\H9016 HR/Npl H7927G H9003=ב=in/{H7927G=שְׁכֶם=Shechem»Shechem@Gen.12.6-Act}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 13,
           "text": "And Israel said to Joseph, “Are not your brothers pasturing in Shechem? Come, let me send you to them.” And he said, “Here I am.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הִנֵּֽ/נִי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hi.Ne./ni",
+                "wordIndex": 2
+              },
+              {
+                "text": "here",
+                "wordIndex": 3
+              },
+              {
+                "text": "[am]/",
+                "wordIndex": 4
+              },
+              {
+                "text": "I",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H2009}/H9040\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H2009",
+                  "lemma": "הִנֵּה",
+                  "translit": "hin.neh",
+                  "morph": "H:Intj",
+                  "gloss": "behold behold, lo, see, if",
+                  "raw": "H2009\tH2009 =\tH2009\tהִנֵּה\thin.neh\tH:Intj\tbehold\tbehold, lo, see, if"
+                }
+              },
+              {
+                "text": "HTj/Sp1bs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H2009",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H2009",
+                  "lemma": "הִנֵּה",
+                  "translit": "hin.neh",
+                  "morph": "H:Intj",
+                  "gloss": "behold behold, lo, see, if",
+                  "raw": "H2009\tH2009 =\tH2009\tהִנֵּה\thin.neh\tH:Intj\tbehold\tbehold, lo, see, if"
+                }
+              },
+              {
+                "text": "{H2009=הִנֵּה=behold}/H9040=Ss1c=I\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2009",
+                  "lemma": "הִנֵּה",
+                  "translit": "hin.neh",
+                  "morph": "H:Intj",
+                  "gloss": "behold behold, lo, see, if",
+                  "raw": "H2009\tH2009 =\tH2009\tהִנֵּה\thin.neh\tH:Intj\tbehold\tbehold, lo, see, if"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L הִנֵּֽ/נִי\\׃ hi.Ne./ni here [am]/ I {H2009}/H9040\\H9016 HTj/Sp1bs H2009 {H2009=הִנֵּה=behold}/H9040=Ss1c=I\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 14,
           "text": "Then he said to him, “Go now, see if it goes well for your brothers and for the flock, then return word to me.” And he sent him from the valley of Hebron, and he arrived at Shechem.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שְׁכֶֽמָ/ה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "she.Khe.ma/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "Shechem/",
+                "wordIndex": 3
+              },
+              {
+                "text": "towards",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7927G}/H9011\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H7927",
+                  "lemma": "שְׁכֶם",
+                  "translit": "she.khem",
+                  "morph": "N:N-M-P",
+                  "gloss": "Shechem A man living at the time of the Patriarchs, first mentioned at Gen.33.19; <br> son of: Hamor (H2544)<BR> § Shechem = \"back\" or \"shoulder\"<br>1) son of Hamor, the chieftain of the Hivites at Shechem at the time of Jacob's arrival<br>2) a city in Manasseh; located in a valley between Mount Ebal and Mount Gerizim, 34 miles (54 km) north of Jerusalem and 7 miles (10.5 km) south- east of Samaria",
+                  "raw": "H7927\tH7927H =\tH7927H\tשְׁכֶם\tshe.khem\tN:N-M-P\tShechem\tA man living at the time of the Patriarchs, first mentioned at Gen.33.19; <br> son of: Hamor (H2544)<BR> § Shechem = \"back\" or \"shoulder\"<br>1) son of Hamor, the chieftain of the Hivites at Shechem at the time of Jacob's arrival<br>2) a city in Manasseh; located in a valley between Mount Ebal and Mount Gerizim, 34 miles (54 km) north of Jerusalem and 7 miles (10.5 km) south- east of Samaria"
+                }
+              },
+              {
+                "text": "HNpl/Sd",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7927G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7927",
+                  "lemma": "שְׁכֶם",
+                  "translit": "she.khem",
+                  "morph": "N:N-M-P",
+                  "gloss": "Shechem A man living at the time of the Patriarchs, first mentioned at Gen.33.19; <br> son of: Hamor (H2544)<BR> § Shechem = \"back\" or \"shoulder\"<br>1) son of Hamor, the chieftain of the Hivites at Shechem at the time of Jacob's arrival<br>2) a city in Manasseh; located in a valley between Mount Ebal and Mount Gerizim, 34 miles (54 km) north of Jerusalem and 7 miles (10.5 km) south- east of Samaria",
+                  "raw": "H7927\tH7927H =\tH7927H\tשְׁכֶם\tshe.khem\tN:N-M-P\tShechem\tA man living at the time of the Patriarchs, first mentioned at Gen.33.19; <br> son of: Hamor (H2544)<BR> § Shechem = \"back\" or \"shoulder\"<br>1) son of Hamor, the chieftain of the Hivites at Shechem at the time of Jacob's arrival<br>2) a city in Manasseh; located in a valley between Mount Ebal and Mount Gerizim, 34 miles (54 km) north of Jerusalem and 7 miles (10.5 km) south- east of Samaria"
+                }
+              },
+              {
+                "text": "{H7927G=שְׁכֶם=Shechem»Shechem@Gen.12.6-Act}/H9011=ה=to\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7927",
+                  "lemma": "שְׁכֶם",
+                  "translit": "she.khem",
+                  "morph": "N:N-M-P",
+                  "gloss": "Shechem A man living at the time of the Patriarchs, first mentioned at Gen.33.19; <br> son of: Hamor (H2544)<BR> § Shechem = \"back\" or \"shoulder\"<br>1) son of Hamor, the chieftain of the Hivites at Shechem at the time of Jacob's arrival<br>2) a city in Manasseh; located in a valley between Mount Ebal and Mount Gerizim, 34 miles (54 km) north of Jerusalem and 7 miles (10.5 km) south- east of Samaria",
+                  "raw": "H7927\tH7927H =\tH7927H\tשְׁכֶם\tshe.khem\tN:N-M-P\tShechem\tA man living at the time of the Patriarchs, first mentioned at Gen.33.19; <br> son of: Hamor (H2544)<BR> § Shechem = \"back\" or \"shoulder\"<br>1) son of Hamor, the chieftain of the Hivites at Shechem at the time of Jacob's arrival<br>2) a city in Manasseh; located in a valley between Mount Ebal and Mount Gerizim, 34 miles (54 km) north of Jerusalem and 7 miles (10.5 km) south- east of Samaria"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L שְׁכֶֽמָ/ה\\׃ she.Khe.ma/h Shechem/ towards {H7927G}/H9011\\H9016 HNpl/Sd H7927G {H7927G=שְׁכֶם=Shechem»Shechem@Gen.12.6-Act}/H9011=ה=to\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 15,
           "text": "And a man found him, and behold, he was wandering about in a field. And the man asked him, “What do you seek?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תְּבַקֵּֽשׁ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "te.va.Kesh",
+                "wordIndex": 2
+              },
+              {
+                "text": "are",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "seeking",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H1245}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1245",
+                  "lemma": "בָּקַשׁ",
+                  "translit": "ba.qash",
+                  "morph": "H:V",
+                  "gloss": "to seek 1) to seek, require, desire, exact, request<br>1a) (Piel)<br>1a1) to seek to find<br>1a2) to seek to secure<br>1a3) to seek the face<br>1a4) to desire, demand<br>1a5) to require, exact<br>1a6) to ask, request<br>1b) (Pual) to be sought",
+                  "raw": "H1245\tH1245 =\tH1245\tבָּקַשׁ\tba.qash\tH:V\tto seek\t1) to seek, require, desire, exact, request<br>1a) (Piel)<br>1a1) to seek to find<br>1a2) to seek to secure<br>1a3) to seek the face<br>1a4) to desire, demand<br>1a5) to require, exact<br>1a6) to ask, request<br>1b) (Pual) to be sought"
+                }
+              },
+              {
+                "text": "HVpi2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1245",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1245",
+                  "lemma": "בָּקַשׁ",
+                  "translit": "ba.qash",
+                  "morph": "H:V",
+                  "gloss": "to seek 1) to seek, require, desire, exact, request<br>1a) (Piel)<br>1a1) to seek to find<br>1a2) to seek to secure<br>1a3) to seek the face<br>1a4) to desire, demand<br>1a5) to require, exact<br>1a6) to ask, request<br>1b) (Pual) to be sought",
+                  "raw": "H1245\tH1245 =\tH1245\tבָּקַשׁ\tba.qash\tH:V\tto seek\t1) to seek, require, desire, exact, request<br>1a) (Piel)<br>1a1) to seek to find<br>1a2) to seek to secure<br>1a3) to seek the face<br>1a4) to desire, demand<br>1a5) to require, exact<br>1a6) to ask, request<br>1b) (Pual) to be sought"
+                }
+              },
+              {
+                "text": "{H1245=בָּקַשׁ=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H1245",
+                  "lemma": "בָּקַשׁ",
+                  "translit": "ba.qash",
+                  "morph": "H:V",
+                  "gloss": "to seek 1) to seek, require, desire, exact, request<br>1a) (Piel)<br>1a1) to seek to find<br>1a2) to seek to secure<br>1a3) to seek the face<br>1a4) to desire, demand<br>1a5) to require, exact<br>1a6) to ask, request<br>1b) (Pual) to be sought",
+                  "raw": "H1245\tH1245 =\tH1245\tבָּקַשׁ\tba.qash\tH:V\tto seek\t1) to seek, require, desire, exact, request<br>1a) (Piel)<br>1a1) to seek to find<br>1a2) to seek to secure<br>1a3) to seek the face<br>1a4) to desire, demand<br>1a5) to require, exact<br>1a6) to ask, request<br>1b) (Pual) to be sought"
+                }
+              },
+              {
+                "text": "seek}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L תְּבַקֵּֽשׁ\\׃ te.va.Kesh are you seeking {H1245}\\H9016 HVpi2ms H1245 {H1245=בָּקַשׁ=to seek}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 16,
           "text": "And he said, “I am seeking my brothers. Tell me, please, where they are pasturing.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "רֹעִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ro.'Im",
+                "wordIndex": 2
+              },
+              {
+                "text": "pasturing",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H7462B}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HVqrmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H7462B",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H7462B=רָעָה=to",
+                "wordIndex": 7
+              },
+              {
+                "text": "pasture}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L רֹעִֽים\\׃ ro.'Im pasturing {H7462B}\\H9016 HVqrmpa H7462B {H7462B=רָעָה=to pasture}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 17,
           "text": "And the man said, “They have moved on from here, for I heard them saying, ‘Let us go to Dothan.’” Then Joseph went after his brothers and found them in Dothan.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/דֹתָֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./do.Tan",
+                "wordIndex": 2
+              },
+              {
+                "text": "at/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Dothan",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9003/{H1886}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1886_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1886",
+                  "lemma": "דֹּתָן",
+                  "translit": "do.tan",
+                  "morph": "N:N--L",
+                  "gloss": "Dothan <BR> § Dothan = \"two wells\"<br> a place in northern Palestine, 12 miles north of Samaria, the home of Elisha<br>",
+                  "raw": "H1886\tH1886 =\tH1886\tדֹּתָן\tdo.tan\tN:N--L\tDothan\t <BR> § Dothan = \"two wells\"<br> a place in northern Palestine, 12 miles north of Samaria, the home of Elisha<br>"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H1886=דֹּתָן=Dothan»Dothan@Gen.37.17-2Ki}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#15=L בְּ/דֹתָֽן\\׃ be./do.Tan at/ Dothan H9003/{H1886}\\H9016 HR/Npl H1886_B H9003=ב=in/{H1886=דֹּתָן=Dothan»Dothan@Gen.37.17-2Ki}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 18,
           "text": "And they saw him from a distance. And before he drew near to them, they conspired against him to kill him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לַ/הֲמִיתֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./ha.mi.T/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "kill/",
+                "wordIndex": 4
+              },
+              {
+                "text": "him",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H4191}/H9033\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vhcc/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4191",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4191",
+                  "lemma": "מוּת",
+                  "translit": "mut",
+                  "morph": "H:V",
+                  "gloss": "to die 1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely",
+                  "raw": "H4191\tH4191 =\tH4191\tמוּת\tmut\tH:V\tto die\t1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H4191=מוּת=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "die}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L לַ/הֲמִיתֽ/וֹ\\׃ la./ha.mi.T/o to/ kill/ him H9005/{H4191}/H9033\\H9016 HR/Vhcc/Sp3ms H4191 H9005=ל=to/{H4191=מוּת=to die}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 19,
           "text": "And each said to his brothers, “Look, this master of dreams is coming.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ba'",
+                "wordIndex": 2
+              },
+              {
+                "text": "[is]",
+                "wordIndex": 3
+              },
+              {
+                "text": "coming",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0935G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0935",
+                  "lemma": "בּוֹא",
+                  "translit": "bo",
+                  "morph": "H:V",
+                  "gloss": "to come (in): bring : bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put",
+                  "raw": "H0935\tH0935P = a Meaning of\tH0935G\tבּוֹא\tbo\tH:V\tto come (in): bring\t: bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put"
+                }
+              },
+              {
+                "text": "HVqrmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0935G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0935",
+                  "lemma": "בּוֹא",
+                  "translit": "bo",
+                  "morph": "H:V",
+                  "gloss": "to come (in): bring : bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put",
+                  "raw": "H0935\tH0935P = a Meaning of\tH0935G\tבּוֹא\tbo\tH:V\tto come (in): bring\t: bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put"
+                }
+              },
+              {
+                "text": "{H0935G=בּוֹא=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0935",
+                  "lemma": "בּוֹא",
+                  "translit": "bo",
+                  "morph": "H:V",
+                  "gloss": "to come (in): bring : bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put",
+                  "raw": "H0935\tH0935P = a Meaning of\tH0935G\tבּוֹא\tbo\tH:V\tto come (in): bring\t: bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put"
+                }
+              },
+              {
+                "text": "come»to",
+                "wordIndex": 9
+              },
+              {
+                "text": "come",
+                "wordIndex": 10
+              },
+              {
+                "text": "(in):1_come;_go_in}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L בָּֽא\\׃ Ba' [is] coming {H0935G}\\H9016 HVqrmsa H0935G {H0935G=בּוֹא=: come»to come (in):1_come;_go_in}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 20,
           "text": "Now then, come, let us kill him and throw him in one of the pits. Then we will say a wild animal devoured him. Then we will see what his dreams become.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "חֲלֹמֹתָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "cha.lo.mo.Ta/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "dreams/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H2472}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H2472",
+                  "lemma": "חֲלוֹם",
+                  "translit": "cha.lom",
+                  "morph": "H:N-M",
+                  "gloss": "dream 1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)",
+                  "raw": "H2472\tH2472 =\tH2472\tחֲלוֹם\tcha.lom\tH:N-M\tdream\t1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)"
+                }
+              },
+              {
+                "text": "HNcfpc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2472",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2472",
+                  "lemma": "חֲלוֹם",
+                  "translit": "cha.lom",
+                  "morph": "H:N-M",
+                  "gloss": "dream 1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)",
+                  "raw": "H2472\tH2472 =\tH2472\tחֲלוֹם\tcha.lom\tH:N-M\tdream\t1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)"
+                }
+              },
+              {
+                "text": "{H2472=חֲלוֹם=dream}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H2472",
+                  "lemma": "חֲלוֹם",
+                  "translit": "cha.lom",
+                  "morph": "H:N-M",
+                  "gloss": "dream 1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)",
+                  "raw": "H2472\tH2472 =\tH2472\tחֲלוֹם\tcha.lom\tH:N-M\tdream\t1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L חֲלֹמֹתָֽי/ו\\׃ cha.lo.mo.Ta/v dreams/ his {H2472}/H9023\\H9016 HNcfpc/Sp3ms H2472 {H2472=חֲלוֹם=dream}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 21,
           "text": "And Reuben heard it and delivered him from their hand and said, “We must not take his life.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "נָֽפֶשׁ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Na.fesh",
+                "wordIndex": 2
+              },
+              {
+                "text": "life",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5315H}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5315",
+                  "lemma": "נֶ֫פֶשׁ",
+                  "translit": "ne.phesh",
+                  "morph": "H:N-F",
+                  "gloss": "soul: neck 1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain",
+                  "raw": "H5315\tH5315N = a Meaning of\tH5315G\tנֶ֫פֶשׁ\tne.phesh\tH:N-F\tsoul: neck\t1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain"
+                }
+              },
+              {
+                "text": "HNcfsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5315H",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5315",
+                  "lemma": "נֶ֫פֶשׁ",
+                  "translit": "ne.phesh",
+                  "morph": "H:N-F",
+                  "gloss": "soul: neck 1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain",
+                  "raw": "H5315\tH5315N = a Meaning of\tH5315G\tנֶ֫פֶשׁ\tne.phesh\tH:N-F\tsoul: neck\t1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain"
+                }
+              },
+              {
+                "text": "{H5315H=נֶ֫פֶשׁ=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5315",
+                  "lemma": "נֶ֫פֶשׁ",
+                  "translit": "ne.phesh",
+                  "morph": "H:N-F",
+                  "gloss": "soul: neck 1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain",
+                  "raw": "H5315\tH5315N = a Meaning of\tH5315G\tנֶ֫פֶשׁ\tne.phesh\tH:N-F\tsoul: neck\t1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain"
+                }
+              },
+              {
+                "text": "life»soul:2_life;_breath}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L נָֽפֶשׁ\\׃ Na.fesh life {H5315H}\\H9016 HNcfsa H5315H {H5315H=נֶ֫פֶשׁ=: life»soul:2_life;_breath}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 22,
           "text": "And Reuben said to them, “You must not shed blood. Throw him into this pit that is in the desert, but do not lay a hand on him”—so that he might rescue him from their hand to return him to his father.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#24=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָבִֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.Vi/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "father/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0001G}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0001",
+                  "lemma": "אָב",
+                  "translit": "av",
+                  "morph": "N:N-M-P",
+                  "gloss": "father of The father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;",
+                  "raw": "H0001\tH0001I = a Part of\tH0022G\tאָב\tav\tN:N-M-P\tfather of\tThe father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0001G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0001",
+                  "lemma": "אָב",
+                  "translit": "av",
+                  "morph": "N:N-M-P",
+                  "gloss": "father of The father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;",
+                  "raw": "H0001\tH0001I = a Part of\tH0022G\tאָב\tav\tN:N-M-P\tfather of\tThe father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;"
+                }
+              },
+              {
+                "text": "{H0001G=אָב=father}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0001",
+                  "lemma": "אָב",
+                  "translit": "av",
+                  "morph": "N:N-M-P",
+                  "gloss": "father of The father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;",
+                  "raw": "H0001\tH0001I = a Part of\tH0022G\tאָב\tav\tN:N-M-P\tfather of\tThe father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;"
+                }
+              }
+            ],
+            "originalVerseText": "#24=L אָבִֽי/ו\\׃ 'a.Vi/v father/ his {H0001G}/H9023\\H9016 HNcmsc/Sp3ms H0001G {H0001G=אָב=father}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         }
       ],
       "nirv": [
@@ -75,67 +838,830 @@
           "chapter": 37,
           "verse": 12,
           "text": "Joseph’s brothers had gone to take care of their father’s flocks near Shechem.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בִּ/שְׁכֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "bi/sh.Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "at/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Shechem",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9003/{H7927G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7927G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7927",
+                  "lemma": "שְׁכֶם",
+                  "translit": "she.khem",
+                  "morph": "N:N-M-P",
+                  "gloss": "Shechem A man living at the time of the Patriarchs, first mentioned at Gen.33.19; <br> son of: Hamor (H2544)<BR> § Shechem = \"back\" or \"shoulder\"<br>1) son of Hamor, the chieftain of the Hivites at Shechem at the time of Jacob's arrival<br>2) a city in Manasseh; located in a valley between Mount Ebal and Mount Gerizim, 34 miles (54 km) north of Jerusalem and 7 miles (10.5 km) south- east of Samaria",
+                  "raw": "H7927\tH7927H =\tH7927H\tשְׁכֶם\tshe.khem\tN:N-M-P\tShechem\tA man living at the time of the Patriarchs, first mentioned at Gen.33.19; <br> son of: Hamor (H2544)<BR> § Shechem = \"back\" or \"shoulder\"<br>1) son of Hamor, the chieftain of the Hivites at Shechem at the time of Jacob's arrival<br>2) a city in Manasseh; located in a valley between Mount Ebal and Mount Gerizim, 34 miles (54 km) north of Jerusalem and 7 miles (10.5 km) south- east of Samaria"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H7927G=שְׁכֶם=Shechem»Shechem@Gen.12.6-Act}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#07=L בִּ/שְׁכֶֽם\\׃ bi/sh.Khem at/ Shechem H9003/{H7927G}\\H9016 HR/Npl H7927G H9003=ב=in/{H7927G=שְׁכֶם=Shechem»Shechem@Gen.12.6-Act}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 13,
           "text": "Israel said to Joseph, “As you know, your brothers are taking care of the flocks near Shechem. Come. I’m going to send you to them.”\n“All right,” Joseph replied.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הִנֵּֽ/נִי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hi.Ne./ni",
+                "wordIndex": 2
+              },
+              {
+                "text": "here",
+                "wordIndex": 3
+              },
+              {
+                "text": "[am]/",
+                "wordIndex": 4
+              },
+              {
+                "text": "I",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H2009}/H9040\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H2009",
+                  "lemma": "הִנֵּה",
+                  "translit": "hin.neh",
+                  "morph": "H:Intj",
+                  "gloss": "behold behold, lo, see, if",
+                  "raw": "H2009\tH2009 =\tH2009\tהִנֵּה\thin.neh\tH:Intj\tbehold\tbehold, lo, see, if"
+                }
+              },
+              {
+                "text": "HTj/Sp1bs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H2009",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H2009",
+                  "lemma": "הִנֵּה",
+                  "translit": "hin.neh",
+                  "morph": "H:Intj",
+                  "gloss": "behold behold, lo, see, if",
+                  "raw": "H2009\tH2009 =\tH2009\tהִנֵּה\thin.neh\tH:Intj\tbehold\tbehold, lo, see, if"
+                }
+              },
+              {
+                "text": "{H2009=הִנֵּה=behold}/H9040=Ss1c=I\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2009",
+                  "lemma": "הִנֵּה",
+                  "translit": "hin.neh",
+                  "morph": "H:Intj",
+                  "gloss": "behold behold, lo, see, if",
+                  "raw": "H2009\tH2009 =\tH2009\tהִנֵּה\thin.neh\tH:Intj\tbehold\tbehold, lo, see, if"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L הִנֵּֽ/נִי\\׃ hi.Ne./ni here [am]/ I {H2009}/H9040\\H9016 HTj/Sp1bs H2009 {H2009=הִנֵּה=behold}/H9040=Ss1c=I\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 14,
           "text": "So Israel said to him, “Go to your brothers. See how they are doing. Also see how the flocks are doing. Then come back and tell me.” So he sent him away from the Hebron Valley.\nJoseph arrived at Shechem.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שְׁכֶֽמָ/ה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "she.Khe.ma/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "Shechem/",
+                "wordIndex": 3
+              },
+              {
+                "text": "towards",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7927G}/H9011\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H7927",
+                  "lemma": "שְׁכֶם",
+                  "translit": "she.khem",
+                  "morph": "N:N-M-P",
+                  "gloss": "Shechem A man living at the time of the Patriarchs, first mentioned at Gen.33.19; <br> son of: Hamor (H2544)<BR> § Shechem = \"back\" or \"shoulder\"<br>1) son of Hamor, the chieftain of the Hivites at Shechem at the time of Jacob's arrival<br>2) a city in Manasseh; located in a valley between Mount Ebal and Mount Gerizim, 34 miles (54 km) north of Jerusalem and 7 miles (10.5 km) south- east of Samaria",
+                  "raw": "H7927\tH7927H =\tH7927H\tשְׁכֶם\tshe.khem\tN:N-M-P\tShechem\tA man living at the time of the Patriarchs, first mentioned at Gen.33.19; <br> son of: Hamor (H2544)<BR> § Shechem = \"back\" or \"shoulder\"<br>1) son of Hamor, the chieftain of the Hivites at Shechem at the time of Jacob's arrival<br>2) a city in Manasseh; located in a valley between Mount Ebal and Mount Gerizim, 34 miles (54 km) north of Jerusalem and 7 miles (10.5 km) south- east of Samaria"
+                }
+              },
+              {
+                "text": "HNpl/Sd",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7927G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7927",
+                  "lemma": "שְׁכֶם",
+                  "translit": "she.khem",
+                  "morph": "N:N-M-P",
+                  "gloss": "Shechem A man living at the time of the Patriarchs, first mentioned at Gen.33.19; <br> son of: Hamor (H2544)<BR> § Shechem = \"back\" or \"shoulder\"<br>1) son of Hamor, the chieftain of the Hivites at Shechem at the time of Jacob's arrival<br>2) a city in Manasseh; located in a valley between Mount Ebal and Mount Gerizim, 34 miles (54 km) north of Jerusalem and 7 miles (10.5 km) south- east of Samaria",
+                  "raw": "H7927\tH7927H =\tH7927H\tשְׁכֶם\tshe.khem\tN:N-M-P\tShechem\tA man living at the time of the Patriarchs, first mentioned at Gen.33.19; <br> son of: Hamor (H2544)<BR> § Shechem = \"back\" or \"shoulder\"<br>1) son of Hamor, the chieftain of the Hivites at Shechem at the time of Jacob's arrival<br>2) a city in Manasseh; located in a valley between Mount Ebal and Mount Gerizim, 34 miles (54 km) north of Jerusalem and 7 miles (10.5 km) south- east of Samaria"
+                }
+              },
+              {
+                "text": "{H7927G=שְׁכֶם=Shechem»Shechem@Gen.12.6-Act}/H9011=ה=to\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7927",
+                  "lemma": "שְׁכֶם",
+                  "translit": "she.khem",
+                  "morph": "N:N-M-P",
+                  "gloss": "Shechem A man living at the time of the Patriarchs, first mentioned at Gen.33.19; <br> son of: Hamor (H2544)<BR> § Shechem = \"back\" or \"shoulder\"<br>1) son of Hamor, the chieftain of the Hivites at Shechem at the time of Jacob's arrival<br>2) a city in Manasseh; located in a valley between Mount Ebal and Mount Gerizim, 34 miles (54 km) north of Jerusalem and 7 miles (10.5 km) south- east of Samaria",
+                  "raw": "H7927\tH7927H =\tH7927H\tשְׁכֶם\tshe.khem\tN:N-M-P\tShechem\tA man living at the time of the Patriarchs, first mentioned at Gen.33.19; <br> son of: Hamor (H2544)<BR> § Shechem = \"back\" or \"shoulder\"<br>1) son of Hamor, the chieftain of the Hivites at Shechem at the time of Jacob's arrival<br>2) a city in Manasseh; located in a valley between Mount Ebal and Mount Gerizim, 34 miles (54 km) north of Jerusalem and 7 miles (10.5 km) south- east of Samaria"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L שְׁכֶֽמָ/ה\\׃ she.Khe.ma/h Shechem/ towards {H7927G}/H9011\\H9016 HNpl/Sd H7927G {H7927G=שְׁכֶם=Shechem»Shechem@Gen.12.6-Act}/H9011=ה=to\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 15,
           "text": "A man found him wandering around in the fields. He asked Joseph, “What are you looking for?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תְּבַקֵּֽשׁ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "te.va.Kesh",
+                "wordIndex": 2
+              },
+              {
+                "text": "are",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "seeking",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H1245}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1245",
+                  "lemma": "בָּקַשׁ",
+                  "translit": "ba.qash",
+                  "morph": "H:V",
+                  "gloss": "to seek 1) to seek, require, desire, exact, request<br>1a) (Piel)<br>1a1) to seek to find<br>1a2) to seek to secure<br>1a3) to seek the face<br>1a4) to desire, demand<br>1a5) to require, exact<br>1a6) to ask, request<br>1b) (Pual) to be sought",
+                  "raw": "H1245\tH1245 =\tH1245\tבָּקַשׁ\tba.qash\tH:V\tto seek\t1) to seek, require, desire, exact, request<br>1a) (Piel)<br>1a1) to seek to find<br>1a2) to seek to secure<br>1a3) to seek the face<br>1a4) to desire, demand<br>1a5) to require, exact<br>1a6) to ask, request<br>1b) (Pual) to be sought"
+                }
+              },
+              {
+                "text": "HVpi2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1245",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1245",
+                  "lemma": "בָּקַשׁ",
+                  "translit": "ba.qash",
+                  "morph": "H:V",
+                  "gloss": "to seek 1) to seek, require, desire, exact, request<br>1a) (Piel)<br>1a1) to seek to find<br>1a2) to seek to secure<br>1a3) to seek the face<br>1a4) to desire, demand<br>1a5) to require, exact<br>1a6) to ask, request<br>1b) (Pual) to be sought",
+                  "raw": "H1245\tH1245 =\tH1245\tבָּקַשׁ\tba.qash\tH:V\tto seek\t1) to seek, require, desire, exact, request<br>1a) (Piel)<br>1a1) to seek to find<br>1a2) to seek to secure<br>1a3) to seek the face<br>1a4) to desire, demand<br>1a5) to require, exact<br>1a6) to ask, request<br>1b) (Pual) to be sought"
+                }
+              },
+              {
+                "text": "{H1245=בָּקַשׁ=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H1245",
+                  "lemma": "בָּקַשׁ",
+                  "translit": "ba.qash",
+                  "morph": "H:V",
+                  "gloss": "to seek 1) to seek, require, desire, exact, request<br>1a) (Piel)<br>1a1) to seek to find<br>1a2) to seek to secure<br>1a3) to seek the face<br>1a4) to desire, demand<br>1a5) to require, exact<br>1a6) to ask, request<br>1b) (Pual) to be sought",
+                  "raw": "H1245\tH1245 =\tH1245\tבָּקַשׁ\tba.qash\tH:V\tto seek\t1) to seek, require, desire, exact, request<br>1a) (Piel)<br>1a1) to seek to find<br>1a2) to seek to secure<br>1a3) to seek the face<br>1a4) to desire, demand<br>1a5) to require, exact<br>1a6) to ask, request<br>1b) (Pual) to be sought"
+                }
+              },
+              {
+                "text": "seek}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L תְּבַקֵּֽשׁ\\׃ te.va.Kesh are you seeking {H1245}\\H9016 HVpi2ms H1245 {H1245=בָּקַשׁ=to seek}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 16,
           "text": "He replied, “I’m looking for my brothers. Can you tell me where they are taking care of their flocks?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "רֹעִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ro.'Im",
+                "wordIndex": 2
+              },
+              {
+                "text": "pasturing",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H7462B}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HVqrmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H7462B",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H7462B=רָעָה=to",
+                "wordIndex": 7
+              },
+              {
+                "text": "pasture}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L רֹעִֽים\\׃ ro.'Im pasturing {H7462B}\\H9016 HVqrmpa H7462B {H7462B=רָעָה=to pasture}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 17,
           "text": "So Joseph went to look for his brothers. He found them near Dothan.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/דֹתָֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./do.Tan",
+                "wordIndex": 2
+              },
+              {
+                "text": "at/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Dothan",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9003/{H1886}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1886_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1886",
+                  "lemma": "דֹּתָן",
+                  "translit": "do.tan",
+                  "morph": "N:N--L",
+                  "gloss": "Dothan <BR> § Dothan = \"two wells\"<br> a place in northern Palestine, 12 miles north of Samaria, the home of Elisha<br>",
+                  "raw": "H1886\tH1886 =\tH1886\tדֹּתָן\tdo.tan\tN:N--L\tDothan\t <BR> § Dothan = \"two wells\"<br> a place in northern Palestine, 12 miles north of Samaria, the home of Elisha<br>"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H1886=דֹּתָן=Dothan»Dothan@Gen.37.17-2Ki}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#15=L בְּ/דֹתָֽן\\׃ be./do.Tan at/ Dothan H9003/{H1886}\\H9016 HR/Npl H1886_B H9003=ב=in/{H1886=דֹּתָן=Dothan»Dothan@Gen.37.17-2Ki}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 18,
           "text": "But they saw him a long way off. Before he reached them, they made plans to kill him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לַ/הֲמִיתֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./ha.mi.T/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "kill/",
+                "wordIndex": 4
+              },
+              {
+                "text": "him",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H4191}/H9033\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vhcc/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4191",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4191",
+                  "lemma": "מוּת",
+                  "translit": "mut",
+                  "morph": "H:V",
+                  "gloss": "to die 1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely",
+                  "raw": "H4191\tH4191 =\tH4191\tמוּת\tmut\tH:V\tto die\t1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H4191=מוּת=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "die}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L לַ/הֲמִיתֽ/וֹ\\׃ la./ha.mi.T/o to/ kill/ him H9005/{H4191}/H9033\\H9016 HR/Vhcc/Sp3ms H4191 H9005=ל=to/{H4191=מוּת=to die}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 19,
           "text": "“Here comes that dreamer!” they said to one another.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ba'",
+                "wordIndex": 2
+              },
+              {
+                "text": "[is]",
+                "wordIndex": 3
+              },
+              {
+                "text": "coming",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0935G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0935",
+                  "lemma": "בּוֹא",
+                  "translit": "bo",
+                  "morph": "H:V",
+                  "gloss": "to come (in): bring : bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put",
+                  "raw": "H0935\tH0935P = a Meaning of\tH0935G\tבּוֹא\tbo\tH:V\tto come (in): bring\t: bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put"
+                }
+              },
+              {
+                "text": "HVqrmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0935G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0935",
+                  "lemma": "בּוֹא",
+                  "translit": "bo",
+                  "morph": "H:V",
+                  "gloss": "to come (in): bring : bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put",
+                  "raw": "H0935\tH0935P = a Meaning of\tH0935G\tבּוֹא\tbo\tH:V\tto come (in): bring\t: bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put"
+                }
+              },
+              {
+                "text": "{H0935G=בּוֹא=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0935",
+                  "lemma": "בּוֹא",
+                  "translit": "bo",
+                  "morph": "H:V",
+                  "gloss": "to come (in): bring : bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put",
+                  "raw": "H0935\tH0935P = a Meaning of\tH0935G\tבּוֹא\tbo\tH:V\tto come (in): bring\t: bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put"
+                }
+              },
+              {
+                "text": "come»to",
+                "wordIndex": 9
+              },
+              {
+                "text": "come",
+                "wordIndex": 10
+              },
+              {
+                "text": "(in):1_come;_go_in}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L בָּֽא\\׃ Ba' [is] coming {H0935G}\\H9016 HVqrmsa H0935G {H0935G=בּוֹא=: come»to come (in):1_come;_go_in}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 20,
           "text": "“Come. Let’s kill him. Let’s throw him into one of these empty wells. Let’s say that a wild animal ate him up. Then we’ll see whether his dreams will come true.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "חֲלֹמֹתָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "cha.lo.mo.Ta/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "dreams/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H2472}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H2472",
+                  "lemma": "חֲלוֹם",
+                  "translit": "cha.lom",
+                  "morph": "H:N-M",
+                  "gloss": "dream 1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)",
+                  "raw": "H2472\tH2472 =\tH2472\tחֲלוֹם\tcha.lom\tH:N-M\tdream\t1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)"
+                }
+              },
+              {
+                "text": "HNcfpc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2472",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2472",
+                  "lemma": "חֲלוֹם",
+                  "translit": "cha.lom",
+                  "morph": "H:N-M",
+                  "gloss": "dream 1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)",
+                  "raw": "H2472\tH2472 =\tH2472\tחֲלוֹם\tcha.lom\tH:N-M\tdream\t1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)"
+                }
+              },
+              {
+                "text": "{H2472=חֲלוֹם=dream}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H2472",
+                  "lemma": "חֲלוֹם",
+                  "translit": "cha.lom",
+                  "morph": "H:N-M",
+                  "gloss": "dream 1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)",
+                  "raw": "H2472\tH2472 =\tH2472\tחֲלוֹם\tcha.lom\tH:N-M\tdream\t1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L חֲלֹמֹתָֽי/ו\\׃ cha.lo.mo.Ta/v dreams/ his {H2472}/H9023\\H9016 HNcfpc/Sp3ms H2472 {H2472=חֲלוֹם=dream}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 21,
           "text": "Reuben heard them. He tried to save Joseph from them. “Let’s not take his life,” he said.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "נָֽפֶשׁ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Na.fesh",
+                "wordIndex": 2
+              },
+              {
+                "text": "life",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5315H}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5315",
+                  "lemma": "נֶ֫פֶשׁ",
+                  "translit": "ne.phesh",
+                  "morph": "H:N-F",
+                  "gloss": "soul: neck 1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain",
+                  "raw": "H5315\tH5315N = a Meaning of\tH5315G\tנֶ֫פֶשׁ\tne.phesh\tH:N-F\tsoul: neck\t1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain"
+                }
+              },
+              {
+                "text": "HNcfsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5315H",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5315",
+                  "lemma": "נֶ֫פֶשׁ",
+                  "translit": "ne.phesh",
+                  "morph": "H:N-F",
+                  "gloss": "soul: neck 1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain",
+                  "raw": "H5315\tH5315N = a Meaning of\tH5315G\tנֶ֫פֶשׁ\tne.phesh\tH:N-F\tsoul: neck\t1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain"
+                }
+              },
+              {
+                "text": "{H5315H=נֶ֫פֶשׁ=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5315",
+                  "lemma": "נֶ֫פֶשׁ",
+                  "translit": "ne.phesh",
+                  "morph": "H:N-F",
+                  "gloss": "soul: neck 1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain",
+                  "raw": "H5315\tH5315N = a Meaning of\tH5315G\tנֶ֫פֶשׁ\tne.phesh\tH:N-F\tsoul: neck\t1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain"
+                }
+              },
+              {
+                "text": "life»soul:2_life;_breath}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L נָֽפֶשׁ\\׃ Na.fesh life {H5315H}\\H9016 HNcfsa H5315H {H5315H=נֶ֫פֶשׁ=: life»soul:2_life;_breath}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 22,
           "text": "Reuben said that to save Joseph from them. He was hoping he could take him back to his father.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#24=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָבִֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.Vi/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "father/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0001G}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0001",
+                  "lemma": "אָב",
+                  "translit": "av",
+                  "morph": "N:N-M-P",
+                  "gloss": "father of The father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;",
+                  "raw": "H0001\tH0001I = a Part of\tH0022G\tאָב\tav\tN:N-M-P\tfather of\tThe father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0001G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0001",
+                  "lemma": "אָב",
+                  "translit": "av",
+                  "morph": "N:N-M-P",
+                  "gloss": "father of The father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;",
+                  "raw": "H0001\tH0001I = a Part of\tH0022G\tאָב\tav\tN:N-M-P\tfather of\tThe father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;"
+                }
+              },
+              {
+                "text": "{H0001G=אָב=father}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0001",
+                  "lemma": "אָב",
+                  "translit": "av",
+                  "morph": "N:N-M-P",
+                  "gloss": "father of The father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;",
+                  "raw": "H0001\tH0001I = a Part of\tH0022G\tאָב\tav\tN:N-M-P\tfather of\tThe father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;"
+                }
+              }
+            ],
+            "originalVerseText": "#24=L אָבִֽי/ו\\׃ 'a.Vi/v father/ his {H0001G}/H9023\\H9016 HNcmsc/Sp3ms H0001G {H0001G=אָב=father}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         }
       ]
     }

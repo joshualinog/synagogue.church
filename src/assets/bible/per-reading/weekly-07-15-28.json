@@ -7,37 +7,411 @@
           "chapter": 32,
           "verse": 7,
           "text": "ask your father, and he will inform you,\nyour elders and they will tell you.",
-          "isHeading": true
+          "isHeading": true,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָֽ/ךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La/kh",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "you",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9031}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9031",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9031",
+                  "lemma": "ךָּ",
+                  "translit": "ka",
+                  "morph": "Os2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine singular",
+                  "raw": "H9031\tH9031 =\tH9031\tךָּ\tka\tOs2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine singular"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9031=Os2m=you}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#13=L לָֽ/ךְ\\׃ La/kh to <the>/ you H9005/{H9031}\\H9016 HRd/Sp2ms H9031 H9005=ל=to/{H9031=Os2m=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 8,
           "text": "at his dividing up of the sons of humankind,\nhe fixed the boundaries of the peoples,\naccording to the number of the children of Israel.",
-          "isHeading": true
+          "isHeading": true,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִשְׂרָאֵֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yis.ra.'El",
+                "wordIndex": 2
+              },
+              {
+                "text": "Israel",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3478}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3478",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L יִשְׂרָאֵֽל\\׃ Yis.ra.'El Israel {H3478}\\H9016 HNpl H3478 {H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 9,
           "text": "Jacob the share of his inheritance.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "נַחֲלָתֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "na.cha.la.T/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "inheritance/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5159}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H5159",
+                  "lemma": "נַחֲלָה",
+                  "translit": "na.cha.lah",
+                  "morph": "H:N-F",
+                  "gloss": "inheritance 1) possession, property, inheritance, heritage<br>1a) property<br>1b) portion, share<br>1c) inheritance, portion",
+                  "raw": "H5159\tH5159 =\tH5159\tנַחֲלָה\tna.cha.lah\tH:N-F\tinheritance\t1) possession, property, inheritance, heritage<br>1a) property<br>1b) portion, share<br>1c) inheritance, portion"
+                }
+              },
+              {
+                "text": "HNcfsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5159",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5159",
+                  "lemma": "נַחֲלָה",
+                  "translit": "na.cha.lah",
+                  "morph": "H:N-F",
+                  "gloss": "inheritance 1) possession, property, inheritance, heritage<br>1a) property<br>1b) portion, share<br>1c) inheritance, portion",
+                  "raw": "H5159\tH5159 =\tH5159\tנַחֲלָה\tna.cha.lah\tH:N-F\tinheritance\t1) possession, property, inheritance, heritage<br>1a) property<br>1b) portion, share<br>1c) inheritance, portion"
+                }
+              },
+              {
+                "text": "{H5159=נַחֲלָה=inheritance}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H5159",
+                  "lemma": "נַחֲלָה",
+                  "translit": "na.cha.lah",
+                  "morph": "H:N-F",
+                  "gloss": "inheritance 1) possession, property, inheritance, heritage<br>1a) property<br>1b) portion, share<br>1c) inheritance, portion",
+                  "raw": "H5159\tH5159 =\tH5159\tנַחֲלָה\tna.cha.lah\tH:N-F\tinheritance\t1) possession, property, inheritance, heritage<br>1a) property<br>1b) portion, share<br>1c) inheritance, portion"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L נַחֲלָתֽ/וֹ\\׃ na.cha.la.T/o inheritance/ his {H5159}/H9023\\H9016 HNcfsc/Sp3ms H5159 {H5159=נַחֲלָה=inheritance}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 10,
           "text": "and in a howling, desert wasteland;\nhe encircled him, he cared for him,\nhe protected him like the apple of his eye.",
-          "isHeading": true
+          "isHeading": true,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עֵינֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ei.N/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "eye/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5869A}/H9023\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HNcfsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5869A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H5869A=עַ֫יִן=:",
+                "wordIndex": 8
+              },
+              {
+                "text": "eye»eye:1_eye}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L עֵינֽ/וֹ\\׃ ei.N/o eye/ his {H5869A}/H9023\\H9016 HNcfsc/Sp3ms H5869A {H5869A=עַ֫יִן=: eye»eye:1_eye}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 11,
           "text": "hovers over its young,\nspreads out its wings, takes them,\ncarries them on its pinions,",
-          "isHeading": true
+          "isHeading": true,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֶבְרָתֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'ev.ra.T/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "pinion/",
+                "wordIndex": 3
+              },
+              {
+                "text": "its",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0084}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0084",
+                  "lemma": "אֶבְרָה",
+                  "translit": "ev.rah",
+                  "morph": "H:N-F",
+                  "gloss": "pinion 1) pinion, wing<br>1a) of bird (ostrich, eagle, dove)<br>1b) of God (metaph)",
+                  "raw": "H0084\tH0084 =\tH0084\tאֶבְרָה\tev.rah\tH:N-F\tpinion\t1) pinion, wing<br>1a) of bird (ostrich, eagle, dove)<br>1b) of God (metaph)"
+                }
+              },
+              {
+                "text": "HNcfsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0084",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0084",
+                  "lemma": "אֶבְרָה",
+                  "translit": "ev.rah",
+                  "morph": "H:N-F",
+                  "gloss": "pinion 1) pinion, wing<br>1a) of bird (ostrich, eagle, dove)<br>1b) of God (metaph)",
+                  "raw": "H0084\tH0084 =\tH0084\tאֶבְרָה\tev.rah\tH:N-F\tpinion\t1) pinion, wing<br>1a) of bird (ostrich, eagle, dove)<br>1b) of God (metaph)"
+                }
+              },
+              {
+                "text": "{H0084=אֶבְרָה=pinion}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0084",
+                  "lemma": "אֶבְרָה",
+                  "translit": "ev.rah",
+                  "morph": "H:N-F",
+                  "gloss": "pinion 1) pinion, wing<br>1a) of bird (ostrich, eagle, dove)<br>1b) of God (metaph)",
+                  "raw": "H0084\tH0084 =\tH0084\tאֶבְרָה\tev.rah\tH:N-F\tpinion\t1) pinion, wing<br>1a) of bird (ostrich, eagle, dove)<br>1b) of God (metaph)"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L אֶבְרָתֽ/וֹ\\׃ 'ev.ra.T/o pinion/ its {H0084}/H9023\\H9016 HNcfsc/Sp3ms H0084 {H0084=אֶבְרָה=pinion}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 12,
           "text": "and there was no foreign god accompanying him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "נֵכָֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ne.Khar",
+                "wordIndex": 2
+              },
+              {
+                "text": "foreignness",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5236}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5236",
+                  "lemma": "נֵכָר",
+                  "translit": "ne.khar",
+                  "morph": "H:N-M",
+                  "gloss": "foreign 1) foreign, alien, foreignness, that which is foreign<br>1a) foreignness, foreign gods<br>1b) alien, foreigner<br>1c) foreign (vanities)",
+                  "raw": "H5236\tH5236 =\tH5236\tנֵכָר\tne.khar\tH:N-M\tforeign\t1) foreign, alien, foreignness, that which is foreign<br>1a) foreignness, foreign gods<br>1b) alien, foreigner<br>1c) foreign (vanities)"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5236",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5236",
+                  "lemma": "נֵכָר",
+                  "translit": "ne.khar",
+                  "morph": "H:N-M",
+                  "gloss": "foreign 1) foreign, alien, foreignness, that which is foreign<br>1a) foreignness, foreign gods<br>1b) alien, foreigner<br>1c) foreign (vanities)",
+                  "raw": "H5236\tH5236 =\tH5236\tנֵכָר\tne.khar\tH:N-M\tforeign\t1) foreign, alien, foreignness, that which is foreign<br>1a) foreignness, foreign gods<br>1b) alien, foreigner<br>1c) foreign (vanities)"
+                }
+              },
+              {
+                "text": "{H5236=נֵכָר=foreign}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5236",
+                  "lemma": "נֵכָר",
+                  "translit": "ne.khar",
+                  "morph": "H:N-M",
+                  "gloss": "foreign 1) foreign, alien, foreignness, that which is foreign<br>1a) foreignness, foreign gods<br>1b) alien, foreigner<br>1c) foreign (vanities)",
+                  "raw": "H5236\tH5236 =\tH5236\tנֵכָר\tne.khar\tH:N-M\tforeign\t1) foreign, alien, foreignness, that which is foreign<br>1a) foreignness, foreign gods<br>1b) alien, foreigner<br>1c) foreign (vanities)"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L נֵכָֽר\\׃ ne.Khar foreignness {H5236}\\H9016 HNcmsa H5236 {H5236=נֵכָר=foreign}\\H9016=׃=verseEnd"
+          }
         }
       ],
       "nirv": [
@@ -45,37 +419,411 @@
           "chapter": 32,
           "verse": 7,
           "text": "Remember the days of old.\nThink about what the Lord did through those many years.\nAsk your father. He will tell you.\nAsk your elders. They’ll explain it to you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָֽ/ךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La/kh",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "you",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9031}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9031",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9031",
+                  "lemma": "ךָּ",
+                  "translit": "ka",
+                  "morph": "Os2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine singular",
+                  "raw": "H9031\tH9031 =\tH9031\tךָּ\tka\tOs2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine singular"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9031=Os2m=you}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#13=L לָֽ/ךְ\\׃ La/kh to <the>/ you H9005/{H9031}\\H9016 HRd/Sp2ms H9031 H9005=ל=to/{H9031=Os2m=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 8,
           "text": "The Most High God gave the nations their lands.\nHe divided up the human race.\nHe set up borders for the nations.\nHe did it based on the number of the sons of Israel.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִשְׂרָאֵֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yis.ra.'El",
+                "wordIndex": 2
+              },
+              {
+                "text": "Israel",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3478}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3478",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L יִשְׂרָאֵֽל\\׃ Yis.ra.'El Israel {H3478}\\H9016 HNpl H3478 {H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 9,
           "text": "The Lord’s people are his share.\nJacob is the nation he has received.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "נַחֲלָתֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "na.cha.la.T/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "inheritance/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5159}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H5159",
+                  "lemma": "נַחֲלָה",
+                  "translit": "na.cha.lah",
+                  "morph": "H:N-F",
+                  "gloss": "inheritance 1) possession, property, inheritance, heritage<br>1a) property<br>1b) portion, share<br>1c) inheritance, portion",
+                  "raw": "H5159\tH5159 =\tH5159\tנַחֲלָה\tna.cha.lah\tH:N-F\tinheritance\t1) possession, property, inheritance, heritage<br>1a) property<br>1b) portion, share<br>1c) inheritance, portion"
+                }
+              },
+              {
+                "text": "HNcfsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5159",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5159",
+                  "lemma": "נַחֲלָה",
+                  "translit": "na.cha.lah",
+                  "morph": "H:N-F",
+                  "gloss": "inheritance 1) possession, property, inheritance, heritage<br>1a) property<br>1b) portion, share<br>1c) inheritance, portion",
+                  "raw": "H5159\tH5159 =\tH5159\tנַחֲלָה\tna.cha.lah\tH:N-F\tinheritance\t1) possession, property, inheritance, heritage<br>1a) property<br>1b) portion, share<br>1c) inheritance, portion"
+                }
+              },
+              {
+                "text": "{H5159=נַחֲלָה=inheritance}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H5159",
+                  "lemma": "נַחֲלָה",
+                  "translit": "na.cha.lah",
+                  "morph": "H:N-F",
+                  "gloss": "inheritance 1) possession, property, inheritance, heritage<br>1a) property<br>1b) portion, share<br>1c) inheritance, portion",
+                  "raw": "H5159\tH5159 =\tH5159\tנַחֲלָה\tna.cha.lah\tH:N-F\tinheritance\t1) possession, property, inheritance, heritage<br>1a) property<br>1b) portion, share<br>1c) inheritance, portion"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L נַחֲלָתֽ/וֹ\\׃ na.cha.la.T/o inheritance/ his {H5159}/H9023\\H9016 HNcfsc/Sp3ms H5159 {H5159=נַחֲלָה=inheritance}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 10,
           "text": "The Lord found Israel in a desert land.\nHe found them in an empty and windy wasteland.\nHe took care of them and kept them safe.\nHe guarded them as he would guard his own eyes.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עֵינֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ei.N/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "eye/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5869A}/H9023\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HNcfsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5869A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H5869A=עַ֫יִן=:",
+                "wordIndex": 8
+              },
+              {
+                "text": "eye»eye:1_eye}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L עֵינֽ/וֹ\\׃ ei.N/o eye/ his {H5869A}/H9023\\H9016 HNcfsc/Sp3ms H5869A {H5869A=עַ֫יִן=: eye»eye:1_eye}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 11,
           "text": "He was like an eagle that stirs up its nest.\nIt hovers over its little ones.\nIt spreads out its wings to catch them.\nIt carries them on its feathers.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֶבְרָתֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'ev.ra.T/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "pinion/",
+                "wordIndex": 3
+              },
+              {
+                "text": "its",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0084}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0084",
+                  "lemma": "אֶבְרָה",
+                  "translit": "ev.rah",
+                  "morph": "H:N-F",
+                  "gloss": "pinion 1) pinion, wing<br>1a) of bird (ostrich, eagle, dove)<br>1b) of God (metaph)",
+                  "raw": "H0084\tH0084 =\tH0084\tאֶבְרָה\tev.rah\tH:N-F\tpinion\t1) pinion, wing<br>1a) of bird (ostrich, eagle, dove)<br>1b) of God (metaph)"
+                }
+              },
+              {
+                "text": "HNcfsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0084",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0084",
+                  "lemma": "אֶבְרָה",
+                  "translit": "ev.rah",
+                  "morph": "H:N-F",
+                  "gloss": "pinion 1) pinion, wing<br>1a) of bird (ostrich, eagle, dove)<br>1b) of God (metaph)",
+                  "raw": "H0084\tH0084 =\tH0084\tאֶבְרָה\tev.rah\tH:N-F\tpinion\t1) pinion, wing<br>1a) of bird (ostrich, eagle, dove)<br>1b) of God (metaph)"
+                }
+              },
+              {
+                "text": "{H0084=אֶבְרָה=pinion}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0084",
+                  "lemma": "אֶבְרָה",
+                  "translit": "ev.rah",
+                  "morph": "H:N-F",
+                  "gloss": "pinion 1) pinion, wing<br>1a) of bird (ostrich, eagle, dove)<br>1b) of God (metaph)",
+                  "raw": "H0084\tH0084 =\tH0084\tאֶבְרָה\tev.rah\tH:N-F\tpinion\t1) pinion, wing<br>1a) of bird (ostrich, eagle, dove)<br>1b) of God (metaph)"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L אֶבְרָתֽ/וֹ\\׃ 'ev.ra.T/o pinion/ its {H0084}/H9023\\H9016 HNcfsc/Sp3ms H0084 {H0084=אֶבְרָה=pinion}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 12,
           "text": "The Lord was the only one who led Israel.\nNo other god was with them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "נֵכָֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ne.Khar",
+                "wordIndex": 2
+              },
+              {
+                "text": "foreignness",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5236}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5236",
+                  "lemma": "נֵכָר",
+                  "translit": "ne.khar",
+                  "morph": "H:N-M",
+                  "gloss": "foreign 1) foreign, alien, foreignness, that which is foreign<br>1a) foreignness, foreign gods<br>1b) alien, foreigner<br>1c) foreign (vanities)",
+                  "raw": "H5236\tH5236 =\tH5236\tנֵכָר\tne.khar\tH:N-M\tforeign\t1) foreign, alien, foreignness, that which is foreign<br>1a) foreignness, foreign gods<br>1b) alien, foreigner<br>1c) foreign (vanities)"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5236",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5236",
+                  "lemma": "נֵכָר",
+                  "translit": "ne.khar",
+                  "morph": "H:N-M",
+                  "gloss": "foreign 1) foreign, alien, foreignness, that which is foreign<br>1a) foreignness, foreign gods<br>1b) alien, foreigner<br>1c) foreign (vanities)",
+                  "raw": "H5236\tH5236 =\tH5236\tנֵכָר\tne.khar\tH:N-M\tforeign\t1) foreign, alien, foreignness, that which is foreign<br>1a) foreignness, foreign gods<br>1b) alien, foreigner<br>1c) foreign (vanities)"
+                }
+              },
+              {
+                "text": "{H5236=נֵכָר=foreign}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5236",
+                  "lemma": "נֵכָר",
+                  "translit": "ne.khar",
+                  "morph": "H:N-M",
+                  "gloss": "foreign 1) foreign, alien, foreignness, that which is foreign<br>1a) foreignness, foreign gods<br>1b) alien, foreigner<br>1c) foreign (vanities)",
+                  "raw": "H5236\tH5236 =\tH5236\tנֵכָר\tne.khar\tH:N-M\tforeign\t1) foreign, alien, foreignness, that which is foreign<br>1a) foreignness, foreign gods<br>1b) alien, foreigner<br>1c) foreign (vanities)"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L נֵכָֽר\\׃ ne.Khar foreignness {H5236}\\H9016 HNcmsa H5236 {H5236=נֵכָר=foreign}\\H9016=׃=verseEnd"
+          }
         }
       ]
     }

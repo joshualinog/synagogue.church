@@ -7,79 +7,980 @@
           "chapter": 21,
           "verse": 22,
           "text": "And it happened that at that time, Abimelech and Phicol, the commander of his army, said to Abraham, “God is with you, in all that you do.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עֹשֶֽׂה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'o.Seh",
+                "wordIndex": 2
+              },
+              {
+                "text": "[are]",
+                "wordIndex": 3
+              },
+              {
+                "text": "doing",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6213A}\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HVqrmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6213A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H6213A=עָשָׂה=:",
+                "wordIndex": 8
+              },
+              {
+                "text": "do»to",
+                "wordIndex": 9
+              },
+              {
+                "text": "make:2_do;_perform}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L עֹשֶֽׂה\\׃ 'o.Seh [are] doing {H6213A}\\H9016 HVqrmsa H6213A {H6213A=עָשָׂה=: do»to make:2_do;_perform}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 23,
           "text": "So now, swear to me here by God that you will not deal with me falsely, or with my descendants, or my posterity. According to the kindness that I have done to you, you shall pledge to do with me and with the land where you have dwelled as an alien.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ba/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "in",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "it",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H9034}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Sp3fs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9034",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9034",
+                  "lemma": "הָ",
+                  "translit": "ha",
+                  "morph": "Os3f",
+                  "gloss": "her Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular",
+                  "raw": "H9034\tH9034 =\tH9034\tהָ\tha\tOs3f\ther\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H9034=Os3f=her}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#21=L בָּֽ/הּ\\׃ Ba/h in <the>/ it H9003/{H9034}\\H9016 HRd/Sp3fs H9034 H9003=ב=in/{H9034=Os3f=her}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 24,
           "text": "And Abraham said, “I swear.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אִשָּׁבֵֽעַ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'i.sha.Ve.a'",
+                "wordIndex": 2
+              },
+              {
+                "text": "I",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "swear",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H7650}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H7650",
+                  "lemma": "שָׁבַע",
+                  "translit": "sha.va",
+                  "morph": "H:V",
+                  "gloss": "to swear 1) to swear, adjure<br>1a) (Qal) sworn (participle)<br>1b) (Niphal)<br>1b1) to swear, take an oath<br>1b2) to swear (of Jehovah by Himself)<br>1b3) to curse<br>1c) (Hiphil)<br>1c1) to cause to take an oath<br>1c2) to adjure",
+                  "raw": "H7650\tH7650 =\tH7650\tשָׁבַע\tsha.va\tH:V\tto swear\t1) to swear, adjure<br>1a) (Qal) sworn (participle)<br>1b) (Niphal)<br>1b1) to swear, take an oath<br>1b2) to swear (of Jehovah by Himself)<br>1b3) to curse<br>1c) (Hiphil)<br>1c1) to cause to take an oath<br>1c2) to adjure"
+                }
+              },
+              {
+                "text": "HVNi1cs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7650",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7650",
+                  "lemma": "שָׁבַע",
+                  "translit": "sha.va",
+                  "morph": "H:V",
+                  "gloss": "to swear 1) to swear, adjure<br>1a) (Qal) sworn (participle)<br>1b) (Niphal)<br>1b1) to swear, take an oath<br>1b2) to swear (of Jehovah by Himself)<br>1b3) to curse<br>1c) (Hiphil)<br>1c1) to cause to take an oath<br>1c2) to adjure",
+                  "raw": "H7650\tH7650 =\tH7650\tשָׁבַע\tsha.va\tH:V\tto swear\t1) to swear, adjure<br>1a) (Qal) sworn (participle)<br>1b) (Niphal)<br>1b1) to swear, take an oath<br>1b2) to swear (of Jehovah by Himself)<br>1b3) to curse<br>1c) (Hiphil)<br>1c1) to cause to take an oath<br>1c2) to adjure"
+                }
+              },
+              {
+                "text": "{H7650=שָׁבַע=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H7650",
+                  "lemma": "שָׁבַע",
+                  "translit": "sha.va",
+                  "morph": "H:V",
+                  "gloss": "to swear 1) to swear, adjure<br>1a) (Qal) sworn (participle)<br>1b) (Niphal)<br>1b1) to swear, take an oath<br>1b2) to swear (of Jehovah by Himself)<br>1b3) to curse<br>1c) (Hiphil)<br>1c1) to cause to take an oath<br>1c2) to adjure",
+                  "raw": "H7650\tH7650 =\tH7650\tשָׁבַע\tsha.va\tH:V\tto swear\t1) to swear, adjure<br>1a) (Qal) sworn (participle)<br>1b) (Niphal)<br>1b1) to swear, take an oath<br>1b2) to swear (of Jehovah by Himself)<br>1b3) to curse<br>1c) (Hiphil)<br>1c1) to cause to take an oath<br>1c2) to adjure"
+                }
+              },
+              {
+                "text": "swear}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L אִשָּׁבֵֽעַ\\׃ 'i.sha.Ve.a' I will swear {H7650}\\H9016 HVNi1cs H7650 {H7650=שָׁבַע=to swear}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 25,
           "text": "Then Abraham complained to Abimelech on account of the well of water that servants of Abimelech had seized.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֲבִימֶֽלֶךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.vi.Me.lekh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Abimelech",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0040G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0040",
+                  "lemma": "אֲבִימֶ֫לֶךְ",
+                  "translit": "a.vi.me.lekh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ahimelech A man living at the time of United Monarchy, first mentioned at 2Sa.8.17; <br> son of: Abiathar (H0054); <br> brother of: Jonathan (H3083I)<BR>Another spelling of <i>a.chi.me.lekh</i> (אֲחִימֶ֫לֶךְ \"Ahimelech\" H0288I)<BR>§ Abimelech = \"Melek is father\" or \"my father is king\"<br>1) king of Gerar in Abraham's time<br>2) king of Gath in David's time; maybe title of Philistine kings<br>3) son of Gideon by a concubine<br>4) priest, son of Abiathar",
+                  "raw": "H0040\tH0040J = a Spelling of\tH0288I\tאֲבִימֶ֫לֶךְ\ta.vi.me.lekh\tN:N-M-P\tAhimelech\tA man living at the time of United Monarchy, first mentioned at 2Sa.8.17; <br> son of: Abiathar (H0054); <br> brother of: Jonathan (H3083I)<BR>Another spelling of <i>a.chi.me.lekh</i> (אֲחִימֶ֫לֶךְ \"Ahimelech\" H0288I)<BR>§ Abimelech = \"Melek is father\" or \"my father is king\"<br>1) king of Gerar in Abraham's time<br>2) king of Gath in David's time; maybe title of Philistine kings<br>3) son of Gideon by a concubine<br>4) priest, son of Abiathar"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0040G_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0040",
+                  "lemma": "אֲבִימֶ֫לֶךְ",
+                  "translit": "a.vi.me.lekh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ahimelech A man living at the time of United Monarchy, first mentioned at 2Sa.8.17; <br> son of: Abiathar (H0054); <br> brother of: Jonathan (H3083I)<BR>Another spelling of <i>a.chi.me.lekh</i> (אֲחִימֶ֫לֶךְ \"Ahimelech\" H0288I)<BR>§ Abimelech = \"Melek is father\" or \"my father is king\"<br>1) king of Gerar in Abraham's time<br>2) king of Gath in David's time; maybe title of Philistine kings<br>3) son of Gideon by a concubine<br>4) priest, son of Abiathar",
+                  "raw": "H0040\tH0040J = a Spelling of\tH0288I\tאֲבִימֶ֫לֶךְ\ta.vi.me.lekh\tN:N-M-P\tAhimelech\tA man living at the time of United Monarchy, first mentioned at 2Sa.8.17; <br> son of: Abiathar (H0054); <br> brother of: Jonathan (H3083I)<BR>Another spelling of <i>a.chi.me.lekh</i> (אֲחִימֶ֫לֶךְ \"Ahimelech\" H0288I)<BR>§ Abimelech = \"Melek is father\" or \"my father is king\"<br>1) king of Gerar in Abraham's time<br>2) king of Gath in David's time; maybe title of Philistine kings<br>3) son of Gideon by a concubine<br>4) priest, son of Abiathar"
+                }
+              },
+              {
+                "text": "{H0040G=אֲבִימֶ֫לֶךְ=Abimelech»Abimelech@Gen.20.2-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0040",
+                  "lemma": "אֲבִימֶ֫לֶךְ",
+                  "translit": "a.vi.me.lekh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ahimelech A man living at the time of United Monarchy, first mentioned at 2Sa.8.17; <br> son of: Abiathar (H0054); <br> brother of: Jonathan (H3083I)<BR>Another spelling of <i>a.chi.me.lekh</i> (אֲחִימֶ֫לֶךְ \"Ahimelech\" H0288I)<BR>§ Abimelech = \"Melek is father\" or \"my father is king\"<br>1) king of Gerar in Abraham's time<br>2) king of Gath in David's time; maybe title of Philistine kings<br>3) son of Gideon by a concubine<br>4) priest, son of Abiathar",
+                  "raw": "H0040\tH0040J = a Spelling of\tH0288I\tאֲבִימֶ֫לֶךְ\ta.vi.me.lekh\tN:N-M-P\tAhimelech\tA man living at the time of United Monarchy, first mentioned at 2Sa.8.17; <br> son of: Abiathar (H0054); <br> brother of: Jonathan (H3083I)<BR>Another spelling of <i>a.chi.me.lekh</i> (אֲחִימֶ֫לֶךְ \"Ahimelech\" H0288I)<BR>§ Abimelech = \"Melek is father\" or \"my father is king\"<br>1) king of Gerar in Abraham's time<br>2) king of Gath in David's time; maybe title of Philistine kings<br>3) son of Gideon by a concubine<br>4) priest, son of Abiathar"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L אֲבִימֶֽלֶךְ\\׃ 'a.vi.Me.lekh Abimelech {H0040G}\\H9016 HNpm H0040G_B {H0040G=אֲבִימֶ֫לֶךְ=Abimelech»Abimelech@Gen.20.2-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 26,
           "text": "And Abimelech said, “I do not know who did this thing, neither did you tell me, nor have I heard of it except for today.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יּֽוֹם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hai./Yom",
+                "wordIndex": 2
+              },
+              {
+                "text": "this/",
+                "wordIndex": 3
+              },
+              {
+                "text": "day",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H3117G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3117G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3117G=יוֹם=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L הַ/יּֽוֹם\\׃ hai./Yom this/ day H9009/{H3117G}\\H9016 HTd/Ncmsa H3117G H9009=ה=the/{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 27,
           "text": "And Abraham took sheep and cattle and gave them to Abimelech. And the two of them made a covenant.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּרִֽית\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be.Rit",
+                "wordIndex": 2
+              },
+              {
+                "text": "a",
+                "wordIndex": 3
+              },
+              {
+                "text": "covenant",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H1285}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H1285",
+                  "lemma": "בְּרִית",
+                  "translit": "be.rit",
+                  "morph": "H:N-F",
+                  "gloss": "covenant 1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation",
+                  "raw": "H1285\tH1285 =\tH1285\tבְּרִית\tbe.rit\tH:N-F\tcovenant\t1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation"
+                }
+              },
+              {
+                "text": "HNcfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1285",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1285",
+                  "lemma": "בְּרִית",
+                  "translit": "be.rit",
+                  "morph": "H:N-F",
+                  "gloss": "covenant 1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation",
+                  "raw": "H1285\tH1285 =\tH1285\tבְּרִית\tbe.rit\tH:N-F\tcovenant\t1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation"
+                }
+              },
+              {
+                "text": "{H1285=בְּרִית=covenant}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1285",
+                  "lemma": "בְּרִית",
+                  "translit": "be.rit",
+                  "morph": "H:N-F",
+                  "gloss": "covenant 1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation",
+                  "raw": "H1285\tH1285 =\tH1285\tבְּרִית\tbe.rit\tH:N-F\tcovenant\t1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L בְּרִֽית\\׃ be.Rit a covenant {H1285}\\H9016 HNcfsa H1285 {H1285=בְּרִית=covenant}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 28,
           "text": "Then Abraham set off seven ewe-lambs of the flock by themselves.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/בַדְּ/הֶֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./va.de./Hen",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "alone/",
+                "wordIndex": 4
+              },
+              {
+                "text": "them",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H0905H}/H9039\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3fp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0905H",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0905",
+                  "lemma": "בַּד",
+                  "translit": "bad",
+                  "morph": "H:N-M",
+                  "gloss": "alone: besides : besides/apart from<br>1) alone, by itself, besides, a part, separation, being alone<br>1a) separation, alone, by itself<br>1a1) only (adv)<br>1a2) apart from, besides (prep)<br>1b) part<br>1c) parts (eg limbs, shoots), bars",
+                  "raw": "H0905\tH0905J = a Meaning of\tH0905G\tבַּד\tbad\tH:N-M\talone: besides\t: besides/apart from<br>1) alone, by itself, besides, a part, separation, being alone<br>1a) separation, alone, by itself<br>1a1) only (adv)<br>1a2) apart from, besides (prep)<br>1b) part<br>1c) parts (eg limbs, shoots), bars"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0905H=בַּד=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "alone»alone:2_alone}/H9039=Pp3f=their\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9039",
+                  "lemma": "הֶן",
+                  "translit": "hen",
+                  "morph": "Op3f",
+                  "gloss": "them Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine plural",
+                  "raw": "H9039\tH9039 =\tH9039\tהֶן\then\tOp3f\tthem\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L לְ/בַדְּ/הֶֽן\\׃ le./va.de./Hen to/ alone/ them H9005/{H0905H}/H9039\\H9016 HR/Ncmsc/Sp3fp H0905H H9005=ל=to/{H0905H=בַּד=: alone»alone:2_alone}/H9039=Pp3f=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 29,
           "text": "And Abimelech said to Abraham, “What is the meaning of these seven ewe-lambs that you have set off by themselves?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/בַדָּֽ/נָה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./va.Da./nah",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "alone/",
+                "wordIndex": 4
+              },
+              {
+                "text": "them",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H0905H}/H9039\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3fp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0905H",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0905",
+                  "lemma": "בַּד",
+                  "translit": "bad",
+                  "morph": "H:N-M",
+                  "gloss": "alone: besides : besides/apart from<br>1) alone, by itself, besides, a part, separation, being alone<br>1a) separation, alone, by itself<br>1a1) only (adv)<br>1a2) apart from, besides (prep)<br>1b) part<br>1c) parts (eg limbs, shoots), bars",
+                  "raw": "H0905\tH0905J = a Meaning of\tH0905G\tבַּד\tbad\tH:N-M\talone: besides\t: besides/apart from<br>1) alone, by itself, besides, a part, separation, being alone<br>1a) separation, alone, by itself<br>1a1) only (adv)<br>1a2) apart from, besides (prep)<br>1b) part<br>1c) parts (eg limbs, shoots), bars"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0905H=בַּד=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "alone»alone:2_alone}/H9039=Pp3f=their\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9039",
+                  "lemma": "הֶן",
+                  "translit": "hen",
+                  "morph": "Op3f",
+                  "gloss": "them Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine plural",
+                  "raw": "H9039\tH9039 =\tH9039\tהֶן\then\tOp3f\tthem\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L לְ/בַדָּֽ/נָה\\׃ le./va.Da./nah to/ alone/ them H9005/{H0905H}/H9039\\H9016 HR/Ncmsc/Sp3fp H0905H H9005=ל=to/{H0905H=בַּד=: alone»alone:2_alone}/H9039=Pp3f=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 30,
           "text": "And he said, “You shall take the seven ewe-lambs from my hand as proof on my behalf that I dug this well.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/זֹּֽאת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Zot",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "this",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2063}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Tm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2063",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2063",
+                  "lemma": "זֹאת",
+                  "translit": "zot",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2063\tH2063 =\tH2063\tזֹאת\tzot\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2063=זֹאת=this}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L הַ/זֹּֽאת\\׃ ha./Zot <the>/ this H9009/{H2063}\\H9016 HTd/Tm H2063 H9009=ה=the/{H2063=זֹאת=this}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 31,
           "text": "Therefore that place is called Beersheba, because there the two of them swore an oath.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שְׁנֵי/הֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "she.nei./Hem",
+                "wordIndex": 2
+              },
+              {
+                "text": "[the]",
+                "wordIndex": 3
+              },
+              {
+                "text": "two",
+                "wordIndex": 4
+              },
+              {
+                "text": "of/",
+                "wordIndex": 5
+              },
+              {
+                "text": "them",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H8147}/H9028\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8147",
+                  "lemma": "שְׁנַ֫יִם",
+                  "translit": "she.na.yim",
+                  "morph": "H:N",
+                  "gloss": "two 1) two<br>1a) two (the cardinal number)<br>1a1) two, both, double, twice<br>1b) second (the ordinal number)<br>1c) in combination with other numbers<br>1d) both (a dual number)",
+                  "raw": "H8147\tH8147 =\tH8147\tשְׁנַ֫יִם\tshe.na.yim\tH:N\ttwo\t1) two<br>1a) two (the cardinal number)<br>1a1) two, both, double, twice<br>1b) second (the ordinal number)<br>1c) in combination with other numbers<br>1d) both (a dual number)"
+                }
+              },
+              {
+                "text": "HAcbdc/Sp3mp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H8147",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H8147",
+                  "lemma": "שְׁנַ֫יִם",
+                  "translit": "she.na.yim",
+                  "morph": "H:N",
+                  "gloss": "two 1) two<br>1a) two (the cardinal number)<br>1a1) two, both, double, twice<br>1b) second (the ordinal number)<br>1c) in combination with other numbers<br>1d) both (a dual number)",
+                  "raw": "H8147\tH8147 =\tH8147\tשְׁנַ֫יִם\tshe.na.yim\tH:N\ttwo\t1) two<br>1a) two (the cardinal number)<br>1a1) two, both, double, twice<br>1b) second (the ordinal number)<br>1c) in combination with other numbers<br>1d) both (a dual number)"
+                }
+              },
+              {
+                "text": "{H8147=שְׁנַ֫יִם=two}/H9028=Pp3m=their\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H8147",
+                  "lemma": "שְׁנַ֫יִם",
+                  "translit": "she.na.yim",
+                  "morph": "H:N",
+                  "gloss": "two 1) two<br>1a) two (the cardinal number)<br>1a1) two, both, double, twice<br>1b) second (the ordinal number)<br>1c) in combination with other numbers<br>1d) both (a dual number)",
+                  "raw": "H8147\tH8147 =\tH8147\tשְׁנַ֫יִם\tshe.na.yim\tH:N\ttwo\t1) two<br>1a) two (the cardinal number)<br>1a1) two, both, double, twice<br>1b) second (the ordinal number)<br>1c) in combination with other numbers<br>1d) both (a dual number)"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L שְׁנֵי/הֶֽם\\׃ she.nei./Hem [the] two of/ them {H8147}/H9028\\H9016 HAcbdc/Sp3mp H8147 {H8147=שְׁנַ֫יִם=two}/H9028=Pp3m=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 32,
           "text": "And they made a covenant at Beersheba. And Abimelech, and Phicol his army commander stood and returned to the land of the Philistines.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פְּלִשְׁתִּֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "pe.lish.Tim",
+                "wordIndex": 2
+              },
+              {
+                "text": "[the]",
+                "wordIndex": 3
+              },
+              {
+                "text": "Philistines",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6430G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H6430",
+                  "lemma": "פְּלִשְׁתִּי",
+                  "translit": "pe.lish.ti",
+                  "morph": "N:N--LG",
+                  "gloss": "(Sea of the) Philistines Philistine = \"immigrants\"<br> an inhabitant of Philistia; descendants of Mizraim who immigrated from Caphtor (Crete?) to the western seacoast of Canaan<BR>Another name of <i>ga.dol</i> (גָּדוֹל \"Great( Sea)\" H1419J)",
+                  "raw": "H6430\tH6430I = a Name of\tH1419J\tפְּלִשְׁתִּי\tpe.lish.ti\tN:N--LG\t(Sea of the) Philistines\tPhilistine = \"immigrants\"<br> an inhabitant of Philistia; descendants of Mizraim who immigrated from Caphtor (Crete?) to the western seacoast of Canaan<BR>Another name of <i>ga.dol</i> (גָּדוֹל \"Great( Sea)\" H1419J)"
+                }
+              },
+              {
+                "text": "HNgmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6430G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6430",
+                  "lemma": "פְּלִשְׁתִּי",
+                  "translit": "pe.lish.ti",
+                  "morph": "N:N--LG",
+                  "gloss": "(Sea of the) Philistines Philistine = \"immigrants\"<br> an inhabitant of Philistia; descendants of Mizraim who immigrated from Caphtor (Crete?) to the western seacoast of Canaan<BR>Another name of <i>ga.dol</i> (גָּדוֹל \"Great( Sea)\" H1419J)",
+                  "raw": "H6430\tH6430I = a Name of\tH1419J\tפְּלִשְׁתִּי\tpe.lish.ti\tN:N--LG\t(Sea of the) Philistines\tPhilistine = \"immigrants\"<br> an inhabitant of Philistia; descendants of Mizraim who immigrated from Caphtor (Crete?) to the western seacoast of Canaan<BR>Another name of <i>ga.dol</i> (גָּדוֹל \"Great( Sea)\" H1419J)"
+                }
+              },
+              {
+                "text": "{H6430G=פְּלִשְׁתִּי=Philistine»Philistine@Gen.21.32-Zec}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6430",
+                  "lemma": "פְּלִשְׁתִּי",
+                  "translit": "pe.lish.ti",
+                  "morph": "N:N--LG",
+                  "gloss": "(Sea of the) Philistines Philistine = \"immigrants\"<br> an inhabitant of Philistia; descendants of Mizraim who immigrated from Caphtor (Crete?) to the western seacoast of Canaan<BR>Another name of <i>ga.dol</i> (גָּדוֹל \"Great( Sea)\" H1419J)",
+                  "raw": "H6430\tH6430I = a Name of\tH1419J\tפְּלִשְׁתִּי\tpe.lish.ti\tN:N--LG\t(Sea of the) Philistines\tPhilistine = \"immigrants\"<br> an inhabitant of Philistia; descendants of Mizraim who immigrated from Caphtor (Crete?) to the western seacoast of Canaan<BR>Another name of <i>ga.dol</i> (גָּדוֹל \"Great( Sea)\" H1419J)"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L פְּלִשְׁתִּֽים\\׃ pe.lish.Tim [the] Philistines {H6430G}\\H9016 HNgmpa H6430G {H6430G=פְּלִשְׁתִּי=Philistine»Philistine@Gen.21.32-Zec}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 33,
           "text": "And he planted a tamarisk tree in Beersheba, and there he called on the name of Yahweh, the everlasting God.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עוֹלָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "o.Lam",
+                "wordIndex": 2
+              },
+              {
+                "text": "perpetuity",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5769H}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5769H",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "{H5769H=עוֹלָם=Everlasting»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L עוֹלָֽם\\׃ o.Lam perpetuity {H5769H}\\H9016 HNcmsa H5769H {H5769H=עוֹלָם=Everlasting»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 34,
           "text": "And Abraham dwelled as an alien in the land of the Philistines many days.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "רַבִּֽים\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "ra.Bim",
+                "wordIndex": 3
+              },
+              {
+                "text": "many",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7227A}\\H9016\\",
+                "wordIndex": 5
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAampa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7227A",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H7227A=רַב=many}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L רַבִּֽים\\׃\\ \\פ ra.Bim many {H7227A}\\H9016\\ \\H9017 HAampa H7227A {H7227A=רַב=many}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ],
       "nirv": [
@@ -87,79 +988,980 @@
           "chapter": 21,
           "verse": 22,
           "text": "At that time Abimelech and Phicol spoke to Abraham. Phicol was the commander of Abimelech’s army. They said, “God is with you in everything you do.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עֹשֶֽׂה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'o.Seh",
+                "wordIndex": 2
+              },
+              {
+                "text": "[are]",
+                "wordIndex": 3
+              },
+              {
+                "text": "doing",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6213A}\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HVqrmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6213A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H6213A=עָשָׂה=:",
+                "wordIndex": 8
+              },
+              {
+                "text": "do»to",
+                "wordIndex": 9
+              },
+              {
+                "text": "make:2_do;_perform}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L עֹשֶֽׂה\\׃ 'o.Seh [are] doing {H6213A}\\H9016 HVqrmsa H6213A {H6213A=עָשָׂה=: do»to make:2_do;_perform}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 23,
           "text": "Now make a promise to me here while God is watching. Take an oath that you will treat me fairly. Promise that you will treat my children and their children the same way.\n“I’ve been kind to you. Now you be kind to me. And be kind to the country where you are living as an outsider.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ba/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "in",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "it",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H9034}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Sp3fs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9034",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9034",
+                  "lemma": "הָ",
+                  "translit": "ha",
+                  "morph": "Os3f",
+                  "gloss": "her Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular",
+                  "raw": "H9034\tH9034 =\tH9034\tהָ\tha\tOs3f\ther\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H9034=Os3f=her}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#21=L בָּֽ/הּ\\׃ Ba/h in <the>/ it H9003/{H9034}\\H9016 HRd/Sp3fs H9034 H9003=ב=in/{H9034=Os3f=her}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 24,
           "text": "Abraham said, “I promise with an oath that I’ll do it.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אִשָּׁבֵֽעַ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'i.sha.Ve.a'",
+                "wordIndex": 2
+              },
+              {
+                "text": "I",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "swear",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H7650}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H7650",
+                  "lemma": "שָׁבַע",
+                  "translit": "sha.va",
+                  "morph": "H:V",
+                  "gloss": "to swear 1) to swear, adjure<br>1a) (Qal) sworn (participle)<br>1b) (Niphal)<br>1b1) to swear, take an oath<br>1b2) to swear (of Jehovah by Himself)<br>1b3) to curse<br>1c) (Hiphil)<br>1c1) to cause to take an oath<br>1c2) to adjure",
+                  "raw": "H7650\tH7650 =\tH7650\tשָׁבַע\tsha.va\tH:V\tto swear\t1) to swear, adjure<br>1a) (Qal) sworn (participle)<br>1b) (Niphal)<br>1b1) to swear, take an oath<br>1b2) to swear (of Jehovah by Himself)<br>1b3) to curse<br>1c) (Hiphil)<br>1c1) to cause to take an oath<br>1c2) to adjure"
+                }
+              },
+              {
+                "text": "HVNi1cs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7650",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7650",
+                  "lemma": "שָׁבַע",
+                  "translit": "sha.va",
+                  "morph": "H:V",
+                  "gloss": "to swear 1) to swear, adjure<br>1a) (Qal) sworn (participle)<br>1b) (Niphal)<br>1b1) to swear, take an oath<br>1b2) to swear (of Jehovah by Himself)<br>1b3) to curse<br>1c) (Hiphil)<br>1c1) to cause to take an oath<br>1c2) to adjure",
+                  "raw": "H7650\tH7650 =\tH7650\tשָׁבַע\tsha.va\tH:V\tto swear\t1) to swear, adjure<br>1a) (Qal) sworn (participle)<br>1b) (Niphal)<br>1b1) to swear, take an oath<br>1b2) to swear (of Jehovah by Himself)<br>1b3) to curse<br>1c) (Hiphil)<br>1c1) to cause to take an oath<br>1c2) to adjure"
+                }
+              },
+              {
+                "text": "{H7650=שָׁבַע=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H7650",
+                  "lemma": "שָׁבַע",
+                  "translit": "sha.va",
+                  "morph": "H:V",
+                  "gloss": "to swear 1) to swear, adjure<br>1a) (Qal) sworn (participle)<br>1b) (Niphal)<br>1b1) to swear, take an oath<br>1b2) to swear (of Jehovah by Himself)<br>1b3) to curse<br>1c) (Hiphil)<br>1c1) to cause to take an oath<br>1c2) to adjure",
+                  "raw": "H7650\tH7650 =\tH7650\tשָׁבַע\tsha.va\tH:V\tto swear\t1) to swear, adjure<br>1a) (Qal) sworn (participle)<br>1b) (Niphal)<br>1b1) to swear, take an oath<br>1b2) to swear (of Jehovah by Himself)<br>1b3) to curse<br>1c) (Hiphil)<br>1c1) to cause to take an oath<br>1c2) to adjure"
+                }
+              },
+              {
+                "text": "swear}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L אִשָּׁבֵֽעַ\\׃ 'i.sha.Ve.a' I will swear {H7650}\\H9016 HVNi1cs H7650 {H7650=שָׁבַע=to swear}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 25,
           "text": "Then Abraham objected to Abimelech about what Abimelech’s servants had done. They had taken over a well of water.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֲבִימֶֽלֶךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.vi.Me.lekh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Abimelech",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0040G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0040",
+                  "lemma": "אֲבִימֶ֫לֶךְ",
+                  "translit": "a.vi.me.lekh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ahimelech A man living at the time of United Monarchy, first mentioned at 2Sa.8.17; <br> son of: Abiathar (H0054); <br> brother of: Jonathan (H3083I)<BR>Another spelling of <i>a.chi.me.lekh</i> (אֲחִימֶ֫לֶךְ \"Ahimelech\" H0288I)<BR>§ Abimelech = \"Melek is father\" or \"my father is king\"<br>1) king of Gerar in Abraham's time<br>2) king of Gath in David's time; maybe title of Philistine kings<br>3) son of Gideon by a concubine<br>4) priest, son of Abiathar",
+                  "raw": "H0040\tH0040J = a Spelling of\tH0288I\tאֲבִימֶ֫לֶךְ\ta.vi.me.lekh\tN:N-M-P\tAhimelech\tA man living at the time of United Monarchy, first mentioned at 2Sa.8.17; <br> son of: Abiathar (H0054); <br> brother of: Jonathan (H3083I)<BR>Another spelling of <i>a.chi.me.lekh</i> (אֲחִימֶ֫לֶךְ \"Ahimelech\" H0288I)<BR>§ Abimelech = \"Melek is father\" or \"my father is king\"<br>1) king of Gerar in Abraham's time<br>2) king of Gath in David's time; maybe title of Philistine kings<br>3) son of Gideon by a concubine<br>4) priest, son of Abiathar"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0040G_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0040",
+                  "lemma": "אֲבִימֶ֫לֶךְ",
+                  "translit": "a.vi.me.lekh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ahimelech A man living at the time of United Monarchy, first mentioned at 2Sa.8.17; <br> son of: Abiathar (H0054); <br> brother of: Jonathan (H3083I)<BR>Another spelling of <i>a.chi.me.lekh</i> (אֲחִימֶ֫לֶךְ \"Ahimelech\" H0288I)<BR>§ Abimelech = \"Melek is father\" or \"my father is king\"<br>1) king of Gerar in Abraham's time<br>2) king of Gath in David's time; maybe title of Philistine kings<br>3) son of Gideon by a concubine<br>4) priest, son of Abiathar",
+                  "raw": "H0040\tH0040J = a Spelling of\tH0288I\tאֲבִימֶ֫לֶךְ\ta.vi.me.lekh\tN:N-M-P\tAhimelech\tA man living at the time of United Monarchy, first mentioned at 2Sa.8.17; <br> son of: Abiathar (H0054); <br> brother of: Jonathan (H3083I)<BR>Another spelling of <i>a.chi.me.lekh</i> (אֲחִימֶ֫לֶךְ \"Ahimelech\" H0288I)<BR>§ Abimelech = \"Melek is father\" or \"my father is king\"<br>1) king of Gerar in Abraham's time<br>2) king of Gath in David's time; maybe title of Philistine kings<br>3) son of Gideon by a concubine<br>4) priest, son of Abiathar"
+                }
+              },
+              {
+                "text": "{H0040G=אֲבִימֶ֫לֶךְ=Abimelech»Abimelech@Gen.20.2-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0040",
+                  "lemma": "אֲבִימֶ֫לֶךְ",
+                  "translit": "a.vi.me.lekh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ahimelech A man living at the time of United Monarchy, first mentioned at 2Sa.8.17; <br> son of: Abiathar (H0054); <br> brother of: Jonathan (H3083I)<BR>Another spelling of <i>a.chi.me.lekh</i> (אֲחִימֶ֫לֶךְ \"Ahimelech\" H0288I)<BR>§ Abimelech = \"Melek is father\" or \"my father is king\"<br>1) king of Gerar in Abraham's time<br>2) king of Gath in David's time; maybe title of Philistine kings<br>3) son of Gideon by a concubine<br>4) priest, son of Abiathar",
+                  "raw": "H0040\tH0040J = a Spelling of\tH0288I\tאֲבִימֶ֫לֶךְ\ta.vi.me.lekh\tN:N-M-P\tAhimelech\tA man living at the time of United Monarchy, first mentioned at 2Sa.8.17; <br> son of: Abiathar (H0054); <br> brother of: Jonathan (H3083I)<BR>Another spelling of <i>a.chi.me.lekh</i> (אֲחִימֶ֫לֶךְ \"Ahimelech\" H0288I)<BR>§ Abimelech = \"Melek is father\" or \"my father is king\"<br>1) king of Gerar in Abraham's time<br>2) king of Gath in David's time; maybe title of Philistine kings<br>3) son of Gideon by a concubine<br>4) priest, son of Abiathar"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L אֲבִימֶֽלֶךְ\\׃ 'a.vi.Me.lekh Abimelech {H0040G}\\H9016 HNpm H0040G_B {H0040G=אֲבִימֶ֫לֶךְ=Abimelech»Abimelech@Gen.20.2-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 26,
           "text": "But Abimelech said, “I don’t know who has done this. You didn’t tell me. Today is the first time I heard about it.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יּֽוֹם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hai./Yom",
+                "wordIndex": 2
+              },
+              {
+                "text": "this/",
+                "wordIndex": 3
+              },
+              {
+                "text": "day",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H3117G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3117G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3117G=יוֹם=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L הַ/יּֽוֹם\\׃ hai./Yom this/ day H9009/{H3117G}\\H9016 HTd/Ncmsa H3117G H9009=ה=the/{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 27,
           "text": "So Abraham gave Abimelech sheep and cattle. The two men made a peace treaty.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּרִֽית\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be.Rit",
+                "wordIndex": 2
+              },
+              {
+                "text": "a",
+                "wordIndex": 3
+              },
+              {
+                "text": "covenant",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H1285}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H1285",
+                  "lemma": "בְּרִית",
+                  "translit": "be.rit",
+                  "morph": "H:N-F",
+                  "gloss": "covenant 1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation",
+                  "raw": "H1285\tH1285 =\tH1285\tבְּרִית\tbe.rit\tH:N-F\tcovenant\t1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation"
+                }
+              },
+              {
+                "text": "HNcfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1285",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1285",
+                  "lemma": "בְּרִית",
+                  "translit": "be.rit",
+                  "morph": "H:N-F",
+                  "gloss": "covenant 1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation",
+                  "raw": "H1285\tH1285 =\tH1285\tבְּרִית\tbe.rit\tH:N-F\tcovenant\t1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation"
+                }
+              },
+              {
+                "text": "{H1285=בְּרִית=covenant}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1285",
+                  "lemma": "בְּרִית",
+                  "translit": "be.rit",
+                  "morph": "H:N-F",
+                  "gloss": "covenant 1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation",
+                  "raw": "H1285\tH1285 =\tH1285\tבְּרִית\tbe.rit\tH:N-F\tcovenant\t1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L בְּרִֽית\\׃ be.Rit a covenant {H1285}\\H9016 HNcfsa H1285 {H1285=בְּרִית=covenant}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 28,
           "text": "Then Abraham took out seven female lambs from his flock.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/בַדְּ/הֶֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./va.de./Hen",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "alone/",
+                "wordIndex": 4
+              },
+              {
+                "text": "them",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H0905H}/H9039\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3fp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0905H",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0905",
+                  "lemma": "בַּד",
+                  "translit": "bad",
+                  "morph": "H:N-M",
+                  "gloss": "alone: besides : besides/apart from<br>1) alone, by itself, besides, a part, separation, being alone<br>1a) separation, alone, by itself<br>1a1) only (adv)<br>1a2) apart from, besides (prep)<br>1b) part<br>1c) parts (eg limbs, shoots), bars",
+                  "raw": "H0905\tH0905J = a Meaning of\tH0905G\tבַּד\tbad\tH:N-M\talone: besides\t: besides/apart from<br>1) alone, by itself, besides, a part, separation, being alone<br>1a) separation, alone, by itself<br>1a1) only (adv)<br>1a2) apart from, besides (prep)<br>1b) part<br>1c) parts (eg limbs, shoots), bars"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0905H=בַּד=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "alone»alone:2_alone}/H9039=Pp3f=their\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9039",
+                  "lemma": "הֶן",
+                  "translit": "hen",
+                  "morph": "Op3f",
+                  "gloss": "them Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine plural",
+                  "raw": "H9039\tH9039 =\tH9039\tהֶן\then\tOp3f\tthem\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L לְ/בַדְּ/הֶֽן\\׃ le./va.de./Hen to/ alone/ them H9005/{H0905H}/H9039\\H9016 HR/Ncmsc/Sp3fp H0905H H9005=ל=to/{H0905H=בַּד=: alone»alone:2_alone}/H9039=Pp3f=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 29,
           "text": "Abimelech asked Abraham, “What’s the meaning of these seven female lambs? Why have you taken them out and put them by themselves?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/בַדָּֽ/נָה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./va.Da./nah",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "alone/",
+                "wordIndex": 4
+              },
+              {
+                "text": "them",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H0905H}/H9039\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3fp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0905H",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0905",
+                  "lemma": "בַּד",
+                  "translit": "bad",
+                  "morph": "H:N-M",
+                  "gloss": "alone: besides : besides/apart from<br>1) alone, by itself, besides, a part, separation, being alone<br>1a) separation, alone, by itself<br>1a1) only (adv)<br>1a2) apart from, besides (prep)<br>1b) part<br>1c) parts (eg limbs, shoots), bars",
+                  "raw": "H0905\tH0905J = a Meaning of\tH0905G\tבַּד\tbad\tH:N-M\talone: besides\t: besides/apart from<br>1) alone, by itself, besides, a part, separation, being alone<br>1a) separation, alone, by itself<br>1a1) only (adv)<br>1a2) apart from, besides (prep)<br>1b) part<br>1c) parts (eg limbs, shoots), bars"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0905H=בַּד=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "alone»alone:2_alone}/H9039=Pp3f=their\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9039",
+                  "lemma": "הֶן",
+                  "translit": "hen",
+                  "morph": "Op3f",
+                  "gloss": "them Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine plural",
+                  "raw": "H9039\tH9039 =\tH9039\tהֶן\then\tOp3f\tthem\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L לְ/בַדָּֽ/נָה\\׃ le./va.Da./nah to/ alone/ them H9005/{H0905H}/H9039\\H9016 HR/Ncmsc/Sp3fp H0905H H9005=ל=to/{H0905H=בַּד=: alone»alone:2_alone}/H9039=Pp3f=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 30,
           "text": "Abraham replied, “Accept the seven lambs from me. They will be a witness that I dug this well.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/זֹּֽאת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Zot",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "this",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2063}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Tm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2063",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2063",
+                  "lemma": "זֹאת",
+                  "translit": "zot",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2063\tH2063 =\tH2063\tזֹאת\tzot\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2063=זֹאת=this}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L הַ/זֹּֽאת\\׃ ha./Zot <the>/ this H9009/{H2063}\\H9016 HTd/Tm H2063 H9009=ה=the/{H2063=זֹאת=this}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 31,
           "text": "That place was named Beersheba. That’s because there the two men made a promise with an oath.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שְׁנֵי/הֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "she.nei./Hem",
+                "wordIndex": 2
+              },
+              {
+                "text": "[the]",
+                "wordIndex": 3
+              },
+              {
+                "text": "two",
+                "wordIndex": 4
+              },
+              {
+                "text": "of/",
+                "wordIndex": 5
+              },
+              {
+                "text": "them",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H8147}/H9028\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8147",
+                  "lemma": "שְׁנַ֫יִם",
+                  "translit": "she.na.yim",
+                  "morph": "H:N",
+                  "gloss": "two 1) two<br>1a) two (the cardinal number)<br>1a1) two, both, double, twice<br>1b) second (the ordinal number)<br>1c) in combination with other numbers<br>1d) both (a dual number)",
+                  "raw": "H8147\tH8147 =\tH8147\tשְׁנַ֫יִם\tshe.na.yim\tH:N\ttwo\t1) two<br>1a) two (the cardinal number)<br>1a1) two, both, double, twice<br>1b) second (the ordinal number)<br>1c) in combination with other numbers<br>1d) both (a dual number)"
+                }
+              },
+              {
+                "text": "HAcbdc/Sp3mp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H8147",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H8147",
+                  "lemma": "שְׁנַ֫יִם",
+                  "translit": "she.na.yim",
+                  "morph": "H:N",
+                  "gloss": "two 1) two<br>1a) two (the cardinal number)<br>1a1) two, both, double, twice<br>1b) second (the ordinal number)<br>1c) in combination with other numbers<br>1d) both (a dual number)",
+                  "raw": "H8147\tH8147 =\tH8147\tשְׁנַ֫יִם\tshe.na.yim\tH:N\ttwo\t1) two<br>1a) two (the cardinal number)<br>1a1) two, both, double, twice<br>1b) second (the ordinal number)<br>1c) in combination with other numbers<br>1d) both (a dual number)"
+                }
+              },
+              {
+                "text": "{H8147=שְׁנַ֫יִם=two}/H9028=Pp3m=their\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H8147",
+                  "lemma": "שְׁנַ֫יִם",
+                  "translit": "she.na.yim",
+                  "morph": "H:N",
+                  "gloss": "two 1) two<br>1a) two (the cardinal number)<br>1a1) two, both, double, twice<br>1b) second (the ordinal number)<br>1c) in combination with other numbers<br>1d) both (a dual number)",
+                  "raw": "H8147\tH8147 =\tH8147\tשְׁנַ֫יִם\tshe.na.yim\tH:N\ttwo\t1) two<br>1a) two (the cardinal number)<br>1a1) two, both, double, twice<br>1b) second (the ordinal number)<br>1c) in combination with other numbers<br>1d) both (a dual number)"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L שְׁנֵי/הֶֽם\\׃ she.nei./Hem [the] two of/ them {H8147}/H9028\\H9016 HAcbdc/Sp3mp H8147 {H8147=שְׁנַ֫יִם=two}/H9028=Pp3m=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 32,
           "text": "After the peace treaty had been made at Beersheba, Abimelech went back to the land of the Philistines. His army commander Phicol went with him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פְּלִשְׁתִּֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "pe.lish.Tim",
+                "wordIndex": 2
+              },
+              {
+                "text": "[the]",
+                "wordIndex": 3
+              },
+              {
+                "text": "Philistines",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6430G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H6430",
+                  "lemma": "פְּלִשְׁתִּי",
+                  "translit": "pe.lish.ti",
+                  "morph": "N:N--LG",
+                  "gloss": "(Sea of the) Philistines Philistine = \"immigrants\"<br> an inhabitant of Philistia; descendants of Mizraim who immigrated from Caphtor (Crete?) to the western seacoast of Canaan<BR>Another name of <i>ga.dol</i> (גָּדוֹל \"Great( Sea)\" H1419J)",
+                  "raw": "H6430\tH6430I = a Name of\tH1419J\tפְּלִשְׁתִּי\tpe.lish.ti\tN:N--LG\t(Sea of the) Philistines\tPhilistine = \"immigrants\"<br> an inhabitant of Philistia; descendants of Mizraim who immigrated from Caphtor (Crete?) to the western seacoast of Canaan<BR>Another name of <i>ga.dol</i> (גָּדוֹל \"Great( Sea)\" H1419J)"
+                }
+              },
+              {
+                "text": "HNgmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6430G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6430",
+                  "lemma": "פְּלִשְׁתִּי",
+                  "translit": "pe.lish.ti",
+                  "morph": "N:N--LG",
+                  "gloss": "(Sea of the) Philistines Philistine = \"immigrants\"<br> an inhabitant of Philistia; descendants of Mizraim who immigrated from Caphtor (Crete?) to the western seacoast of Canaan<BR>Another name of <i>ga.dol</i> (גָּדוֹל \"Great( Sea)\" H1419J)",
+                  "raw": "H6430\tH6430I = a Name of\tH1419J\tפְּלִשְׁתִּי\tpe.lish.ti\tN:N--LG\t(Sea of the) Philistines\tPhilistine = \"immigrants\"<br> an inhabitant of Philistia; descendants of Mizraim who immigrated from Caphtor (Crete?) to the western seacoast of Canaan<BR>Another name of <i>ga.dol</i> (גָּדוֹל \"Great( Sea)\" H1419J)"
+                }
+              },
+              {
+                "text": "{H6430G=פְּלִשְׁתִּי=Philistine»Philistine@Gen.21.32-Zec}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6430",
+                  "lemma": "פְּלִשְׁתִּי",
+                  "translit": "pe.lish.ti",
+                  "morph": "N:N--LG",
+                  "gloss": "(Sea of the) Philistines Philistine = \"immigrants\"<br> an inhabitant of Philistia; descendants of Mizraim who immigrated from Caphtor (Crete?) to the western seacoast of Canaan<BR>Another name of <i>ga.dol</i> (גָּדוֹל \"Great( Sea)\" H1419J)",
+                  "raw": "H6430\tH6430I = a Name of\tH1419J\tפְּלִשְׁתִּי\tpe.lish.ti\tN:N--LG\t(Sea of the) Philistines\tPhilistine = \"immigrants\"<br> an inhabitant of Philistia; descendants of Mizraim who immigrated from Caphtor (Crete?) to the western seacoast of Canaan<BR>Another name of <i>ga.dol</i> (גָּדוֹל \"Great( Sea)\" H1419J)"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L פְּלִשְׁתִּֽים\\׃ pe.lish.Tim [the] Philistines {H6430G}\\H9016 HNgmpa H6430G {H6430G=פְּלִשְׁתִּי=Philistine»Philistine@Gen.21.32-Zec}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 33,
           "text": "Abraham planted a tamarisk tree in Beersheba. There he worshiped the Lord, the God who lives forever.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עוֹלָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "o.Lam",
+                "wordIndex": 2
+              },
+              {
+                "text": "perpetuity",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5769H}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5769H",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "{H5769H=עוֹלָם=Everlasting»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L עוֹלָֽם\\׃ o.Lam perpetuity {H5769H}\\H9016 HNcmsa H5769H {H5769H=עוֹלָם=Everlasting»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 34,
           "text": "Abraham stayed in the land of the Philistines for a long time.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "רַבִּֽים\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "ra.Bim",
+                "wordIndex": 3
+              },
+              {
+                "text": "many",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7227A}\\H9016\\",
+                "wordIndex": 5
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAampa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7227A",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H7227A=רַב=many}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L רַבִּֽים\\׃\\ \\פ ra.Bim many {H7227A}\\H9016\\ \\H9017 HAampa H7227A {H7227A=רַב=many}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ]
     }

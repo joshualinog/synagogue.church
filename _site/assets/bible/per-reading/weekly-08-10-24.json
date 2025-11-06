@@ -7,43 +7,606 @@
           "chapter": 33,
           "verse": 17,
           "text": "And Yahweh said to Moses, “Also I will do this thing that you have spoken, because you have found favor in my eyes and I have known you by name.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/שֵֽׁם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./Shem",
+                "wordIndex": 2
+              },
+              {
+                "text": "by/",
+                "wordIndex": 3
+              },
+              {
+                "text": "name",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9003/{H8034}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8034",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8034",
+                  "lemma": "שֵׁם",
+                  "translit": "shem",
+                  "morph": "H:N-M",
+                  "gloss": "name 1) name<br>1a) name<br>1b) reputation, fame, glory<br>1c) the Name (as designation of God)<br>1d) memorial, monument<BR>Aramaic equivalent: <i>shum</i> (שֻׁם \"name\" H8036)",
+                  "raw": "H8034\tH8034 =\tH8034\tשֵׁם\tshem\tH:N-M\tname\t1) name<br>1a) name<br>1b) reputation, fame, glory<br>1c) the Name (as designation of God)<br>1d) memorial, monument<BR>Aramaic equivalent: <i>shum</i> (שֻׁם \"name\" H8036)"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H8034=שֵׁם=name}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#17=L בְּ/שֵֽׁם\\׃ be./Shem by/ name H9003/{H8034}\\H9016 HR/Ncmsa H8034 H9003=ב=in/{H8034=שֵׁם=name}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 33,
           "verse": 18,
           "text": "And he said, “Please show me your glory.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "כְּבֹדֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ke.vo.De./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "glory/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3519}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3519",
+                  "lemma": "כָּבוֹד",
+                  "translit": "ka.vod",
+                  "morph": "H:N-M",
+                  "gloss": "glory 1) glory, honour, glorious, abundance<br>1a) abundance, riches<br>1b) honour, splendour, glory<br>1c) honour, dignity<br>1d) honour, reputation<br>1e) honour, reverence, glory<br>1f) glory",
+                  "raw": "H3519\tH3519 =\tH3519\tכָּבוֹד\tka.vod\tH:N-M\tglory\t1) glory, honour, glorious, abundance<br>1a) abundance, riches<br>1b) honour, splendour, glory<br>1c) honour, dignity<br>1d) honour, reputation<br>1e) honour, reverence, glory<br>1f) glory"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3519",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3519",
+                  "lemma": "כָּבוֹד",
+                  "translit": "ka.vod",
+                  "morph": "H:N-M",
+                  "gloss": "glory 1) glory, honour, glorious, abundance<br>1a) abundance, riches<br>1b) honour, splendour, glory<br>1c) honour, dignity<br>1d) honour, reputation<br>1e) honour, reverence, glory<br>1f) glory",
+                  "raw": "H3519\tH3519 =\tH3519\tכָּבוֹד\tka.vod\tH:N-M\tglory\t1) glory, honour, glorious, abundance<br>1a) abundance, riches<br>1b) honour, splendour, glory<br>1c) honour, dignity<br>1d) honour, reputation<br>1e) honour, reverence, glory<br>1f) glory"
+                }
+              },
+              {
+                "text": "{H3519=כָּבוֹד=glory}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3519",
+                  "lemma": "כָּבוֹד",
+                  "translit": "ka.vod",
+                  "morph": "H:N-M",
+                  "gloss": "glory 1) glory, honour, glorious, abundance<br>1a) abundance, riches<br>1b) honour, splendour, glory<br>1c) honour, dignity<br>1d) honour, reputation<br>1e) honour, reverence, glory<br>1f) glory",
+                  "raw": "H3519\tH3519 =\tH3519\tכָּבוֹד\tka.vod\tH:N-M\tglory\t1) glory, honour, glorious, abundance<br>1a) abundance, riches<br>1b) honour, splendour, glory<br>1c) honour, dignity<br>1d) honour, reputation<br>1e) honour, reverence, glory<br>1f) glory"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L כְּבֹדֶֽ/ךָ\\׃ ke.vo.De./kha glory/ your {H3519}/H9021\\H9016 HNcmsc/Sp2ms H3519 {H3519=כָּבוֹד=glory}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 33,
           "verse": 19,
           "text": "And he said, “I myself will cause all my goodness to pass over before you, and I will proclaim the name of Yahweh before you, and I will be gracious to whom I will be gracious, and I will show compassion to whom I will show compassion.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֲרַחֵֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.ra.Chem",
+                "wordIndex": 2
+              },
+              {
+                "text": "I",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "have",
+                "wordIndex": 5
+              },
+              {
+                "text": "compassion",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H7355}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7355",
+                  "lemma": "רָחַם",
+                  "translit": "ra.cham",
+                  "morph": "H:V",
+                  "gloss": "to have compassion 1) to love, love deeply, have mercy, be compassionate, have tender affection, have compassion<br>1a) (Qal) to love<br>1b) (Piel)<br>1b1) to have compassion, be compassionate<br>1b1a) of God, man<br>1c) (Pual) to be shown compassion, be compassionate",
+                  "raw": "H7355\tH7355 =\tH7355\tרָחַם\tra.cham\tH:V\tto have compassion\t1) to love, love deeply, have mercy, be compassionate, have tender affection, have compassion<br>1a) (Qal) to love<br>1b) (Piel)<br>1b1) to have compassion, be compassionate<br>1b1a) of God, man<br>1c) (Pual) to be shown compassion, be compassionate"
+                }
+              },
+              {
+                "text": "HVpi1cs",
+                "wordIndex": 8
+              },
+              {
+                "text": "H7355_B",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H7355",
+                  "lemma": "רָחַם",
+                  "translit": "ra.cham",
+                  "morph": "H:V",
+                  "gloss": "to have compassion 1) to love, love deeply, have mercy, be compassionate, have tender affection, have compassion<br>1a) (Qal) to love<br>1b) (Piel)<br>1b1) to have compassion, be compassionate<br>1b1a) of God, man<br>1c) (Pual) to be shown compassion, be compassionate",
+                  "raw": "H7355\tH7355 =\tH7355\tרָחַם\tra.cham\tH:V\tto have compassion\t1) to love, love deeply, have mercy, be compassionate, have tender affection, have compassion<br>1a) (Qal) to love<br>1b) (Piel)<br>1b1) to have compassion, be compassionate<br>1b1a) of God, man<br>1c) (Pual) to be shown compassion, be compassionate"
+                }
+              },
+              {
+                "text": "{H7355=רָחַם=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H7355",
+                  "lemma": "רָחַם",
+                  "translit": "ra.cham",
+                  "morph": "H:V",
+                  "gloss": "to have compassion 1) to love, love deeply, have mercy, be compassionate, have tender affection, have compassion<br>1a) (Qal) to love<br>1b) (Piel)<br>1b1) to have compassion, be compassionate<br>1b1a) of God, man<br>1c) (Pual) to be shown compassion, be compassionate",
+                  "raw": "H7355\tH7355 =\tH7355\tרָחַם\tra.cham\tH:V\tto have compassion\t1) to love, love deeply, have mercy, be compassionate, have tender affection, have compassion<br>1a) (Qal) to love<br>1b) (Piel)<br>1b1) to have compassion, be compassionate<br>1b1a) of God, man<br>1c) (Pual) to be shown compassion, be compassionate"
+                }
+              },
+              {
+                "text": "have",
+                "wordIndex": 11
+              },
+              {
+                "text": "compassion}\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L אֲרַחֵֽם\\׃ 'a.ra.Chem I will have compassion {H7355}\\H9016 HVpi1cs H7355_B {H7355=רָחַם=to have compassion}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 33,
           "verse": 20,
           "text": "But he said, “You are not able to see my face, because a human will not see me and live.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וָ/חָֽי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./Chai",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "he",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "live",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H2421}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqq3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2421",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2421",
+                  "lemma": "חָיָה",
+                  "translit": "cha.yah",
+                  "morph": "H:V",
+                  "gloss": "to live 1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life",
+                  "raw": "H2421\tH2421 =\tH2421\tחָיָה\tcha.yah\tH:V\tto live\t1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life"
+                }
+              },
+              {
+                "text": "H2425",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H2425",
+                  "lemma": "חָיַי",
+                  "translit": "cha.yay",
+                  "morph": "H:V",
+                  "gloss": "to live 1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiph)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life",
+                  "raw": "H2425\tH2425 = a Spelling of\tH2421\tחָיַי\tcha.yay\tH:V\tto live\t1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiph)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H2421=חָיָה=to",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "live}\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L וָ/חָֽי\\׃ va./Chai and/ he will live H9001/{H2421}\\H9016 Hc/Vqq3ms H2421 H2425 H9001=ו=&/{H2421=חָיָה=to live}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 33,
           "verse": 21,
           "text": "And Yahweh said, “There is a place with me, and you will stand on the rock.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/צּֽוּר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Tzur",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "rock",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H6697H}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6697H",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6697",
+                  "lemma": "צוּר",
+                  "translit": "tsur",
+                  "morph": "H:N-M",
+                  "gloss": "rock 1) rock, cliff<br>1a) rocky wall, cliff<br>1b) rock (with flat surface)<br>1c) block of stone, boulder<br>1d) rock (specific)<br>1e) rock (of God)<br>1f) rock (of heathen gods) n pr dei<br>1g) Rock<BR>Aramaic equivalent: <i>tur</i> (טוּר \"mountain\" H2906)",
+                  "raw": "H6697\tH6697H =\tH6697H\tצוּר\ttsur\tH:N-M\trock\t1) rock, cliff<br>1a) rocky wall, cliff<br>1b) rock (with flat surface)<br>1c) block of stone, boulder<br>1d) rock (specific)<br>1e) rock (of God)<br>1f) rock (of heathen gods) n pr dei<br>1g) Rock<BR>Aramaic equivalent: <i>tur</i> (טוּר \"mountain\" H2906)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H6697H=צוּר=rock}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L הַ/צּֽוּר\\׃ ha./Tzur the/ rock H9009/{H6697H}\\H9016 HTd/Ncmsa H6697H H9009=ה=the/{H6697H=צוּר=rock}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 33,
           "verse": 22,
           "text": "And when my glory passes over, I will put you in the rock’s crevice, and I will cover you with my hand until I pass over.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עָבְרִֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.ve.R/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "have",
+                "wordIndex": 3
+              },
+              {
+                "text": "passed",
+                "wordIndex": 4
+              },
+              {
+                "text": "by/",
+                "wordIndex": 5
+              },
+              {
+                "text": "I",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H5674A}/H9040\\H9016",
+                "wordIndex": 7
+              },
+              {
+                "text": "HVqcc/Sp1bs",
+                "wordIndex": 8
+              },
+              {
+                "text": "H5674A_B",
+                "wordIndex": 9
+              },
+              {
+                "text": "{H5674A=עָבַר=:",
+                "wordIndex": 10
+              },
+              {
+                "text": "pass»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "pass:1_pass}/H9040=Ss1c=I\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9040",
+                  "lemma": "נִי",
+                  "translit": "ni",
+                  "morph": "Ss1c",
+                  "gloss": "I Personal subject pronoun -  suffix for some adverbs and infinitives:  1st person singular",
+                  "raw": "H9040\tH9040 =\tH9040\tנִי\tni\tSs1c\tI\tPersonal subject pronoun -  suffix for some adverbs and infinitives:  1st person singular"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L עָבְרִֽ/י\\׃ 'a.ve.R/i have passed by/ I {H5674A}/H9040\\H9016 HVqcc/Sp1bs H5674A_B {H5674A=עָבַר=: pass»to pass:1_pass}/H9040=Ss1c=I\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 33,
           "verse": 23,
           "text": "And I will remove my hand, and you will see my back, but my face will not be visible.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יֵרָאֽוּ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "ye.ra.'U",
+                "wordIndex": 3
+              },
+              {
+                "text": "they",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "be",
+                "wordIndex": 6
+              },
+              {
+                "text": "visible",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H7200G}\\H9016\\",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7200",
+                  "lemma": "רָאָה",
+                  "translit": "ra.ah",
+                  "morph": "H:V",
+                  "gloss": "Provider (Lord will) Provide, cause to be seen.<BR> This name means  to see, look at, inspect, look after",
+                  "raw": "H7200\tH7200N = a Name of\tH3068G\tרָאָה\tra.ah\tH:V\tProvider\t(Lord will) Provide, cause to be seen.<BR> This name means  to see, look at, inspect, look after"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HVNi3mp",
+                "wordIndex": 10
+              },
+              {
+                "text": "H7200G_B",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H7200",
+                  "lemma": "רָאָה",
+                  "translit": "ra.ah",
+                  "morph": "H:V",
+                  "gloss": "Provider (Lord will) Provide, cause to be seen.<BR> This name means  to see, look at, inspect, look after",
+                  "raw": "H7200\tH7200N = a Name of\tH3068G\tרָאָה\tra.ah\tH:V\tProvider\t(Lord will) Provide, cause to be seen.<BR> This name means  to see, look at, inspect, look after"
+                }
+              },
+              {
+                "text": "{H7200G=רָאָה=:",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H7200",
+                  "lemma": "רָאָה",
+                  "translit": "ra.ah",
+                  "morph": "H:V",
+                  "gloss": "Provider (Lord will) Provide, cause to be seen.<BR> This name means  to see, look at, inspect, look after",
+                  "raw": "H7200\tH7200N = a Name of\tH3068G\tרָאָה\tra.ah\tH:V\tProvider\t(Lord will) Provide, cause to be seen.<BR> This name means  to see, look at, inspect, look after"
+                }
+              },
+              {
+                "text": "see»to",
+                "wordIndex": 13
+              },
+              {
+                "text": "see:1_see;_show}\\H9016=׃=verseEnd\\",
+                "wordIndex": 14,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 15,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L יֵרָאֽוּ\\׃\\ \\ס ye.ra.'U they will be visible {H7200G}\\H9016\\ \\H9018 HVNi3mp H7200G_B {H7200G=רָאָה=: see»to see:1_see;_show}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         }
       ],
       "nirv": [
@@ -51,43 +614,606 @@
           "chapter": 33,
           "verse": 17,
           "text": "The Lord said to Moses, “I will do exactly what you have asked. I am pleased with you. And I know your name. I know all about you.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/שֵֽׁם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./Shem",
+                "wordIndex": 2
+              },
+              {
+                "text": "by/",
+                "wordIndex": 3
+              },
+              {
+                "text": "name",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9003/{H8034}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8034",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8034",
+                  "lemma": "שֵׁם",
+                  "translit": "shem",
+                  "morph": "H:N-M",
+                  "gloss": "name 1) name<br>1a) name<br>1b) reputation, fame, glory<br>1c) the Name (as designation of God)<br>1d) memorial, monument<BR>Aramaic equivalent: <i>shum</i> (שֻׁם \"name\" H8036)",
+                  "raw": "H8034\tH8034 =\tH8034\tשֵׁם\tshem\tH:N-M\tname\t1) name<br>1a) name<br>1b) reputation, fame, glory<br>1c) the Name (as designation of God)<br>1d) memorial, monument<BR>Aramaic equivalent: <i>shum</i> (שֻׁם \"name\" H8036)"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H8034=שֵׁם=name}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#17=L בְּ/שֵֽׁם\\׃ be./Shem by/ name H9003/{H8034}\\H9016 HR/Ncmsa H8034 H9003=ב=in/{H8034=שֵׁם=name}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 33,
           "verse": 18,
           "text": "Then Moses said, “Now show me your glory.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "כְּבֹדֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ke.vo.De./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "glory/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3519}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3519",
+                  "lemma": "כָּבוֹד",
+                  "translit": "ka.vod",
+                  "morph": "H:N-M",
+                  "gloss": "glory 1) glory, honour, glorious, abundance<br>1a) abundance, riches<br>1b) honour, splendour, glory<br>1c) honour, dignity<br>1d) honour, reputation<br>1e) honour, reverence, glory<br>1f) glory",
+                  "raw": "H3519\tH3519 =\tH3519\tכָּבוֹד\tka.vod\tH:N-M\tglory\t1) glory, honour, glorious, abundance<br>1a) abundance, riches<br>1b) honour, splendour, glory<br>1c) honour, dignity<br>1d) honour, reputation<br>1e) honour, reverence, glory<br>1f) glory"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3519",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3519",
+                  "lemma": "כָּבוֹד",
+                  "translit": "ka.vod",
+                  "morph": "H:N-M",
+                  "gloss": "glory 1) glory, honour, glorious, abundance<br>1a) abundance, riches<br>1b) honour, splendour, glory<br>1c) honour, dignity<br>1d) honour, reputation<br>1e) honour, reverence, glory<br>1f) glory",
+                  "raw": "H3519\tH3519 =\tH3519\tכָּבוֹד\tka.vod\tH:N-M\tglory\t1) glory, honour, glorious, abundance<br>1a) abundance, riches<br>1b) honour, splendour, glory<br>1c) honour, dignity<br>1d) honour, reputation<br>1e) honour, reverence, glory<br>1f) glory"
+                }
+              },
+              {
+                "text": "{H3519=כָּבוֹד=glory}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3519",
+                  "lemma": "כָּבוֹד",
+                  "translit": "ka.vod",
+                  "morph": "H:N-M",
+                  "gloss": "glory 1) glory, honour, glorious, abundance<br>1a) abundance, riches<br>1b) honour, splendour, glory<br>1c) honour, dignity<br>1d) honour, reputation<br>1e) honour, reverence, glory<br>1f) glory",
+                  "raw": "H3519\tH3519 =\tH3519\tכָּבוֹד\tka.vod\tH:N-M\tglory\t1) glory, honour, glorious, abundance<br>1a) abundance, riches<br>1b) honour, splendour, glory<br>1c) honour, dignity<br>1d) honour, reputation<br>1e) honour, reverence, glory<br>1f) glory"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L כְּבֹדֶֽ/ךָ\\׃ ke.vo.De./kha glory/ your {H3519}/H9021\\H9016 HNcmsc/Sp2ms H3519 {H3519=כָּבוֹד=glory}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 33,
           "verse": 19,
           "text": "The Lord said, “I will make all of my goodness pass in front of you. And I will announce my name, The Lord, in front of you. I will have mercy on whom I have mercy. And I will show love to those I love.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֲרַחֵֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.ra.Chem",
+                "wordIndex": 2
+              },
+              {
+                "text": "I",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "have",
+                "wordIndex": 5
+              },
+              {
+                "text": "compassion",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H7355}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7355",
+                  "lemma": "רָחַם",
+                  "translit": "ra.cham",
+                  "morph": "H:V",
+                  "gloss": "to have compassion 1) to love, love deeply, have mercy, be compassionate, have tender affection, have compassion<br>1a) (Qal) to love<br>1b) (Piel)<br>1b1) to have compassion, be compassionate<br>1b1a) of God, man<br>1c) (Pual) to be shown compassion, be compassionate",
+                  "raw": "H7355\tH7355 =\tH7355\tרָחַם\tra.cham\tH:V\tto have compassion\t1) to love, love deeply, have mercy, be compassionate, have tender affection, have compassion<br>1a) (Qal) to love<br>1b) (Piel)<br>1b1) to have compassion, be compassionate<br>1b1a) of God, man<br>1c) (Pual) to be shown compassion, be compassionate"
+                }
+              },
+              {
+                "text": "HVpi1cs",
+                "wordIndex": 8
+              },
+              {
+                "text": "H7355_B",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H7355",
+                  "lemma": "רָחַם",
+                  "translit": "ra.cham",
+                  "morph": "H:V",
+                  "gloss": "to have compassion 1) to love, love deeply, have mercy, be compassionate, have tender affection, have compassion<br>1a) (Qal) to love<br>1b) (Piel)<br>1b1) to have compassion, be compassionate<br>1b1a) of God, man<br>1c) (Pual) to be shown compassion, be compassionate",
+                  "raw": "H7355\tH7355 =\tH7355\tרָחַם\tra.cham\tH:V\tto have compassion\t1) to love, love deeply, have mercy, be compassionate, have tender affection, have compassion<br>1a) (Qal) to love<br>1b) (Piel)<br>1b1) to have compassion, be compassionate<br>1b1a) of God, man<br>1c) (Pual) to be shown compassion, be compassionate"
+                }
+              },
+              {
+                "text": "{H7355=רָחַם=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H7355",
+                  "lemma": "רָחַם",
+                  "translit": "ra.cham",
+                  "morph": "H:V",
+                  "gloss": "to have compassion 1) to love, love deeply, have mercy, be compassionate, have tender affection, have compassion<br>1a) (Qal) to love<br>1b) (Piel)<br>1b1) to have compassion, be compassionate<br>1b1a) of God, man<br>1c) (Pual) to be shown compassion, be compassionate",
+                  "raw": "H7355\tH7355 =\tH7355\tרָחַם\tra.cham\tH:V\tto have compassion\t1) to love, love deeply, have mercy, be compassionate, have tender affection, have compassion<br>1a) (Qal) to love<br>1b) (Piel)<br>1b1) to have compassion, be compassionate<br>1b1a) of God, man<br>1c) (Pual) to be shown compassion, be compassionate"
+                }
+              },
+              {
+                "text": "have",
+                "wordIndex": 11
+              },
+              {
+                "text": "compassion}\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L אֲרַחֵֽם\\׃ 'a.ra.Chem I will have compassion {H7355}\\H9016 HVpi1cs H7355_B {H7355=רָחַם=to have compassion}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 33,
           "verse": 20,
           "text": "But you can’t see my face,” he said. “No one can see me and stay alive.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וָ/חָֽי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./Chai",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "he",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "live",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H2421}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqq3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2421",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2421",
+                  "lemma": "חָיָה",
+                  "translit": "cha.yah",
+                  "morph": "H:V",
+                  "gloss": "to live 1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life",
+                  "raw": "H2421\tH2421 =\tH2421\tחָיָה\tcha.yah\tH:V\tto live\t1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life"
+                }
+              },
+              {
+                "text": "H2425",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H2425",
+                  "lemma": "חָיַי",
+                  "translit": "cha.yay",
+                  "morph": "H:V",
+                  "gloss": "to live 1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiph)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life",
+                  "raw": "H2425\tH2425 = a Spelling of\tH2421\tחָיַי\tcha.yay\tH:V\tto live\t1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiph)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H2421=חָיָה=to",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "live}\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L וָ/חָֽי\\׃ va./Chai and/ he will live H9001/{H2421}\\H9016 Hc/Vqq3ms H2421 H2425 H9001=ו=&/{H2421=חָיָה=to live}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 33,
           "verse": 21,
           "text": "The Lord continued, “There is a place near me where you can stand on a rock.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/צּֽוּר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Tzur",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "rock",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H6697H}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6697H",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6697",
+                  "lemma": "צוּר",
+                  "translit": "tsur",
+                  "morph": "H:N-M",
+                  "gloss": "rock 1) rock, cliff<br>1a) rocky wall, cliff<br>1b) rock (with flat surface)<br>1c) block of stone, boulder<br>1d) rock (specific)<br>1e) rock (of God)<br>1f) rock (of heathen gods) n pr dei<br>1g) Rock<BR>Aramaic equivalent: <i>tur</i> (טוּר \"mountain\" H2906)",
+                  "raw": "H6697\tH6697H =\tH6697H\tצוּר\ttsur\tH:N-M\trock\t1) rock, cliff<br>1a) rocky wall, cliff<br>1b) rock (with flat surface)<br>1c) block of stone, boulder<br>1d) rock (specific)<br>1e) rock (of God)<br>1f) rock (of heathen gods) n pr dei<br>1g) Rock<BR>Aramaic equivalent: <i>tur</i> (טוּר \"mountain\" H2906)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H6697H=צוּר=rock}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L הַ/צּֽוּר\\׃ ha./Tzur the/ rock H9009/{H6697H}\\H9016 HTd/Ncmsa H6697H H9009=ה=the/{H6697H=צוּר=rock}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 33,
           "verse": 22,
           "text": "When my glory passes by, I will put you in an opening in the rock. I will cover you with my hand until I have passed by.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עָבְרִֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.ve.R/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "have",
+                "wordIndex": 3
+              },
+              {
+                "text": "passed",
+                "wordIndex": 4
+              },
+              {
+                "text": "by/",
+                "wordIndex": 5
+              },
+              {
+                "text": "I",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H5674A}/H9040\\H9016",
+                "wordIndex": 7
+              },
+              {
+                "text": "HVqcc/Sp1bs",
+                "wordIndex": 8
+              },
+              {
+                "text": "H5674A_B",
+                "wordIndex": 9
+              },
+              {
+                "text": "{H5674A=עָבַר=:",
+                "wordIndex": 10
+              },
+              {
+                "text": "pass»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "pass:1_pass}/H9040=Ss1c=I\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9040",
+                  "lemma": "נִי",
+                  "translit": "ni",
+                  "morph": "Ss1c",
+                  "gloss": "I Personal subject pronoun -  suffix for some adverbs and infinitives:  1st person singular",
+                  "raw": "H9040\tH9040 =\tH9040\tנִי\tni\tSs1c\tI\tPersonal subject pronoun -  suffix for some adverbs and infinitives:  1st person singular"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L עָבְרִֽ/י\\׃ 'a.ve.R/i have passed by/ I {H5674A}/H9040\\H9016 HVqcc/Sp1bs H5674A_B {H5674A=עָבַר=: pass»to pass:1_pass}/H9040=Ss1c=I\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 33,
           "verse": 23,
           "text": "Then I will remove my hand. You will see my back. But my face must not be seen.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יֵרָאֽוּ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "ye.ra.'U",
+                "wordIndex": 3
+              },
+              {
+                "text": "they",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "be",
+                "wordIndex": 6
+              },
+              {
+                "text": "visible",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H7200G}\\H9016\\",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7200",
+                  "lemma": "רָאָה",
+                  "translit": "ra.ah",
+                  "morph": "H:V",
+                  "gloss": "Provider (Lord will) Provide, cause to be seen.<BR> This name means  to see, look at, inspect, look after",
+                  "raw": "H7200\tH7200N = a Name of\tH3068G\tרָאָה\tra.ah\tH:V\tProvider\t(Lord will) Provide, cause to be seen.<BR> This name means  to see, look at, inspect, look after"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HVNi3mp",
+                "wordIndex": 10
+              },
+              {
+                "text": "H7200G_B",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H7200",
+                  "lemma": "רָאָה",
+                  "translit": "ra.ah",
+                  "morph": "H:V",
+                  "gloss": "Provider (Lord will) Provide, cause to be seen.<BR> This name means  to see, look at, inspect, look after",
+                  "raw": "H7200\tH7200N = a Name of\tH3068G\tרָאָה\tra.ah\tH:V\tProvider\t(Lord will) Provide, cause to be seen.<BR> This name means  to see, look at, inspect, look after"
+                }
+              },
+              {
+                "text": "{H7200G=רָאָה=:",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H7200",
+                  "lemma": "רָאָה",
+                  "translit": "ra.ah",
+                  "morph": "H:V",
+                  "gloss": "Provider (Lord will) Provide, cause to be seen.<BR> This name means  to see, look at, inspect, look after",
+                  "raw": "H7200\tH7200N = a Name of\tH3068G\tרָאָה\tra.ah\tH:V\tProvider\t(Lord will) Provide, cause to be seen.<BR> This name means  to see, look at, inspect, look after"
+                }
+              },
+              {
+                "text": "see»to",
+                "wordIndex": 13
+              },
+              {
+                "text": "see:1_see;_show}\\H9016=׃=verseEnd\\",
+                "wordIndex": 14,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 15,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L יֵרָאֽוּ\\׃\\ \\ס ye.ra.'U they will be visible {H7200G}\\H9016\\ \\H9018 HVNi3mp H7200G_B {H7200G=רָאָה=: see»to see:1_see;_show}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         }
       ]
     }

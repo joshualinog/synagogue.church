@@ -7,103 +7,1304 @@
           "chapter": 19,
           "verse": 1,
           "text": "And Yahweh spoke to Moses and Aaron, saying,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L לֵ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 2,
           "text": "“This is the decree of the law that Yahweh has commanded, saying, ‘Speak to the Israelites and let them take to you a red heifer without a physical defect, on which a yoke has not been placed.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#25=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עֹֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'Ol",
+                "wordIndex": 2
+              },
+              {
+                "text": "a",
+                "wordIndex": 3
+              },
+              {
+                "text": "yoke",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5923}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H5923",
+                  "lemma": "עֹל",
+                  "translit": "ol",
+                  "morph": "H:N-M",
+                  "gloss": "yoke yoke",
+                  "raw": "H5923\tH5923 =\tH5923\tעֹל\tol\tH:N-M\tyoke\tyoke"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5923",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5923",
+                  "lemma": "עֹל",
+                  "translit": "ol",
+                  "morph": "H:N-M",
+                  "gloss": "yoke yoke",
+                  "raw": "H5923\tH5923 =\tH5923\tעֹל\tol\tH:N-M\tyoke\tyoke"
+                }
+              },
+              {
+                "text": "{H5923=עֹל=yoke}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H5923",
+                  "lemma": "עֹל",
+                  "translit": "ol",
+                  "morph": "H:N-M",
+                  "gloss": "yoke yoke",
+                  "raw": "H5923\tH5923 =\tH5923\tעֹל\tol\tH:N-M\tyoke\tyoke"
+                }
+              }
+            ],
+            "originalVerseText": "#25=L עֹֽל\\׃ 'Ol a yoke {H5923}\\H9016 HNcmsa H5923 {H5923=עֹל=yoke}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 3,
           "text": "And you will give it to Eleazar the priest, and it will be brought out to a place outside the camp, and it will be slaughtered in his presence.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/פָנָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./fa.Na/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "before/",
+                "wordIndex": 4
+              },
+              {
+                "text": "him",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H6440G}/H9023\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmpc/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H6440G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6440",
+                  "lemma": "פָּנֶה",
+                  "translit": "pa.neh",
+                  "morph": "H:N-M",
+                  "gloss": "face: kindness : kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
+                  "raw": "H6440\tH6440N = a Meaning of\tH6440H\tפָּנֶה\tpa.neh\tH:N-M\tface: kindness\t: kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H6440G=פָּנֶה=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "before»face:2_before;_to;_front}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L לְ/פָנָֽי/ו\\׃ le./fa.Na/v <to>/ before/ him H9005/{H6440G}/H9023\\H9016 HR/Ncmpc/Sp3ms H6440G H9005=ל=to/{H6440G=פָּנֶה=: before»face:2_before;_to;_front}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 4,
           "text": "Then Eleazar the priest will take some of its blood on his finger and spatter it toward the mouth of the tent of assembly seven times.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פְּעָמִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "pe.'a.Mim",
+                "wordIndex": 2
+              },
+              {
+                "text": "times",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6471}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6471",
+                  "lemma": "פַּ֫עַם",
+                  "translit": "pa.am",
+                  "morph": "H:N-F",
+                  "gloss": "beat 1) stroke, beat, foot, step, anvil, occurrence<br>1a) foot, hoof-beat, footfall, footstep<br>1b) anvil<br>1c) occurrence, time, stroke, beat<br>1c1) one time, once, twice, thrice, as time on time, at this repetition, this once, now at length, now...now, at one time...at another",
+                  "raw": "H6471\tH6471 =\tH6471\tפַּ֫עַם\tpa.am\tH:N-F\tbeat\t1) stroke, beat, foot, step, anvil, occurrence<br>1a) foot, hoof-beat, footfall, footstep<br>1b) anvil<br>1c) occurrence, time, stroke, beat<br>1c1) one time, once, twice, thrice, as time on time, at this repetition, this once, now at length, now...now, at one time...at another"
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6471",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6471",
+                  "lemma": "פַּ֫עַם",
+                  "translit": "pa.am",
+                  "morph": "H:N-F",
+                  "gloss": "beat 1) stroke, beat, foot, step, anvil, occurrence<br>1a) foot, hoof-beat, footfall, footstep<br>1b) anvil<br>1c) occurrence, time, stroke, beat<br>1c1) one time, once, twice, thrice, as time on time, at this repetition, this once, now at length, now...now, at one time...at another",
+                  "raw": "H6471\tH6471 =\tH6471\tפַּ֫עַם\tpa.am\tH:N-F\tbeat\t1) stroke, beat, foot, step, anvil, occurrence<br>1a) foot, hoof-beat, footfall, footstep<br>1b) anvil<br>1c) occurrence, time, stroke, beat<br>1c1) one time, once, twice, thrice, as time on time, at this repetition, this once, now at length, now...now, at one time...at another"
+                }
+              },
+              {
+                "text": "{H6471=פַּ֫עַם=beat}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6471",
+                  "lemma": "פַּ֫עַם",
+                  "translit": "pa.am",
+                  "morph": "H:N-F",
+                  "gloss": "beat 1) stroke, beat, foot, step, anvil, occurrence<br>1a) foot, hoof-beat, footfall, footstep<br>1b) anvil<br>1c) occurrence, time, stroke, beat<br>1c1) one time, once, twice, thrice, as time on time, at this repetition, this once, now at length, now...now, at one time...at another",
+                  "raw": "H6471\tH6471 =\tH6471\tפַּ֫עַם\tpa.am\tH:N-F\tbeat\t1) stroke, beat, foot, step, anvil, occurrence<br>1a) foot, hoof-beat, footfall, footstep<br>1b) anvil<br>1c) occurrence, time, stroke, beat<br>1c1) one time, once, twice, thrice, as time on time, at this repetition, this once, now at length, now...now, at one time...at another"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L פְּעָמִֽים\\׃ pe.'a.Mim times {H6471}\\H9016 HNcmpa H6471 {H6471=פַּ֫עַם=beat}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 5,
           "text": "The heifer will be burned in his sight; its skin, its meat, and its blood, in addition to its offal, will burn.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִשְׂרֹֽף\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "yis.Rof",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "burn",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H8313}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H8313",
+                  "lemma": "שָׂרַף",
+                  "translit": "sa.raph",
+                  "morph": "H:V",
+                  "gloss": "to burn 1) to burn<br>1a) (Qal) to burn<br>1b) (Niphal) to be burned<br>1c) (Piel) burner, burning (participle)<br>1d) (Pual) to be burnt up, be burned<BR>Also means: <i>sa.raph</i> (סָרַף \"to burn\" H5635)",
+                  "raw": "H8313\tH8313 =\tH8313\tשָׂרַף\tsa.raph\tH:V\tto burn\t1) to burn<br>1a) (Qal) to burn<br>1b) (Niphal) to be burned<br>1c) (Piel) burner, burning (participle)<br>1d) (Pual) to be burnt up, be burned<BR>Also means: <i>sa.raph</i> (סָרַף \"to burn\" H5635)"
+                }
+              },
+              {
+                "text": "HVqi3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H8313_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H8313",
+                  "lemma": "שָׂרַף",
+                  "translit": "sa.raph",
+                  "morph": "H:V",
+                  "gloss": "to burn 1) to burn<br>1a) (Qal) to burn<br>1b) (Niphal) to be burned<br>1c) (Piel) burner, burning (participle)<br>1d) (Pual) to be burnt up, be burned<BR>Also means: <i>sa.raph</i> (סָרַף \"to burn\" H5635)",
+                  "raw": "H8313\tH8313 =\tH8313\tשָׂרַף\tsa.raph\tH:V\tto burn\t1) to burn<br>1a) (Qal) to burn<br>1b) (Niphal) to be burned<br>1c) (Piel) burner, burning (participle)<br>1d) (Pual) to be burnt up, be burned<BR>Also means: <i>sa.raph</i> (סָרַף \"to burn\" H5635)"
+                }
+              },
+              {
+                "text": "{H8313=שָׂרַף=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H8313",
+                  "lemma": "שָׂרַף",
+                  "translit": "sa.raph",
+                  "morph": "H:V",
+                  "gloss": "to burn 1) to burn<br>1a) (Qal) to burn<br>1b) (Niphal) to be burned<br>1c) (Piel) burner, burning (participle)<br>1d) (Pual) to be burnt up, be burned<BR>Also means: <i>sa.raph</i> (סָרַף \"to burn\" H5635)",
+                  "raw": "H8313\tH8313 =\tH8313\tשָׂרַף\tsa.raph\tH:V\tto burn\t1) to burn<br>1a) (Qal) to burn<br>1b) (Niphal) to be burned<br>1c) (Piel) burner, burning (participle)<br>1d) (Pual) to be burnt up, be burned<BR>Also means: <i>sa.raph</i> (סָרַף \"to burn\" H5635)"
+                }
+              },
+              {
+                "text": "burn}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L יִשְׂרֹֽף\\׃ yis.Rof he will burn {H8313}\\H9016 HVqi3ms H8313_B {H8313=שָׂרַף=to burn}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 6,
           "text": "The priest will take cedar wood, hyssop, and crimson thread, and he will throw them in the midst of the burning heifer.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/פָּרָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./pa.Rah",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "heifer",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H6510}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6510",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6510",
+                  "lemma": "פָּרָה",
+                  "translit": "pa.rah",
+                  "morph": "H:N-F",
+                  "gloss": "heifer cow, heifer",
+                  "raw": "H6510\tH6510 =\tH6510\tפָּרָה\tpa.rah\tH:N-F\theifer\tcow, heifer"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H6510=פָּרָה=heifer}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L הַ/פָּרָֽה\\׃ ha./pa.Rah the/ heifer H9009/{H6510}\\H9016 HTd/Ncfsa H6510 H9009=ה=the/{H6510=פָּרָה=heifer}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 7,
           "text": "The priest will wash his garments and his body in the water, and afterward he will come to the camp; the priest will be unclean until the evening.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/עָֽרֶב\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'A.rev",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "evening",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H6153}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6153",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6153",
+                  "lemma": "עֶ֫רֶב",
+                  "translit": "e.rev",
+                  "morph": "H:N-M",
+                  "gloss": "evening 1) evening, night, sunset<br>1a) evening, sunset<br>1b) night",
+                  "raw": "H6153\tH6153 =\tH6153\tעֶ֫רֶב\te.rev\tH:N-M\tevening\t1) evening, night, sunset<br>1a) evening, sunset<br>1b) night"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H6153=עֶ֫רֶב=evening}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L הָ/עָֽרֶב\\׃ ha./'A.rev the/ evening H9009/{H6153}\\H9016 HTd/Ncmsa H6153 H9009=ה=the/{H6153=עֶ֫רֶב=evening}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 8,
           "text": "The one who burns it will wash his garments and his body in water; he will be unclean until the evening.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/עָֽרֶב\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'A.rev",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "evening",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H6153}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6153",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6153",
+                  "lemma": "עֶ֫רֶב",
+                  "translit": "e.rev",
+                  "morph": "H:N-M",
+                  "gloss": "evening 1) evening, night, sunset<br>1a) evening, sunset<br>1b) night",
+                  "raw": "H6153\tH6153 =\tH6153\tעֶ֫רֶב\te.rev\tH:N-M\tevening\t1) evening, night, sunset<br>1a) evening, sunset<br>1b) night"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H6153=עֶ֫רֶב=evening}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L הָ/עָֽרֶב\\׃ ha./'A.rev the/ evening H9009/{H6153}\\H9016 HTd/Ncmsa H6153 H9009=ה=the/{H6153=עֶ֫רֶב=evening}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 9,
           "text": "A clean man will gather the ashes of the heifer, and he will put them in a clean place outside the camp; it will be for the community of the Israelites as a requirement for waters of impurity; it is a purification offering.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הִֽוא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hi'",
+                "wordIndex": 2
+              },
+              {
+                "text": "it",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1931}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "HPp3fs",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1931",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L הִֽוא\\׃ hi' it {H1931}\\H9016 HPp3fs H1931 {H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 10,
           "text": "The one who gathers the ashes of the heifer will wash his garments; he will be unclean until evening. It will be an eternal decree for the Israelites and for one who dwells as an alien in their midst.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עוֹלָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "o.Lam",
+                "wordIndex": 2
+              },
+              {
+                "text": "perpetuity",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5769G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5769G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "{H5769G=עוֹלָם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L עוֹלָֽם\\׃ o.Lam perpetuity {H5769G}\\H9016 HNcmsa H5769G {H5769G=עוֹלָם=: enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 11,
           "text": "“‘The one who touches a corpse of any person will be unclean for seven days.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יָמִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ya.Mim",
+                "wordIndex": 2
+              },
+              {
+                "text": "days",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3117G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3117G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "{H3117G=יוֹם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L יָמִֽים\\׃ ya.Mim days {H3117G}\\H9016 HNcmpa H3117G {H3117G=יוֹם=: day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 12,
           "text": "He will purify himself on the third day, and on the seventh day he will be clean. If he does not purify himself on the third day, he will not be clean on the seventh day.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִטְהָֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "yit.Har",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "be",
+                "wordIndex": 5
+              },
+              {
+                "text": "pure",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H2891}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2891",
+                  "lemma": "טָהֵר",
+                  "translit": "ta.her",
+                  "morph": "H:V",
+                  "gloss": "be pure 1) to be clean, be pure<br>1a) (Qal)<br>1a1) to be clean (physically-of disease)<br>1a2) to be clean ceremonially<br>1a3) to purify, be clean morally, made clean<br>1b) (Piel)<br>1b1) to cleanse, purify<br>1b1a) physically<br>1b1b) ceremonially<br>1b1c) morally<br>1b2) to pronounce clean<br>1b3) to perform the ceremony of cleansing<br>1c) (Pual) to be cleansed, be pronounced clean<br>1d) (Hithpael)<br>1d1) to purify oneself<br>1d1a) ceremonially<br>1d1b) morally<br>1d2) to present oneself for purification",
+                  "raw": "H2891\tH2891 =\tH2891\tטָהֵר\tta.her\tH:V\tbe pure\t1) to be clean, be pure<br>1a) (Qal)<br>1a1) to be clean (physically-of disease)<br>1a2) to be clean ceremonially<br>1a3) to purify, be clean morally, made clean<br>1b) (Piel)<br>1b1) to cleanse, purify<br>1b1a) physically<br>1b1b) ceremonially<br>1b1c) morally<br>1b2) to pronounce clean<br>1b3) to perform the ceremony of cleansing<br>1c) (Pual) to be cleansed, be pronounced clean<br>1d) (Hithpael)<br>1d1) to purify oneself<br>1d1a) ceremonially<br>1d1b) morally<br>1d2) to present oneself for purification"
+                }
+              },
+              {
+                "text": "HVqi3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2891_B",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2891",
+                  "lemma": "טָהֵר",
+                  "translit": "ta.her",
+                  "morph": "H:V",
+                  "gloss": "be pure 1) to be clean, be pure<br>1a) (Qal)<br>1a1) to be clean (physically-of disease)<br>1a2) to be clean ceremonially<br>1a3) to purify, be clean morally, made clean<br>1b) (Piel)<br>1b1) to cleanse, purify<br>1b1a) physically<br>1b1b) ceremonially<br>1b1c) morally<br>1b2) to pronounce clean<br>1b3) to perform the ceremony of cleansing<br>1c) (Pual) to be cleansed, be pronounced clean<br>1d) (Hithpael)<br>1d1) to purify oneself<br>1d1a) ceremonially<br>1d1b) morally<br>1d2) to present oneself for purification",
+                  "raw": "H2891\tH2891 =\tH2891\tטָהֵר\tta.her\tH:V\tbe pure\t1) to be clean, be pure<br>1a) (Qal)<br>1a1) to be clean (physically-of disease)<br>1a2) to be clean ceremonially<br>1a3) to purify, be clean morally, made clean<br>1b) (Piel)<br>1b1) to cleanse, purify<br>1b1a) physically<br>1b1b) ceremonially<br>1b1c) morally<br>1b2) to pronounce clean<br>1b3) to perform the ceremony of cleansing<br>1c) (Pual) to be cleansed, be pronounced clean<br>1d) (Hithpael)<br>1d1) to purify oneself<br>1d1a) ceremonially<br>1d1b) morally<br>1d2) to present oneself for purification"
+                }
+              },
+              {
+                "text": "{H2891=טָהֵר=be",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H2891",
+                  "lemma": "טָהֵר",
+                  "translit": "ta.her",
+                  "morph": "H:V",
+                  "gloss": "be pure 1) to be clean, be pure<br>1a) (Qal)<br>1a1) to be clean (physically-of disease)<br>1a2) to be clean ceremonially<br>1a3) to purify, be clean morally, made clean<br>1b) (Piel)<br>1b1) to cleanse, purify<br>1b1a) physically<br>1b1b) ceremonially<br>1b1c) morally<br>1b2) to pronounce clean<br>1b3) to perform the ceremony of cleansing<br>1c) (Pual) to be cleansed, be pronounced clean<br>1d) (Hithpael)<br>1d1) to purify oneself<br>1d1a) ceremonially<br>1d1b) morally<br>1d2) to present oneself for purification",
+                  "raw": "H2891\tH2891 =\tH2891\tטָהֵר\tta.her\tH:V\tbe pure\t1) to be clean, be pure<br>1a) (Qal)<br>1a1) to be clean (physically-of disease)<br>1a2) to be clean ceremonially<br>1a3) to purify, be clean morally, made clean<br>1b) (Piel)<br>1b1) to cleanse, purify<br>1b1a) physically<br>1b1b) ceremonially<br>1b1c) morally<br>1b2) to pronounce clean<br>1b3) to perform the ceremony of cleansing<br>1c) (Pual) to be cleansed, be pronounced clean<br>1d) (Hithpael)<br>1d1) to purify oneself<br>1d1a) ceremonially<br>1d1b) morally<br>1d2) to present oneself for purification"
+                }
+              },
+              {
+                "text": "pure}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L יִטְהָֽר\\׃ yit.Har he will be pure {H2891}\\H9016 HVqi3ms H2891_B {H2891=טָהֵר=be pure}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 13,
           "text": "Anyone who touches a corpse, the person of a human being who died, and does not purify himself, defiles the tabernacle of Yahweh, and that person will be cut off from Israel because the waters of impurity were not sprinkled on him. He will still be unclean, and uncleanness is on him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#28=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "v/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "[will",
+                "wordIndex": 3
+              },
+              {
+                "text": "be]",
+                "wordIndex": 4
+              },
+              {
+                "text": "on",
+                "wordIndex": 5
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 6
+              },
+              {
+                "text": "him",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9003/{H9033}\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Sp3ms",
+                "wordIndex": 9
+              },
+              {
+                "text": "H9033",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H9033=Os3m=him}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#28=L בֽ/וֹ\\׃ v/o [will be] on <the>/ him H9003/{H9033}\\H9016 HRd/Sp3ms H9033 H9003=ב=in/{H9033=Os3m=him}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 14,
           "text": "“‘This is the law of a person who dies in a tent: everyone who comes into the tent and all who are in the tent will be unclean seven days.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יָמִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ya.Mim",
+                "wordIndex": 2
+              },
+              {
+                "text": "days",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3117G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3117G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "{H3117G=יוֹם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L יָמִֽים\\׃ ya.Mim days {H3117G}\\H9016 HNcmpa H3117G {H3117G=יוֹם=: day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 15,
           "text": "Every container that is opened that does not have a lid cord on it is unclean.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הֽוּא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Hu'",
+                "wordIndex": 2
+              },
+              {
+                "text": "it",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1931}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "HPp3ms",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1931",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הֽוּא\\׃ Hu' it {H1931}\\H9016 HPp3ms H1931 {H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 16,
           "text": "Anyone in the open field who touches one who has been slain, or a corpse, or a bone of a person, or a burial site, he will be unclean for seven days.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יָמִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ya.Mim",
+                "wordIndex": 2
+              },
+              {
+                "text": "days",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3117G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3117G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "{H3117G=יוֹם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L יָמִֽים\\׃ ya.Mim days {H3117G}\\H9016 HNcmpa H3117G {H3117G=יוֹם=: day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 17,
           "text": "For the unclean person they will take from the powder of the burnt purification offering, and they will put running water into a container.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "כֶּֽלִי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ke.li",
+                "wordIndex": 2
+              },
+              {
+                "text": "a",
+                "wordIndex": 3
+              },
+              {
+                "text": "vessel",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3627}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3627",
+                  "lemma": "כְּלִי",
+                  "translit": "ke.li",
+                  "morph": "H:N-M",
+                  "gloss": "article/utensil 1) article, vessel, implement, utensil<br>1a) article, object (general)<br>1b) utensil, implement, apparatus, vessel<br>1b1) implement (of hunting or war)<br>1b2) implement (of music)<br>1b3) implement, tool (of labour)<br>1b4) equipment, yoke (of oxen)<br>1b5) utensils, furniture<br>1c) vessel, receptacle (general)<br>1d) vessels (boats) of paper-reed",
+                  "raw": "H3627\tH3627 =\tH3627\tכְּלִי\tke.li\tH:N-M\tarticle/utensil\t1) article, vessel, implement, utensil<br>1a) article, object (general)<br>1b) utensil, implement, apparatus, vessel<br>1b1) implement (of hunting or war)<br>1b2) implement (of music)<br>1b3) implement, tool (of labour)<br>1b4) equipment, yoke (of oxen)<br>1b5) utensils, furniture<br>1c) vessel, receptacle (general)<br>1d) vessels (boats) of paper-reed"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3627",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3627",
+                  "lemma": "כְּלִי",
+                  "translit": "ke.li",
+                  "morph": "H:N-M",
+                  "gloss": "article/utensil 1) article, vessel, implement, utensil<br>1a) article, object (general)<br>1b) utensil, implement, apparatus, vessel<br>1b1) implement (of hunting or war)<br>1b2) implement (of music)<br>1b3) implement, tool (of labour)<br>1b4) equipment, yoke (of oxen)<br>1b5) utensils, furniture<br>1c) vessel, receptacle (general)<br>1d) vessels (boats) of paper-reed",
+                  "raw": "H3627\tH3627 =\tH3627\tכְּלִי\tke.li\tH:N-M\tarticle/utensil\t1) article, vessel, implement, utensil<br>1a) article, object (general)<br>1b) utensil, implement, apparatus, vessel<br>1b1) implement (of hunting or war)<br>1b2) implement (of music)<br>1b3) implement, tool (of labour)<br>1b4) equipment, yoke (of oxen)<br>1b5) utensils, furniture<br>1c) vessel, receptacle (general)<br>1d) vessels (boats) of paper-reed"
+                }
+              },
+              {
+                "text": "{H3627=כְּלִי=article|utensil}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3627",
+                  "lemma": "כְּלִי",
+                  "translit": "ke.li",
+                  "morph": "H:N-M",
+                  "gloss": "article/utensil 1) article, vessel, implement, utensil<br>1a) article, object (general)<br>1b) utensil, implement, apparatus, vessel<br>1b1) implement (of hunting or war)<br>1b2) implement (of music)<br>1b3) implement, tool (of labour)<br>1b4) equipment, yoke (of oxen)<br>1b5) utensils, furniture<br>1c) vessel, receptacle (general)<br>1d) vessels (boats) of paper-reed",
+                  "raw": "H3627\tH3627 =\tH3627\tכְּלִי\tke.li\tH:N-M\tarticle/utensil\t1) article, vessel, implement, utensil<br>1a) article, object (general)<br>1b) utensil, implement, apparatus, vessel<br>1b1) implement (of hunting or war)<br>1b2) implement (of music)<br>1b3) implement, tool (of labour)<br>1b4) equipment, yoke (of oxen)<br>1b5) utensils, furniture<br>1c) vessel, receptacle (general)<br>1d) vessels (boats) of paper-reed"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L כֶּֽלִי\\׃ Ke.li a vessel {H3627}\\H9016 HNcmsa H3627 {H3627=כְּלִי=article|utensil}\\H9016=׃=verseEnd"
+          }
         }
       ],
       "nirv": [
@@ -111,103 +1312,1304 @@
           "chapter": 19,
           "verse": 1,
           "text": "The Lord spoke to Moses and Aaron. He said,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L לֵ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 2,
           "text": "“Here is what the law I have commanded requires. Tell the people of Israel to bring you a young red cow. It must not have any flaws at all. It must never have pulled a load.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#25=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עֹֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'Ol",
+                "wordIndex": 2
+              },
+              {
+                "text": "a",
+                "wordIndex": 3
+              },
+              {
+                "text": "yoke",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5923}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H5923",
+                  "lemma": "עֹל",
+                  "translit": "ol",
+                  "morph": "H:N-M",
+                  "gloss": "yoke yoke",
+                  "raw": "H5923\tH5923 =\tH5923\tעֹל\tol\tH:N-M\tyoke\tyoke"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5923",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5923",
+                  "lemma": "עֹל",
+                  "translit": "ol",
+                  "morph": "H:N-M",
+                  "gloss": "yoke yoke",
+                  "raw": "H5923\tH5923 =\tH5923\tעֹל\tol\tH:N-M\tyoke\tyoke"
+                }
+              },
+              {
+                "text": "{H5923=עֹל=yoke}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H5923",
+                  "lemma": "עֹל",
+                  "translit": "ol",
+                  "morph": "H:N-M",
+                  "gloss": "yoke yoke",
+                  "raw": "H5923\tH5923 =\tH5923\tעֹל\tol\tH:N-M\tyoke\tyoke"
+                }
+              }
+            ],
+            "originalVerseText": "#25=L עֹֽל\\׃ 'Ol a yoke {H5923}\\H9016 HNcmsa H5923 {H5923=עֹל=yoke}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 3,
           "text": "“Give it to the priest Eleazar. It must be taken outside the camp and killed in front of him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/פָנָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./fa.Na/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "before/",
+                "wordIndex": 4
+              },
+              {
+                "text": "him",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H6440G}/H9023\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmpc/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H6440G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6440",
+                  "lemma": "פָּנֶה",
+                  "translit": "pa.neh",
+                  "morph": "H:N-M",
+                  "gloss": "face: kindness : kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
+                  "raw": "H6440\tH6440N = a Meaning of\tH6440H\tפָּנֶה\tpa.neh\tH:N-M\tface: kindness\t: kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H6440G=פָּנֶה=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "before»face:2_before;_to;_front}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L לְ/פָנָֽי/ו\\׃ le./fa.Na/v <to>/ before/ him H9005/{H6440G}/H9023\\H9016 HR/Ncmpc/Sp3ms H6440G H9005=ל=to/{H6440G=פָּנֶה=: before»face:2_before;_to;_front}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 4,
           "text": "Then the priest Eleazar must put some of its blood on his finger. He must sprinkle the blood toward the front of the Tent of Meeting. He must do it seven times.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פְּעָמִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "pe.'a.Mim",
+                "wordIndex": 2
+              },
+              {
+                "text": "times",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6471}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6471",
+                  "lemma": "פַּ֫עַם",
+                  "translit": "pa.am",
+                  "morph": "H:N-F",
+                  "gloss": "beat 1) stroke, beat, foot, step, anvil, occurrence<br>1a) foot, hoof-beat, footfall, footstep<br>1b) anvil<br>1c) occurrence, time, stroke, beat<br>1c1) one time, once, twice, thrice, as time on time, at this repetition, this once, now at length, now...now, at one time...at another",
+                  "raw": "H6471\tH6471 =\tH6471\tפַּ֫עַם\tpa.am\tH:N-F\tbeat\t1) stroke, beat, foot, step, anvil, occurrence<br>1a) foot, hoof-beat, footfall, footstep<br>1b) anvil<br>1c) occurrence, time, stroke, beat<br>1c1) one time, once, twice, thrice, as time on time, at this repetition, this once, now at length, now...now, at one time...at another"
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6471",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6471",
+                  "lemma": "פַּ֫עַם",
+                  "translit": "pa.am",
+                  "morph": "H:N-F",
+                  "gloss": "beat 1) stroke, beat, foot, step, anvil, occurrence<br>1a) foot, hoof-beat, footfall, footstep<br>1b) anvil<br>1c) occurrence, time, stroke, beat<br>1c1) one time, once, twice, thrice, as time on time, at this repetition, this once, now at length, now...now, at one time...at another",
+                  "raw": "H6471\tH6471 =\tH6471\tפַּ֫עַם\tpa.am\tH:N-F\tbeat\t1) stroke, beat, foot, step, anvil, occurrence<br>1a) foot, hoof-beat, footfall, footstep<br>1b) anvil<br>1c) occurrence, time, stroke, beat<br>1c1) one time, once, twice, thrice, as time on time, at this repetition, this once, now at length, now...now, at one time...at another"
+                }
+              },
+              {
+                "text": "{H6471=פַּ֫עַם=beat}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6471",
+                  "lemma": "פַּ֫עַם",
+                  "translit": "pa.am",
+                  "morph": "H:N-F",
+                  "gloss": "beat 1) stroke, beat, foot, step, anvil, occurrence<br>1a) foot, hoof-beat, footfall, footstep<br>1b) anvil<br>1c) occurrence, time, stroke, beat<br>1c1) one time, once, twice, thrice, as time on time, at this repetition, this once, now at length, now...now, at one time...at another",
+                  "raw": "H6471\tH6471 =\tH6471\tפַּ֫עַם\tpa.am\tH:N-F\tbeat\t1) stroke, beat, foot, step, anvil, occurrence<br>1a) foot, hoof-beat, footfall, footstep<br>1b) anvil<br>1c) occurrence, time, stroke, beat<br>1c1) one time, once, twice, thrice, as time on time, at this repetition, this once, now at length, now...now, at one time...at another"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L פְּעָמִֽים\\׃ pe.'a.Mim times {H6471}\\H9016 HNcmpa H6471 {H6471=פַּ֫עַם=beat}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 5,
           "text": "“While he watches, the young cow must be burned. Its hide, meat, blood and guts must be burned.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִשְׂרֹֽף\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "yis.Rof",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "burn",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H8313}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H8313",
+                  "lemma": "שָׂרַף",
+                  "translit": "sa.raph",
+                  "morph": "H:V",
+                  "gloss": "to burn 1) to burn<br>1a) (Qal) to burn<br>1b) (Niphal) to be burned<br>1c) (Piel) burner, burning (participle)<br>1d) (Pual) to be burnt up, be burned<BR>Also means: <i>sa.raph</i> (סָרַף \"to burn\" H5635)",
+                  "raw": "H8313\tH8313 =\tH8313\tשָׂרַף\tsa.raph\tH:V\tto burn\t1) to burn<br>1a) (Qal) to burn<br>1b) (Niphal) to be burned<br>1c) (Piel) burner, burning (participle)<br>1d) (Pual) to be burnt up, be burned<BR>Also means: <i>sa.raph</i> (סָרַף \"to burn\" H5635)"
+                }
+              },
+              {
+                "text": "HVqi3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H8313_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H8313",
+                  "lemma": "שָׂרַף",
+                  "translit": "sa.raph",
+                  "morph": "H:V",
+                  "gloss": "to burn 1) to burn<br>1a) (Qal) to burn<br>1b) (Niphal) to be burned<br>1c) (Piel) burner, burning (participle)<br>1d) (Pual) to be burnt up, be burned<BR>Also means: <i>sa.raph</i> (סָרַף \"to burn\" H5635)",
+                  "raw": "H8313\tH8313 =\tH8313\tשָׂרַף\tsa.raph\tH:V\tto burn\t1) to burn<br>1a) (Qal) to burn<br>1b) (Niphal) to be burned<br>1c) (Piel) burner, burning (participle)<br>1d) (Pual) to be burnt up, be burned<BR>Also means: <i>sa.raph</i> (סָרַף \"to burn\" H5635)"
+                }
+              },
+              {
+                "text": "{H8313=שָׂרַף=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H8313",
+                  "lemma": "שָׂרַף",
+                  "translit": "sa.raph",
+                  "morph": "H:V",
+                  "gloss": "to burn 1) to burn<br>1a) (Qal) to burn<br>1b) (Niphal) to be burned<br>1c) (Piel) burner, burning (participle)<br>1d) (Pual) to be burnt up, be burned<BR>Also means: <i>sa.raph</i> (סָרַף \"to burn\" H5635)",
+                  "raw": "H8313\tH8313 =\tH8313\tשָׂרַף\tsa.raph\tH:V\tto burn\t1) to burn<br>1a) (Qal) to burn<br>1b) (Niphal) to be burned<br>1c) (Piel) burner, burning (participle)<br>1d) (Pual) to be burnt up, be burned<BR>Also means: <i>sa.raph</i> (סָרַף \"to burn\" H5635)"
+                }
+              },
+              {
+                "text": "burn}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L יִשְׂרֹֽף\\׃ yis.Rof he will burn {H8313}\\H9016 HVqi3ms H8313_B {H8313=שָׂרַף=to burn}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 6,
           "text": "The priest must get some cedar wood, branches of a hyssop plant, and bright red wool. He must throw them on the young cow as it burns.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/פָּרָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./pa.Rah",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "heifer",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H6510}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6510",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6510",
+                  "lemma": "פָּרָה",
+                  "translit": "pa.rah",
+                  "morph": "H:N-F",
+                  "gloss": "heifer cow, heifer",
+                  "raw": "H6510\tH6510 =\tH6510\tפָּרָה\tpa.rah\tH:N-F\theifer\tcow, heifer"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H6510=פָּרָה=heifer}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L הַ/פָּרָֽה\\׃ ha./pa.Rah the/ heifer H9009/{H6510}\\H9016 HTd/Ncfsa H6510 H9009=ה=the/{H6510=פָּרָה=heifer}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 7,
           "text": "“After that, the priest must wash his clothes. He must also take a bath. Then he can come into the camp. But he will be ‘unclean’ until evening.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/עָֽרֶב\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'A.rev",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "evening",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H6153}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6153",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6153",
+                  "lemma": "עֶ֫רֶב",
+                  "translit": "e.rev",
+                  "morph": "H:N-M",
+                  "gloss": "evening 1) evening, night, sunset<br>1a) evening, sunset<br>1b) night",
+                  "raw": "H6153\tH6153 =\tH6153\tעֶ֫רֶב\te.rev\tH:N-M\tevening\t1) evening, night, sunset<br>1a) evening, sunset<br>1b) night"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H6153=עֶ֫רֶב=evening}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L הָ/עָֽרֶב\\׃ ha./'A.rev the/ evening H9009/{H6153}\\H9016 HTd/Ncmsa H6153 H9009=ה=the/{H6153=עֶ֫רֶב=evening}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 8,
           "text": "“The man who burns the young cow must wash his clothes. He must also take a bath. He too will be ‘unclean’ until evening.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/עָֽרֶב\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'A.rev",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "evening",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H6153}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6153",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6153",
+                  "lemma": "עֶ֫רֶב",
+                  "translit": "e.rev",
+                  "morph": "H:N-M",
+                  "gloss": "evening 1) evening, night, sunset<br>1a) evening, sunset<br>1b) night",
+                  "raw": "H6153\tH6153 =\tH6153\tעֶ֫רֶב\te.rev\tH:N-M\tevening\t1) evening, night, sunset<br>1a) evening, sunset<br>1b) night"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H6153=עֶ֫רֶב=evening}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L הָ/עָֽרֶב\\׃ ha./'A.rev the/ evening H9009/{H6153}\\H9016 HTd/Ncmsa H6153 H9009=ה=the/{H6153=עֶ֫רֶב=evening}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 9,
           "text": "“A man who is ‘clean’ will gather up the ashes of the young cow. He must put them in a place that is ‘clean.’ The place must be outside the camp. The ashes will be kept by the community of Israel. They will be added to the special water. The water will be used to make people pure from their sin.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הִֽוא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hi'",
+                "wordIndex": 2
+              },
+              {
+                "text": "it",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1931}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "HPp3fs",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1931",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L הִֽוא\\׃ hi' it {H1931}\\H9016 HPp3fs H1931 {H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 10,
           "text": "“The man who gathers up the ashes of the young cow must wash his clothes. He too will be ‘unclean’ until evening. That law is for the people of Israel. It is also for the outsiders who are living among them. The law will last for all time to come.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עוֹלָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "o.Lam",
+                "wordIndex": 2
+              },
+              {
+                "text": "perpetuity",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5769G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5769G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "{H5769G=עוֹלָם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L עוֹלָֽם\\׃ o.Lam perpetuity {H5769G}\\H9016 HNcmsa H5769G {H5769G=עוֹלָם=: enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 11,
           "text": "“Anyone who touches a dead person’s body will be ‘unclean’ for seven days.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יָמִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ya.Mim",
+                "wordIndex": 2
+              },
+              {
+                "text": "days",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3117G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3117G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "{H3117G=יוֹם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L יָמִֽים\\׃ ya.Mim days {H3117G}\\H9016 HNcmpa H3117G {H3117G=יוֹם=: day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 12,
           "text": "He must make himself pure and clean with the special water. He must do it on the third day. He must also do it on the seventh day. Then he will be ‘clean.’\n“But suppose he does not make himself pure and clean on the third and seventh days. Then he will not be ‘clean.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִטְהָֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "yit.Har",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "be",
+                "wordIndex": 5
+              },
+              {
+                "text": "pure",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H2891}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2891",
+                  "lemma": "טָהֵר",
+                  "translit": "ta.her",
+                  "morph": "H:V",
+                  "gloss": "be pure 1) to be clean, be pure<br>1a) (Qal)<br>1a1) to be clean (physically-of disease)<br>1a2) to be clean ceremonially<br>1a3) to purify, be clean morally, made clean<br>1b) (Piel)<br>1b1) to cleanse, purify<br>1b1a) physically<br>1b1b) ceremonially<br>1b1c) morally<br>1b2) to pronounce clean<br>1b3) to perform the ceremony of cleansing<br>1c) (Pual) to be cleansed, be pronounced clean<br>1d) (Hithpael)<br>1d1) to purify oneself<br>1d1a) ceremonially<br>1d1b) morally<br>1d2) to present oneself for purification",
+                  "raw": "H2891\tH2891 =\tH2891\tטָהֵר\tta.her\tH:V\tbe pure\t1) to be clean, be pure<br>1a) (Qal)<br>1a1) to be clean (physically-of disease)<br>1a2) to be clean ceremonially<br>1a3) to purify, be clean morally, made clean<br>1b) (Piel)<br>1b1) to cleanse, purify<br>1b1a) physically<br>1b1b) ceremonially<br>1b1c) morally<br>1b2) to pronounce clean<br>1b3) to perform the ceremony of cleansing<br>1c) (Pual) to be cleansed, be pronounced clean<br>1d) (Hithpael)<br>1d1) to purify oneself<br>1d1a) ceremonially<br>1d1b) morally<br>1d2) to present oneself for purification"
+                }
+              },
+              {
+                "text": "HVqi3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2891_B",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2891",
+                  "lemma": "טָהֵר",
+                  "translit": "ta.her",
+                  "morph": "H:V",
+                  "gloss": "be pure 1) to be clean, be pure<br>1a) (Qal)<br>1a1) to be clean (physically-of disease)<br>1a2) to be clean ceremonially<br>1a3) to purify, be clean morally, made clean<br>1b) (Piel)<br>1b1) to cleanse, purify<br>1b1a) physically<br>1b1b) ceremonially<br>1b1c) morally<br>1b2) to pronounce clean<br>1b3) to perform the ceremony of cleansing<br>1c) (Pual) to be cleansed, be pronounced clean<br>1d) (Hithpael)<br>1d1) to purify oneself<br>1d1a) ceremonially<br>1d1b) morally<br>1d2) to present oneself for purification",
+                  "raw": "H2891\tH2891 =\tH2891\tטָהֵר\tta.her\tH:V\tbe pure\t1) to be clean, be pure<br>1a) (Qal)<br>1a1) to be clean (physically-of disease)<br>1a2) to be clean ceremonially<br>1a3) to purify, be clean morally, made clean<br>1b) (Piel)<br>1b1) to cleanse, purify<br>1b1a) physically<br>1b1b) ceremonially<br>1b1c) morally<br>1b2) to pronounce clean<br>1b3) to perform the ceremony of cleansing<br>1c) (Pual) to be cleansed, be pronounced clean<br>1d) (Hithpael)<br>1d1) to purify oneself<br>1d1a) ceremonially<br>1d1b) morally<br>1d2) to present oneself for purification"
+                }
+              },
+              {
+                "text": "{H2891=טָהֵר=be",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H2891",
+                  "lemma": "טָהֵר",
+                  "translit": "ta.her",
+                  "morph": "H:V",
+                  "gloss": "be pure 1) to be clean, be pure<br>1a) (Qal)<br>1a1) to be clean (physically-of disease)<br>1a2) to be clean ceremonially<br>1a3) to purify, be clean morally, made clean<br>1b) (Piel)<br>1b1) to cleanse, purify<br>1b1a) physically<br>1b1b) ceremonially<br>1b1c) morally<br>1b2) to pronounce clean<br>1b3) to perform the ceremony of cleansing<br>1c) (Pual) to be cleansed, be pronounced clean<br>1d) (Hithpael)<br>1d1) to purify oneself<br>1d1a) ceremonially<br>1d1b) morally<br>1d2) to present oneself for purification",
+                  "raw": "H2891\tH2891 =\tH2891\tטָהֵר\tta.her\tH:V\tbe pure\t1) to be clean, be pure<br>1a) (Qal)<br>1a1) to be clean (physically-of disease)<br>1a2) to be clean ceremonially<br>1a3) to purify, be clean morally, made clean<br>1b) (Piel)<br>1b1) to cleanse, purify<br>1b1a) physically<br>1b1b) ceremonially<br>1b1c) morally<br>1b2) to pronounce clean<br>1b3) to perform the ceremony of cleansing<br>1c) (Pual) to be cleansed, be pronounced clean<br>1d) (Hithpael)<br>1d1) to purify oneself<br>1d1a) ceremonially<br>1d1b) morally<br>1d2) to present oneself for purification"
+                }
+              },
+              {
+                "text": "pure}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L יִטְהָֽר\\׃ yit.Har he will be pure {H2891}\\H9016 HVqi3ms H2891_B {H2891=טָהֵר=be pure}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 13,
           "text": "Anyone who touches a dead person’s body and does not make himself pure and clean makes my holy tent ‘unclean.’ He must be cut off from Israel. The special water has not been sprinkled on him. So he is ‘unclean.’ And he remains ‘unclean.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#28=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "v/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "[will",
+                "wordIndex": 3
+              },
+              {
+                "text": "be]",
+                "wordIndex": 4
+              },
+              {
+                "text": "on",
+                "wordIndex": 5
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 6
+              },
+              {
+                "text": "him",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9003/{H9033}\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Sp3ms",
+                "wordIndex": 9
+              },
+              {
+                "text": "H9033",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H9033=Os3m=him}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#28=L בֽ/וֹ\\׃ v/o [will be] on <the>/ him H9003/{H9033}\\H9016 HRd/Sp3ms H9033 H9003=ב=in/{H9033=Os3m=him}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 14,
           "text": "“Here is the law that applies when a person dies in a tent. Anyone who enters the tent will be ‘unclean’ for seven days. Anyone who is in the tent will also be ‘unclean’ for seven days.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יָמִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ya.Mim",
+                "wordIndex": 2
+              },
+              {
+                "text": "days",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3117G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3117G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "{H3117G=יוֹם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L יָמִֽים\\׃ ya.Mim days {H3117G}\\H9016 HNcmpa H3117G {H3117G=יוֹם=: day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 15,
           "text": "And anything in it that is open and has no lid will be ‘unclean.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הֽוּא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Hu'",
+                "wordIndex": 2
+              },
+              {
+                "text": "it",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1931}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "HPp3ms",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1931",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הֽוּא\\׃ Hu' it {H1931}\\H9016 HPp3ms H1931 {H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 16,
           "text": "“Suppose someone is out in the country. And suppose he touches someone who has been killed with a sword. Or he touches someone who has died a natural death. Or he touches a human bone or a grave. Then anyone who touches any of those things will be ‘unclean’ for seven days.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יָמִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ya.Mim",
+                "wordIndex": 2
+              },
+              {
+                "text": "days",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3117G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3117G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "{H3117G=יוֹם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L יָמִֽים\\׃ ya.Mim days {H3117G}\\H9016 HNcmpa H3117G {H3117G=יוֹם=: day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 19,
           "verse": 17,
           "text": "“Here is what I want you to do for someone who is not ‘clean.’ Put some ashes from the burned young cow into a jar. Pour fresh water on the ashes.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "כֶּֽלִי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ke.li",
+                "wordIndex": 2
+              },
+              {
+                "text": "a",
+                "wordIndex": 3
+              },
+              {
+                "text": "vessel",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3627}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3627",
+                  "lemma": "כְּלִי",
+                  "translit": "ke.li",
+                  "morph": "H:N-M",
+                  "gloss": "article/utensil 1) article, vessel, implement, utensil<br>1a) article, object (general)<br>1b) utensil, implement, apparatus, vessel<br>1b1) implement (of hunting or war)<br>1b2) implement (of music)<br>1b3) implement, tool (of labour)<br>1b4) equipment, yoke (of oxen)<br>1b5) utensils, furniture<br>1c) vessel, receptacle (general)<br>1d) vessels (boats) of paper-reed",
+                  "raw": "H3627\tH3627 =\tH3627\tכְּלִי\tke.li\tH:N-M\tarticle/utensil\t1) article, vessel, implement, utensil<br>1a) article, object (general)<br>1b) utensil, implement, apparatus, vessel<br>1b1) implement (of hunting or war)<br>1b2) implement (of music)<br>1b3) implement, tool (of labour)<br>1b4) equipment, yoke (of oxen)<br>1b5) utensils, furniture<br>1c) vessel, receptacle (general)<br>1d) vessels (boats) of paper-reed"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3627",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3627",
+                  "lemma": "כְּלִי",
+                  "translit": "ke.li",
+                  "morph": "H:N-M",
+                  "gloss": "article/utensil 1) article, vessel, implement, utensil<br>1a) article, object (general)<br>1b) utensil, implement, apparatus, vessel<br>1b1) implement (of hunting or war)<br>1b2) implement (of music)<br>1b3) implement, tool (of labour)<br>1b4) equipment, yoke (of oxen)<br>1b5) utensils, furniture<br>1c) vessel, receptacle (general)<br>1d) vessels (boats) of paper-reed",
+                  "raw": "H3627\tH3627 =\tH3627\tכְּלִי\tke.li\tH:N-M\tarticle/utensil\t1) article, vessel, implement, utensil<br>1a) article, object (general)<br>1b) utensil, implement, apparatus, vessel<br>1b1) implement (of hunting or war)<br>1b2) implement (of music)<br>1b3) implement, tool (of labour)<br>1b4) equipment, yoke (of oxen)<br>1b5) utensils, furniture<br>1c) vessel, receptacle (general)<br>1d) vessels (boats) of paper-reed"
+                }
+              },
+              {
+                "text": "{H3627=כְּלִי=article|utensil}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3627",
+                  "lemma": "כְּלִי",
+                  "translit": "ke.li",
+                  "morph": "H:N-M",
+                  "gloss": "article/utensil 1) article, vessel, implement, utensil<br>1a) article, object (general)<br>1b) utensil, implement, apparatus, vessel<br>1b1) implement (of hunting or war)<br>1b2) implement (of music)<br>1b3) implement, tool (of labour)<br>1b4) equipment, yoke (of oxen)<br>1b5) utensils, furniture<br>1c) vessel, receptacle (general)<br>1d) vessels (boats) of paper-reed",
+                  "raw": "H3627\tH3627 =\tH3627\tכְּלִי\tke.li\tH:N-M\tarticle/utensil\t1) article, vessel, implement, utensil<br>1a) article, object (general)<br>1b) utensil, implement, apparatus, vessel<br>1b1) implement (of hunting or war)<br>1b2) implement (of music)<br>1b3) implement, tool (of labour)<br>1b4) equipment, yoke (of oxen)<br>1b5) utensils, furniture<br>1c) vessel, receptacle (general)<br>1d) vessels (boats) of paper-reed"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L כֶּֽלִי\\׃ Ke.li a vessel {H3627}\\H9016 HNcmsa H3627 {H3627=כְּלִי=article|utensil}\\H9016=׃=verseEnd"
+          }
         }
       ]
     }

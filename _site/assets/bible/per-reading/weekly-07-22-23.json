@@ -7,73 +7,953 @@
           "chapter": 6,
           "verse": 2,
           "text": "And God spoke to Moses, and he said to him, “I am Yahweh.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יְהוָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yah.weh",
+                "wordIndex": 2
+              },
+              {
+                "text": "[am]",
+                "wordIndex": 3
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3068G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "HNpt",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3068G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L יְהוָֽה\\׃ Yah.weh [am] Yahweh {H3068G}\\H9016 HNpt H3068G {H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 3,
           "text": "And I appeared to Abraham, to Isaac, and to Jacob as God Shaddai, but by my name Yahweh I was not known to them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/הֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Hem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "them",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9038}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9038",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9038",
+                  "lemma": "הֶם",
+                  "translit": "hem",
+                  "morph": "Op3m",
+                  "gloss": "them Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural",
+                  "raw": "H9038\tH9038 =\tH9038\tהֶם\them\tOp3m\tthem\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9038=Op3m=them}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#14=L לָ/הֶֽם\\׃ la./Hem to <the>/ them H9005/{H9038}\\H9016 HRd/Sp3mp H9038 H9005=ל=to/{H9038=Op3m=them}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 4,
           "text": "And I not only established my covenant with them to give to them the land of Canaan, the land of their sojournings, in which they dwelt as aliens,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Va/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "in",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "it",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H9034}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Sp3fs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9034",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9034",
+                  "lemma": "הָ",
+                  "translit": "ha",
+                  "morph": "Os3f",
+                  "gloss": "her Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular",
+                  "raw": "H9034\tH9034 =\tH9034\tהָ\tha\tOs3f\ther\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H9034=Os3f=her}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#16=L בָֽ/הּ\\׃ Va/h in <the>/ it H9003/{H9034}\\H9016 HRd/Sp3fs H9034 H9003=ב=in/{H9034=Os3f=her}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 5,
           "text": "but also I myself heard the groaning of the Israelites, whom the Egyptians are making to work, and I remembered my covenant.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּרִיתִֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be.ri.T/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "covenant/",
+                "wordIndex": 3
+              },
+              {
+                "text": "my",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H1285}/H9020\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H1285",
+                  "lemma": "בְּרִית",
+                  "translit": "be.rit",
+                  "morph": "H:N-F",
+                  "gloss": "covenant 1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation",
+                  "raw": "H1285\tH1285 =\tH1285\tבְּרִית\tbe.rit\tH:N-F\tcovenant\t1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation"
+                }
+              },
+              {
+                "text": "HNcfsc/Sp1bs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1285",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1285",
+                  "lemma": "בְּרִית",
+                  "translit": "be.rit",
+                  "morph": "H:N-F",
+                  "gloss": "covenant 1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation",
+                  "raw": "H1285\tH1285 =\tH1285\tבְּרִית\tbe.rit\tH:N-F\tcovenant\t1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation"
+                }
+              },
+              {
+                "text": "{H1285=בְּרִית=covenant}/H9020=Ps1c=my\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1285",
+                  "lemma": "בְּרִית",
+                  "translit": "be.rit",
+                  "morph": "H:N-F",
+                  "gloss": "covenant 1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation",
+                  "raw": "H1285\tH1285 =\tH1285\tבְּרִית\tbe.rit\tH:N-F\tcovenant\t1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L בְּרִיתִֽ/י\\׃ be.ri.T/i covenant/ my {H1285}/H9020\\H9016 HNcfsc/Sp1bs H1285 {H1285=בְּרִית=covenant}/H9020=Ps1c=my\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 6,
           "text": "Therefore say to the Israelites, ‘I am Yahweh, and I will bring you out from under the forced labor of Egypt, and I will deliver you from their slavery, and I will redeem you with an outstretched arm and with great punishments.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "גְּדֹלִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ge.do.Lim",
+                "wordIndex": 2
+              },
+              {
+                "text": "great",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1419A}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HAampa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1419A",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H1419A=גַּל=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "large»great:1_large}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L גְּדֹלִֽים\\׃ ge.do.Lim great {H1419A}\\H9016 HAampa H1419A {H1419A=גַּל=: large»great:1_large}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 7,
           "text": "And I will take you as my people, and I will be your God, and you will know that I am Yahweh your God, who brought you out from under the forced labor of Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4714G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L מִצְרָֽיִם\\׃ mitz.Ra.yim Egypt {H4714G}\\H9016 HNpl H4714G {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 8,
           "text": "And I will bring you to the land that I swore to give to Abraham, to Isaac, and to Jacob, and I will give it to you as a possession. I am Yahweh.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יְהוָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yah.weh",
+                "wordIndex": 2
+              },
+              {
+                "text": "[am]",
+                "wordIndex": 3
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3068G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "HNpt",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3068G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L יְהוָֽה\\׃ Yah.weh [am] Yahweh {H3068G}\\H9016 HNpt H3068G {H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 9,
           "text": "And Moses spoke thus to the Israelites, but they did not listen to Moses, because of discouragement and because of hard work.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "קָשָֽׁה\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "ka.Shah",
+                "wordIndex": 3
+              },
+              {
+                "text": "hard",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7186}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H7186",
+                  "lemma": "קָשֶׁה",
+                  "translit": "qa.sheh",
+                  "morph": "H:A",
+                  "gloss": "severe 1) hard, cruel, severe, obstinate<br>1a) hard, difficult<br>1b) severe<br>1c) fierce, intense, vehement<br>1d) stubborn, stiff of neck, stiff-necked<br>1e) rigorous (of battle)",
+                  "raw": "H7186\tH7186 =\tH7186\tקָשֶׁה\tqa.sheh\tH:A\tsevere\t1) hard, cruel, severe, obstinate<br>1a) hard, difficult<br>1b) severe<br>1c) fierce, intense, vehement<br>1d) stubborn, stiff of neck, stiff-necked<br>1e) rigorous (of battle)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAafsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7186",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7186",
+                  "lemma": "קָשֶׁה",
+                  "translit": "qa.sheh",
+                  "morph": "H:A",
+                  "gloss": "severe 1) hard, cruel, severe, obstinate<br>1a) hard, difficult<br>1b) severe<br>1c) fierce, intense, vehement<br>1d) stubborn, stiff of neck, stiff-necked<br>1e) rigorous (of battle)",
+                  "raw": "H7186\tH7186 =\tH7186\tקָשֶׁה\tqa.sheh\tH:A\tsevere\t1) hard, cruel, severe, obstinate<br>1a) hard, difficult<br>1b) severe<br>1c) fierce, intense, vehement<br>1d) stubborn, stiff of neck, stiff-necked<br>1e) rigorous (of battle)"
+                }
+              },
+              {
+                "text": "{H7186=קָשֶׁה=severe}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H7186",
+                  "lemma": "קָשֶׁה",
+                  "translit": "qa.sheh",
+                  "morph": "H:A",
+                  "gloss": "severe 1) hard, cruel, severe, obstinate<br>1a) hard, difficult<br>1b) severe<br>1c) fierce, intense, vehement<br>1d) stubborn, stiff of neck, stiff-necked<br>1e) rigorous (of battle)",
+                  "raw": "H7186\tH7186 =\tH7186\tקָשֶׁה\tqa.sheh\tH:A\tsevere\t1) hard, cruel, severe, obstinate<br>1a) hard, difficult<br>1b) severe<br>1c) fierce, intense, vehement<br>1d) stubborn, stiff of neck, stiff-necked<br>1e) rigorous (of battle)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L קָשָֽׁה\\׃\\ \\פ ka.Shah hard {H7186}\\H9016\\ \\H9017 HAafsa H7186 {H7186=קָשֶׁה=severe}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 6,
           "verse": 10,
           "text": "And Yahweh spoke to Moses, saying,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵּ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L לֵּ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 11,
           "text": "“Go, speak to Pharaoh, the king of Egypt, and let him release the Israelites from his land.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵ/אַרְצֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "me./'ar.Tz/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "from/",
+                "wordIndex": 3
+              },
+              {
+                "text": "land/",
+                "wordIndex": 4
+              },
+              {
+                "text": "his",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9006/{H0776G}/H9023\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "HR/Ncfsc/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9006=מ=from/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L מֵ/אַרְצֽ/וֹ\\׃ me./'ar.Tz/o from/ land/ his H9006/{H0776G}/H9023\\H9016 HR/Ncfsc/Sp3ms H0776G H9006=מ=from/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 12,
           "text": "And Moses spoke before Yahweh, saying, “Look, the Israelites do not listen to me, and how will Pharaoh listen to me, since I am a poor speaker?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שְׂפָתָֽיִם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "se.fa.Ta.yim",
+                "wordIndex": 3
+              },
+              {
+                "text": "lips",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H8193G}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H8193",
+                  "lemma": "שָׂפָה",
+                  "translit": "sa.phah",
+                  "morph": "H:N-F",
+                  "gloss": "lip: language : language<br>1) lip, language, speech, shore, bank, brink, brim, side, edge, border, binding<br>1a) lip (as body part)<br>1b) language<br>1c) edge, shore, bank (of cup, sea, river, etc)",
+                  "raw": "H8193\tH8193K = a Meaning of\tH8193G\tשָׂפָה\tsa.phah\tH:N-F\tlip: language\t: language<br>1) lip, language, speech, shore, bank, brink, brim, side, edge, border, binding<br>1a) lip (as body part)<br>1b) language<br>1c) edge, shore, bank (of cup, sea, river, etc)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNcfda",
+                "wordIndex": 7
+              },
+              {
+                "text": "H8193G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H8193",
+                  "lemma": "שָׂפָה",
+                  "translit": "sa.phah",
+                  "morph": "H:N-F",
+                  "gloss": "lip: language : language<br>1) lip, language, speech, shore, bank, brink, brim, side, edge, border, binding<br>1a) lip (as body part)<br>1b) language<br>1c) edge, shore, bank (of cup, sea, river, etc)",
+                  "raw": "H8193\tH8193K = a Meaning of\tH8193G\tשָׂפָה\tsa.phah\tH:N-F\tlip: language\t: language<br>1) lip, language, speech, shore, bank, brink, brim, side, edge, border, binding<br>1a) lip (as body part)<br>1b) language<br>1c) edge, shore, bank (of cup, sea, river, etc)"
+                }
+              },
+              {
+                "text": "{H8193G=שָׂפָה=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H8193",
+                  "lemma": "שָׂפָה",
+                  "translit": "sa.phah",
+                  "morph": "H:N-F",
+                  "gloss": "lip: language : language<br>1) lip, language, speech, shore, bank, brink, brim, side, edge, border, binding<br>1a) lip (as body part)<br>1b) language<br>1c) edge, shore, bank (of cup, sea, river, etc)",
+                  "raw": "H8193\tH8193K = a Meaning of\tH8193G\tשָׂפָה\tsa.phah\tH:N-F\tlip: language\t: language<br>1) lip, language, speech, shore, bank, brink, brim, side, edge, border, binding<br>1a) lip (as body part)<br>1b) language<br>1c) edge, shore, bank (of cup, sea, river, etc)"
+                }
+              },
+              {
+                "text": "lips»lip:1_lips;_mouth}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L שְׂפָתָֽיִם\\׃\\ \\פ se.fa.Ta.yim lips {H8193G}\\H9016\\ \\H9017 HNcfda H8193G {H8193G=שָׂפָה=: lips»lip:1_lips;_mouth}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 6,
           "verse": 13,
           "text": "And Yahweh spoke to Moses and to Aaron, and he commanded them to go to the Israelites and to Pharaoh, the king of Egypt, to bring the Israelites out from the land of Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיִם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "mitz.Ra.yim",
+                "wordIndex": 3
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4714G}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4714G_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L מִצְרָֽיִם\\׃\\ \\ס mitz.Ra.yim Egypt {H4714G}\\H9016\\ \\H9018 HNpl H4714G_B {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         }
       ],
       "nirv": [
@@ -81,73 +961,953 @@
           "chapter": 6,
           "verse": 2,
           "text": "God continued, “I am the Lord.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יְהוָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yah.weh",
+                "wordIndex": 2
+              },
+              {
+                "text": "[am]",
+                "wordIndex": 3
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3068G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "HNpt",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3068G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L יְהוָֽה\\׃ Yah.weh [am] Yahweh {H3068G}\\H9016 HNpt H3068G {H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 3,
           "text": "I appeared to Abraham, Isaac and Jacob as the Mighty God. But I did not show them the full meaning of my name, The Lord.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/הֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Hem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "them",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9038}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9038",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9038",
+                  "lemma": "הֶם",
+                  "translit": "hem",
+                  "morph": "Op3m",
+                  "gloss": "them Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural",
+                  "raw": "H9038\tH9038 =\tH9038\tהֶם\them\tOp3m\tthem\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9038=Op3m=them}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#14=L לָ/הֶֽם\\׃ la./Hem to <the>/ them H9005/{H9038}\\H9016 HRd/Sp3mp H9038 H9005=ל=to/{H9038=Op3m=them}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 4,
           "text": "“I also made my covenant with them. I promised to give them the land of Canaan. That is where they lived as outsiders.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Va/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "in",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "it",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H9034}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Sp3fs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9034",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9034",
+                  "lemma": "הָ",
+                  "translit": "ha",
+                  "morph": "Os3f",
+                  "gloss": "her Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular",
+                  "raw": "H9034\tH9034 =\tH9034\tהָ\tha\tOs3f\ther\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H9034=Os3f=her}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#16=L בָֽ/הּ\\׃ Va/h in <the>/ it H9003/{H9034}\\H9016 HRd/Sp3fs H9034 H9003=ב=in/{H9034=Os3f=her}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 5,
           "text": "Also, I have heard the groans of the Israelites. The Egyptians are keeping them as slaves. But I have remembered my covenant.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּרִיתִֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be.ri.T/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "covenant/",
+                "wordIndex": 3
+              },
+              {
+                "text": "my",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H1285}/H9020\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H1285",
+                  "lemma": "בְּרִית",
+                  "translit": "be.rit",
+                  "morph": "H:N-F",
+                  "gloss": "covenant 1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation",
+                  "raw": "H1285\tH1285 =\tH1285\tבְּרִית\tbe.rit\tH:N-F\tcovenant\t1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation"
+                }
+              },
+              {
+                "text": "HNcfsc/Sp1bs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1285",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1285",
+                  "lemma": "בְּרִית",
+                  "translit": "be.rit",
+                  "morph": "H:N-F",
+                  "gloss": "covenant 1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation",
+                  "raw": "H1285\tH1285 =\tH1285\tבְּרִית\tbe.rit\tH:N-F\tcovenant\t1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation"
+                }
+              },
+              {
+                "text": "{H1285=בְּרִית=covenant}/H9020=Ps1c=my\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1285",
+                  "lemma": "בְּרִית",
+                  "translit": "be.rit",
+                  "morph": "H:N-F",
+                  "gloss": "covenant 1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation",
+                  "raw": "H1285\tH1285 =\tH1285\tבְּרִית\tbe.rit\tH:N-F\tcovenant\t1) covenant, alliance, pledge<br>1a) between men<br>1a1) treaty, alliance, league (man to man)<br>1a2) constitution, ordinance (monarch to subjects)<br>1a3) agreement, pledge (man to man)<br>1a4) alliance (of friendship)<br>1a5) alliance (of marriage)<br>1b) between God and man<br>1b1) alliance (of friendship)<br>1b2) covenant (divine ordinance with signs or pledges)<br>2) (phrases)<br>2a) covenant making<br>2b) covenant keeping<br>2c) covenant violation"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L בְּרִיתִֽ/י\\׃ be.ri.T/i covenant/ my {H1285}/H9020\\H9016 HNcfsc/Sp1bs H1285 {H1285=בְּרִית=covenant}/H9020=Ps1c=my\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 6,
           "text": "“So tell the people of Israel, ‘I am the Lord. I will throw off the heavy load the Egyptians have put on your shoulders. I will set you free from being slaves to them. I will reach out my arm and save you with mighty acts when I judge Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "גְּדֹלִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ge.do.Lim",
+                "wordIndex": 2
+              },
+              {
+                "text": "great",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1419A}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HAampa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1419A",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H1419A=גַּל=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "large»great:1_large}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L גְּדֹלִֽים\\׃ ge.do.Lim great {H1419A}\\H9016 HAampa H1419A {H1419A=גַּל=: large»great:1_large}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 7,
           "text": "“‘I will take you to be my own people. I will be your God. You will know that I am the Lord your God when I throw off the load the Egyptians have put on your shoulders.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4714G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L מִצְרָֽיִם\\׃ mitz.Ra.yim Egypt {H4714G}\\H9016 HNpl H4714G {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 8,
           "text": "“‘I will bring you to the land I promised with an oath to give to Abraham, Isaac and Jacob. I lifted up my hand and promised it to them. The land will belong to you. I am the Lord.’”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יְהוָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yah.weh",
+                "wordIndex": 2
+              },
+              {
+                "text": "[am]",
+                "wordIndex": 3
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3068G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "HNpt",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3068G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L יְהוָֽה\\׃ Yah.weh [am] Yahweh {H3068G}\\H9016 HNpt H3068G {H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 9,
           "text": "Moses reported those things to the Israelites. But they didn’t listen to him. That’s because they had lost all hope and had to work very hard.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "קָשָֽׁה\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "ka.Shah",
+                "wordIndex": 3
+              },
+              {
+                "text": "hard",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7186}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H7186",
+                  "lemma": "קָשֶׁה",
+                  "translit": "qa.sheh",
+                  "morph": "H:A",
+                  "gloss": "severe 1) hard, cruel, severe, obstinate<br>1a) hard, difficult<br>1b) severe<br>1c) fierce, intense, vehement<br>1d) stubborn, stiff of neck, stiff-necked<br>1e) rigorous (of battle)",
+                  "raw": "H7186\tH7186 =\tH7186\tקָשֶׁה\tqa.sheh\tH:A\tsevere\t1) hard, cruel, severe, obstinate<br>1a) hard, difficult<br>1b) severe<br>1c) fierce, intense, vehement<br>1d) stubborn, stiff of neck, stiff-necked<br>1e) rigorous (of battle)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAafsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7186",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7186",
+                  "lemma": "קָשֶׁה",
+                  "translit": "qa.sheh",
+                  "morph": "H:A",
+                  "gloss": "severe 1) hard, cruel, severe, obstinate<br>1a) hard, difficult<br>1b) severe<br>1c) fierce, intense, vehement<br>1d) stubborn, stiff of neck, stiff-necked<br>1e) rigorous (of battle)",
+                  "raw": "H7186\tH7186 =\tH7186\tקָשֶׁה\tqa.sheh\tH:A\tsevere\t1) hard, cruel, severe, obstinate<br>1a) hard, difficult<br>1b) severe<br>1c) fierce, intense, vehement<br>1d) stubborn, stiff of neck, stiff-necked<br>1e) rigorous (of battle)"
+                }
+              },
+              {
+                "text": "{H7186=קָשֶׁה=severe}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H7186",
+                  "lemma": "קָשֶׁה",
+                  "translit": "qa.sheh",
+                  "morph": "H:A",
+                  "gloss": "severe 1) hard, cruel, severe, obstinate<br>1a) hard, difficult<br>1b) severe<br>1c) fierce, intense, vehement<br>1d) stubborn, stiff of neck, stiff-necked<br>1e) rigorous (of battle)",
+                  "raw": "H7186\tH7186 =\tH7186\tקָשֶׁה\tqa.sheh\tH:A\tsevere\t1) hard, cruel, severe, obstinate<br>1a) hard, difficult<br>1b) severe<br>1c) fierce, intense, vehement<br>1d) stubborn, stiff of neck, stiff-necked<br>1e) rigorous (of battle)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L קָשָֽׁה\\׃\\ \\פ ka.Shah hard {H7186}\\H9016\\ \\H9017 HAafsa H7186 {H7186=קָשֶׁה=severe}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 6,
           "verse": 10,
           "text": "Then the Lord said to Moses,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵּ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L לֵּ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 11,
           "text": "“Go. Tell Pharaoh, the king of Egypt, to let the people of Israel leave his country.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵ/אַרְצֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "me./'ar.Tz/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "from/",
+                "wordIndex": 3
+              },
+              {
+                "text": "land/",
+                "wordIndex": 4
+              },
+              {
+                "text": "his",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9006/{H0776G}/H9023\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "HR/Ncfsc/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9006=מ=from/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L מֵ/אַרְצֽ/וֹ\\׃ me./'ar.Tz/o from/ land/ his H9006/{H0776G}/H9023\\H9016 HR/Ncfsc/Sp3ms H0776G H9006=מ=from/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 12,
           "text": "But Moses spoke to the Lord. “The people won’t listen to me,” he said. “So why would Pharaoh listen to me? After all, I don’t speak very well.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שְׂפָתָֽיִם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "se.fa.Ta.yim",
+                "wordIndex": 3
+              },
+              {
+                "text": "lips",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H8193G}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H8193",
+                  "lemma": "שָׂפָה",
+                  "translit": "sa.phah",
+                  "morph": "H:N-F",
+                  "gloss": "lip: language : language<br>1) lip, language, speech, shore, bank, brink, brim, side, edge, border, binding<br>1a) lip (as body part)<br>1b) language<br>1c) edge, shore, bank (of cup, sea, river, etc)",
+                  "raw": "H8193\tH8193K = a Meaning of\tH8193G\tשָׂפָה\tsa.phah\tH:N-F\tlip: language\t: language<br>1) lip, language, speech, shore, bank, brink, brim, side, edge, border, binding<br>1a) lip (as body part)<br>1b) language<br>1c) edge, shore, bank (of cup, sea, river, etc)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNcfda",
+                "wordIndex": 7
+              },
+              {
+                "text": "H8193G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H8193",
+                  "lemma": "שָׂפָה",
+                  "translit": "sa.phah",
+                  "morph": "H:N-F",
+                  "gloss": "lip: language : language<br>1) lip, language, speech, shore, bank, brink, brim, side, edge, border, binding<br>1a) lip (as body part)<br>1b) language<br>1c) edge, shore, bank (of cup, sea, river, etc)",
+                  "raw": "H8193\tH8193K = a Meaning of\tH8193G\tשָׂפָה\tsa.phah\tH:N-F\tlip: language\t: language<br>1) lip, language, speech, shore, bank, brink, brim, side, edge, border, binding<br>1a) lip (as body part)<br>1b) language<br>1c) edge, shore, bank (of cup, sea, river, etc)"
+                }
+              },
+              {
+                "text": "{H8193G=שָׂפָה=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H8193",
+                  "lemma": "שָׂפָה",
+                  "translit": "sa.phah",
+                  "morph": "H:N-F",
+                  "gloss": "lip: language : language<br>1) lip, language, speech, shore, bank, brink, brim, side, edge, border, binding<br>1a) lip (as body part)<br>1b) language<br>1c) edge, shore, bank (of cup, sea, river, etc)",
+                  "raw": "H8193\tH8193K = a Meaning of\tH8193G\tשָׂפָה\tsa.phah\tH:N-F\tlip: language\t: language<br>1) lip, language, speech, shore, bank, brink, brim, side, edge, border, binding<br>1a) lip (as body part)<br>1b) language<br>1c) edge, shore, bank (of cup, sea, river, etc)"
+                }
+              },
+              {
+                "text": "lips»lip:1_lips;_mouth}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L שְׂפָתָֽיִם\\׃\\ \\פ se.fa.Ta.yim lips {H8193G}\\H9016\\ \\H9017 HNcfda H8193G {H8193G=שָׂפָה=: lips»lip:1_lips;_mouth}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 6,
           "verse": 13,
           "text": "The Lord had spoken to Moses and Aaron. He had talked with them about the Israelites and about Pharaoh, the king of Egypt. He had commanded Moses and Aaron to bring the people of Israel out of Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיִם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "mitz.Ra.yim",
+                "wordIndex": 3
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4714G}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4714G_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L מִצְרָֽיִם\\׃\\ \\ס mitz.Ra.yim Egypt {H4714G}\\H9016\\ \\H9018 HNpl H4714G_B {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         }
       ]
     }

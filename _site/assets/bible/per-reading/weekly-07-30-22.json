@@ -7,79 +7,984 @@
           "chapter": 28,
           "verse": 10,
           "text": "Then Jacob went out from Beersheba and went to Haran.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "חָרָֽנָ/ה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "cha.Ra.na/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "Haran/",
+                "wordIndex": 3
+              },
+              {
+                "text": "towards",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H2771A}/H9011\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HNpl/Sd",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2771A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H2771A=חָרָן=Haran»Haran@Gen.11.31-Act}/H9011=ה=to\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#06=L חָרָֽנָ/ה\\׃ cha.Ra.na/h Haran/ towards {H2771A}/H9011\\H9016 HNpl/Sd H2771A {H2771A=חָרָן=Haran»Haran@Gen.11.31-Act}/H9011=ה=to\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 11,
           "text": "And he arrived at a certain place and spent the night there, because the sun had set. And he took one of the stones of the place and put it under his head and slept at that place.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/הֽוּא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Hu'",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "that",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H1931}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Pp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1931",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L הַ/הֽוּא\\׃ ha./Hu' <the>/ that H9009/{H1931}\\H9016 HTd/Pp3ms H1931 H9009=ה=the/{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 12,
           "text": "And he dreamed, and behold, a stairway was set on the earth, and its top touched the heavens. And behold, angels of God were going up and going down on it.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בּֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "b/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "on",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "it",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H9033}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9033",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H9033=Os3m=him}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#14=L בּֽ/וֹ\\׃ b/o on <the>/ it H9003/{H9033}\\H9016 HRd/Sp3ms H9033 H9003=ב=in/{H9033=Os3m=him}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 13,
           "text": "And behold, Yahweh was standing beside him, and he said, “I am Yahweh, the God of Abraham your father, and the God of Isaac. The ground on which you were sleeping I will give to you and to your descendants.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/לְ/זַרְעֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./le./zar.'E./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "to/",
+                "wordIndex": 4
+              },
+              {
+                "text": "offspring/",
+                "wordIndex": 5
+              },
+              {
+                "text": "your",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/H9005/{H2233H}/H9021\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/R/Ncmsc/Sp2ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2233H",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2233",
+                  "lemma": "זֶ֫רַע",
+                  "translit": "ze.ra",
+                  "morph": "H:N-M",
+                  "gloss": "seed: semen : semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)",
+                  "raw": "H2233\tH2233I = a Meaning of\tH2233G\tזֶ֫רַע\tze.ra\tH:N-M\tseed: semen\t: semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/H9005=ל=to/{H2233H=זֶ֫רַע=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "children»seed:2_children;_descendants}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L וּ/לְ/זַרְעֶֽ/ךָ\\׃ u./le./zar.'E./kha and/ to/ offspring/ your H9002/H9005/{H2233H}/H9021\\H9016 HC/R/Ncmsc/Sp2ms H2233H H9002=ו=and/H9005=ל=to/{H2233H=זֶ֫רַע=: children»seed:2_children;_descendants}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 14,
           "text": "Your descendants shall be like the dust of the earth, and you will spread out to the west, and to the east, and to the north and to the south. And all the families of the earth will be blessed through you and through your descendants.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/בְ/זַרְעֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./ve./zar.'E./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "by/",
+                "wordIndex": 4
+              },
+              {
+                "text": "offspring/",
+                "wordIndex": 5
+              },
+              {
+                "text": "your",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/H9003/{H2233H}/H9021\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/R/Ncmsc/Sp2ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2233H_B",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2233",
+                  "lemma": "זֶ֫רַע",
+                  "translit": "ze.ra",
+                  "morph": "H:N-M",
+                  "gloss": "seed: semen : semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)",
+                  "raw": "H2233\tH2233I = a Meaning of\tH2233G\tזֶ֫רַע\tze.ra\tH:N-M\tseed: semen\t: semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/H9003=ב=in/{H2233H=זֶ֫רַע=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "children»seed:2_children;_descendants}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L וּ/בְ/זַרְעֶֽ/ךָ\\׃ u./ve./zar.'E./kha and/ by/ offspring/ your H9002/H9003/{H2233H}/H9021\\H9016 HC/R/Ncmsc/Sp2ms H2233H_B H9002=ו=and/H9003=ב=in/{H2233H=זֶ֫רַע=: children»seed:2_children;_descendants}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 15,
           "text": "Now behold, I am with you, and I will keep you wherever you go. And I will bring you to this land, for I will not leave you until I have done what I have promised to you.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָֽ/ךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La/kh",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "you",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9032}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9032",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9032",
+                  "lemma": "ךְ",
+                  "translit": "kh",
+                  "morph": "Os2f",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person feminine singular",
+                  "raw": "H9032\tH9032 =\tH9032\tךְ\tkh\tOs2f\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person feminine singular"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9032=Os2f=you}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#22=L לָֽ/ךְ\\׃ La/kh to <the>/ you H9005/{H9032}\\H9016 HRd/Sp2ms H9032 H9005=ל=to/{H9032=Os2f=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 16,
           "text": "Then Jacob awoke from his sleep and said, “Surely Yahweh is indeed in this place and I did not know!”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יָדָֽעְתִּי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ya.Da.'e.ti",
+                "wordIndex": 2
+              },
+              {
+                "text": "I",
+                "wordIndex": 3
+              },
+              {
+                "text": "realized",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3045}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3045",
+                  "lemma": "יָדַע",
+                  "translit": "ya.da",
+                  "morph": "H:V",
+                  "gloss": "to know 1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)",
+                  "raw": "H3045\tH3045 =\tH3045\tיָדַע\tya.da\tH:V\tto know\t1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)"
+                }
+              },
+              {
+                "text": "HVqp1cs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3045",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3045",
+                  "lemma": "יָדַע",
+                  "translit": "ya.da",
+                  "morph": "H:V",
+                  "gloss": "to know 1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)",
+                  "raw": "H3045\tH3045 =\tH3045\tיָדַע\tya.da\tH:V\tto know\t1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)"
+                }
+              },
+              {
+                "text": "{H3045=יָדַע=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3045",
+                  "lemma": "יָדַע",
+                  "translit": "ya.da",
+                  "morph": "H:V",
+                  "gloss": "to know 1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)",
+                  "raw": "H3045\tH3045 =\tH3045\tיָדַע\tya.da\tH:V\tto know\t1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)"
+                }
+              },
+              {
+                "text": "know}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L יָדָֽעְתִּי\\׃ ya.Da.'e.ti I realized {H3045}\\H9016 HVqp1cs H3045 {H3045=יָדַע=to know}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 17,
           "text": "Then he was afraid and said, “How awesome is this place! This is nothing else than the house of God, and this is the gate of heaven!”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/שָּׁמָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./sha.Ma.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "heavens",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H8064}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8064",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8064",
+                  "lemma": "שָׁמַיִם",
+                  "translit": "sha.ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "heaven 1) heaven, heavens, sky<br>1a) visible heavens, sky<br>1a1) as abode of the stars<br>1a2) as the visible universe, the sky, atmosphere, etc<br>1b) Heaven (as the abode of God)<BR>Aramaic equivalent: <i>sha.ma.yin</i> (שָׁמַ֫יִן \"heaven\" H8065)",
+                  "raw": "H8064\tH8064 =\tH8064\tשָׁמַיִם\tsha.ma.yim\tH:N-M\theaven\t1) heaven, heavens, sky<br>1a) visible heavens, sky<br>1a1) as abode of the stars<br>1a2) as the visible universe, the sky, atmosphere, etc<br>1b) Heaven (as the abode of God)<BR>Aramaic equivalent: <i>sha.ma.yin</i> (שָׁמַ֫יִן \"heaven\" H8065)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H8064=שָׁמַיִם=heaven}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L הַ/שָּׁמָֽיִם\\׃ ha./sha.Ma.yim the/ heavens H9009/{H8064}\\H9016 HTd/Ncmpa H8064 H9009=ה=the/{H8064=שָׁמַיִם=heaven}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 18,
           "text": "And Jacob rose early in the morning, and he took the stone that he had put under his head and set it up as a stone pillar, and poured oil on top of it.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "רֹאשָֽׁ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ro.Sha/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "top/",
+                "wordIndex": 3
+              },
+              {
+                "text": "its",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7218I}/H9024\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HNcmsc/Sp3fs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7218I",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H7218I=רֹאשׁ=:",
+                "wordIndex": 8
+              },
+              {
+                "text": "top»head:3_top;_best}/H9024=Ps3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9024",
+                  "lemma": "הּ",
+                  "translit": "h",
+                  "morph": "Ps3f",
+                  "gloss": "her Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person feminine singular",
+                  "raw": "H9024\tH9024 =\tH9024\tהּ\th\tPs3f\ther\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person feminine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L רֹאשָֽׁ/הּ\\׃ ro.Sha/h top/ its {H7218I}/H9024\\H9016 HNcmsc/Sp3fs H7218I {H7218I=רֹאשׁ=: top»head:3_top;_best}/H9024=Ps3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 19,
           "text": "And he called the name of that place Bethel; however, the name of the city was formerly Luz.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/רִאשֹׁנָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./ri.sho.Nah",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "former",
+                "wordIndex": 5
+              },
+              {
+                "text": "[time]",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9005/{H7223G}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Aofsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H7223G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H7223",
+                  "lemma": "רִאשׁוֹן",
+                  "translit": "ri.shon",
+                  "morph": "H:A",
+                  "gloss": "first: chief : chief<br>adj<br>1) first, primary, former<br>1a) former (of time)<br>1a1) ancestors<br>1a2) former things<br>1b) foremost (of location)<br>1c) first (in time)<br>1d) first, chief (in degree)<br>adv<br>2) first, before, formerly, at first",
+                  "raw": "H7223\tH7223I = a Meaning of\tH7223G\tרִאשׁוֹן\tri.shon\tH:A\tfirst: chief\t: chief<br>adj<br>1) first, primary, former<br>1a) former (of time)<br>1a1) ancestors<br>1a2) former things<br>1b) foremost (of location)<br>1c) first (in time)<br>1d) first, chief (in degree)<br>adv<br>2) first, before, formerly, at first"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H7223G=רִאשׁוֹן=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "first»first:1_first}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L לָ/רִאשֹׁנָֽה\\׃ la./ri.sho.Nah to the/ former [time] H9005/{H7223G}\\H9016 HRd/Aofsa H7223G H9005=ל=to/{H7223G=רִאשׁוֹן=: first»first:1_first}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 20,
           "text": "And Jacob made a vow saying, “If God will be with me and protect me on this way that I am going, and gives me food to eat and clothing to wear,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לִ/לְבֹּֽשׁ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "li/l.Bosh",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "wear",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H3847}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3847",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3847",
+                  "lemma": "לָבֵשׁ",
+                  "translit": "la.vash",
+                  "morph": "H:V",
+                  "gloss": "to clothe 1) to dress, wear, clothe, put on clothing, be clothed<br>1a) (Qal)<br>1a1) to put on clothes, be clothed, wear<br>1a2) to put on, be clothed with (fig.)<br>1b) (Pual) to be fully clothed<br>1c) (Hiphil) to clothe, array with, dress<BR>Aramaic equivalent: <i>le.vash</i> (לְבֵשׁ \"to clothe\" H3848)",
+                  "raw": "H3847\tH3847 =\tH3847\tלָבֵשׁ\tla.vash\tH:V\tto clothe\t1) to dress, wear, clothe, put on clothing, be clothed<br>1a) (Qal)<br>1a1) to put on clothes, be clothed, wear<br>1a2) to put on, be clothed with (fig.)<br>1b) (Pual) to be fully clothed<br>1c) (Hiphil) to clothe, array with, dress<BR>Aramaic equivalent: <i>le.vash</i> (לְבֵשׁ \"to clothe\" H3848)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H3847=לָבֵשׁ=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "clothe}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L לִ/לְבֹּֽשׁ\\׃ li/l.Bosh to/ wear H9005/{H3847}\\H9016 HR/Vqcc H3847 H9005=ל=to/{H3847=לָבֵשׁ=to clothe}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 21,
           "text": "and if I return in peace to the house of my father, then Yahweh will become my God.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵ/אלֹהִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./lo.Him",
+                "wordIndex": 2
+              },
+              {
+                "text": "<into>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "God",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0430G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0430G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#09=L לֵ/אלֹהִֽים\\׃ le./lo.Him <into>/ God H9005/{H0430G}\\H9016 HR/Ncmpa H0430G H9005=ל=to/{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 22,
           "text": "And this stone that I have set up as a pillar shall be the house of God, and of all that you give to me I will certainly give a tenth to you.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָֽ/ךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La/kh",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "you",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9032}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9032",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9032",
+                  "lemma": "ךְ",
+                  "translit": "kh",
+                  "morph": "Os2f",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person feminine singular",
+                  "raw": "H9032\tH9032 =\tH9032\tךְ\tkh\tOs2f\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person feminine singular"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9032=Os2f=you}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#15=L לָֽ/ךְ\\׃ La/kh to <the>/ you H9005/{H9032}\\H9016 HRd/Sp2ms H9032 H9005=ל=to/{H9032=Os2f=you}\\H9016=׃=verseEnd"
+          }
         }
       ],
       "nirv": [
@@ -87,79 +992,984 @@
           "chapter": 28,
           "verse": 10,
           "text": "Jacob left Beersheba and started out for Haran.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "חָרָֽנָ/ה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "cha.Ra.na/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "Haran/",
+                "wordIndex": 3
+              },
+              {
+                "text": "towards",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H2771A}/H9011\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HNpl/Sd",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2771A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H2771A=חָרָן=Haran»Haran@Gen.11.31-Act}/H9011=ה=to\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#06=L חָרָֽנָ/ה\\׃ cha.Ra.na/h Haran/ towards {H2771A}/H9011\\H9016 HNpl/Sd H2771A {H2771A=חָרָן=Haran»Haran@Gen.11.31-Act}/H9011=ה=to\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 11,
           "text": "He reached a certain place and stopped for the night. The sun had already set. He took one of the stones there and placed it under his head. Then he lay down to sleep.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/הֽוּא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Hu'",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "that",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H1931}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Pp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1931",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L הַ/הֽוּא\\׃ ha./Hu' <the>/ that H9009/{H1931}\\H9016 HTd/Pp3ms H1931 H9009=ה=the/{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 12,
           "text": "In a dream he saw a stairway standing on the earth. Its top reached to heaven. The angels of God were going up and coming down on it.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בּֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "b/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "on",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "it",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H9033}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9033",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H9033=Os3m=him}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#14=L בּֽ/וֹ\\׃ b/o on <the>/ it H9003/{H9033}\\H9016 HRd/Sp3ms H9033 H9003=ב=in/{H9033=Os3m=him}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 13,
           "text": "The Lord stood above the stairway. He said, “I am the Lord. I am the God of your grandfather Abraham and the God of Isaac. I will give you and your children after you the land on which you are lying.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/לְ/זַרְעֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./le./zar.'E./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "to/",
+                "wordIndex": 4
+              },
+              {
+                "text": "offspring/",
+                "wordIndex": 5
+              },
+              {
+                "text": "your",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/H9005/{H2233H}/H9021\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/R/Ncmsc/Sp2ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2233H",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2233",
+                  "lemma": "זֶ֫רַע",
+                  "translit": "ze.ra",
+                  "morph": "H:N-M",
+                  "gloss": "seed: semen : semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)",
+                  "raw": "H2233\tH2233I = a Meaning of\tH2233G\tזֶ֫רַע\tze.ra\tH:N-M\tseed: semen\t: semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/H9005=ל=to/{H2233H=זֶ֫רַע=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "children»seed:2_children;_descendants}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L וּ/לְ/זַרְעֶֽ/ךָ\\׃ u./le./zar.'E./kha and/ to/ offspring/ your H9002/H9005/{H2233H}/H9021\\H9016 HC/R/Ncmsc/Sp2ms H2233H H9002=ו=and/H9005=ל=to/{H2233H=זֶ֫רַע=: children»seed:2_children;_descendants}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 14,
           "text": "They will be like the dust of the earth that can’t be counted. They will spread out to the west and to the east. They will spread out to the north and to the south. All nations on earth will be blessed because of you and your children after you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/בְ/זַרְעֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./ve./zar.'E./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "by/",
+                "wordIndex": 4
+              },
+              {
+                "text": "offspring/",
+                "wordIndex": 5
+              },
+              {
+                "text": "your",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/H9003/{H2233H}/H9021\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/R/Ncmsc/Sp2ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2233H_B",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2233",
+                  "lemma": "זֶ֫רַע",
+                  "translit": "ze.ra",
+                  "morph": "H:N-M",
+                  "gloss": "seed: semen : semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)",
+                  "raw": "H2233\tH2233I = a Meaning of\tH2233G\tזֶ֫רַע\tze.ra\tH:N-M\tseed: semen\t: semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/H9003=ב=in/{H2233H=זֶ֫רַע=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "children»seed:2_children;_descendants}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L וּ/בְ/זַרְעֶֽ/ךָ\\׃ u./ve./zar.'E./kha and/ by/ offspring/ your H9002/H9003/{H2233H}/H9021\\H9016 HC/R/Ncmsc/Sp2ms H2233H_B H9002=ו=and/H9003=ב=in/{H2233H=זֶ֫רַע=: children»seed:2_children;_descendants}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 15,
           "text": "“I am with you. I will watch over you everywhere you go. And I will bring you back to this land. I will not leave you until I have done what I have promised you.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָֽ/ךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La/kh",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "you",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9032}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9032",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9032",
+                  "lemma": "ךְ",
+                  "translit": "kh",
+                  "morph": "Os2f",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person feminine singular",
+                  "raw": "H9032\tH9032 =\tH9032\tךְ\tkh\tOs2f\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person feminine singular"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9032=Os2f=you}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#22=L לָֽ/ךְ\\׃ La/kh to <the>/ you H9005/{H9032}\\H9016 HRd/Sp2ms H9032 H9005=ל=to/{H9032=Os2f=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 16,
           "text": "Jacob woke up from his sleep. Then he thought, “The Lord is certainly in this place. And I didn’t even know it.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יָדָֽעְתִּי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ya.Da.'e.ti",
+                "wordIndex": 2
+              },
+              {
+                "text": "I",
+                "wordIndex": 3
+              },
+              {
+                "text": "realized",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3045}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3045",
+                  "lemma": "יָדַע",
+                  "translit": "ya.da",
+                  "morph": "H:V",
+                  "gloss": "to know 1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)",
+                  "raw": "H3045\tH3045 =\tH3045\tיָדַע\tya.da\tH:V\tto know\t1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)"
+                }
+              },
+              {
+                "text": "HVqp1cs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3045",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3045",
+                  "lemma": "יָדַע",
+                  "translit": "ya.da",
+                  "morph": "H:V",
+                  "gloss": "to know 1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)",
+                  "raw": "H3045\tH3045 =\tH3045\tיָדַע\tya.da\tH:V\tto know\t1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)"
+                }
+              },
+              {
+                "text": "{H3045=יָדַע=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3045",
+                  "lemma": "יָדַע",
+                  "translit": "ya.da",
+                  "morph": "H:V",
+                  "gloss": "to know 1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)",
+                  "raw": "H3045\tH3045 =\tH3045\tיָדַע\tya.da\tH:V\tto know\t1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)"
+                }
+              },
+              {
+                "text": "know}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L יָדָֽעְתִּי\\׃ ya.Da.'e.ti I realized {H3045}\\H9016 HVqp1cs H3045 {H3045=יָדַע=to know}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 17,
           "text": "Jacob was afraid. He said, “How holy this place is! This must be the house of God. This is the gate of heaven.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/שָּׁמָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./sha.Ma.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "heavens",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H8064}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8064",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8064",
+                  "lemma": "שָׁמַיִם",
+                  "translit": "sha.ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "heaven 1) heaven, heavens, sky<br>1a) visible heavens, sky<br>1a1) as abode of the stars<br>1a2) as the visible universe, the sky, atmosphere, etc<br>1b) Heaven (as the abode of God)<BR>Aramaic equivalent: <i>sha.ma.yin</i> (שָׁמַ֫יִן \"heaven\" H8065)",
+                  "raw": "H8064\tH8064 =\tH8064\tשָׁמַיִם\tsha.ma.yim\tH:N-M\theaven\t1) heaven, heavens, sky<br>1a) visible heavens, sky<br>1a1) as abode of the stars<br>1a2) as the visible universe, the sky, atmosphere, etc<br>1b) Heaven (as the abode of God)<BR>Aramaic equivalent: <i>sha.ma.yin</i> (שָׁמַ֫יִן \"heaven\" H8065)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H8064=שָׁמַיִם=heaven}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L הַ/שָּׁמָֽיִם\\׃ ha./sha.Ma.yim the/ heavens H9009/{H8064}\\H9016 HTd/Ncmpa H8064 H9009=ה=the/{H8064=שָׁמַיִם=heaven}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 18,
           "text": "Early the next morning Jacob took the stone he had placed under his head. He set it up as a pillar. And he poured oil on top of it.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "רֹאשָֽׁ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ro.Sha/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "top/",
+                "wordIndex": 3
+              },
+              {
+                "text": "its",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7218I}/H9024\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HNcmsc/Sp3fs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7218I",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H7218I=רֹאשׁ=:",
+                "wordIndex": 8
+              },
+              {
+                "text": "top»head:3_top;_best}/H9024=Ps3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9024",
+                  "lemma": "הּ",
+                  "translit": "h",
+                  "morph": "Ps3f",
+                  "gloss": "her Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person feminine singular",
+                  "raw": "H9024\tH9024 =\tH9024\tהּ\th\tPs3f\ther\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person feminine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L רֹאשָֽׁ/הּ\\׃ ro.Sha/h top/ its {H7218I}/H9024\\H9016 HNcmsc/Sp3fs H7218I {H7218I=רֹאשׁ=: top»head:3_top;_best}/H9024=Ps3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 19,
           "text": "He named that place Bethel. But the city used to be called Luz.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/רִאשֹׁנָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./ri.sho.Nah",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "former",
+                "wordIndex": 5
+              },
+              {
+                "text": "[time]",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9005/{H7223G}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Aofsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H7223G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H7223",
+                  "lemma": "רִאשׁוֹן",
+                  "translit": "ri.shon",
+                  "morph": "H:A",
+                  "gloss": "first: chief : chief<br>adj<br>1) first, primary, former<br>1a) former (of time)<br>1a1) ancestors<br>1a2) former things<br>1b) foremost (of location)<br>1c) first (in time)<br>1d) first, chief (in degree)<br>adv<br>2) first, before, formerly, at first",
+                  "raw": "H7223\tH7223I = a Meaning of\tH7223G\tרִאשׁוֹן\tri.shon\tH:A\tfirst: chief\t: chief<br>adj<br>1) first, primary, former<br>1a) former (of time)<br>1a1) ancestors<br>1a2) former things<br>1b) foremost (of location)<br>1c) first (in time)<br>1d) first, chief (in degree)<br>adv<br>2) first, before, formerly, at first"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H7223G=רִאשׁוֹן=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "first»first:1_first}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L לָ/רִאשֹׁנָֽה\\׃ la./ri.sho.Nah to the/ former [time] H9005/{H7223G}\\H9016 HRd/Aofsa H7223G H9005=ל=to/{H7223G=רִאשׁוֹן=: first»first:1_first}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 20,
           "text": "Then Jacob made a promise. He said, “May God be with me. May he watch over me on this journey I’m taking. May he give me food to eat and clothes to wear.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לִ/לְבֹּֽשׁ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "li/l.Bosh",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "wear",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H3847}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3847",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3847",
+                  "lemma": "לָבֵשׁ",
+                  "translit": "la.vash",
+                  "morph": "H:V",
+                  "gloss": "to clothe 1) to dress, wear, clothe, put on clothing, be clothed<br>1a) (Qal)<br>1a1) to put on clothes, be clothed, wear<br>1a2) to put on, be clothed with (fig.)<br>1b) (Pual) to be fully clothed<br>1c) (Hiphil) to clothe, array with, dress<BR>Aramaic equivalent: <i>le.vash</i> (לְבֵשׁ \"to clothe\" H3848)",
+                  "raw": "H3847\tH3847 =\tH3847\tלָבֵשׁ\tla.vash\tH:V\tto clothe\t1) to dress, wear, clothe, put on clothing, be clothed<br>1a) (Qal)<br>1a1) to put on clothes, be clothed, wear<br>1a2) to put on, be clothed with (fig.)<br>1b) (Pual) to be fully clothed<br>1c) (Hiphil) to clothe, array with, dress<BR>Aramaic equivalent: <i>le.vash</i> (לְבֵשׁ \"to clothe\" H3848)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H3847=לָבֵשׁ=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "clothe}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L לִ/לְבֹּֽשׁ\\׃ li/l.Bosh to/ wear H9005/{H3847}\\H9016 HR/Vqcc H3847 H9005=ל=to/{H3847=לָבֵשׁ=to clothe}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 21,
           "text": "May he do as he has promised so that I can return safely to my father’s home. Then you, Lord, will be my God.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵ/אלֹהִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./lo.Him",
+                "wordIndex": 2
+              },
+              {
+                "text": "<into>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "God",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0430G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0430G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#09=L לֵ/אלֹהִֽים\\׃ le./lo.Him <into>/ God H9005/{H0430G}\\H9016 HR/Ncmpa H0430G H9005=ל=to/{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 22,
           "text": "This stone I’ve set up as a pillar will be God’s house. And I’ll give you a tenth of everything you give me.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָֽ/ךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La/kh",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "you",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9032}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9032",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9032",
+                  "lemma": "ךְ",
+                  "translit": "kh",
+                  "morph": "Os2f",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person feminine singular",
+                  "raw": "H9032\tH9032 =\tH9032\tךְ\tkh\tOs2f\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person feminine singular"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9032=Os2f=you}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#15=L לָֽ/ךְ\\׃ La/kh to <the>/ you H9005/{H9032}\\H9016 HRd/Sp2ms H9032 H9005=ל=to/{H9032=Os2f=you}\\H9016=׃=verseEnd"
+          }
         }
       ]
     }

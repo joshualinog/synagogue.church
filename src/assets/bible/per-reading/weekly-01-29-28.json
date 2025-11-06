@@ -7,61 +7,811 @@
           "chapter": 27,
           "verse": 1,
           "text": "Then Moses and the elders of Israel charged the people, saying, “Keep all of the commandment that I am commanding you today.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יּֽוֹם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hai./Yom",
+                "wordIndex": 2
+              },
+              {
+                "text": "this/",
+                "wordIndex": 3
+              },
+              {
+                "text": "day",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H3117G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3117G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3117G=יוֹם=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L הַ/יּֽוֹם\\׃ hai./Yom this/ day H9009/{H3117G}\\H9016 HTd/Ncmsa H3117G H9009=ה=the/{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 2,
           "text": "And then on the day that you cross the Jordan to the land that Yahweh your God is giving to you, then you shall set up for yourselves large stones, and you shall paint them with lime,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בַּ/שִּֽׂיד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba./Sid",
+                "wordIndex": 2
+              },
+              {
+                "text": "with",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "lime",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H7875}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Ncmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7875",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7875",
+                  "lemma": "שִׂיד",
+                  "translit": "sid",
+                  "morph": "H:N-M",
+                  "gloss": "lime 1) lime, whitewash<br>1a) made by burning bones",
+                  "raw": "H7875\tH7875 =\tH7875\tשִׂיד\tsid\tH:N-M\tlime\t1) lime, whitewash<br>1a) made by burning bones"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H7875=שִׂיד=lime}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#20=L בַּ/שִּֽׂיד\\׃ ba./Sid with <the>/ lime H9003/{H7875}\\H9016 HRd/Ncmsa H7875 H9003=ב=in/{H7875=שִׂיד=lime}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 3,
           "text": "and you shall write on them all the words of this law at your crossing, so that you may come into the land that Yahweh your God is giving to you, a land flowing with milk and honey, as Yahweh, the God of your ancestors, promised to you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#28=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָֽ/ךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La/kh",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "you",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9031}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9031_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9031",
+                  "lemma": "ךָּ",
+                  "translit": "ka",
+                  "morph": "Os2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine singular",
+                  "raw": "H9031\tH9031 =\tH9031\tךָּ\tka\tOs2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine singular"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9031=Os2m=you}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#28=L לָֽ/ךְ\\׃ La/kh to <the>/ you H9005/{H9031}\\H9016 HRd/Sp2ms H9031_B H9005=ל=to/{H9031=Os2m=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 4,
           "text": "And when you cross the Jordan, you shall set up these stones that I am commanding you about today on Mount Ebal, and you shall paint them with lime.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בַּ/שִּֽׂיד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba./Sid",
+                "wordIndex": 2
+              },
+              {
+                "text": "with",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "lime",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H7875}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Ncmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7875",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7875",
+                  "lemma": "שִׂיד",
+                  "translit": "sid",
+                  "morph": "H:N-M",
+                  "gloss": "lime 1) lime, whitewash<br>1a) made by burning bones",
+                  "raw": "H7875\tH7875 =\tH7875\tשִׂיד\tsid\tH:N-M\tlime\t1) lime, whitewash<br>1a) made by burning bones"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H7875=שִׂיד=lime}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#18=L בַּ/שִּֽׂיד\\׃ ba./Sid with <the>/ lime H9003/{H7875}\\H9016 HRd/Ncmsa H7875 H9003=ב=in/{H7875=שִׂיד=lime}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 5,
           "text": "And you shall build an altar there for Yahweh your God, an altar of stone, but you shall not use an iron tool to shape the stones.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בַּרְזֶֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "bar.Zel",
+                "wordIndex": 2
+              },
+              {
+                "text": "iron",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1270}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1270",
+                  "lemma": "בַּרְזֶל",
+                  "translit": "bar.zel",
+                  "morph": "H:N-M",
+                  "gloss": "iron 1) iron<br>1a) iron<br>1a1) iron ore<br>1a2) as material of furniture, utensils, implements<br>2) tool of iron<br>3) harshness, strength, oppression (fig.)<BR>Aramaic equivalent: <i>par.zel</i> (פַּרְזֶל \"iron\" H6523)",
+                  "raw": "H1270\tH1270 =\tH1270\tבַּרְזֶל\tbar.zel\tH:N-M\tiron\t1) iron<br>1a) iron<br>1a1) iron ore<br>1a2) as material of furniture, utensils, implements<br>2) tool of iron<br>3) harshness, strength, oppression (fig.)<BR>Aramaic equivalent: <i>par.zel</i> (פַּרְזֶל \"iron\" H6523)"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1270",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1270",
+                  "lemma": "בַּרְזֶל",
+                  "translit": "bar.zel",
+                  "morph": "H:N-M",
+                  "gloss": "iron 1) iron<br>1a) iron<br>1a1) iron ore<br>1a2) as material of furniture, utensils, implements<br>2) tool of iron<br>3) harshness, strength, oppression (fig.)<BR>Aramaic equivalent: <i>par.zel</i> (פַּרְזֶל \"iron\" H6523)",
+                  "raw": "H1270\tH1270 =\tH1270\tבַּרְזֶל\tbar.zel\tH:N-M\tiron\t1) iron<br>1a) iron<br>1a1) iron ore<br>1a2) as material of furniture, utensils, implements<br>2) tool of iron<br>3) harshness, strength, oppression (fig.)<BR>Aramaic equivalent: <i>par.zel</i> (פַּרְזֶל \"iron\" H6523)"
+                }
+              },
+              {
+                "text": "{H1270=בַּרְזֶל=iron}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1270",
+                  "lemma": "בַּרְזֶל",
+                  "translit": "bar.zel",
+                  "morph": "H:N-M",
+                  "gloss": "iron 1) iron<br>1a) iron<br>1a1) iron ore<br>1a2) as material of furniture, utensils, implements<br>2) tool of iron<br>3) harshness, strength, oppression (fig.)<BR>Aramaic equivalent: <i>par.zel</i> (פַּרְזֶל \"iron\" H6523)",
+                  "raw": "H1270\tH1270 =\tH1270\tבַּרְזֶל\tbar.zel\tH:N-M\tiron\t1) iron<br>1a) iron<br>1a1) iron ore<br>1a2) as material of furniture, utensils, implements<br>2) tool of iron<br>3) harshness, strength, oppression (fig.)<BR>Aramaic equivalent: <i>par.zel</i> (פַּרְזֶל \"iron\" H6523)"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L בַּרְזֶֽל\\׃ bar.Zel iron {H1270}\\H9016 HNcmsa H1270 {H1270=בַּרְזֶל=iron}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 6,
           "text": "You must build the altar of your God with unhewn stones, and you shall sacrifice on it burnt offerings to Yahweh your God.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֱלֹהֶֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.lo.Hei./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "God/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0430G}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0430G_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L אֱלֹהֶֽי/ךָ\\׃ 'e.lo.Hei./kha God/ your {H0430G}/H9021\\H9016 HNcmpc/Sp2ms H0430G_B {H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 7,
           "text": "And you shall sacrifice fellowship offerings, and you shall eat them there, and you shall rejoice before Yahweh your God.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֱלֹהֶֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.lo.Hei./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "God/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0430G}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0430G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L אֱלֹהֶֽי/ךָ\\׃ 'e.lo.Hei./kha God/ your {H0430G}/H9021\\H9016 HNcmpc/Sp2ms H0430G {H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 8,
           "text": "You shall write on the stone all of the words of this law very clearly.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הֵיטֵֽב\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "hei.Tev",
+                "wordIndex": 3
+              },
+              {
+                "text": "doing",
+                "wordIndex": 4
+              },
+              {
+                "text": "well",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H3190}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3190",
+                  "lemma": "יָטַב",
+                  "translit": "ya.tav",
+                  "morph": "H:V",
+                  "gloss": "be good 1) to be good, be pleasing, be well, be glad<br>1a) (Qal)<br>1a1) to be glad, be joyful<br>1a2) to be well placed<br>1a3) to be well for, be well with, go well with<br>1a4) to be pleasing, be pleasing to<br>1b) (Hiphil)<br>1b1) to make glad, rejoice<br>1b2) to do good to, deal well with<br>1b3) to do well, do thoroughly<br>1b4) to make a thing good or right or beautiful<br>1b5) to do well, do right",
+                  "raw": "H3190\tH3190 =\tH3190\tיָטַב\tya.tav\tH:V\tbe good\t1) to be good, be pleasing, be well, be glad<br>1a) (Qal)<br>1a1) to be glad, be joyful<br>1a2) to be well placed<br>1a3) to be well for, be well with, go well with<br>1a4) to be pleasing, be pleasing to<br>1b) (Hiphil)<br>1b1) to make glad, rejoice<br>1b2) to do good to, deal well with<br>1b3) to do well, do thoroughly<br>1b4) to make a thing good or right or beautiful<br>1b5) to do well, do right"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HVhaa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H3190",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3190",
+                  "lemma": "יָטַב",
+                  "translit": "ya.tav",
+                  "morph": "H:V",
+                  "gloss": "be good 1) to be good, be pleasing, be well, be glad<br>1a) (Qal)<br>1a1) to be glad, be joyful<br>1a2) to be well placed<br>1a3) to be well for, be well with, go well with<br>1a4) to be pleasing, be pleasing to<br>1b) (Hiphil)<br>1b1) to make glad, rejoice<br>1b2) to do good to, deal well with<br>1b3) to do well, do thoroughly<br>1b4) to make a thing good or right or beautiful<br>1b5) to do well, do right",
+                  "raw": "H3190\tH3190 =\tH3190\tיָטַב\tya.tav\tH:V\tbe good\t1) to be good, be pleasing, be well, be glad<br>1a) (Qal)<br>1a1) to be glad, be joyful<br>1a2) to be well placed<br>1a3) to be well for, be well with, go well with<br>1a4) to be pleasing, be pleasing to<br>1b) (Hiphil)<br>1b1) to make glad, rejoice<br>1b2) to do good to, deal well with<br>1b3) to do well, do thoroughly<br>1b4) to make a thing good or right or beautiful<br>1b5) to do well, do right"
+                }
+              },
+              {
+                "text": "{H3190=יָטַב=be",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H3190",
+                  "lemma": "יָטַב",
+                  "translit": "ya.tav",
+                  "morph": "H:V",
+                  "gloss": "be good 1) to be good, be pleasing, be well, be glad<br>1a) (Qal)<br>1a1) to be glad, be joyful<br>1a2) to be well placed<br>1a3) to be well for, be well with, go well with<br>1a4) to be pleasing, be pleasing to<br>1b) (Hiphil)<br>1b1) to make glad, rejoice<br>1b2) to do good to, deal well with<br>1b3) to do well, do thoroughly<br>1b4) to make a thing good or right or beautiful<br>1b5) to do well, do right",
+                  "raw": "H3190\tH3190 =\tH3190\tיָטַב\tya.tav\tH:V\tbe good\t1) to be good, be pleasing, be well, be glad<br>1a) (Qal)<br>1a1) to be glad, be joyful<br>1a2) to be well placed<br>1a3) to be well for, be well with, go well with<br>1a4) to be pleasing, be pleasing to<br>1b) (Hiphil)<br>1b1) to make glad, rejoice<br>1b2) to do good to, deal well with<br>1b3) to do well, do thoroughly<br>1b4) to make a thing good or right or beautiful<br>1b5) to do well, do right"
+                }
+              },
+              {
+                "text": "good}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הֵיטֵֽב\\׃\\ \\ס hei.Tev doing well {H3190}\\H9016\\ \\H9018 HVhaa H3190 {H3190=יָטַב=be good}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 9,
           "text": "Then Moses and the priests, the Levites, spoke to all Israel, saying, “Be silent and hear, Israel, for this day you have become a people for Yahweh your God.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֱלֹהֶֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.lo.Hei./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "God/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0430G}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0430G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L אֱלֹהֶֽי/ךָ\\׃ 'e.lo.Hei./kha God/ your {H0430G}/H9021\\H9016 HNcmpc/Sp2ms H0430G {H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 10,
           "text": "And listen to the voice of Yahweh your God, and observe his commandments and his rules that I am commanding you today.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יּֽוֹם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "hai./Yom",
+                "wordIndex": 3
+              },
+              {
+                "text": "this/",
+                "wordIndex": 4
+              },
+              {
+                "text": "day",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H3117G}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H3117G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3117G=יוֹם=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L הַ/יּֽוֹם\\׃\\ \\ס hai./Yom this/ day H9009/{H3117G}\\H9016\\ \\H9018 HTd/Ncmsa H3117G H9009=ה=the/{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         }
       ],
       "nirv": [
@@ -69,61 +819,811 @@
           "chapter": 27,
           "verse": 1,
           "text": "The elders of Israel and I gave commands to the people. We said, “Obey all of the commands we’re giving you today.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יּֽוֹם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hai./Yom",
+                "wordIndex": 2
+              },
+              {
+                "text": "this/",
+                "wordIndex": 3
+              },
+              {
+                "text": "day",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H3117G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3117G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3117G=יוֹם=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L הַ/יּֽוֹם\\׃ hai./Yom this/ day H9009/{H3117G}\\H9016 HTd/Ncmsa H3117G H9009=ה=the/{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 2,
           "text": "“You will go across the Jordan River. You will enter the land the Lord your God is giving you. When you do, set up some large stones. Put a coat of plaster on them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בַּ/שִּֽׂיד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba./Sid",
+                "wordIndex": 2
+              },
+              {
+                "text": "with",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "lime",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H7875}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Ncmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7875",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7875",
+                  "lemma": "שִׂיד",
+                  "translit": "sid",
+                  "morph": "H:N-M",
+                  "gloss": "lime 1) lime, whitewash<br>1a) made by burning bones",
+                  "raw": "H7875\tH7875 =\tH7875\tשִׂיד\tsid\tH:N-M\tlime\t1) lime, whitewash<br>1a) made by burning bones"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H7875=שִׂיד=lime}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#20=L בַּ/שִּֽׂיד\\׃ ba./Sid with <the>/ lime H9003/{H7875}\\H9016 HRd/Ncmsa H7875 H9003=ב=in/{H7875=שִׂיד=lime}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 3,
           "text": "Write all of the words of this law on them. Do it when you have crossed over into the land the Lord your God is giving you. It’s a land that has plenty of milk and honey. The Lord is the God of your fathers. He promised you that you would enter the land.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#28=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָֽ/ךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La/kh",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "you",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9031}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9031_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9031",
+                  "lemma": "ךָּ",
+                  "translit": "ka",
+                  "morph": "Os2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine singular",
+                  "raw": "H9031\tH9031 =\tH9031\tךָּ\tka\tOs2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine singular"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9031=Os2m=you}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#28=L לָֽ/ךְ\\׃ La/kh to <the>/ you H9005/{H9031}\\H9016 HRd/Sp2ms H9031_B H9005=ל=to/{H9031=Os2m=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 4,
           "text": "After you have gone across the Jordan, set up those stones on Mount Ebal. Put a coat of plaster on them. We’re commanding you today to do that.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בַּ/שִּֽׂיד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba./Sid",
+                "wordIndex": 2
+              },
+              {
+                "text": "with",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "lime",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H7875}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Ncmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7875",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7875",
+                  "lemma": "שִׂיד",
+                  "translit": "sid",
+                  "morph": "H:N-M",
+                  "gloss": "lime 1) lime, whitewash<br>1a) made by burning bones",
+                  "raw": "H7875\tH7875 =\tH7875\tשִׂיד\tsid\tH:N-M\tlime\t1) lime, whitewash<br>1a) made by burning bones"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H7875=שִׂיד=lime}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#18=L בַּ/שִּֽׂיד\\׃ ba./Sid with <the>/ lime H9003/{H7875}\\H9016 HRd/Ncmsa H7875 H9003=ב=in/{H7875=שִׂיד=lime}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 5,
           "text": "“Build an altar there to honor the Lord your God. Make it out of stones. Don’t use any iron tool on them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בַּרְזֶֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "bar.Zel",
+                "wordIndex": 2
+              },
+              {
+                "text": "iron",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1270}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1270",
+                  "lemma": "בַּרְזֶל",
+                  "translit": "bar.zel",
+                  "morph": "H:N-M",
+                  "gloss": "iron 1) iron<br>1a) iron<br>1a1) iron ore<br>1a2) as material of furniture, utensils, implements<br>2) tool of iron<br>3) harshness, strength, oppression (fig.)<BR>Aramaic equivalent: <i>par.zel</i> (פַּרְזֶל \"iron\" H6523)",
+                  "raw": "H1270\tH1270 =\tH1270\tבַּרְזֶל\tbar.zel\tH:N-M\tiron\t1) iron<br>1a) iron<br>1a1) iron ore<br>1a2) as material of furniture, utensils, implements<br>2) tool of iron<br>3) harshness, strength, oppression (fig.)<BR>Aramaic equivalent: <i>par.zel</i> (פַּרְזֶל \"iron\" H6523)"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1270",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1270",
+                  "lemma": "בַּרְזֶל",
+                  "translit": "bar.zel",
+                  "morph": "H:N-M",
+                  "gloss": "iron 1) iron<br>1a) iron<br>1a1) iron ore<br>1a2) as material of furniture, utensils, implements<br>2) tool of iron<br>3) harshness, strength, oppression (fig.)<BR>Aramaic equivalent: <i>par.zel</i> (פַּרְזֶל \"iron\" H6523)",
+                  "raw": "H1270\tH1270 =\tH1270\tבַּרְזֶל\tbar.zel\tH:N-M\tiron\t1) iron<br>1a) iron<br>1a1) iron ore<br>1a2) as material of furniture, utensils, implements<br>2) tool of iron<br>3) harshness, strength, oppression (fig.)<BR>Aramaic equivalent: <i>par.zel</i> (פַּרְזֶל \"iron\" H6523)"
+                }
+              },
+              {
+                "text": "{H1270=בַּרְזֶל=iron}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1270",
+                  "lemma": "בַּרְזֶל",
+                  "translit": "bar.zel",
+                  "morph": "H:N-M",
+                  "gloss": "iron 1) iron<br>1a) iron<br>1a1) iron ore<br>1a2) as material of furniture, utensils, implements<br>2) tool of iron<br>3) harshness, strength, oppression (fig.)<BR>Aramaic equivalent: <i>par.zel</i> (פַּרְזֶל \"iron\" H6523)",
+                  "raw": "H1270\tH1270 =\tH1270\tבַּרְזֶל\tbar.zel\tH:N-M\tiron\t1) iron<br>1a) iron<br>1a1) iron ore<br>1a2) as material of furniture, utensils, implements<br>2) tool of iron<br>3) harshness, strength, oppression (fig.)<BR>Aramaic equivalent: <i>par.zel</i> (פַּרְזֶל \"iron\" H6523)"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L בַּרְזֶֽל\\׃ bar.Zel iron {H1270}\\H9016 HNcmsa H1270 {H1270=בַּרְזֶל=iron}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 6,
           "text": "Use stones you find in the fields to build his altar. Then offer burnt offerings on it to the Lord your God.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֱלֹהֶֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.lo.Hei./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "God/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0430G}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0430G_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L אֱלֹהֶֽי/ךָ\\׃ 'e.lo.Hei./kha God/ your {H0430G}/H9021\\H9016 HNcmpc/Sp2ms H0430G_B {H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 7,
           "text": "Sacrifice friendship offerings there. Eat them and be filled with joy in the sight of the Lord your God.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֱלֹהֶֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.lo.Hei./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "God/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0430G}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0430G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L אֱלֹהֶֽי/ךָ\\׃ 'e.lo.Hei./kha God/ your {H0430G}/H9021\\H9016 HNcmpc/Sp2ms H0430G {H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 8,
           "text": "“You must write all of the words of this law on the stones you have set up. Write the words very clearly.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הֵיטֵֽב\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "hei.Tev",
+                "wordIndex": 3
+              },
+              {
+                "text": "doing",
+                "wordIndex": 4
+              },
+              {
+                "text": "well",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H3190}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3190",
+                  "lemma": "יָטַב",
+                  "translit": "ya.tav",
+                  "morph": "H:V",
+                  "gloss": "be good 1) to be good, be pleasing, be well, be glad<br>1a) (Qal)<br>1a1) to be glad, be joyful<br>1a2) to be well placed<br>1a3) to be well for, be well with, go well with<br>1a4) to be pleasing, be pleasing to<br>1b) (Hiphil)<br>1b1) to make glad, rejoice<br>1b2) to do good to, deal well with<br>1b3) to do well, do thoroughly<br>1b4) to make a thing good or right or beautiful<br>1b5) to do well, do right",
+                  "raw": "H3190\tH3190 =\tH3190\tיָטַב\tya.tav\tH:V\tbe good\t1) to be good, be pleasing, be well, be glad<br>1a) (Qal)<br>1a1) to be glad, be joyful<br>1a2) to be well placed<br>1a3) to be well for, be well with, go well with<br>1a4) to be pleasing, be pleasing to<br>1b) (Hiphil)<br>1b1) to make glad, rejoice<br>1b2) to do good to, deal well with<br>1b3) to do well, do thoroughly<br>1b4) to make a thing good or right or beautiful<br>1b5) to do well, do right"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HVhaa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H3190",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3190",
+                  "lemma": "יָטַב",
+                  "translit": "ya.tav",
+                  "morph": "H:V",
+                  "gloss": "be good 1) to be good, be pleasing, be well, be glad<br>1a) (Qal)<br>1a1) to be glad, be joyful<br>1a2) to be well placed<br>1a3) to be well for, be well with, go well with<br>1a4) to be pleasing, be pleasing to<br>1b) (Hiphil)<br>1b1) to make glad, rejoice<br>1b2) to do good to, deal well with<br>1b3) to do well, do thoroughly<br>1b4) to make a thing good or right or beautiful<br>1b5) to do well, do right",
+                  "raw": "H3190\tH3190 =\tH3190\tיָטַב\tya.tav\tH:V\tbe good\t1) to be good, be pleasing, be well, be glad<br>1a) (Qal)<br>1a1) to be glad, be joyful<br>1a2) to be well placed<br>1a3) to be well for, be well with, go well with<br>1a4) to be pleasing, be pleasing to<br>1b) (Hiphil)<br>1b1) to make glad, rejoice<br>1b2) to do good to, deal well with<br>1b3) to do well, do thoroughly<br>1b4) to make a thing good or right or beautiful<br>1b5) to do well, do right"
+                }
+              },
+              {
+                "text": "{H3190=יָטַב=be",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H3190",
+                  "lemma": "יָטַב",
+                  "translit": "ya.tav",
+                  "morph": "H:V",
+                  "gloss": "be good 1) to be good, be pleasing, be well, be glad<br>1a) (Qal)<br>1a1) to be glad, be joyful<br>1a2) to be well placed<br>1a3) to be well for, be well with, go well with<br>1a4) to be pleasing, be pleasing to<br>1b) (Hiphil)<br>1b1) to make glad, rejoice<br>1b2) to do good to, deal well with<br>1b3) to do well, do thoroughly<br>1b4) to make a thing good or right or beautiful<br>1b5) to do well, do right",
+                  "raw": "H3190\tH3190 =\tH3190\tיָטַב\tya.tav\tH:V\tbe good\t1) to be good, be pleasing, be well, be glad<br>1a) (Qal)<br>1a1) to be glad, be joyful<br>1a2) to be well placed<br>1a3) to be well for, be well with, go well with<br>1a4) to be pleasing, be pleasing to<br>1b) (Hiphil)<br>1b1) to make glad, rejoice<br>1b2) to do good to, deal well with<br>1b3) to do well, do thoroughly<br>1b4) to make a thing good or right or beautiful<br>1b5) to do well, do right"
+                }
+              },
+              {
+                "text": "good}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הֵיטֵֽב\\׃\\ \\ס hei.Tev doing well {H3190}\\H9016\\ \\H9018 HVhaa H3190 {H3190=יָטַב=be good}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 9,
           "text": "Then the priests, who are Levites, and I spoke to all of the people of Israel. We said, “Israel, be quiet! Listen! You have now become the people of the Lord your God.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֱלֹהֶֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.lo.Hei./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "God/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0430G}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0430G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L אֱלֹהֶֽי/ךָ\\׃ 'e.lo.Hei./kha God/ your {H0430G}/H9021\\H9016 HNcmpc/Sp2ms H0430G {H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 10,
           "text": "Obey him. Follow his commands and rules that we’re giving you today.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יּֽוֹם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "hai./Yom",
+                "wordIndex": 3
+              },
+              {
+                "text": "this/",
+                "wordIndex": 4
+              },
+              {
+                "text": "day",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H3117G}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H3117G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3117G=יוֹם=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L הַ/יּֽוֹם\\׃\\ \\ס hai./Yom this/ day H9009/{H3117G}\\H9016\\ \\H9018 HTd/Ncmsa H3117G H9009=ה=the/{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         }
       ]
     }

@@ -7,61 +7,795 @@
           "chapter": 9,
           "verse": 8,
           "text": "And God said to Noah and to his sons with him,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L לֵ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559_B H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 9,
           "text": "“As for me, behold, I am establishing my covenant with you and with your seed after you,",
-          "isHeading": true
+          "isHeading": true,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אַֽחֲרֵי/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'A.cha.rei./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "after/",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0310A}/H9036\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HAcmpc/Sp2mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0310A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H0310A=אַחַר=after}/H9036=Op2m=you\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#09=L אַֽחֲרֵי/כֶֽם\\׃ 'A.cha.rei./Khem after/ you {H0310A}/H9036\\H9016 HAcmpc/Sp2mp H0310A {H0310A=אַחַר=after}/H9036=Op2m=you\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 10,
           "text": "and with every living creature that is with you—the birds, the animals, and every animal of the earth with you, from all that came out of the ark to all the animals of the earth.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אָֽרֶץ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'A.retz",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "earth",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0776G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0776G_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L הָ/אָֽרֶץ\\׃ ha./'A.retz the/ earth H9009/{H0776G}\\H9016 HTd/Ncfsa H0776G_B H9009=ה=the/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 11,
           "text": "I am establishing my covenant with you, that never again will all flesh be cut off by the waters of a flood, nor will there ever be a flood that destroys the earth.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אָֽרֶץ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'A.retz",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "earth",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0776G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L הָ/אָֽרֶץ\\׃ ha./'A.retz the/ earth H9009/{H0776G}\\H9016 HTd/Ncfsa H0776G H9009=ה=the/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 12,
           "text": "And God said, “This is the sign of the covenant that I am making between me and you, and between every living creature that is with you for future generations.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עוֹלָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "o.Lam",
+                "wordIndex": 2
+              },
+              {
+                "text": "perpetuity",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5769G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5769G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "{H5769G=עוֹלָם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L עוֹלָֽם\\׃ o.Lam perpetuity {H5769G}\\H9016 HNcmsa H5769G {H5769G=עוֹלָם=: enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 13,
           "text": "My bow I have set in the clouds, and it shall be for a sign of the covenant between me and between the earth.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אָֽרֶץ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'A.retz",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "earth",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0776G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הָ/אָֽרֶץ\\׃ ha./'A.retz the/ earth H9009/{H0776G}\\H9016 HTd/Ncfsa H0776G H9009=ה=the/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 14,
           "text": "And when I make clouds appear over the earth the bow shall be seen in the clouds.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בֶּ/עָנָֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./'a.Nan",
+                "wordIndex": 2
+              },
+              {
+                "text": "in",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "cloud[s]",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H6051}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Ncmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H6051_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6051",
+                  "lemma": "עָנָן",
+                  "translit": "a.nan",
+                  "morph": "H:N-M",
+                  "gloss": "cloud 1) cloud, cloudy, cloud-mass<br>1a) cloud-mass (of theophanic cloud)<br>1b) cloud<BR>Aramaic equivalent: <i>a.nan</i> (עֲנָן \"cloud\" H6050)",
+                  "raw": "H6051\tH6051 =\tH6051\tעָנָן\ta.nan\tH:N-M\tcloud\t1) cloud, cloudy, cloud-mass<br>1a) cloud-mass (of theophanic cloud)<br>1b) cloud<BR>Aramaic equivalent: <i>a.nan</i> (עֲנָן \"cloud\" H6050)"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H6051=עָנָן=cloud}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#08=L בֶּ/עָנָֽן\\׃ be./'a.Nan in the/ cloud[s] H9003/{H6051}\\H9016 HRd/Ncmsa H6051_B H9003=ב=in/{H6051=עָנָן=cloud}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 15,
           "text": "Then I will remember my covenant that is between me and you, and between every living creature, with all flesh. And the waters of a flood will never again cause the destruction of all flesh.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּשָֽׂר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba.Sar",
+                "wordIndex": 2
+              },
+              {
+                "text": "flesh",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1320}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1320",
+                  "lemma": "בָּשָׂר",
+                  "translit": "ba.sar",
+                  "morph": "H:N-M",
+                  "gloss": "flesh 1) flesh<br>1a) of the body<br>1a1) of humans<br>1a2) of animals<br>1b) the body itself<br>1c) male organ of generation (euphemism)<br>1d) kindred, blood-relations<br>1e) flesh as frail or erring (man against God)<br>1f) all living things<br>1g) animals<br>1h) mankind<BR>Aramaic equivalent: <i>be.shar</i> (בְּשַׁר \"flesh\" H1321)",
+                  "raw": "H1320\tH1320 =\tH1320\tבָּשָׂר\tba.sar\tH:N-M\tflesh\t1) flesh<br>1a) of the body<br>1a1) of humans<br>1a2) of animals<br>1b) the body itself<br>1c) male organ of generation (euphemism)<br>1d) kindred, blood-relations<br>1e) flesh as frail or erring (man against God)<br>1f) all living things<br>1g) animals<br>1h) mankind<BR>Aramaic equivalent: <i>be.shar</i> (בְּשַׁר \"flesh\" H1321)"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1320_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1320",
+                  "lemma": "בָּשָׂר",
+                  "translit": "ba.sar",
+                  "morph": "H:N-M",
+                  "gloss": "flesh 1) flesh<br>1a) of the body<br>1a1) of humans<br>1a2) of animals<br>1b) the body itself<br>1c) male organ of generation (euphemism)<br>1d) kindred, blood-relations<br>1e) flesh as frail or erring (man against God)<br>1f) all living things<br>1g) animals<br>1h) mankind<BR>Aramaic equivalent: <i>be.shar</i> (בְּשַׁר \"flesh\" H1321)",
+                  "raw": "H1320\tH1320 =\tH1320\tבָּשָׂר\tba.sar\tH:N-M\tflesh\t1) flesh<br>1a) of the body<br>1a1) of humans<br>1a2) of animals<br>1b) the body itself<br>1c) male organ of generation (euphemism)<br>1d) kindred, blood-relations<br>1e) flesh as frail or erring (man against God)<br>1f) all living things<br>1g) animals<br>1h) mankind<BR>Aramaic equivalent: <i>be.shar</i> (בְּשַׁר \"flesh\" H1321)"
+                }
+              },
+              {
+                "text": "{H1320=בָּשָׂר=flesh}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1320",
+                  "lemma": "בָּשָׂר",
+                  "translit": "ba.sar",
+                  "morph": "H:N-M",
+                  "gloss": "flesh 1) flesh<br>1a) of the body<br>1a1) of humans<br>1a2) of animals<br>1b) the body itself<br>1c) male organ of generation (euphemism)<br>1d) kindred, blood-relations<br>1e) flesh as frail or erring (man against God)<br>1f) all living things<br>1g) animals<br>1h) mankind<BR>Aramaic equivalent: <i>be.shar</i> (בְּשַׁר \"flesh\" H1321)",
+                  "raw": "H1320\tH1320 =\tH1320\tבָּשָׂר\tba.sar\tH:N-M\tflesh\t1) flesh<br>1a) of the body<br>1a1) of humans<br>1a2) of animals<br>1b) the body itself<br>1c) male organ of generation (euphemism)<br>1d) kindred, blood-relations<br>1e) flesh as frail or erring (man against God)<br>1f) all living things<br>1g) animals<br>1h) mankind<BR>Aramaic equivalent: <i>be.shar</i> (בְּשַׁר \"flesh\" H1321)"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L בָּשָֽׂר\\׃ ba.Sar flesh {H1320}\\H9016 HNcmsa H1320_B {H1320=בָּשָׂר=flesh}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 16,
           "text": "The bow shall be in the clouds, and I will see it, so as to remember the everlasting covenant between God and between every living creature, with all flesh that is upon the earth.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אָֽרֶץ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'A.retz",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "earth",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0776G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L הָ/אָֽרֶץ\\׃ ha./'A.retz the/ earth H9009/{H0776G}\\H9016 HTd/Ncfsa H0776G H9009=ה=the/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 17,
           "text": "And God said to Noah, “This is the sign of the covenant which I am establishing between me and all flesh that is upon the earth.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אָֽרֶץ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "ha./'A.retz",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "earth",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H0776G}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L הָ/אָֽרֶץ\\׃\\ \\פ ha./'A.retz the/ earth H9009/{H0776G}\\H9016\\ \\H9017 HTd/Ncfsa H0776G H9009=ה=the/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ],
       "nirv": [
@@ -69,61 +803,795 @@
           "chapter": 9,
           "verse": 8,
           "text": "Then God spoke to Noah and to his sons who were with him. He said,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L לֵ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559_B H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 9,
           "text": "“I am now making my covenant with you and with all of your children who will be born after you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אַֽחֲרֵי/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'A.cha.rei./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "after/",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0310A}/H9036\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HAcmpc/Sp2mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0310A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H0310A=אַחַר=after}/H9036=Op2m=you\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#09=L אַֽחֲרֵי/כֶֽם\\׃ 'A.cha.rei./Khem after/ you {H0310A}/H9036\\H9016 HAcmpc/Sp2mp H0310A {H0310A=אַחַר=after}/H9036=Op2m=you\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 10,
           "text": "I am making it also with every living thing that was with you in the ark. I am making my covenant with the birds, the livestock and all of the wild animals. I am making it with all of the creatures that came out of the ark with you. I am making it with every living thing on earth.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אָֽרֶץ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'A.retz",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "earth",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0776G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0776G_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L הָ/אָֽרֶץ\\׃ ha./'A.retz the/ earth H9009/{H0776G}\\H9016 HTd/Ncfsa H0776G_B H9009=ה=the/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 11,
           "text": "“Here is my covenant that I am making with you. The waters of a flood will never destroy all life again. A flood will never destroy the earth again.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אָֽרֶץ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'A.retz",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "earth",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0776G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L הָ/אָֽרֶץ\\׃ ha./'A.retz the/ earth H9009/{H0776G}\\H9016 HTd/Ncfsa H0776G H9009=ה=the/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 12,
           "text": "God continued, “My covenant is between me and you and every living thing with you. It is a covenant for all time to come.\n“Here is the sign of the covenant I am making.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עוֹלָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "o.Lam",
+                "wordIndex": 2
+              },
+              {
+                "text": "perpetuity",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5769G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5769G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "{H5769G=עוֹלָם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L עוֹלָֽם\\׃ o.Lam perpetuity {H5769G}\\H9016 HNcmsa H5769G {H5769G=עוֹלָם=: enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 13,
           "text": "I have put my rainbow in the clouds. It will be the sign of the covenant between me and the earth.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אָֽרֶץ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'A.retz",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "earth",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0776G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הָ/אָֽרֶץ\\׃ ha./'A.retz the/ earth H9009/{H0776G}\\H9016 HTd/Ncfsa H0776G H9009=ה=the/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 14,
           "text": "Sometimes when I bring clouds over the earth, a rainbow will appear in them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בֶּ/עָנָֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./'a.Nan",
+                "wordIndex": 2
+              },
+              {
+                "text": "in",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "cloud[s]",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H6051}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Ncmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H6051_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6051",
+                  "lemma": "עָנָן",
+                  "translit": "a.nan",
+                  "morph": "H:N-M",
+                  "gloss": "cloud 1) cloud, cloudy, cloud-mass<br>1a) cloud-mass (of theophanic cloud)<br>1b) cloud<BR>Aramaic equivalent: <i>a.nan</i> (עֲנָן \"cloud\" H6050)",
+                  "raw": "H6051\tH6051 =\tH6051\tעָנָן\ta.nan\tH:N-M\tcloud\t1) cloud, cloudy, cloud-mass<br>1a) cloud-mass (of theophanic cloud)<br>1b) cloud<BR>Aramaic equivalent: <i>a.nan</i> (עֲנָן \"cloud\" H6050)"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H6051=עָנָן=cloud}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#08=L בֶּ/עָנָֽן\\׃ be./'a.Nan in the/ cloud[s] H9003/{H6051}\\H9016 HRd/Ncmsa H6051_B H9003=ב=in/{H6051=עָנָן=cloud}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 15,
           "text": "Then I will remember my covenant between me and you and every kind of living thing. The waters will never become a flood to destroy all life again.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּשָֽׂר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba.Sar",
+                "wordIndex": 2
+              },
+              {
+                "text": "flesh",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1320}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1320",
+                  "lemma": "בָּשָׂר",
+                  "translit": "ba.sar",
+                  "morph": "H:N-M",
+                  "gloss": "flesh 1) flesh<br>1a) of the body<br>1a1) of humans<br>1a2) of animals<br>1b) the body itself<br>1c) male organ of generation (euphemism)<br>1d) kindred, blood-relations<br>1e) flesh as frail or erring (man against God)<br>1f) all living things<br>1g) animals<br>1h) mankind<BR>Aramaic equivalent: <i>be.shar</i> (בְּשַׁר \"flesh\" H1321)",
+                  "raw": "H1320\tH1320 =\tH1320\tבָּשָׂר\tba.sar\tH:N-M\tflesh\t1) flesh<br>1a) of the body<br>1a1) of humans<br>1a2) of animals<br>1b) the body itself<br>1c) male organ of generation (euphemism)<br>1d) kindred, blood-relations<br>1e) flesh as frail or erring (man against God)<br>1f) all living things<br>1g) animals<br>1h) mankind<BR>Aramaic equivalent: <i>be.shar</i> (בְּשַׁר \"flesh\" H1321)"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1320_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1320",
+                  "lemma": "בָּשָׂר",
+                  "translit": "ba.sar",
+                  "morph": "H:N-M",
+                  "gloss": "flesh 1) flesh<br>1a) of the body<br>1a1) of humans<br>1a2) of animals<br>1b) the body itself<br>1c) male organ of generation (euphemism)<br>1d) kindred, blood-relations<br>1e) flesh as frail or erring (man against God)<br>1f) all living things<br>1g) animals<br>1h) mankind<BR>Aramaic equivalent: <i>be.shar</i> (בְּשַׁר \"flesh\" H1321)",
+                  "raw": "H1320\tH1320 =\tH1320\tבָּשָׂר\tba.sar\tH:N-M\tflesh\t1) flesh<br>1a) of the body<br>1a1) of humans<br>1a2) of animals<br>1b) the body itself<br>1c) male organ of generation (euphemism)<br>1d) kindred, blood-relations<br>1e) flesh as frail or erring (man against God)<br>1f) all living things<br>1g) animals<br>1h) mankind<BR>Aramaic equivalent: <i>be.shar</i> (בְּשַׁר \"flesh\" H1321)"
+                }
+              },
+              {
+                "text": "{H1320=בָּשָׂר=flesh}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1320",
+                  "lemma": "בָּשָׂר",
+                  "translit": "ba.sar",
+                  "morph": "H:N-M",
+                  "gloss": "flesh 1) flesh<br>1a) of the body<br>1a1) of humans<br>1a2) of animals<br>1b) the body itself<br>1c) male organ of generation (euphemism)<br>1d) kindred, blood-relations<br>1e) flesh as frail or erring (man against God)<br>1f) all living things<br>1g) animals<br>1h) mankind<BR>Aramaic equivalent: <i>be.shar</i> (בְּשַׁר \"flesh\" H1321)",
+                  "raw": "H1320\tH1320 =\tH1320\tבָּשָׂר\tba.sar\tH:N-M\tflesh\t1) flesh<br>1a) of the body<br>1a1) of humans<br>1a2) of animals<br>1b) the body itself<br>1c) male organ of generation (euphemism)<br>1d) kindred, blood-relations<br>1e) flesh as frail or erring (man against God)<br>1f) all living things<br>1g) animals<br>1h) mankind<BR>Aramaic equivalent: <i>be.shar</i> (בְּשַׁר \"flesh\" H1321)"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L בָּשָֽׂר\\׃ ba.Sar flesh {H1320}\\H9016 HNcmsa H1320_B {H1320=בָּשָׂר=flesh}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 16,
           "text": "“When the rainbow appears in the clouds, I will see it. I will remember that my covenant will last forever. It is a covenant between me and every kind of living thing on earth.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אָֽרֶץ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'A.retz",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "earth",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0776G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L הָ/אָֽרֶץ\\׃ ha./'A.retz the/ earth H9009/{H0776G}\\H9016 HTd/Ncfsa H0776G H9009=ה=the/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 17,
           "text": "So God said to Noah, “The rainbow is the sign of my covenant. I have made my covenant between me and all life on earth.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אָֽרֶץ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "ha./'A.retz",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "earth",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H0776G}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L הָ/אָֽרֶץ\\׃\\ \\פ ha./'A.retz the/ earth H9009/{H0776G}\\H9016\\ \\H9017 HTd/Ncfsa H0776G H9009=ה=the/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ]
     }

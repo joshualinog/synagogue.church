@@ -7,127 +7,1656 @@
           "chapter": 3,
           "verse": 22,
           "text": "And Yahweh God said, “Look—the man has become as one of us, to know good and evil. What if he stretches out his hand and takes also from the tree of life and eats, and lives forever?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/עֹלָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./'o.Lam",
+                "wordIndex": 2
+              },
+              {
+                "text": "for/",
+                "wordIndex": 3
+              },
+              {
+                "text": "ever",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H5769G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5769G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H5769G=עוֹלָם=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#22=L לְ/עֹלָֽם\\׃ le./'o.Lam for/ ever H9005/{H5769G}\\H9016 HR/Ncmsa H5769G H9005=ל=to/{H5769G=עוֹלָם=: enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 3,
           "verse": 23,
           "text": "And Yahweh God sent him out from the garden of Eden, to till the ground from which he was taken.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִ/שָּֽׁם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mi./Sham",
+                "wordIndex": 2
+              },
+              {
+                "text": "from/",
+                "wordIndex": 3
+              },
+              {
+                "text": "there",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9006/{H8033G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "HR/D",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8033G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8033",
+                  "lemma": "שָׁם",
+                  "translit": "sham",
+                  "morph": "H:Adv",
+                  "gloss": "(Jerusalem) Is There <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither",
+                  "raw": "H8033\tH8033H = a Part of\tH3389\tשָׁם\tsham\tH:Adv\t(Jerusalem) Is There\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither"
+                }
+              },
+              {
+                "text": "H9006=מ=from/{H8033G=שָׁם=there}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L מִ/שָּֽׁם\\׃ mi./Sham from/ there H9006/{H8033G}\\H9016 HR/D H8033G H9006=מ=from/{H8033G=שָׁם=there}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 3,
           "verse": 24,
           "text": "So he drove the man out, and placed cherubim east of the garden of Eden, and a flaming, turning sword to guard the way to the tree of life.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַֽ/חַיִּֽים\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "Ha./chai.Yim",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "life",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H2416E}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2416E",
+                "wordIndex": 9
+              },
+              {
+                "text": "H9009=ה=the/{H2416E=חַיִּים=life}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L הַֽ/חַיִּֽים\\׃\\ \\ס Ha./chai.Yim <the>/ life H9009/{H2416E}\\H9016\\ \\H9018 HTd/Ncmpa H2416E H9009=ה=the/{H2416E=חַיִּים=life}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 4,
           "verse": 1,
           "text": "Now Adam knew Eve his wife, and she conceived and bore Cain. And she said, “I have given birth to a man with the help of Yahweh.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יְהוָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yah.weh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3068G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "HNpt",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3068G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L יְהוָֽה\\׃ Yah.weh Yahweh {H3068G}\\H9016 HNpt H3068G {H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 2,
           "text": "Then she bore his brother Abel. And Abel became a keeper of sheep, and Cain became a tiller of the ground.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֲדָמָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.da.Mah",
+                "wordIndex": 2
+              },
+              {
+                "text": "[the]",
+                "wordIndex": 3
+              },
+              {
+                "text": "ground",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0127G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0127",
+                  "lemma": "אֲדָמָה",
+                  "translit": "a.da.mah",
+                  "morph": "H:N-F",
+                  "gloss": "land: planet : planet<br>1) ground, land<br>1a) ground (as general, tilled, yielding sustenance)<br>1b) piece of ground, a specific plot of land<br>1c) earth substance (for building or constructing)<br>1d) ground as earth's visible surface<br>1e) land, territory, country<br>1f) whole inhabited earth<br>1g) city in Naphtali",
+                  "raw": "H0127\tH0127I = a Meaning of\tH0127G\tאֲדָמָה\ta.da.mah\tH:N-F\tland: planet\t: planet<br>1) ground, land<br>1a) ground (as general, tilled, yielding sustenance)<br>1b) piece of ground, a specific plot of land<br>1c) earth substance (for building or constructing)<br>1d) ground as earth's visible surface<br>1e) land, territory, country<br>1f) whole inhabited earth<br>1g) city in Naphtali"
+                }
+              },
+              {
+                "text": "HNcfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0127G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0127",
+                  "lemma": "אֲדָמָה",
+                  "translit": "a.da.mah",
+                  "morph": "H:N-F",
+                  "gloss": "land: planet : planet<br>1) ground, land<br>1a) ground (as general, tilled, yielding sustenance)<br>1b) piece of ground, a specific plot of land<br>1c) earth substance (for building or constructing)<br>1d) ground as earth's visible surface<br>1e) land, territory, country<br>1f) whole inhabited earth<br>1g) city in Naphtali",
+                  "raw": "H0127\tH0127I = a Meaning of\tH0127G\tאֲדָמָה\ta.da.mah\tH:N-F\tland: planet\t: planet<br>1) ground, land<br>1a) ground (as general, tilled, yielding sustenance)<br>1b) piece of ground, a specific plot of land<br>1c) earth substance (for building or constructing)<br>1d) ground as earth's visible surface<br>1e) land, territory, country<br>1f) whole inhabited earth<br>1g) city in Naphtali"
+                }
+              },
+              {
+                "text": "{H0127G=אֲדָמָה=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0127",
+                  "lemma": "אֲדָמָה",
+                  "translit": "a.da.mah",
+                  "morph": "H:N-F",
+                  "gloss": "land: planet : planet<br>1) ground, land<br>1a) ground (as general, tilled, yielding sustenance)<br>1b) piece of ground, a specific plot of land<br>1c) earth substance (for building or constructing)<br>1d) ground as earth's visible surface<br>1e) land, territory, country<br>1f) whole inhabited earth<br>1g) city in Naphtali",
+                  "raw": "H0127\tH0127I = a Meaning of\tH0127G\tאֲדָמָה\ta.da.mah\tH:N-F\tland: planet\t: planet<br>1) ground, land<br>1a) ground (as general, tilled, yielding sustenance)<br>1b) piece of ground, a specific plot of land<br>1c) earth substance (for building or constructing)<br>1d) ground as earth's visible surface<br>1e) land, territory, country<br>1f) whole inhabited earth<br>1g) city in Naphtali"
+                }
+              },
+              {
+                "text": "soil»land:1_soil}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L אֲדָמָֽה\\׃ 'a.da.Mah [the] ground {H0127G}\\H9016 HNcfsa H0127G {H0127G=אֲדָמָה=: soil»land:1_soil}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 3,
           "text": "And in the course of time Cain brought an offering from the fruit of the ground to Yahweh,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לַֽ/יהוָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Yah.weh",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H3068G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Npt",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3068G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#09=L לַֽ/יהוָֽה\\׃ la./Yah.weh to/ Yahweh H9005/{H3068G}\\H9016 HR/Npt H3068G H9005=ל=to/{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 4,
           "text": "and Abel also brought an offering from the choicest firstlings of his flock. And Yahweh looked with favor to Abel and to his offering,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִנְחָתֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "min.cha.T/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "offering/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4503G}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4503",
+                  "lemma": "מִנְחָה",
+                  "translit": "min.chah",
+                  "morph": "H:N-F",
+                  "gloss": "offering: tribute : tribute<br>1) gift, tribute, offering, present, oblation, sacrifice, meat offering<br>1a) gift, present<br>1b) tribute<br>1c) offering (to God)<br>1d) grain offering",
+                  "raw": "H4503\tH4503I = a Meaning of\tH4503G\tמִנְחָה\tmin.chah\tH:N-F\toffering: tribute\t: tribute<br>1) gift, tribute, offering, present, oblation, sacrifice, meat offering<br>1a) gift, present<br>1b) tribute<br>1c) offering (to God)<br>1d) grain offering"
+                }
+              },
+              {
+                "text": "HNcfsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4503G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4503",
+                  "lemma": "מִנְחָה",
+                  "translit": "min.chah",
+                  "morph": "H:N-F",
+                  "gloss": "offering: tribute : tribute<br>1) gift, tribute, offering, present, oblation, sacrifice, meat offering<br>1a) gift, present<br>1b) tribute<br>1c) offering (to God)<br>1d) grain offering",
+                  "raw": "H4503\tH4503I = a Meaning of\tH4503G\tמִנְחָה\tmin.chah\tH:N-F\toffering: tribute\t: tribute<br>1) gift, tribute, offering, present, oblation, sacrifice, meat offering<br>1a) gift, present<br>1b) tribute<br>1c) offering (to God)<br>1d) grain offering"
+                }
+              },
+              {
+                "text": "{H4503G=מִנְחָה=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4503",
+                  "lemma": "מִנְחָה",
+                  "translit": "min.chah",
+                  "morph": "H:N-F",
+                  "gloss": "offering: tribute : tribute<br>1) gift, tribute, offering, present, oblation, sacrifice, meat offering<br>1a) gift, present<br>1b) tribute<br>1c) offering (to God)<br>1d) grain offering",
+                  "raw": "H4503\tH4503I = a Meaning of\tH4503G\tמִנְחָה\tmin.chah\tH:N-F\toffering: tribute\t: tribute<br>1) gift, tribute, offering, present, oblation, sacrifice, meat offering<br>1a) gift, present<br>1b) tribute<br>1c) offering (to God)<br>1d) grain offering"
+                }
+              },
+              {
+                "text": "offering»offering:1_offering;_sacrifice}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L מִנְחָתֽ/וֹ\\׃ min.cha.T/o offering/ his {H4503G}/H9023\\H9016 HNcfsc/Sp3ms H4503G {H4503G=מִנְחָה=: offering»offering:1_offering;_sacrifice}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 5,
           "text": "but to Cain and to his offering he did not look with favor. And Cain became very angry, and his face fell.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פָּנָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "pa.Na/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "face/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6440M}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H6440",
+                  "lemma": "פָּנֶה",
+                  "translit": "pa.neh",
+                  "morph": "H:N-M",
+                  "gloss": "face: kindness : kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
+                  "raw": "H6440\tH6440N = a Meaning of\tH6440H\tפָּנֶה\tpa.neh\tH:N-M\tface: kindness\t: kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6440M",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6440",
+                  "lemma": "פָּנֶה",
+                  "translit": "pa.neh",
+                  "morph": "H:N-M",
+                  "gloss": "face: kindness : kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
+                  "raw": "H6440\tH6440N = a Meaning of\tH6440H\tפָּנֶה\tpa.neh\tH:N-M\tface: kindness\t: kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of"
+                }
+              },
+              {
+                "text": "{H6440M=פָּנֶה=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6440",
+                  "lemma": "פָּנֶה",
+                  "translit": "pa.neh",
+                  "morph": "H:N-M",
+                  "gloss": "face: kindness : kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
+                  "raw": "H6440\tH6440N = a Meaning of\tH6440H\tפָּנֶה\tpa.neh\tH:N-M\tface: kindness\t: kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of"
+                }
+              },
+              {
+                "text": "angry»face:7_angry;_(fallen)face}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L פָּנָֽי/ו\\׃ pa.Na/v face/ his {H6440M}/H9023\\H9016 HNcmpc/Sp3ms H6440M {H6440M=פָּנֶה=: angry»face:7_angry;_(fallen)face}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 6,
           "text": "And Yahweh said to Cain, “Why are you angry, and why is your face fallen?",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פָנֶֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "fa.Nei./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "face/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6440H}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H6440",
+                  "lemma": "פָּנֶה",
+                  "translit": "pa.neh",
+                  "morph": "H:N-M",
+                  "gloss": "face: kindness : kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
+                  "raw": "H6440\tH6440N = a Meaning of\tH6440H\tפָּנֶה\tpa.neh\tH:N-M\tface: kindness\t: kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6440H",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6440",
+                  "lemma": "פָּנֶה",
+                  "translit": "pa.neh",
+                  "morph": "H:N-M",
+                  "gloss": "face: kindness : kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
+                  "raw": "H6440\tH6440N = a Meaning of\tH6440H\tפָּנֶה\tpa.neh\tH:N-M\tface: kindness\t: kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of"
+                }
+              },
+              {
+                "text": "{H6440H=פָּנֶה=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6440",
+                  "lemma": "פָּנֶה",
+                  "translit": "pa.neh",
+                  "morph": "H:N-M",
+                  "gloss": "face: kindness : kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
+                  "raw": "H6440\tH6440N = a Meaning of\tH6440H\tפָּנֶה\tpa.neh\tH:N-M\tface: kindness\t: kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of"
+                }
+              },
+              {
+                "text": "face»face:1_face}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L פָנֶֽי/ךָ\\׃ fa.Nei./kha face/ your {H6440H}/H9021\\H9016 HNcmpc/Sp2ms H6440H {H6440H=פָּנֶה=: face»face:1_face}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 7,
           "text": "If you do well will I not accept you? But if you do not do well, sin is crouching at the door. And its desire is for you, but you must rule over it.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בּֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "b/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "over",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "it",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H9033}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9033",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H9033=Os3m=him}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#15=L בּֽ/וֹ\\׃ b/o over <the>/ it H9003/{H9033}\\H9016 HRd/Sp3ms H9033 H9003=ב=in/{H9033=Os3m=him}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 8,
           "text": "Then Cain said to his brother Abel, “Let us go out into the field.” And when they were in the field, Cain rose up against his brother Abel and killed him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/יַּהַרְגֵֽ/הוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va/i.ya.har.Ge./hu",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "he",
+                "wordIndex": 4
+              },
+              {
+                "text": "killed/",
+                "wordIndex": 5
+              },
+              {
+                "text": "him",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H2026}/H9033\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqw3ms/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2026",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2026",
+                  "lemma": "הָרַג",
+                  "translit": "ha.rag",
+                  "morph": "H:V",
+                  "gloss": "to kill 1) to kill, slay, murder, destroy, murderer, slayer, out of hand<br>1a) (Qal)<br>1a1) to kill, slay<br>1a2) to destroy, ruin<br>1b) (Niphal) to be killed<br>1c) (Pual) to be killed, be slain",
+                  "raw": "H2026\tH2026 =\tH2026\tהָרַג\tha.rag\tH:V\tto kill\t1) to kill, slay, murder, destroy, murderer, slayer, out of hand<br>1a) (Qal)<br>1a1) to kill, slay<br>1a2) to destroy, ruin<br>1b) (Niphal) to be killed<br>1c) (Pual) to be killed, be slain"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H2026=הָרַג=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "kill}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L וַ/יַּהַרְגֵֽ/הוּ\\׃ va/i.ya.har.Ge./hu and/ he killed/ him H9001/{H2026}/H9033\\H9016 Hc/Vqw3ms/Sp3ms H2026 H9001=ו=&/{H2026=הָרַג=to kill}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 9,
           "text": "Then Yahweh said to Cain, “Where is Abel your brother?” And he said, “I do not know; am I my brother’s keeper?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָנֹֽכִי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.No.khi",
+                "wordIndex": 2
+              },
+              {
+                "text": "[am]",
+                "wordIndex": 3
+              },
+              {
+                "text": "I",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0595}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0595",
+                  "lemma": "אָֽנֹכִ֫י",
+                  "translit": "a.no.khi",
+                  "morph": "H:PerP-CS",
+                  "gloss": "I I (first pers. sing.)<BR>Another spelling of <i>a.ni</i> (אֲנִי, אָֽנֹכִ֫י \"I\" H0589)",
+                  "raw": "H0595\tH0595 = a Spelling of\tH0589\tאָֽנֹכִ֫י\ta.no.khi\tH:PerP-CS\tI\tI (first pers. sing.)<BR>Another spelling of <i>a.ni</i> (אֲנִי, אָֽנֹכִ֫י \"I\" H0589)"
+                }
+              },
+              {
+                "text": "HPp1bs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0595",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0595",
+                  "lemma": "אָֽנֹכִ֫י",
+                  "translit": "a.no.khi",
+                  "morph": "H:PerP-CS",
+                  "gloss": "I I (first pers. sing.)<BR>Another spelling of <i>a.ni</i> (אֲנִי, אָֽנֹכִ֫י \"I\" H0589)",
+                  "raw": "H0595\tH0595 = a Spelling of\tH0589\tאָֽנֹכִ֫י\ta.no.khi\tH:PerP-CS\tI\tI (first pers. sing.)<BR>Another spelling of <i>a.ni</i> (אֲנִי, אָֽנֹכִ֫י \"I\" H0589)"
+                }
+              },
+              {
+                "text": "{H0595=אָֽנֹכִ֫י=I}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0595",
+                  "lemma": "אָֽנֹכִ֫י",
+                  "translit": "a.no.khi",
+                  "morph": "H:PerP-CS",
+                  "gloss": "I I (first pers. sing.)<BR>Another spelling of <i>a.ni</i> (אֲנִי, אָֽנֹכִ֫י \"I\" H0589)",
+                  "raw": "H0595\tH0595 = a Spelling of\tH0589\tאָֽנֹכִ֫י\ta.no.khi\tH:PerP-CS\tI\tI (first pers. sing.)<BR>Another spelling of <i>a.ni</i> (אֲנִי, אָֽנֹכִ֫י \"I\" H0589)"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L אָנֹֽכִי\\׃ 'a.No.khi [am] I {H0595}\\H9016 HPp1bs H0595 {H0595=אָֽנֹכִ֫י=I}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 10,
           "text": "And he said, “What have you done? The voice of your brother’s blood is crying out to me from the ground.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָֽ/אֲדָמָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ha./'a.da.Mah",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "ground",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0127G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0127G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0127",
+                  "lemma": "אֲדָמָה",
+                  "translit": "a.da.mah",
+                  "morph": "H:N-F",
+                  "gloss": "land: planet : planet<br>1) ground, land<br>1a) ground (as general, tilled, yielding sustenance)<br>1b) piece of ground, a specific plot of land<br>1c) earth substance (for building or constructing)<br>1d) ground as earth's visible surface<br>1e) land, territory, country<br>1f) whole inhabited earth<br>1g) city in Naphtali",
+                  "raw": "H0127\tH0127I = a Meaning of\tH0127G\tאֲדָמָה\ta.da.mah\tH:N-F\tland: planet\t: planet<br>1) ground, land<br>1a) ground (as general, tilled, yielding sustenance)<br>1b) piece of ground, a specific plot of land<br>1c) earth substance (for building or constructing)<br>1d) ground as earth's visible surface<br>1e) land, territory, country<br>1f) whole inhabited earth<br>1g) city in Naphtali"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0127G=אֲדָמָה=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "soil»land:1_soil}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הָֽ/אֲדָמָֽה\\׃ Ha./'a.da.Mah the/ ground H9009/{H0127G}\\H9016 HTd/Ncfsa H0127G H9009=ה=the/{H0127G=אֲדָמָה=: soil»land:1_soil}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 11,
           "text": "So now you are cursed from the ground, which has opened its mouth to receive the blood of your brother from your hand.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִ/יָּדֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mi./ya.De./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "from/",
+                "wordIndex": 3
+              },
+              {
+                "text": "hand/",
+                "wordIndex": 4
+              },
+              {
+                "text": "your",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9006/{H3027G}/H9021\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "HR/Ncbsc/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3027G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3027",
+                  "lemma": "יָד",
+                  "translit": "yad",
+                  "morph": "H:N-F",
+                  "gloss": "hand: swear : swear/allegience/hand(under)<br>1) hand<br>1a) hand (of man)<br>1b) strength, power (fig.)<br>1c) side (of land), part, portion (metaph.) (fig.)<br>1d) (various special, technical senses)<br>1d1) sign, monument<br>1d2) part, fractional part, share<br>1d3) time, repetition<br>1d4) axle-trees, axle<br>1d5) stays, support (for laver)<br>1d6) tenons (in tabernacle)<br>1d7) a phallus, a hand (meaning unsure)<br>1d8) wrists",
+                  "raw": "H3027\tH3027X = a Meaning of\tH3027G\tיָד\tyad\tH:N-F\thand: swear\t: swear/allegience/hand(under)<br>1) hand<br>1a) hand (of man)<br>1b) strength, power (fig.)<br>1c) side (of land), part, portion (metaph.) (fig.)<br>1d) (various special, technical senses)<br>1d1) sign, monument<br>1d2) part, fractional part, share<br>1d3) time, repetition<br>1d4) axle-trees, axle<br>1d5) stays, support (for laver)<br>1d6) tenons (in tabernacle)<br>1d7) a phallus, a hand (meaning unsure)<br>1d8) wrists"
+                }
+              },
+              {
+                "text": "H9006=מ=from/{H3027G=יָד=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "hand»hand:1_hand;_arm[anatomy]}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L מִ/יָּדֶֽ/ךָ\\׃ mi./ya.De./kha from/ hand/ your H9006/{H3027G}/H9021\\H9016 HR/Ncbsc/Sp2ms H3027G H9006=מ=from/{H3027G=יָד=: hand»hand:1_hand;_arm[anatomy]}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 12,
           "text": "When you till the ground it shall no longer yield its strength to you. You shall be a wanderer and a fugitive on the earth.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָ/אָֽרֶץ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./'A.retz",
+                "wordIndex": 2
+              },
+              {
+                "text": "on",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "earth",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H0776G}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Ncfsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L בָ/אָֽרֶץ\\׃ va./'A.retz on the/ earth H9003/{H0776G}\\H9016 HRd/Ncfsa H0776G H9003=ב=in/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 13,
           "text": "And Cain said to Yahweh, “My punishment is greater than I can bear.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִ/נְּשֹֽׂא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mi./ne.So'",
+                "wordIndex": 2
+              },
+              {
+                "text": "for/",
+                "wordIndex": 3
+              },
+              {
+                "text": "bearing",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9006/{H5375H}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5375H",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5375",
+                  "lemma": "נָשָׂא",
+                  "translit": "na.sa",
+                  "morph": "H:V",
+                  "gloss": "to lift: give(gift) : give(gift)<br>1) to lift, bear up, carry, take<br>1a) (Qal)<br>1a1) to lift, lift up<br>1a2) to bear, carry, support, sustain, endure<br>1a3) to take, take away, carry off, forgive<br>1b) (Niphal)<br>1b1) to be lifted up, be exalted<br>1b2) to lift oneself up, rise up<br>1b3) to be borne, be carried<br>1b4) to be taken away, be carried off, be swept away<br>1c) (Piel)<br>1c1) to lift up, exalt, support, aid, assist<br>1c2) to desire, long (fig.)<br>1c3) to carry, bear continuously<br>1c4) to take, take away<br>1d) (Hithpael) to lift oneself up, exalt oneself<br>1e) (Hiphil)<br>1e1) to cause one to bear (iniquity)<br>1e2) to cause to bring, have brought",
+                  "raw": "H5375\tH5375X = a Meaning of\tH5375G\tנָשָׂא\tna.sa\tH:V\tto lift: give(gift)\t: give(gift)<br>1) to lift, bear up, carry, take<br>1a) (Qal)<br>1a1) to lift, lift up<br>1a2) to bear, carry, support, sustain, endure<br>1a3) to take, take away, carry off, forgive<br>1b) (Niphal)<br>1b1) to be lifted up, be exalted<br>1b2) to lift oneself up, rise up<br>1b3) to be borne, be carried<br>1b4) to be taken away, be carried off, be swept away<br>1c) (Piel)<br>1c1) to lift up, exalt, support, aid, assist<br>1c2) to desire, long (fig.)<br>1c3) to carry, bear continuously<br>1c4) to take, take away<br>1d) (Hithpael) to lift oneself up, exalt oneself<br>1e) (Hiphil)<br>1e1) to cause one to bear (iniquity)<br>1e2) to cause to bring, have brought"
+                }
+              },
+              {
+                "text": "H9006=מ=from/{H5375H=נָשָׂא=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "bear»to",
+                "wordIndex": 9
+              },
+              {
+                "text": "lift:2_bear;_carry}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L מִ/נְּשֹֽׂא\\׃ mi./ne.So' for/ bearing H9006/{H5375H}\\H9016 HR/Vqcc H5375H H9006=מ=from/{H5375H=נָשָׂא=: bear»to lift:2_bear;_carry}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 14,
           "text": "Look, you have driven me out today from the face of the ground, and from your face I must hide. I will be a wanderer and a fugitive on the earth, and it will happen that whoever finds me will kill me.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יַֽהַרְגֵֽ/נִי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ya.har.Ge./ni",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "kill/",
+                "wordIndex": 5
+              },
+              {
+                "text": "me",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H2026}/H9030\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2026",
+                  "lemma": "הָרַג",
+                  "translit": "ha.rag",
+                  "morph": "H:V",
+                  "gloss": "to kill 1) to kill, slay, murder, destroy, murderer, slayer, out of hand<br>1a) (Qal)<br>1a1) to kill, slay<br>1a2) to destroy, ruin<br>1b) (Niphal) to be killed<br>1c) (Pual) to be killed, be slain",
+                  "raw": "H2026\tH2026 =\tH2026\tהָרַג\tha.rag\tH:V\tto kill\t1) to kill, slay, murder, destroy, murderer, slayer, out of hand<br>1a) (Qal)<br>1a1) to kill, slay<br>1a2) to destroy, ruin<br>1b) (Niphal) to be killed<br>1c) (Pual) to be killed, be slain"
+                }
+              },
+              {
+                "text": "HVqi3ms/Sp1bs",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2026",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2026",
+                  "lemma": "הָרַג",
+                  "translit": "ha.rag",
+                  "morph": "H:V",
+                  "gloss": "to kill 1) to kill, slay, murder, destroy, murderer, slayer, out of hand<br>1a) (Qal)<br>1a1) to kill, slay<br>1a2) to destroy, ruin<br>1b) (Niphal) to be killed<br>1c) (Pual) to be killed, be slain",
+                  "raw": "H2026\tH2026 =\tH2026\tהָרַג\tha.rag\tH:V\tto kill\t1) to kill, slay, murder, destroy, murderer, slayer, out of hand<br>1a) (Qal)<br>1a1) to kill, slay<br>1a2) to destroy, ruin<br>1b) (Niphal) to be killed<br>1c) (Pual) to be killed, be slain"
+                }
+              },
+              {
+                "text": "{H2026=הָרַג=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H2026",
+                  "lemma": "הָרַג",
+                  "translit": "ha.rag",
+                  "morph": "H:V",
+                  "gloss": "to kill 1) to kill, slay, murder, destroy, murderer, slayer, out of hand<br>1a) (Qal)<br>1a1) to kill, slay<br>1a2) to destroy, ruin<br>1b) (Niphal) to be killed<br>1c) (Pual) to be killed, be slain",
+                  "raw": "H2026\tH2026 =\tH2026\tהָרַג\tha.rag\tH:V\tto kill\t1) to kill, slay, murder, destroy, murderer, slayer, out of hand<br>1a) (Qal)<br>1a1) to kill, slay<br>1a2) to destroy, ruin<br>1b) (Niphal) to be killed<br>1c) (Pual) to be killed, be slain"
+                }
+              },
+              {
+                "text": "kill}/H9030=Os1c=me\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9030",
+                  "lemma": "נִי",
+                  "translit": "ni",
+                  "morph": "Os1c",
+                  "gloss": "me Personal object pronoun -  suffix for propositions and verbs without an object: 1st person singular",
+                  "raw": "H9030\tH9030 =\tH9030\tנִי\tni\tOs1c\tme\tPersonal object pronoun -  suffix for propositions and verbs without an object: 1st person singular"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L יַֽהַרְגֵֽ/נִי\\׃ Ya.har.Ge./ni he will kill/ me {H2026}/H9030\\H9016 HVqi3ms/Sp1bs H2026 {H2026=הָרַג=to kill}/H9030=Os1c=me\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 15,
           "text": "Then Yahweh said to him, “Therefore, whoever kills Cain will be avenged sevenfold.” Then Yahweh put a sign on Cain so that whoever found him would not kill him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֹצְאֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mo.tze.'/O",
+                "wordIndex": 2
+              },
+              {
+                "text": "[one",
+                "wordIndex": 3
+              },
+              {
+                "text": "who]",
+                "wordIndex": 4
+              },
+              {
+                "text": "found/",
+                "wordIndex": 5
+              },
+              {
+                "text": "him",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H4672}/H9033\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4672",
+                  "lemma": "מָצָא",
+                  "translit": "ma.tsa",
+                  "morph": "H:V",
+                  "gloss": "to find 1) to find, attain to<br>1a) (Qal)<br>1a1) to find<br>1a1a) to find, secure, acquire, get (thing sought)<br>1a1b) to find (what is lost)<br>1a1c) to meet, encounter<br>1a1d) to find (a condition)<br>1a1e) to learn, devise<br>1a2) to find out<br>1a2a) to find out<br>1a2b) to detect<br>1a2c) to guess<br>1a3) to come upon, light upon<br>1a3a) to happen upon, meet, fall in with<br>1a3b) to hit<br>1a3c) to befall<br>1b) (Niphal)<br>1b1) to be found<br>1b1a) to be encountered, be lighted upon, be discovered<br>1b1b) to appear, be recognised<br>1b1c) to be discovered, be detected<br>1b1d) to be gained, be secured<br>1b2) to be, be found<br>1b2a) to be found in<br>1b2b) to be in the possession of<br>1b2c) to be found in (a place), happen to be<br>1b2d) to be left (after war)<br>1b2e) to be present<br>1b2f) to prove to be<br>1b2g) to be found sufficient, be enough<br>1c) (Hiphil)<br>1c1) to cause to find, attain<br>1c2) to cause to light upon, come upon, come<br>1c3) to cause to encounter<br>1c4) to present (offering)",
+                  "raw": "H4672\tH4672 =\tH4672\tמָצָא\tma.tsa\tH:V\tto find\t1) to find, attain to<br>1a) (Qal)<br>1a1) to find<br>1a1a) to find, secure, acquire, get (thing sought)<br>1a1b) to find (what is lost)<br>1a1c) to meet, encounter<br>1a1d) to find (a condition)<br>1a1e) to learn, devise<br>1a2) to find out<br>1a2a) to find out<br>1a2b) to detect<br>1a2c) to guess<br>1a3) to come upon, light upon<br>1a3a) to happen upon, meet, fall in with<br>1a3b) to hit<br>1a3c) to befall<br>1b) (Niphal)<br>1b1) to be found<br>1b1a) to be encountered, be lighted upon, be discovered<br>1b1b) to appear, be recognised<br>1b1c) to be discovered, be detected<br>1b1d) to be gained, be secured<br>1b2) to be, be found<br>1b2a) to be found in<br>1b2b) to be in the possession of<br>1b2c) to be found in (a place), happen to be<br>1b2d) to be left (after war)<br>1b2e) to be present<br>1b2f) to prove to be<br>1b2g) to be found sufficient, be enough<br>1c) (Hiphil)<br>1c1) to cause to find, attain<br>1c2) to cause to light upon, come upon, come<br>1c3) to cause to encounter<br>1c4) to present (offering)"
+                }
+              },
+              {
+                "text": "HVqrmsc/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H4672",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4672",
+                  "lemma": "מָצָא",
+                  "translit": "ma.tsa",
+                  "morph": "H:V",
+                  "gloss": "to find 1) to find, attain to<br>1a) (Qal)<br>1a1) to find<br>1a1a) to find, secure, acquire, get (thing sought)<br>1a1b) to find (what is lost)<br>1a1c) to meet, encounter<br>1a1d) to find (a condition)<br>1a1e) to learn, devise<br>1a2) to find out<br>1a2a) to find out<br>1a2b) to detect<br>1a2c) to guess<br>1a3) to come upon, light upon<br>1a3a) to happen upon, meet, fall in with<br>1a3b) to hit<br>1a3c) to befall<br>1b) (Niphal)<br>1b1) to be found<br>1b1a) to be encountered, be lighted upon, be discovered<br>1b1b) to appear, be recognised<br>1b1c) to be discovered, be detected<br>1b1d) to be gained, be secured<br>1b2) to be, be found<br>1b2a) to be found in<br>1b2b) to be in the possession of<br>1b2c) to be found in (a place), happen to be<br>1b2d) to be left (after war)<br>1b2e) to be present<br>1b2f) to prove to be<br>1b2g) to be found sufficient, be enough<br>1c) (Hiphil)<br>1c1) to cause to find, attain<br>1c2) to cause to light upon, come upon, come<br>1c3) to cause to encounter<br>1c4) to present (offering)",
+                  "raw": "H4672\tH4672 =\tH4672\tמָצָא\tma.tsa\tH:V\tto find\t1) to find, attain to<br>1a) (Qal)<br>1a1) to find<br>1a1a) to find, secure, acquire, get (thing sought)<br>1a1b) to find (what is lost)<br>1a1c) to meet, encounter<br>1a1d) to find (a condition)<br>1a1e) to learn, devise<br>1a2) to find out<br>1a2a) to find out<br>1a2b) to detect<br>1a2c) to guess<br>1a3) to come upon, light upon<br>1a3a) to happen upon, meet, fall in with<br>1a3b) to hit<br>1a3c) to befall<br>1b) (Niphal)<br>1b1) to be found<br>1b1a) to be encountered, be lighted upon, be discovered<br>1b1b) to appear, be recognised<br>1b1c) to be discovered, be detected<br>1b1d) to be gained, be secured<br>1b2) to be, be found<br>1b2a) to be found in<br>1b2b) to be in the possession of<br>1b2c) to be found in (a place), happen to be<br>1b2d) to be left (after war)<br>1b2e) to be present<br>1b2f) to prove to be<br>1b2g) to be found sufficient, be enough<br>1c) (Hiphil)<br>1c1) to cause to find, attain<br>1c2) to cause to light upon, come upon, come<br>1c3) to cause to encounter<br>1c4) to present (offering)"
+                }
+              },
+              {
+                "text": "{H4672=מָצָא=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H4672",
+                  "lemma": "מָצָא",
+                  "translit": "ma.tsa",
+                  "morph": "H:V",
+                  "gloss": "to find 1) to find, attain to<br>1a) (Qal)<br>1a1) to find<br>1a1a) to find, secure, acquire, get (thing sought)<br>1a1b) to find (what is lost)<br>1a1c) to meet, encounter<br>1a1d) to find (a condition)<br>1a1e) to learn, devise<br>1a2) to find out<br>1a2a) to find out<br>1a2b) to detect<br>1a2c) to guess<br>1a3) to come upon, light upon<br>1a3a) to happen upon, meet, fall in with<br>1a3b) to hit<br>1a3c) to befall<br>1b) (Niphal)<br>1b1) to be found<br>1b1a) to be encountered, be lighted upon, be discovered<br>1b1b) to appear, be recognised<br>1b1c) to be discovered, be detected<br>1b1d) to be gained, be secured<br>1b2) to be, be found<br>1b2a) to be found in<br>1b2b) to be in the possession of<br>1b2c) to be found in (a place), happen to be<br>1b2d) to be left (after war)<br>1b2e) to be present<br>1b2f) to prove to be<br>1b2g) to be found sufficient, be enough<br>1c) (Hiphil)<br>1c1) to cause to find, attain<br>1c2) to cause to light upon, come upon, come<br>1c3) to cause to encounter<br>1c4) to present (offering)",
+                  "raw": "H4672\tH4672 =\tH4672\tמָצָא\tma.tsa\tH:V\tto find\t1) to find, attain to<br>1a) (Qal)<br>1a1) to find<br>1a1a) to find, secure, acquire, get (thing sought)<br>1a1b) to find (what is lost)<br>1a1c) to meet, encounter<br>1a1d) to find (a condition)<br>1a1e) to learn, devise<br>1a2) to find out<br>1a2a) to find out<br>1a2b) to detect<br>1a2c) to guess<br>1a3) to come upon, light upon<br>1a3a) to happen upon, meet, fall in with<br>1a3b) to hit<br>1a3c) to befall<br>1b) (Niphal)<br>1b1) to be found<br>1b1a) to be encountered, be lighted upon, be discovered<br>1b1b) to appear, be recognised<br>1b1c) to be discovered, be detected<br>1b1d) to be gained, be secured<br>1b2) to be, be found<br>1b2a) to be found in<br>1b2b) to be in the possession of<br>1b2c) to be found in (a place), happen to be<br>1b2d) to be left (after war)<br>1b2e) to be present<br>1b2f) to prove to be<br>1b2g) to be found sufficient, be enough<br>1c) (Hiphil)<br>1c1) to cause to find, attain<br>1c2) to cause to light upon, come upon, come<br>1c3) to cause to encounter<br>1c4) to present (offering)"
+                }
+              },
+              {
+                "text": "find}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L מֹצְאֽ/וֹ\\׃ mo.tze.'/O [one who] found/ him {H4672}/H9033\\H9016 HVqrmsc/Sp3ms H4672 {H4672=מָצָא=to find}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 16,
           "text": "And Cain went out from the presence of Yahweh, and he settled in the land of Nod, east of Eden.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עֵֽדֶן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'E.den",
+                "wordIndex": 2
+              },
+              {
+                "text": "Eden",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5731B}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5731B",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H5731B=עֵ֫דֶן=Eden»Eden@Gen.2.8-Jol}\\H9016=׃=verseEnd",
+                "wordIndex": 7
+              }
+            ],
+            "originalVerseText": "#09=L עֵֽדֶן\\׃ 'E.den Eden {H5731B}\\H9016 HNpl H5731B {H5731B=עֵ֫דֶן=Eden»Eden@Gen.2.8-Jol}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 17,
           "text": "And Cain knew his wife, and she conceived and gave birth to Enoch. And when he built a city he named the city after his son, Enoch.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "חֲנֽוֹךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "cha.Nokh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Enoch",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H2585G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H2585",
+                  "lemma": "חֲנוֹךְ",
+                  "translit": "cha.nokh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Hanoch A man of the tribe of Reuben living at the time of Egypt and Wilderness, first mentioned at Gen.46.9; <br> son of: Reuben (H7205); <br> brother of: Pallu (H6396), Hezron (H2696) and Carmi (H3756)<BR>Also named: <i>cha.no.khi</i> (חֲנֹכִי \"Hanochite \" H2599)<BR> § Enoch = \"dedicated\"<br>1) eldest son of Cain<br>2) son of Jared and father of Methuselah whom God took home to heaven without dying<br>3) the city which Cain built and named after his son Enoch (after himself)<br>Hanoch = \"dedicated\"<br>4) a son of Midian, the third child<br>5) the eldest son of Reuben",
+                  "raw": "H2585\tH2585J =\tH2585J\tחֲנוֹךְ\tcha.nokh\tN:N-M-P\tHanoch\tA man of the tribe of Reuben living at the time of Egypt and Wilderness, first mentioned at Gen.46.9; <br> son of: Reuben (H7205); <br> brother of: Pallu (H6396), Hezron (H2696) and Carmi (H3756)<BR>Also named: <i>cha.no.khi</i> (חֲנֹכִי \"Hanochite \" H2599)<BR> § Enoch = \"dedicated\"<br>1) eldest son of Cain<br>2) son of Jared and father of Methuselah whom God took home to heaven without dying<br>3) the city which Cain built and named after his son Enoch (after himself)<br>Hanoch = \"dedicated\"<br>4) a son of Midian, the third child<br>5) the eldest son of Reuben"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H2585G_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H2585",
+                  "lemma": "חֲנוֹךְ",
+                  "translit": "cha.nokh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Hanoch A man of the tribe of Reuben living at the time of Egypt and Wilderness, first mentioned at Gen.46.9; <br> son of: Reuben (H7205); <br> brother of: Pallu (H6396), Hezron (H2696) and Carmi (H3756)<BR>Also named: <i>cha.no.khi</i> (חֲנֹכִי \"Hanochite \" H2599)<BR> § Enoch = \"dedicated\"<br>1) eldest son of Cain<br>2) son of Jared and father of Methuselah whom God took home to heaven without dying<br>3) the city which Cain built and named after his son Enoch (after himself)<br>Hanoch = \"dedicated\"<br>4) a son of Midian, the third child<br>5) the eldest son of Reuben",
+                  "raw": "H2585\tH2585J =\tH2585J\tחֲנוֹךְ\tcha.nokh\tN:N-M-P\tHanoch\tA man of the tribe of Reuben living at the time of Egypt and Wilderness, first mentioned at Gen.46.9; <br> son of: Reuben (H7205); <br> brother of: Pallu (H6396), Hezron (H2696) and Carmi (H3756)<BR>Also named: <i>cha.no.khi</i> (חֲנֹכִי \"Hanochite \" H2599)<BR> § Enoch = \"dedicated\"<br>1) eldest son of Cain<br>2) son of Jared and father of Methuselah whom God took home to heaven without dying<br>3) the city which Cain built and named after his son Enoch (after himself)<br>Hanoch = \"dedicated\"<br>4) a son of Midian, the third child<br>5) the eldest son of Reuben"
+                }
+              },
+              {
+                "text": "{H2585G=חֲנוֹךְ=Enoch»Enoch@Gen.4.17-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2585",
+                  "lemma": "חֲנוֹךְ",
+                  "translit": "cha.nokh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Hanoch A man of the tribe of Reuben living at the time of Egypt and Wilderness, first mentioned at Gen.46.9; <br> son of: Reuben (H7205); <br> brother of: Pallu (H6396), Hezron (H2696) and Carmi (H3756)<BR>Also named: <i>cha.no.khi</i> (חֲנֹכִי \"Hanochite \" H2599)<BR> § Enoch = \"dedicated\"<br>1) eldest son of Cain<br>2) son of Jared and father of Methuselah whom God took home to heaven without dying<br>3) the city which Cain built and named after his son Enoch (after himself)<br>Hanoch = \"dedicated\"<br>4) a son of Midian, the third child<br>5) the eldest son of Reuben",
+                  "raw": "H2585\tH2585J =\tH2585J\tחֲנוֹךְ\tcha.nokh\tN:N-M-P\tHanoch\tA man of the tribe of Reuben living at the time of Egypt and Wilderness, first mentioned at Gen.46.9; <br> son of: Reuben (H7205); <br> brother of: Pallu (H6396), Hezron (H2696) and Carmi (H3756)<BR>Also named: <i>cha.no.khi</i> (חֲנֹכִי \"Hanochite \" H2599)<BR> § Enoch = \"dedicated\"<br>1) eldest son of Cain<br>2) son of Jared and father of Methuselah whom God took home to heaven without dying<br>3) the city which Cain built and named after his son Enoch (after himself)<br>Hanoch = \"dedicated\"<br>4) a son of Midian, the third child<br>5) the eldest son of Reuben"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L חֲנֽוֹךְ\\׃ cha.Nokh Enoch {H2585G}\\H9016 HNpm H2585G_B {H2585G=חֲנוֹךְ=Enoch»Enoch@Gen.4.17-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 18,
           "text": "And to Enoch was born Irad, and Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָֽמֶךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La.mekh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Lamech",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3929G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3929",
+                  "lemma": "לֶ֫מֶךְ",
+                  "translit": "le.mekh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Lamech A man living at the time before the Flood, first mentioned at Gen.5.25; <br> son of: Methuselah (H4968); <br> father of: Noah (H5146)<BR>Also named: <i>Lamech</i> (Λάμεχ \"Lamech\" G2984)<BR> § Lamech = \"powerful\"<br>1) the 5th lineal descendant from Cain, husband of Adah and Zillah, father of sons, Jabal, Jubal, and Tubal-cain, and daughter, Naamah<br>2) father of Noah",
+                  "raw": "H3929\tH3929H =\tH3929H\tלֶ֫מֶךְ\tle.mekh\tN:N-M-P\tLamech\tA man living at the time before the Flood, first mentioned at Gen.5.25; <br> son of: Methuselah (H4968); <br> father of: Noah (H5146)<BR>Also named: <i>Lamech</i> (Λάμεχ \"Lamech\" G2984)<BR> § Lamech = \"powerful\"<br>1) the 5th lineal descendant from Cain, husband of Adah and Zillah, father of sons, Jabal, Jubal, and Tubal-cain, and daughter, Naamah<br>2) father of Noah"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3929G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3929",
+                  "lemma": "לֶ֫מֶךְ",
+                  "translit": "le.mekh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Lamech A man living at the time before the Flood, first mentioned at Gen.5.25; <br> son of: Methuselah (H4968); <br> father of: Noah (H5146)<BR>Also named: <i>Lamech</i> (Λάμεχ \"Lamech\" G2984)<BR> § Lamech = \"powerful\"<br>1) the 5th lineal descendant from Cain, husband of Adah and Zillah, father of sons, Jabal, Jubal, and Tubal-cain, and daughter, Naamah<br>2) father of Noah",
+                  "raw": "H3929\tH3929H =\tH3929H\tלֶ֫מֶךְ\tle.mekh\tN:N-M-P\tLamech\tA man living at the time before the Flood, first mentioned at Gen.5.25; <br> son of: Methuselah (H4968); <br> father of: Noah (H5146)<BR>Also named: <i>Lamech</i> (Λάμεχ \"Lamech\" G2984)<BR> § Lamech = \"powerful\"<br>1) the 5th lineal descendant from Cain, husband of Adah and Zillah, father of sons, Jabal, Jubal, and Tubal-cain, and daughter, Naamah<br>2) father of Noah"
+                }
+              },
+              {
+                "text": "{H3929G=לֶ֫מֶךְ=Lamech»Lamech@Gen.4.18-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3929",
+                  "lemma": "לֶ֫מֶךְ",
+                  "translit": "le.mekh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Lamech A man living at the time before the Flood, first mentioned at Gen.5.25; <br> son of: Methuselah (H4968); <br> father of: Noah (H5146)<BR>Also named: <i>Lamech</i> (Λάμεχ \"Lamech\" G2984)<BR> § Lamech = \"powerful\"<br>1) the 5th lineal descendant from Cain, husband of Adah and Zillah, father of sons, Jabal, Jubal, and Tubal-cain, and daughter, Naamah<br>2) father of Noah",
+                  "raw": "H3929\tH3929H =\tH3929H\tלֶ֫מֶךְ\tle.mekh\tN:N-M-P\tLamech\tA man living at the time before the Flood, first mentioned at Gen.5.25; <br> son of: Methuselah (H4968); <br> father of: Noah (H5146)<BR>Also named: <i>Lamech</i> (Λάμεχ \"Lamech\" G2984)<BR> § Lamech = \"powerful\"<br>1) the 5th lineal descendant from Cain, husband of Adah and Zillah, father of sons, Jabal, Jubal, and Tubal-cain, and daughter, Naamah<br>2) father of Noah"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L לָֽמֶךְ\\׃ La.mekh Lamech {H3929G}\\H9016 HNpm H3929G {H3929G=לֶ֫מֶךְ=Lamech»Lamech@Gen.4.18-}\\H9016=׃=verseEnd"
+          }
         }
       ],
       "nirv": [
@@ -135,127 +1664,1656 @@
           "chapter": 3,
           "verse": 22,
           "text": "The Lord God said, “The man has become like one of us. He can now tell the difference between good and evil. He must not be allowed to reach out his hand and pick fruit from the tree of life and eat it. If he does, he will live forever.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/עֹלָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./'o.Lam",
+                "wordIndex": 2
+              },
+              {
+                "text": "for/",
+                "wordIndex": 3
+              },
+              {
+                "text": "ever",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H5769G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5769G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H5769G=עוֹלָם=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#22=L לְ/עֹלָֽם\\׃ le./'o.Lam for/ ever H9005/{H5769G}\\H9016 HR/Ncmsa H5769G H9005=ל=to/{H5769G=עוֹלָם=: enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 3,
           "verse": 23,
           "text": "So the Lord God drove the man out of the Garden of Eden to work the ground he had been made out of.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִ/שָּֽׁם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mi./Sham",
+                "wordIndex": 2
+              },
+              {
+                "text": "from/",
+                "wordIndex": 3
+              },
+              {
+                "text": "there",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9006/{H8033G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "HR/D",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8033G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8033",
+                  "lemma": "שָׁם",
+                  "translit": "sham",
+                  "morph": "H:Adv",
+                  "gloss": "(Jerusalem) Is There <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither",
+                  "raw": "H8033\tH8033H = a Part of\tH3389\tשָׁם\tsham\tH:Adv\t(Jerusalem) Is There\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither"
+                }
+              },
+              {
+                "text": "H9006=מ=from/{H8033G=שָׁם=there}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L מִ/שָּֽׁם\\׃ mi./Sham from/ there H9006/{H8033G}\\H9016 HR/D H8033G H9006=מ=from/{H8033G=שָׁם=there}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 3,
           "verse": 24,
           "text": "The Lord God drove him out and then placed cherubim on the east side of the Garden of Eden. He also placed a flaming sword there. It flashed back and forth. The cherubim and the sword guarded the way to the tree of life.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַֽ/חַיִּֽים\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "Ha./chai.Yim",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "life",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H2416E}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2416E",
+                "wordIndex": 9
+              },
+              {
+                "text": "H9009=ה=the/{H2416E=חַיִּים=life}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L הַֽ/חַיִּֽים\\׃\\ \\ס Ha./chai.Yim <the>/ life H9009/{H2416E}\\H9016\\ \\H9018 HTd/Ncmpa H2416E H9009=ה=the/{H2416E=חַיִּים=life}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 4,
           "verse": 1,
           "text": "Adam made love to his wife Eve. She became pregnant and gave birth to Cain. She said, “With the Lord’s help I have had a baby boy.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יְהוָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yah.weh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3068G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "HNpt",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3068G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L יְהוָֽה\\׃ Yah.weh Yahweh {H3068G}\\H9016 HNpt H3068G {H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 2,
           "text": "Later she gave birth to his brother Abel.\nAbel took care of sheep. Cain worked the ground.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֲדָמָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.da.Mah",
+                "wordIndex": 2
+              },
+              {
+                "text": "[the]",
+                "wordIndex": 3
+              },
+              {
+                "text": "ground",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0127G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0127",
+                  "lemma": "אֲדָמָה",
+                  "translit": "a.da.mah",
+                  "morph": "H:N-F",
+                  "gloss": "land: planet : planet<br>1) ground, land<br>1a) ground (as general, tilled, yielding sustenance)<br>1b) piece of ground, a specific plot of land<br>1c) earth substance (for building or constructing)<br>1d) ground as earth's visible surface<br>1e) land, territory, country<br>1f) whole inhabited earth<br>1g) city in Naphtali",
+                  "raw": "H0127\tH0127I = a Meaning of\tH0127G\tאֲדָמָה\ta.da.mah\tH:N-F\tland: planet\t: planet<br>1) ground, land<br>1a) ground (as general, tilled, yielding sustenance)<br>1b) piece of ground, a specific plot of land<br>1c) earth substance (for building or constructing)<br>1d) ground as earth's visible surface<br>1e) land, territory, country<br>1f) whole inhabited earth<br>1g) city in Naphtali"
+                }
+              },
+              {
+                "text": "HNcfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0127G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0127",
+                  "lemma": "אֲדָמָה",
+                  "translit": "a.da.mah",
+                  "morph": "H:N-F",
+                  "gloss": "land: planet : planet<br>1) ground, land<br>1a) ground (as general, tilled, yielding sustenance)<br>1b) piece of ground, a specific plot of land<br>1c) earth substance (for building or constructing)<br>1d) ground as earth's visible surface<br>1e) land, territory, country<br>1f) whole inhabited earth<br>1g) city in Naphtali",
+                  "raw": "H0127\tH0127I = a Meaning of\tH0127G\tאֲדָמָה\ta.da.mah\tH:N-F\tland: planet\t: planet<br>1) ground, land<br>1a) ground (as general, tilled, yielding sustenance)<br>1b) piece of ground, a specific plot of land<br>1c) earth substance (for building or constructing)<br>1d) ground as earth's visible surface<br>1e) land, territory, country<br>1f) whole inhabited earth<br>1g) city in Naphtali"
+                }
+              },
+              {
+                "text": "{H0127G=אֲדָמָה=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0127",
+                  "lemma": "אֲדָמָה",
+                  "translit": "a.da.mah",
+                  "morph": "H:N-F",
+                  "gloss": "land: planet : planet<br>1) ground, land<br>1a) ground (as general, tilled, yielding sustenance)<br>1b) piece of ground, a specific plot of land<br>1c) earth substance (for building or constructing)<br>1d) ground as earth's visible surface<br>1e) land, territory, country<br>1f) whole inhabited earth<br>1g) city in Naphtali",
+                  "raw": "H0127\tH0127I = a Meaning of\tH0127G\tאֲדָמָה\ta.da.mah\tH:N-F\tland: planet\t: planet<br>1) ground, land<br>1a) ground (as general, tilled, yielding sustenance)<br>1b) piece of ground, a specific plot of land<br>1c) earth substance (for building or constructing)<br>1d) ground as earth's visible surface<br>1e) land, territory, country<br>1f) whole inhabited earth<br>1g) city in Naphtali"
+                }
+              },
+              {
+                "text": "soil»land:1_soil}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L אֲדָמָֽה\\׃ 'a.da.Mah [the] ground {H0127G}\\H9016 HNcfsa H0127G {H0127G=אֲדָמָה=: soil»land:1_soil}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 3,
           "text": "After some time, Cain gathered some of the things he had grown. He brought them as an offering to the Lord.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לַֽ/יהוָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Yah.weh",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H3068G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Npt",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3068G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#09=L לַֽ/יהוָֽה\\׃ la./Yah.weh to/ Yahweh H9005/{H3068G}\\H9016 HR/Npt H3068G H9005=ל=to/{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 4,
           "text": "But Abel brought the fattest parts of some of the lambs from his flock. They were the male animals that were born first to their mothers.\nThe Lord was pleased with Abel and his offering.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִנְחָתֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "min.cha.T/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "offering/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4503G}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4503",
+                  "lemma": "מִנְחָה",
+                  "translit": "min.chah",
+                  "morph": "H:N-F",
+                  "gloss": "offering: tribute : tribute<br>1) gift, tribute, offering, present, oblation, sacrifice, meat offering<br>1a) gift, present<br>1b) tribute<br>1c) offering (to God)<br>1d) grain offering",
+                  "raw": "H4503\tH4503I = a Meaning of\tH4503G\tמִנְחָה\tmin.chah\tH:N-F\toffering: tribute\t: tribute<br>1) gift, tribute, offering, present, oblation, sacrifice, meat offering<br>1a) gift, present<br>1b) tribute<br>1c) offering (to God)<br>1d) grain offering"
+                }
+              },
+              {
+                "text": "HNcfsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4503G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4503",
+                  "lemma": "מִנְחָה",
+                  "translit": "min.chah",
+                  "morph": "H:N-F",
+                  "gloss": "offering: tribute : tribute<br>1) gift, tribute, offering, present, oblation, sacrifice, meat offering<br>1a) gift, present<br>1b) tribute<br>1c) offering (to God)<br>1d) grain offering",
+                  "raw": "H4503\tH4503I = a Meaning of\tH4503G\tמִנְחָה\tmin.chah\tH:N-F\toffering: tribute\t: tribute<br>1) gift, tribute, offering, present, oblation, sacrifice, meat offering<br>1a) gift, present<br>1b) tribute<br>1c) offering (to God)<br>1d) grain offering"
+                }
+              },
+              {
+                "text": "{H4503G=מִנְחָה=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4503",
+                  "lemma": "מִנְחָה",
+                  "translit": "min.chah",
+                  "morph": "H:N-F",
+                  "gloss": "offering: tribute : tribute<br>1) gift, tribute, offering, present, oblation, sacrifice, meat offering<br>1a) gift, present<br>1b) tribute<br>1c) offering (to God)<br>1d) grain offering",
+                  "raw": "H4503\tH4503I = a Meaning of\tH4503G\tמִנְחָה\tmin.chah\tH:N-F\toffering: tribute\t: tribute<br>1) gift, tribute, offering, present, oblation, sacrifice, meat offering<br>1a) gift, present<br>1b) tribute<br>1c) offering (to God)<br>1d) grain offering"
+                }
+              },
+              {
+                "text": "offering»offering:1_offering;_sacrifice}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L מִנְחָתֽ/וֹ\\׃ min.cha.T/o offering/ his {H4503G}/H9023\\H9016 HNcfsc/Sp3ms H4503G {H4503G=מִנְחָה=: offering»offering:1_offering;_sacrifice}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 5,
           "text": "But he wasn’t pleased with Cain and his offering. So Cain became very angry. His face was sad.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פָּנָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "pa.Na/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "face/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6440M}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H6440",
+                  "lemma": "פָּנֶה",
+                  "translit": "pa.neh",
+                  "morph": "H:N-M",
+                  "gloss": "face: kindness : kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
+                  "raw": "H6440\tH6440N = a Meaning of\tH6440H\tפָּנֶה\tpa.neh\tH:N-M\tface: kindness\t: kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6440M",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6440",
+                  "lemma": "פָּנֶה",
+                  "translit": "pa.neh",
+                  "morph": "H:N-M",
+                  "gloss": "face: kindness : kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
+                  "raw": "H6440\tH6440N = a Meaning of\tH6440H\tפָּנֶה\tpa.neh\tH:N-M\tface: kindness\t: kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of"
+                }
+              },
+              {
+                "text": "{H6440M=פָּנֶה=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6440",
+                  "lemma": "פָּנֶה",
+                  "translit": "pa.neh",
+                  "morph": "H:N-M",
+                  "gloss": "face: kindness : kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
+                  "raw": "H6440\tH6440N = a Meaning of\tH6440H\tפָּנֶה\tpa.neh\tH:N-M\tface: kindness\t: kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of"
+                }
+              },
+              {
+                "text": "angry»face:7_angry;_(fallen)face}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L פָּנָֽי/ו\\׃ pa.Na/v face/ his {H6440M}/H9023\\H9016 HNcmpc/Sp3ms H6440M {H6440M=פָּנֶה=: angry»face:7_angry;_(fallen)face}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 6,
           "text": "Then the Lord said to Cain, “Why are you angry? Why are you looking so sad?",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פָנֶֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "fa.Nei./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "face/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6440H}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H6440",
+                  "lemma": "פָּנֶה",
+                  "translit": "pa.neh",
+                  "morph": "H:N-M",
+                  "gloss": "face: kindness : kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
+                  "raw": "H6440\tH6440N = a Meaning of\tH6440H\tפָּנֶה\tpa.neh\tH:N-M\tface: kindness\t: kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6440H",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6440",
+                  "lemma": "פָּנֶה",
+                  "translit": "pa.neh",
+                  "morph": "H:N-M",
+                  "gloss": "face: kindness : kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
+                  "raw": "H6440\tH6440N = a Meaning of\tH6440H\tפָּנֶה\tpa.neh\tH:N-M\tface: kindness\t: kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of"
+                }
+              },
+              {
+                "text": "{H6440H=פָּנֶה=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6440",
+                  "lemma": "פָּנֶה",
+                  "translit": "pa.neh",
+                  "morph": "H:N-M",
+                  "gloss": "face: kindness : kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
+                  "raw": "H6440\tH6440N = a Meaning of\tH6440H\tפָּנֶה\tpa.neh\tH:N-M\tface: kindness\t: kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of"
+                }
+              },
+              {
+                "text": "face»face:1_face}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L פָנֶֽי/ךָ\\׃ fa.Nei./kha face/ your {H6440H}/H9021\\H9016 HNcmpc/Sp2ms H6440H {H6440H=פָּנֶה=: face»face:1_face}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 7,
           "text": "Do what is right. Then you will be accepted. If you don’t do what is right, sin is waiting at your door to grab you. It longs to have you. But you must rule over it.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בּֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "b/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "over",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "it",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H9033}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9033",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H9033=Os3m=him}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#15=L בּֽ/וֹ\\׃ b/o over <the>/ it H9003/{H9033}\\H9016 HRd/Sp3ms H9033 H9003=ב=in/{H9033=Os3m=him}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 8,
           "text": "Cain said to his brother Abel, “Let’s go out to the field.” So they went out. There Cain attacked his brother Abel and killed him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/יַּהַרְגֵֽ/הוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va/i.ya.har.Ge./hu",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "he",
+                "wordIndex": 4
+              },
+              {
+                "text": "killed/",
+                "wordIndex": 5
+              },
+              {
+                "text": "him",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H2026}/H9033\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqw3ms/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2026",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2026",
+                  "lemma": "הָרַג",
+                  "translit": "ha.rag",
+                  "morph": "H:V",
+                  "gloss": "to kill 1) to kill, slay, murder, destroy, murderer, slayer, out of hand<br>1a) (Qal)<br>1a1) to kill, slay<br>1a2) to destroy, ruin<br>1b) (Niphal) to be killed<br>1c) (Pual) to be killed, be slain",
+                  "raw": "H2026\tH2026 =\tH2026\tהָרַג\tha.rag\tH:V\tto kill\t1) to kill, slay, murder, destroy, murderer, slayer, out of hand<br>1a) (Qal)<br>1a1) to kill, slay<br>1a2) to destroy, ruin<br>1b) (Niphal) to be killed<br>1c) (Pual) to be killed, be slain"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H2026=הָרַג=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "kill}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L וַ/יַּהַרְגֵֽ/הוּ\\׃ va/i.ya.har.Ge./hu and/ he killed/ him H9001/{H2026}/H9033\\H9016 Hc/Vqw3ms/Sp3ms H2026 H9001=ו=&/{H2026=הָרַג=to kill}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 9,
           "text": "Then the Lord said to Cain, “Where is your brother Abel?”\n“I don’t know,” he replied. “Am I supposed to look after my brother?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָנֹֽכִי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.No.khi",
+                "wordIndex": 2
+              },
+              {
+                "text": "[am]",
+                "wordIndex": 3
+              },
+              {
+                "text": "I",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0595}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0595",
+                  "lemma": "אָֽנֹכִ֫י",
+                  "translit": "a.no.khi",
+                  "morph": "H:PerP-CS",
+                  "gloss": "I I (first pers. sing.)<BR>Another spelling of <i>a.ni</i> (אֲנִי, אָֽנֹכִ֫י \"I\" H0589)",
+                  "raw": "H0595\tH0595 = a Spelling of\tH0589\tאָֽנֹכִ֫י\ta.no.khi\tH:PerP-CS\tI\tI (first pers. sing.)<BR>Another spelling of <i>a.ni</i> (אֲנִי, אָֽנֹכִ֫י \"I\" H0589)"
+                }
+              },
+              {
+                "text": "HPp1bs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0595",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0595",
+                  "lemma": "אָֽנֹכִ֫י",
+                  "translit": "a.no.khi",
+                  "morph": "H:PerP-CS",
+                  "gloss": "I I (first pers. sing.)<BR>Another spelling of <i>a.ni</i> (אֲנִי, אָֽנֹכִ֫י \"I\" H0589)",
+                  "raw": "H0595\tH0595 = a Spelling of\tH0589\tאָֽנֹכִ֫י\ta.no.khi\tH:PerP-CS\tI\tI (first pers. sing.)<BR>Another spelling of <i>a.ni</i> (אֲנִי, אָֽנֹכִ֫י \"I\" H0589)"
+                }
+              },
+              {
+                "text": "{H0595=אָֽנֹכִ֫י=I}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0595",
+                  "lemma": "אָֽנֹכִ֫י",
+                  "translit": "a.no.khi",
+                  "morph": "H:PerP-CS",
+                  "gloss": "I I (first pers. sing.)<BR>Another spelling of <i>a.ni</i> (אֲנִי, אָֽנֹכִ֫י \"I\" H0589)",
+                  "raw": "H0595\tH0595 = a Spelling of\tH0589\tאָֽנֹכִ֫י\ta.no.khi\tH:PerP-CS\tI\tI (first pers. sing.)<BR>Another spelling of <i>a.ni</i> (אֲנִי, אָֽנֹכִ֫י \"I\" H0589)"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L אָנֹֽכִי\\׃ 'a.No.khi [am] I {H0595}\\H9016 HPp1bs H0595 {H0595=אָֽנֹכִ֫י=I}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 10,
           "text": "The Lord said, “What have you done? Listen! Your brother’s blood is crying out to me from the ground.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָֽ/אֲדָמָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ha./'a.da.Mah",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "ground",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0127G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0127G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0127",
+                  "lemma": "אֲדָמָה",
+                  "translit": "a.da.mah",
+                  "morph": "H:N-F",
+                  "gloss": "land: planet : planet<br>1) ground, land<br>1a) ground (as general, tilled, yielding sustenance)<br>1b) piece of ground, a specific plot of land<br>1c) earth substance (for building or constructing)<br>1d) ground as earth's visible surface<br>1e) land, territory, country<br>1f) whole inhabited earth<br>1g) city in Naphtali",
+                  "raw": "H0127\tH0127I = a Meaning of\tH0127G\tאֲדָמָה\ta.da.mah\tH:N-F\tland: planet\t: planet<br>1) ground, land<br>1a) ground (as general, tilled, yielding sustenance)<br>1b) piece of ground, a specific plot of land<br>1c) earth substance (for building or constructing)<br>1d) ground as earth's visible surface<br>1e) land, territory, country<br>1f) whole inhabited earth<br>1g) city in Naphtali"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0127G=אֲדָמָה=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "soil»land:1_soil}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הָֽ/אֲדָמָֽה\\׃ Ha./'a.da.Mah the/ ground H9009/{H0127G}\\H9016 HTd/Ncfsa H0127G H9009=ה=the/{H0127G=אֲדָמָה=: soil»land:1_soil}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 11,
           "text": "“So I am putting a curse on you. I am driving you away from the ground. It has opened its mouth to receive your brother’s blood from your hand.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִ/יָּדֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mi./ya.De./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "from/",
+                "wordIndex": 3
+              },
+              {
+                "text": "hand/",
+                "wordIndex": 4
+              },
+              {
+                "text": "your",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9006/{H3027G}/H9021\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "HR/Ncbsc/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3027G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3027",
+                  "lemma": "יָד",
+                  "translit": "yad",
+                  "morph": "H:N-F",
+                  "gloss": "hand: swear : swear/allegience/hand(under)<br>1) hand<br>1a) hand (of man)<br>1b) strength, power (fig.)<br>1c) side (of land), part, portion (metaph.) (fig.)<br>1d) (various special, technical senses)<br>1d1) sign, monument<br>1d2) part, fractional part, share<br>1d3) time, repetition<br>1d4) axle-trees, axle<br>1d5) stays, support (for laver)<br>1d6) tenons (in tabernacle)<br>1d7) a phallus, a hand (meaning unsure)<br>1d8) wrists",
+                  "raw": "H3027\tH3027X = a Meaning of\tH3027G\tיָד\tyad\tH:N-F\thand: swear\t: swear/allegience/hand(under)<br>1) hand<br>1a) hand (of man)<br>1b) strength, power (fig.)<br>1c) side (of land), part, portion (metaph.) (fig.)<br>1d) (various special, technical senses)<br>1d1) sign, monument<br>1d2) part, fractional part, share<br>1d3) time, repetition<br>1d4) axle-trees, axle<br>1d5) stays, support (for laver)<br>1d6) tenons (in tabernacle)<br>1d7) a phallus, a hand (meaning unsure)<br>1d8) wrists"
+                }
+              },
+              {
+                "text": "H9006=מ=from/{H3027G=יָד=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "hand»hand:1_hand;_arm[anatomy]}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L מִ/יָּדֶֽ/ךָ\\׃ mi./ya.De./kha from/ hand/ your H9006/{H3027G}/H9021\\H9016 HR/Ncbsc/Sp2ms H3027G H9006=מ=from/{H3027G=יָד=: hand»hand:1_hand;_arm[anatomy]}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 12,
           "text": "When you work the ground, it will not produce its crops for you anymore. You will be a restless person who wanders around on the earth.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָ/אָֽרֶץ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./'A.retz",
+                "wordIndex": 2
+              },
+              {
+                "text": "on",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "earth",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H0776G}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Ncfsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L בָ/אָֽרֶץ\\׃ va./'A.retz on the/ earth H9003/{H0776G}\\H9016 HRd/Ncfsa H0776G H9003=ב=in/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 13,
           "text": "Cain said to the Lord, “You are punishing me more than I can take.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִ/נְּשֹֽׂא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mi./ne.So'",
+                "wordIndex": 2
+              },
+              {
+                "text": "for/",
+                "wordIndex": 3
+              },
+              {
+                "text": "bearing",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9006/{H5375H}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5375H",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5375",
+                  "lemma": "נָשָׂא",
+                  "translit": "na.sa",
+                  "morph": "H:V",
+                  "gloss": "to lift: give(gift) : give(gift)<br>1) to lift, bear up, carry, take<br>1a) (Qal)<br>1a1) to lift, lift up<br>1a2) to bear, carry, support, sustain, endure<br>1a3) to take, take away, carry off, forgive<br>1b) (Niphal)<br>1b1) to be lifted up, be exalted<br>1b2) to lift oneself up, rise up<br>1b3) to be borne, be carried<br>1b4) to be taken away, be carried off, be swept away<br>1c) (Piel)<br>1c1) to lift up, exalt, support, aid, assist<br>1c2) to desire, long (fig.)<br>1c3) to carry, bear continuously<br>1c4) to take, take away<br>1d) (Hithpael) to lift oneself up, exalt oneself<br>1e) (Hiphil)<br>1e1) to cause one to bear (iniquity)<br>1e2) to cause to bring, have brought",
+                  "raw": "H5375\tH5375X = a Meaning of\tH5375G\tנָשָׂא\tna.sa\tH:V\tto lift: give(gift)\t: give(gift)<br>1) to lift, bear up, carry, take<br>1a) (Qal)<br>1a1) to lift, lift up<br>1a2) to bear, carry, support, sustain, endure<br>1a3) to take, take away, carry off, forgive<br>1b) (Niphal)<br>1b1) to be lifted up, be exalted<br>1b2) to lift oneself up, rise up<br>1b3) to be borne, be carried<br>1b4) to be taken away, be carried off, be swept away<br>1c) (Piel)<br>1c1) to lift up, exalt, support, aid, assist<br>1c2) to desire, long (fig.)<br>1c3) to carry, bear continuously<br>1c4) to take, take away<br>1d) (Hithpael) to lift oneself up, exalt oneself<br>1e) (Hiphil)<br>1e1) to cause one to bear (iniquity)<br>1e2) to cause to bring, have brought"
+                }
+              },
+              {
+                "text": "H9006=מ=from/{H5375H=נָשָׂא=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "bear»to",
+                "wordIndex": 9
+              },
+              {
+                "text": "lift:2_bear;_carry}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L מִ/נְּשֹֽׂא\\׃ mi./ne.So' for/ bearing H9006/{H5375H}\\H9016 HR/Vqcc H5375H H9006=מ=from/{H5375H=נָשָׂא=: bear»to lift:2_bear;_carry}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 14,
           "text": "Today you are driving me away from the land. I will be hidden from you. I’ll be a restless person who wanders around on the earth. Anyone who finds me will kill me.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יַֽהַרְגֵֽ/נִי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ya.har.Ge./ni",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "kill/",
+                "wordIndex": 5
+              },
+              {
+                "text": "me",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H2026}/H9030\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2026",
+                  "lemma": "הָרַג",
+                  "translit": "ha.rag",
+                  "morph": "H:V",
+                  "gloss": "to kill 1) to kill, slay, murder, destroy, murderer, slayer, out of hand<br>1a) (Qal)<br>1a1) to kill, slay<br>1a2) to destroy, ruin<br>1b) (Niphal) to be killed<br>1c) (Pual) to be killed, be slain",
+                  "raw": "H2026\tH2026 =\tH2026\tהָרַג\tha.rag\tH:V\tto kill\t1) to kill, slay, murder, destroy, murderer, slayer, out of hand<br>1a) (Qal)<br>1a1) to kill, slay<br>1a2) to destroy, ruin<br>1b) (Niphal) to be killed<br>1c) (Pual) to be killed, be slain"
+                }
+              },
+              {
+                "text": "HVqi3ms/Sp1bs",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2026",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2026",
+                  "lemma": "הָרַג",
+                  "translit": "ha.rag",
+                  "morph": "H:V",
+                  "gloss": "to kill 1) to kill, slay, murder, destroy, murderer, slayer, out of hand<br>1a) (Qal)<br>1a1) to kill, slay<br>1a2) to destroy, ruin<br>1b) (Niphal) to be killed<br>1c) (Pual) to be killed, be slain",
+                  "raw": "H2026\tH2026 =\tH2026\tהָרַג\tha.rag\tH:V\tto kill\t1) to kill, slay, murder, destroy, murderer, slayer, out of hand<br>1a) (Qal)<br>1a1) to kill, slay<br>1a2) to destroy, ruin<br>1b) (Niphal) to be killed<br>1c) (Pual) to be killed, be slain"
+                }
+              },
+              {
+                "text": "{H2026=הָרַג=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H2026",
+                  "lemma": "הָרַג",
+                  "translit": "ha.rag",
+                  "morph": "H:V",
+                  "gloss": "to kill 1) to kill, slay, murder, destroy, murderer, slayer, out of hand<br>1a) (Qal)<br>1a1) to kill, slay<br>1a2) to destroy, ruin<br>1b) (Niphal) to be killed<br>1c) (Pual) to be killed, be slain",
+                  "raw": "H2026\tH2026 =\tH2026\tהָרַג\tha.rag\tH:V\tto kill\t1) to kill, slay, murder, destroy, murderer, slayer, out of hand<br>1a) (Qal)<br>1a1) to kill, slay<br>1a2) to destroy, ruin<br>1b) (Niphal) to be killed<br>1c) (Pual) to be killed, be slain"
+                }
+              },
+              {
+                "text": "kill}/H9030=Os1c=me\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9030",
+                  "lemma": "נִי",
+                  "translit": "ni",
+                  "morph": "Os1c",
+                  "gloss": "me Personal object pronoun -  suffix for propositions and verbs without an object: 1st person singular",
+                  "raw": "H9030\tH9030 =\tH9030\tנִי\tni\tOs1c\tme\tPersonal object pronoun -  suffix for propositions and verbs without an object: 1st person singular"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L יַֽהַרְגֵֽ/נִי\\׃ Ya.har.Ge./ni he will kill/ me {H2026}/H9030\\H9016 HVqi3ms/Sp1bs H2026 {H2026=הָרַג=to kill}/H9030=Os1c=me\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 15,
           "text": "But the Lord said to him, “No. Anyone who kills you will be paid back seven times.” The Lord put a mark on Cain. Then anyone who found him wouldn’t kill him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֹצְאֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mo.tze.'/O",
+                "wordIndex": 2
+              },
+              {
+                "text": "[one",
+                "wordIndex": 3
+              },
+              {
+                "text": "who]",
+                "wordIndex": 4
+              },
+              {
+                "text": "found/",
+                "wordIndex": 5
+              },
+              {
+                "text": "him",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H4672}/H9033\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4672",
+                  "lemma": "מָצָא",
+                  "translit": "ma.tsa",
+                  "morph": "H:V",
+                  "gloss": "to find 1) to find, attain to<br>1a) (Qal)<br>1a1) to find<br>1a1a) to find, secure, acquire, get (thing sought)<br>1a1b) to find (what is lost)<br>1a1c) to meet, encounter<br>1a1d) to find (a condition)<br>1a1e) to learn, devise<br>1a2) to find out<br>1a2a) to find out<br>1a2b) to detect<br>1a2c) to guess<br>1a3) to come upon, light upon<br>1a3a) to happen upon, meet, fall in with<br>1a3b) to hit<br>1a3c) to befall<br>1b) (Niphal)<br>1b1) to be found<br>1b1a) to be encountered, be lighted upon, be discovered<br>1b1b) to appear, be recognised<br>1b1c) to be discovered, be detected<br>1b1d) to be gained, be secured<br>1b2) to be, be found<br>1b2a) to be found in<br>1b2b) to be in the possession of<br>1b2c) to be found in (a place), happen to be<br>1b2d) to be left (after war)<br>1b2e) to be present<br>1b2f) to prove to be<br>1b2g) to be found sufficient, be enough<br>1c) (Hiphil)<br>1c1) to cause to find, attain<br>1c2) to cause to light upon, come upon, come<br>1c3) to cause to encounter<br>1c4) to present (offering)",
+                  "raw": "H4672\tH4672 =\tH4672\tמָצָא\tma.tsa\tH:V\tto find\t1) to find, attain to<br>1a) (Qal)<br>1a1) to find<br>1a1a) to find, secure, acquire, get (thing sought)<br>1a1b) to find (what is lost)<br>1a1c) to meet, encounter<br>1a1d) to find (a condition)<br>1a1e) to learn, devise<br>1a2) to find out<br>1a2a) to find out<br>1a2b) to detect<br>1a2c) to guess<br>1a3) to come upon, light upon<br>1a3a) to happen upon, meet, fall in with<br>1a3b) to hit<br>1a3c) to befall<br>1b) (Niphal)<br>1b1) to be found<br>1b1a) to be encountered, be lighted upon, be discovered<br>1b1b) to appear, be recognised<br>1b1c) to be discovered, be detected<br>1b1d) to be gained, be secured<br>1b2) to be, be found<br>1b2a) to be found in<br>1b2b) to be in the possession of<br>1b2c) to be found in (a place), happen to be<br>1b2d) to be left (after war)<br>1b2e) to be present<br>1b2f) to prove to be<br>1b2g) to be found sufficient, be enough<br>1c) (Hiphil)<br>1c1) to cause to find, attain<br>1c2) to cause to light upon, come upon, come<br>1c3) to cause to encounter<br>1c4) to present (offering)"
+                }
+              },
+              {
+                "text": "HVqrmsc/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H4672",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4672",
+                  "lemma": "מָצָא",
+                  "translit": "ma.tsa",
+                  "morph": "H:V",
+                  "gloss": "to find 1) to find, attain to<br>1a) (Qal)<br>1a1) to find<br>1a1a) to find, secure, acquire, get (thing sought)<br>1a1b) to find (what is lost)<br>1a1c) to meet, encounter<br>1a1d) to find (a condition)<br>1a1e) to learn, devise<br>1a2) to find out<br>1a2a) to find out<br>1a2b) to detect<br>1a2c) to guess<br>1a3) to come upon, light upon<br>1a3a) to happen upon, meet, fall in with<br>1a3b) to hit<br>1a3c) to befall<br>1b) (Niphal)<br>1b1) to be found<br>1b1a) to be encountered, be lighted upon, be discovered<br>1b1b) to appear, be recognised<br>1b1c) to be discovered, be detected<br>1b1d) to be gained, be secured<br>1b2) to be, be found<br>1b2a) to be found in<br>1b2b) to be in the possession of<br>1b2c) to be found in (a place), happen to be<br>1b2d) to be left (after war)<br>1b2e) to be present<br>1b2f) to prove to be<br>1b2g) to be found sufficient, be enough<br>1c) (Hiphil)<br>1c1) to cause to find, attain<br>1c2) to cause to light upon, come upon, come<br>1c3) to cause to encounter<br>1c4) to present (offering)",
+                  "raw": "H4672\tH4672 =\tH4672\tמָצָא\tma.tsa\tH:V\tto find\t1) to find, attain to<br>1a) (Qal)<br>1a1) to find<br>1a1a) to find, secure, acquire, get (thing sought)<br>1a1b) to find (what is lost)<br>1a1c) to meet, encounter<br>1a1d) to find (a condition)<br>1a1e) to learn, devise<br>1a2) to find out<br>1a2a) to find out<br>1a2b) to detect<br>1a2c) to guess<br>1a3) to come upon, light upon<br>1a3a) to happen upon, meet, fall in with<br>1a3b) to hit<br>1a3c) to befall<br>1b) (Niphal)<br>1b1) to be found<br>1b1a) to be encountered, be lighted upon, be discovered<br>1b1b) to appear, be recognised<br>1b1c) to be discovered, be detected<br>1b1d) to be gained, be secured<br>1b2) to be, be found<br>1b2a) to be found in<br>1b2b) to be in the possession of<br>1b2c) to be found in (a place), happen to be<br>1b2d) to be left (after war)<br>1b2e) to be present<br>1b2f) to prove to be<br>1b2g) to be found sufficient, be enough<br>1c) (Hiphil)<br>1c1) to cause to find, attain<br>1c2) to cause to light upon, come upon, come<br>1c3) to cause to encounter<br>1c4) to present (offering)"
+                }
+              },
+              {
+                "text": "{H4672=מָצָא=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H4672",
+                  "lemma": "מָצָא",
+                  "translit": "ma.tsa",
+                  "morph": "H:V",
+                  "gloss": "to find 1) to find, attain to<br>1a) (Qal)<br>1a1) to find<br>1a1a) to find, secure, acquire, get (thing sought)<br>1a1b) to find (what is lost)<br>1a1c) to meet, encounter<br>1a1d) to find (a condition)<br>1a1e) to learn, devise<br>1a2) to find out<br>1a2a) to find out<br>1a2b) to detect<br>1a2c) to guess<br>1a3) to come upon, light upon<br>1a3a) to happen upon, meet, fall in with<br>1a3b) to hit<br>1a3c) to befall<br>1b) (Niphal)<br>1b1) to be found<br>1b1a) to be encountered, be lighted upon, be discovered<br>1b1b) to appear, be recognised<br>1b1c) to be discovered, be detected<br>1b1d) to be gained, be secured<br>1b2) to be, be found<br>1b2a) to be found in<br>1b2b) to be in the possession of<br>1b2c) to be found in (a place), happen to be<br>1b2d) to be left (after war)<br>1b2e) to be present<br>1b2f) to prove to be<br>1b2g) to be found sufficient, be enough<br>1c) (Hiphil)<br>1c1) to cause to find, attain<br>1c2) to cause to light upon, come upon, come<br>1c3) to cause to encounter<br>1c4) to present (offering)",
+                  "raw": "H4672\tH4672 =\tH4672\tמָצָא\tma.tsa\tH:V\tto find\t1) to find, attain to<br>1a) (Qal)<br>1a1) to find<br>1a1a) to find, secure, acquire, get (thing sought)<br>1a1b) to find (what is lost)<br>1a1c) to meet, encounter<br>1a1d) to find (a condition)<br>1a1e) to learn, devise<br>1a2) to find out<br>1a2a) to find out<br>1a2b) to detect<br>1a2c) to guess<br>1a3) to come upon, light upon<br>1a3a) to happen upon, meet, fall in with<br>1a3b) to hit<br>1a3c) to befall<br>1b) (Niphal)<br>1b1) to be found<br>1b1a) to be encountered, be lighted upon, be discovered<br>1b1b) to appear, be recognised<br>1b1c) to be discovered, be detected<br>1b1d) to be gained, be secured<br>1b2) to be, be found<br>1b2a) to be found in<br>1b2b) to be in the possession of<br>1b2c) to be found in (a place), happen to be<br>1b2d) to be left (after war)<br>1b2e) to be present<br>1b2f) to prove to be<br>1b2g) to be found sufficient, be enough<br>1c) (Hiphil)<br>1c1) to cause to find, attain<br>1c2) to cause to light upon, come upon, come<br>1c3) to cause to encounter<br>1c4) to present (offering)"
+                }
+              },
+              {
+                "text": "find}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L מֹצְאֽ/וֹ\\׃ mo.tze.'/O [one who] found/ him {H4672}/H9033\\H9016 HVqrmsc/Sp3ms H4672 {H4672=מָצָא=to find}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 16,
           "text": "So Cain went away from the Lord. He lived in the land of Nod. It was east of Eden.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עֵֽדֶן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'E.den",
+                "wordIndex": 2
+              },
+              {
+                "text": "Eden",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5731B}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5731B",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H5731B=עֵ֫דֶן=Eden»Eden@Gen.2.8-Jol}\\H9016=׃=verseEnd",
+                "wordIndex": 7
+              }
+            ],
+            "originalVerseText": "#09=L עֵֽדֶן\\׃ 'E.den Eden {H5731B}\\H9016 HNpl H5731B {H5731B=עֵ֫דֶן=Eden»Eden@Gen.2.8-Jol}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 17,
           "text": "Cain made love to his wife. She became pregnant and gave birth to Enoch. At that time Cain was building a city. He named it after his son Enoch.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "חֲנֽוֹךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "cha.Nokh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Enoch",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H2585G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H2585",
+                  "lemma": "חֲנוֹךְ",
+                  "translit": "cha.nokh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Hanoch A man of the tribe of Reuben living at the time of Egypt and Wilderness, first mentioned at Gen.46.9; <br> son of: Reuben (H7205); <br> brother of: Pallu (H6396), Hezron (H2696) and Carmi (H3756)<BR>Also named: <i>cha.no.khi</i> (חֲנֹכִי \"Hanochite \" H2599)<BR> § Enoch = \"dedicated\"<br>1) eldest son of Cain<br>2) son of Jared and father of Methuselah whom God took home to heaven without dying<br>3) the city which Cain built and named after his son Enoch (after himself)<br>Hanoch = \"dedicated\"<br>4) a son of Midian, the third child<br>5) the eldest son of Reuben",
+                  "raw": "H2585\tH2585J =\tH2585J\tחֲנוֹךְ\tcha.nokh\tN:N-M-P\tHanoch\tA man of the tribe of Reuben living at the time of Egypt and Wilderness, first mentioned at Gen.46.9; <br> son of: Reuben (H7205); <br> brother of: Pallu (H6396), Hezron (H2696) and Carmi (H3756)<BR>Also named: <i>cha.no.khi</i> (חֲנֹכִי \"Hanochite \" H2599)<BR> § Enoch = \"dedicated\"<br>1) eldest son of Cain<br>2) son of Jared and father of Methuselah whom God took home to heaven without dying<br>3) the city which Cain built and named after his son Enoch (after himself)<br>Hanoch = \"dedicated\"<br>4) a son of Midian, the third child<br>5) the eldest son of Reuben"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H2585G_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H2585",
+                  "lemma": "חֲנוֹךְ",
+                  "translit": "cha.nokh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Hanoch A man of the tribe of Reuben living at the time of Egypt and Wilderness, first mentioned at Gen.46.9; <br> son of: Reuben (H7205); <br> brother of: Pallu (H6396), Hezron (H2696) and Carmi (H3756)<BR>Also named: <i>cha.no.khi</i> (חֲנֹכִי \"Hanochite \" H2599)<BR> § Enoch = \"dedicated\"<br>1) eldest son of Cain<br>2) son of Jared and father of Methuselah whom God took home to heaven without dying<br>3) the city which Cain built and named after his son Enoch (after himself)<br>Hanoch = \"dedicated\"<br>4) a son of Midian, the third child<br>5) the eldest son of Reuben",
+                  "raw": "H2585\tH2585J =\tH2585J\tחֲנוֹךְ\tcha.nokh\tN:N-M-P\tHanoch\tA man of the tribe of Reuben living at the time of Egypt and Wilderness, first mentioned at Gen.46.9; <br> son of: Reuben (H7205); <br> brother of: Pallu (H6396), Hezron (H2696) and Carmi (H3756)<BR>Also named: <i>cha.no.khi</i> (חֲנֹכִי \"Hanochite \" H2599)<BR> § Enoch = \"dedicated\"<br>1) eldest son of Cain<br>2) son of Jared and father of Methuselah whom God took home to heaven without dying<br>3) the city which Cain built and named after his son Enoch (after himself)<br>Hanoch = \"dedicated\"<br>4) a son of Midian, the third child<br>5) the eldest son of Reuben"
+                }
+              },
+              {
+                "text": "{H2585G=חֲנוֹךְ=Enoch»Enoch@Gen.4.17-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2585",
+                  "lemma": "חֲנוֹךְ",
+                  "translit": "cha.nokh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Hanoch A man of the tribe of Reuben living at the time of Egypt and Wilderness, first mentioned at Gen.46.9; <br> son of: Reuben (H7205); <br> brother of: Pallu (H6396), Hezron (H2696) and Carmi (H3756)<BR>Also named: <i>cha.no.khi</i> (חֲנֹכִי \"Hanochite \" H2599)<BR> § Enoch = \"dedicated\"<br>1) eldest son of Cain<br>2) son of Jared and father of Methuselah whom God took home to heaven without dying<br>3) the city which Cain built and named after his son Enoch (after himself)<br>Hanoch = \"dedicated\"<br>4) a son of Midian, the third child<br>5) the eldest son of Reuben",
+                  "raw": "H2585\tH2585J =\tH2585J\tחֲנוֹךְ\tcha.nokh\tN:N-M-P\tHanoch\tA man of the tribe of Reuben living at the time of Egypt and Wilderness, first mentioned at Gen.46.9; <br> son of: Reuben (H7205); <br> brother of: Pallu (H6396), Hezron (H2696) and Carmi (H3756)<BR>Also named: <i>cha.no.khi</i> (חֲנֹכִי \"Hanochite \" H2599)<BR> § Enoch = \"dedicated\"<br>1) eldest son of Cain<br>2) son of Jared and father of Methuselah whom God took home to heaven without dying<br>3) the city which Cain built and named after his son Enoch (after himself)<br>Hanoch = \"dedicated\"<br>4) a son of Midian, the third child<br>5) the eldest son of Reuben"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L חֲנֽוֹךְ\\׃ cha.Nokh Enoch {H2585G}\\H9016 HNpm H2585G_B {H2585G=חֲנוֹךְ=Enoch»Enoch@Gen.4.17-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 4,
           "verse": 18,
           "text": "Enoch had a son named Irad. Irad was the father of Mehujael. Mehujael was the father of Methushael. And Methushael was the father of Lamech.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָֽמֶךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La.mekh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Lamech",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3929G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3929",
+                  "lemma": "לֶ֫מֶךְ",
+                  "translit": "le.mekh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Lamech A man living at the time before the Flood, first mentioned at Gen.5.25; <br> son of: Methuselah (H4968); <br> father of: Noah (H5146)<BR>Also named: <i>Lamech</i> (Λάμεχ \"Lamech\" G2984)<BR> § Lamech = \"powerful\"<br>1) the 5th lineal descendant from Cain, husband of Adah and Zillah, father of sons, Jabal, Jubal, and Tubal-cain, and daughter, Naamah<br>2) father of Noah",
+                  "raw": "H3929\tH3929H =\tH3929H\tלֶ֫מֶךְ\tle.mekh\tN:N-M-P\tLamech\tA man living at the time before the Flood, first mentioned at Gen.5.25; <br> son of: Methuselah (H4968); <br> father of: Noah (H5146)<BR>Also named: <i>Lamech</i> (Λάμεχ \"Lamech\" G2984)<BR> § Lamech = \"powerful\"<br>1) the 5th lineal descendant from Cain, husband of Adah and Zillah, father of sons, Jabal, Jubal, and Tubal-cain, and daughter, Naamah<br>2) father of Noah"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3929G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3929",
+                  "lemma": "לֶ֫מֶךְ",
+                  "translit": "le.mekh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Lamech A man living at the time before the Flood, first mentioned at Gen.5.25; <br> son of: Methuselah (H4968); <br> father of: Noah (H5146)<BR>Also named: <i>Lamech</i> (Λάμεχ \"Lamech\" G2984)<BR> § Lamech = \"powerful\"<br>1) the 5th lineal descendant from Cain, husband of Adah and Zillah, father of sons, Jabal, Jubal, and Tubal-cain, and daughter, Naamah<br>2) father of Noah",
+                  "raw": "H3929\tH3929H =\tH3929H\tלֶ֫מֶךְ\tle.mekh\tN:N-M-P\tLamech\tA man living at the time before the Flood, first mentioned at Gen.5.25; <br> son of: Methuselah (H4968); <br> father of: Noah (H5146)<BR>Also named: <i>Lamech</i> (Λάμεχ \"Lamech\" G2984)<BR> § Lamech = \"powerful\"<br>1) the 5th lineal descendant from Cain, husband of Adah and Zillah, father of sons, Jabal, Jubal, and Tubal-cain, and daughter, Naamah<br>2) father of Noah"
+                }
+              },
+              {
+                "text": "{H3929G=לֶ֫מֶךְ=Lamech»Lamech@Gen.4.18-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3929",
+                  "lemma": "לֶ֫מֶךְ",
+                  "translit": "le.mekh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Lamech A man living at the time before the Flood, first mentioned at Gen.5.25; <br> son of: Methuselah (H4968); <br> father of: Noah (H5146)<BR>Also named: <i>Lamech</i> (Λάμεχ \"Lamech\" G2984)<BR> § Lamech = \"powerful\"<br>1) the 5th lineal descendant from Cain, husband of Adah and Zillah, father of sons, Jabal, Jubal, and Tubal-cain, and daughter, Naamah<br>2) father of Noah",
+                  "raw": "H3929\tH3929H =\tH3929H\tלֶ֫מֶךְ\tle.mekh\tN:N-M-P\tLamech\tA man living at the time before the Flood, first mentioned at Gen.5.25; <br> son of: Methuselah (H4968); <br> father of: Noah (H5146)<BR>Also named: <i>Lamech</i> (Λάμεχ \"Lamech\" G2984)<BR> § Lamech = \"powerful\"<br>1) the 5th lineal descendant from Cain, husband of Adah and Zillah, father of sons, Jabal, Jubal, and Tubal-cain, and daughter, Naamah<br>2) father of Noah"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L לָֽמֶךְ\\׃ La.mekh Lamech {H3929G}\\H9016 HNpm H3929G {H3929G=לֶ֫מֶךְ=Lamech»Lamech@Gen.4.18-}\\H9016=׃=verseEnd"
+          }
         }
       ]
     }

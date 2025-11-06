@@ -759,6 +759,9 @@ video {
 .ml-auto{
   margin-left: auto;
 }
+.mr-1{
+  margin-right: 0.25rem;
+}
 .mr-2{
   margin-right: 0.5rem;
 }
@@ -788,6 +791,9 @@ video {
 }
 .mt-8{
   margin-top: 2rem;
+}
+.\!block{
+  display: block !important;
 }
 .block{
   display: block;

@@ -7,61 +7,751 @@
           "chapter": 14,
           "verse": 21,
           "text": "And the king of Sodom said to Abram, “Give me the people, but the possessions take for yourself.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָֽ/ךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La/kh",
+                "wordIndex": 2
+              },
+              {
+                "text": "for",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "yourself",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9032}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9032",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9032",
+                  "lemma": "ךְ",
+                  "translit": "kh",
+                  "morph": "Os2f",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person feminine singular",
+                  "raw": "H9032\tH9032 =\tH9032\tךְ\tkh\tOs2f\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person feminine singular"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9032=Os2f=you}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#11=L לָֽ/ךְ\\׃ La/kh for <the>/ yourself H9005/{H9032}\\H9016 HRd/Sp2ms H9032 H9005=ל=to/{H9032=Os2f=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 22,
           "text": "And Abram said to the king of Sodom, “I have raised my hand to Yahweh, God Most High, Maker of heaven and earth,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וָ/אָֽרֶץ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./'A.retz",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "earth",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9002/{H0776G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L וָ/אָֽרֶץ\\׃ va./'A.retz and/ earth H9002/{H0776G}\\H9016 HC/Ncfsa H0776G H9002=ו=and/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 23,
           "text": "that neither a thread nor a thong of a sandal would I take from all that belongs to you, that you might not say, ‘I made Abram rich.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אַבְרָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'av.Ram",
+                "wordIndex": 2
+              },
+              {
+                "text": "Abram",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0087}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0087",
+                  "lemma": "אַבְרָם",
+                  "translit": "av.ram",
+                  "morph": "N:N-M-P",
+                  "gloss": "Abram A man living at the time of the Patriarchs, first mentioned at Gen.11.26; <br> son of: Terah (H8646); <br> brother of: Nahor (H5152H), Haran (H2039) and Sarah (H8283); married to Sarah (H8283), Hagar (H1904) and Keturah (H6989); <br> father of: Ishmael (H3458), Isaac (H3327), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); also called Abram at Gen.11.26--17.5; 2x<BR>Another name of <i>av.ra.ham</i> (אַבְרָהָם \"Abraham\" H0085) <BR> § Abram = \"exalted father\"<br> original name of Abraham<br>",
+                  "raw": "H0087\tH0087 = a Name of\tH0085\tאַבְרָם\tav.ram\tN:N-M-P\tAbram\tA man living at the time of the Patriarchs, first mentioned at Gen.11.26; <br> son of: Terah (H8646); <br> brother of: Nahor (H5152H), Haran (H2039) and Sarah (H8283); married to Sarah (H8283), Hagar (H1904) and Keturah (H6989); <br> father of: Ishmael (H3458), Isaac (H3327), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); also called Abram at Gen.11.26--17.5; 2x<BR>Another name of <i>av.ra.ham</i> (אַבְרָהָם \"Abraham\" H0085) <BR> § Abram = \"exalted father\"<br> original name of Abraham<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0087",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0087",
+                  "lemma": "אַבְרָם",
+                  "translit": "av.ram",
+                  "morph": "N:N-M-P",
+                  "gloss": "Abram A man living at the time of the Patriarchs, first mentioned at Gen.11.26; <br> son of: Terah (H8646); <br> brother of: Nahor (H5152H), Haran (H2039) and Sarah (H8283); married to Sarah (H8283), Hagar (H1904) and Keturah (H6989); <br> father of: Ishmael (H3458), Isaac (H3327), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); also called Abram at Gen.11.26--17.5; 2x<BR>Another name of <i>av.ra.ham</i> (אַבְרָהָם \"Abraham\" H0085) <BR> § Abram = \"exalted father\"<br> original name of Abraham<br>",
+                  "raw": "H0087\tH0087 = a Name of\tH0085\tאַבְרָם\tav.ram\tN:N-M-P\tAbram\tA man living at the time of the Patriarchs, first mentioned at Gen.11.26; <br> son of: Terah (H8646); <br> brother of: Nahor (H5152H), Haran (H2039) and Sarah (H8283); married to Sarah (H8283), Hagar (H1904) and Keturah (H6989); <br> father of: Ishmael (H3458), Isaac (H3327), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); also called Abram at Gen.11.26--17.5; 2x<BR>Another name of <i>av.ra.ham</i> (אַבְרָהָם \"Abraham\" H0085) <BR> § Abram = \"exalted father\"<br> original name of Abraham<br>"
+                }
+              },
+              {
+                "text": "{H0087=אַבְרָם=Abram»Abraham@Gen.11.26-1Pe}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0087",
+                  "lemma": "אַבְרָם",
+                  "translit": "av.ram",
+                  "morph": "N:N-M-P",
+                  "gloss": "Abram A man living at the time of the Patriarchs, first mentioned at Gen.11.26; <br> son of: Terah (H8646); <br> brother of: Nahor (H5152H), Haran (H2039) and Sarah (H8283); married to Sarah (H8283), Hagar (H1904) and Keturah (H6989); <br> father of: Ishmael (H3458), Isaac (H3327), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); also called Abram at Gen.11.26--17.5; 2x<BR>Another name of <i>av.ra.ham</i> (אַבְרָהָם \"Abraham\" H0085) <BR> § Abram = \"exalted father\"<br> original name of Abraham<br>",
+                  "raw": "H0087\tH0087 = a Name of\tH0085\tאַבְרָם\tav.ram\tN:N-M-P\tAbram\tA man living at the time of the Patriarchs, first mentioned at Gen.11.26; <br> son of: Terah (H8646); <br> brother of: Nahor (H5152H), Haran (H2039) and Sarah (H8283); married to Sarah (H8283), Hagar (H1904) and Keturah (H6989); <br> father of: Ishmael (H3458), Isaac (H3327), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); also called Abram at Gen.11.26--17.5; 2x<BR>Another name of <i>av.ra.ham</i> (אַבְרָהָם \"Abraham\" H0085) <BR> § Abram = \"exalted father\"<br> original name of Abraham<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L אַבְרָֽם\\׃ 'av.Ram Abram {H0087}\\H9016 HNpm H0087 {H0087=אַבְרָם=Abram»Abraham@Gen.11.26-1Pe}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 24,
           "text": "Nothing besides what the servants have eaten and the share of the men who went out with me will I take. Let Aner, Eshcol, and Mamre take their share.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "חֶלְקָֽ/ם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "chel.Ka/m",
+                "wordIndex": 3
+              },
+              {
+                "text": "share/",
+                "wordIndex": 4
+              },
+              {
+                "text": "their",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H2506A}/H9028\\H9016\\",
+                "wordIndex": 6
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3mp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2506A_B",
+                "wordIndex": 9
+              },
+              {
+                "text": "{H2506A=חֵ֫לֶק=portion}/H9028=Pp3m=their\\H9016=׃=verseEnd\\",
+                "wordIndex": 10
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L חֶלְקָֽ/ם\\׃\\ \\ס chel.Ka/m share/ their {H2506A}/H9028\\H9016\\ \\H9018 HNcmsc/Sp3mp H2506A_B {H2506A=חֵ֫לֶק=portion}/H9028=Pp3m=their\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 15,
           "verse": 1,
           "text": "After these things the word of Yahweh came to Abram in a vision, saying: “Do not be afraid, Abram; I am your shield, and your reward shall be very great.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מְאֹֽד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "me.'Od",
+                "wordIndex": 2
+              },
+              {
+                "text": "very",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3966}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3966",
+                  "lemma": "מְאֹד",
+                  "translit": "me.od",
+                  "morph": "H:A",
+                  "gloss": "much adv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness",
+                  "raw": "H3966\tH3966 =\tH3966\tמְאֹד\tme.od\tH:A\tmuch\tadv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness"
+                }
+              },
+              {
+                "text": "HAcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3966",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3966",
+                  "lemma": "מְאֹד",
+                  "translit": "me.od",
+                  "morph": "H:A",
+                  "gloss": "much adv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness",
+                  "raw": "H3966\tH3966 =\tH3966\tמְאֹד\tme.od\tH:A\tmuch\tadv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness"
+                }
+              },
+              {
+                "text": "{H3966=מְאֹד=much}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3966",
+                  "lemma": "מְאֹד",
+                  "translit": "me.od",
+                  "morph": "H:A",
+                  "gloss": "much adv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness",
+                  "raw": "H3966\tH3966 =\tH3966\tמְאֹד\tme.od\tH:A\tmuch\tadv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L מְאֹֽד\\׃ me.'Od very {H3966}\\H9016 HAcmsa H3966 {H3966=מְאֹד=much}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 15,
           "verse": 2,
           "text": "Then Abram said, “O Yahweh, my Lord, what will you give me? I continue to be childless, and my heir is Eliezer of Damascus.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֱלִיעֶֽזֶר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.li.'E.zer",
+                "wordIndex": 2
+              },
+              {
+                "text": "Eliezer",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0461G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0461",
+                  "lemma": "אֱלִיעֶ֫זֶר",
+                  "translit": "e.li.e.zer",
+                  "morph": "N:N-M-P",
+                  "gloss": "Eliezer A man living at the time of Exile and Return, only mentioned at Ezr.10.31<BR> § Eliezer = \"God is help\"<br>1) Abraham's Damascene servant<br>2) a son of Moses<br>3) a Benjamite<br>4) a priest who helped move the ark<br>5) a Reubenite<br>6) a prophet who spoke to Jehoshaphat<br>7) a Levite chief<br>8) son of Harim<br>9) priest with foreign wife",
+                  "raw": "H0461\tH0461P =\tH0461P\tאֱלִיעֶ֫זֶר\te.li.e.zer\tN:N-M-P\tEliezer\tA man living at the time of Exile and Return, only mentioned at Ezr.10.31<BR> § Eliezer = \"God is help\"<br>1) Abraham's Damascene servant<br>2) a son of Moses<br>3) a Benjamite<br>4) a priest who helped move the ark<br>5) a Reubenite<br>6) a prophet who spoke to Jehoshaphat<br>7) a Levite chief<br>8) son of Harim<br>9) priest with foreign wife"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0461G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0461",
+                  "lemma": "אֱלִיעֶ֫זֶר",
+                  "translit": "e.li.e.zer",
+                  "morph": "N:N-M-P",
+                  "gloss": "Eliezer A man living at the time of Exile and Return, only mentioned at Ezr.10.31<BR> § Eliezer = \"God is help\"<br>1) Abraham's Damascene servant<br>2) a son of Moses<br>3) a Benjamite<br>4) a priest who helped move the ark<br>5) a Reubenite<br>6) a prophet who spoke to Jehoshaphat<br>7) a Levite chief<br>8) son of Harim<br>9) priest with foreign wife",
+                  "raw": "H0461\tH0461P =\tH0461P\tאֱלִיעֶ֫זֶר\te.li.e.zer\tN:N-M-P\tEliezer\tA man living at the time of Exile and Return, only mentioned at Ezr.10.31<BR> § Eliezer = \"God is help\"<br>1) Abraham's Damascene servant<br>2) a son of Moses<br>3) a Benjamite<br>4) a priest who helped move the ark<br>5) a Reubenite<br>6) a prophet who spoke to Jehoshaphat<br>7) a Levite chief<br>8) son of Harim<br>9) priest with foreign wife"
+                }
+              },
+              {
+                "text": "{H0461G=אֱלִיעֶ֫זֶר=Eliezer»Eliezer@Gen.15.2}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0461",
+                  "lemma": "אֱלִיעֶ֫זֶר",
+                  "translit": "e.li.e.zer",
+                  "morph": "N:N-M-P",
+                  "gloss": "Eliezer A man living at the time of Exile and Return, only mentioned at Ezr.10.31<BR> § Eliezer = \"God is help\"<br>1) Abraham's Damascene servant<br>2) a son of Moses<br>3) a Benjamite<br>4) a priest who helped move the ark<br>5) a Reubenite<br>6) a prophet who spoke to Jehoshaphat<br>7) a Levite chief<br>8) son of Harim<br>9) priest with foreign wife",
+                  "raw": "H0461\tH0461P =\tH0461P\tאֱלִיעֶ֫זֶר\te.li.e.zer\tN:N-M-P\tEliezer\tA man living at the time of Exile and Return, only mentioned at Ezr.10.31<BR> § Eliezer = \"God is help\"<br>1) Abraham's Damascene servant<br>2) a son of Moses<br>3) a Benjamite<br>4) a priest who helped move the ark<br>5) a Reubenite<br>6) a prophet who spoke to Jehoshaphat<br>7) a Levite chief<br>8) son of Harim<br>9) priest with foreign wife"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L אֱלִיעֶֽזֶר\\׃ 'e.li.'E.zer Eliezer {H0461G}\\H9016 HNpm H0461G {H0461G=אֱלִיעֶ֫זֶר=Eliezer»Eliezer@Gen.15.2}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 15,
           "verse": 3,
           "text": "And Abram said, “Look, you have not given me a descendant, and here, a member of my household is my heir.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֹתִֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'o.T/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "<obj.>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "me",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0853}/H9030\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              },
+              {
+                "text": "HTo/Sp1bs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0853",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              },
+              {
+                "text": "{H0853=אֵת=[Obj.]}/H9030=Os1c=me\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L אֹתִֽ/י\\׃ 'o.T/i <obj.>/ me {H0853}/H9030\\H9016 HTo/Sp1bs H0853 {H0853=אֵת=[Obj.]}/H9030=Os1c=me\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 15,
           "verse": 4,
           "text": "And behold, the word of Yahweh came to him saying, “This person will not be your heir, but your own son will be your heir.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִֽירָשֶֽׁ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yi.ra.She./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "inherit/",
+                "wordIndex": 5
+              },
+              {
+                "text": "you",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H3423G}/H9031\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3423",
+                  "lemma": "יָרַשׁ",
+                  "translit": "ya.rash",
+                  "morph": "H:V",
+                  "gloss": "to possess: poor : poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit",
+                  "raw": "H3423\tH3423I = a Meaning of\tH3423G\tיָרַשׁ\tya.rash\tH:V\tto possess: poor\t: poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit"
+                }
+              },
+              {
+                "text": "HVqi3ms/Sp2ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H3423G_B",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3423",
+                  "lemma": "יָרַשׁ",
+                  "translit": "ya.rash",
+                  "morph": "H:V",
+                  "gloss": "to possess: poor : poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit",
+                  "raw": "H3423\tH3423I = a Meaning of\tH3423G\tיָרַשׁ\tya.rash\tH:V\tto possess: poor\t: poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit"
+                }
+              },
+              {
+                "text": "{H3423G=יָרַשׁ=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H3423",
+                  "lemma": "יָרַשׁ",
+                  "translit": "ya.rash",
+                  "morph": "H:V",
+                  "gloss": "to possess: poor : poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit",
+                  "raw": "H3423\tH3423I = a Meaning of\tH3423G\tיָרַשׁ\tya.rash\tH:V\tto possess: poor\t: poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit"
+                }
+              },
+              {
+                "text": "possess»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "possess:1_possess;_inherit}/H9031=Os2m=you\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9031",
+                  "lemma": "ךָּ",
+                  "translit": "ka",
+                  "morph": "Os2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine singular",
+                  "raw": "H9031\tH9031 =\tH9031\tךָּ\tka\tOs2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L יִֽירָשֶֽׁ/ךָ\\׃ Yi.ra.She./kha he will inherit/ you {H3423G}/H9031\\H9016 HVqi3ms/Sp2ms H3423G_B {H3423G=יָרַשׁ=: possess»to possess:1_possess;_inherit}/H9031=Os2m=you\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 15,
           "verse": 5,
           "text": "And he brought him outside and said, “Look toward the heavens and count the stars if you are able to count them.” And he said to him, “So shall your offspring be.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "זַרְעֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "zar.'E./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "offspring/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H2233H}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H2233",
+                  "lemma": "זֶ֫רַע",
+                  "translit": "ze.ra",
+                  "morph": "H:N-M",
+                  "gloss": "seed: semen : semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)",
+                  "raw": "H2233\tH2233I = a Meaning of\tH2233G\tזֶ֫רַע\tze.ra\tH:N-M\tseed: semen\t: semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2233H",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2233",
+                  "lemma": "זֶ֫רַע",
+                  "translit": "ze.ra",
+                  "morph": "H:N-M",
+                  "gloss": "seed: semen : semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)",
+                  "raw": "H2233\tH2233I = a Meaning of\tH2233G\tזֶ֫רַע\tze.ra\tH:N-M\tseed: semen\t: semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)"
+                }
+              },
+              {
+                "text": "{H2233H=זֶ֫רַע=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H2233",
+                  "lemma": "זֶ֫רַע",
+                  "translit": "ze.ra",
+                  "morph": "H:N-M",
+                  "gloss": "seed: semen : semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)",
+                  "raw": "H2233\tH2233I = a Meaning of\tH2233G\tזֶ֫רַע\tze.ra\tH:N-M\tseed: semen\t: semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)"
+                }
+              },
+              {
+                "text": "children»seed:2_children;_descendants}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L זַרְעֶֽ/ךָ\\׃ zar.'E./kha offspring/ your {H2233H}/H9021\\H9016 HNcmsc/Sp2ms H2233H {H2233H=זֶ֫רַע=: children»seed:2_children;_descendants}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 15,
           "verse": 6,
           "text": "And he believed in Yahweh, and he reckoned it to him as righteousness.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צְדָקָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tze.da.Kah",
+                "wordIndex": 2
+              },
+              {
+                "text": "righteousness",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6666}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6666",
+                  "lemma": "צְדָקָה",
+                  "translit": "tse.da.qah",
+                  "morph": "H:N-F",
+                  "gloss": "righteousness 1) justice, righteousness<br>1a) righteousness (in government)<br>1a1) of judge, ruler, king<br>1a2) of law<br>1a3) of Davidic king Messiah<br>1b) righteousness (of God's attribute)<br>1c) righteousness (in a case or cause)<br>1d) righteousness, truthfulness<br>1e) righteousness (as ethically right)<br>1f) righteousness (as vindicated), justification, salvation<br>1f1) of God<br>1f2) prosperity (of people)<br>1g) righteous acts<BR>Aramaic equivalent: <i>tsid.qah</i> (צִדְקָה \"righteousness\" H6665)",
+                  "raw": "H6666\tH6666 =\tH6666\tצְדָקָה\ttse.da.qah\tH:N-F\trighteousness\t1) justice, righteousness<br>1a) righteousness (in government)<br>1a1) of judge, ruler, king<br>1a2) of law<br>1a3) of Davidic king Messiah<br>1b) righteousness (of God's attribute)<br>1c) righteousness (in a case or cause)<br>1d) righteousness, truthfulness<br>1e) righteousness (as ethically right)<br>1f) righteousness (as vindicated), justification, salvation<br>1f1) of God<br>1f2) prosperity (of people)<br>1g) righteous acts<BR>Aramaic equivalent: <i>tsid.qah</i> (צִדְקָה \"righteousness\" H6665)"
+                }
+              },
+              {
+                "text": "HNcfsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6666",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6666",
+                  "lemma": "צְדָקָה",
+                  "translit": "tse.da.qah",
+                  "morph": "H:N-F",
+                  "gloss": "righteousness 1) justice, righteousness<br>1a) righteousness (in government)<br>1a1) of judge, ruler, king<br>1a2) of law<br>1a3) of Davidic king Messiah<br>1b) righteousness (of God's attribute)<br>1c) righteousness (in a case or cause)<br>1d) righteousness, truthfulness<br>1e) righteousness (as ethically right)<br>1f) righteousness (as vindicated), justification, salvation<br>1f1) of God<br>1f2) prosperity (of people)<br>1g) righteous acts<BR>Aramaic equivalent: <i>tsid.qah</i> (צִדְקָה \"righteousness\" H6665)",
+                  "raw": "H6666\tH6666 =\tH6666\tצְדָקָה\ttse.da.qah\tH:N-F\trighteousness\t1) justice, righteousness<br>1a) righteousness (in government)<br>1a1) of judge, ruler, king<br>1a2) of law<br>1a3) of Davidic king Messiah<br>1b) righteousness (of God's attribute)<br>1c) righteousness (in a case or cause)<br>1d) righteousness, truthfulness<br>1e) righteousness (as ethically right)<br>1f) righteousness (as vindicated), justification, salvation<br>1f1) of God<br>1f2) prosperity (of people)<br>1g) righteous acts<BR>Aramaic equivalent: <i>tsid.qah</i> (צִדְקָה \"righteousness\" H6665)"
+                }
+              },
+              {
+                "text": "{H6666=צְדָקָה=righteousness}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6666",
+                  "lemma": "צְדָקָה",
+                  "translit": "tse.da.qah",
+                  "morph": "H:N-F",
+                  "gloss": "righteousness 1) justice, righteousness<br>1a) righteousness (in government)<br>1a1) of judge, ruler, king<br>1a2) of law<br>1a3) of Davidic king Messiah<br>1b) righteousness (of God's attribute)<br>1c) righteousness (in a case or cause)<br>1d) righteousness, truthfulness<br>1e) righteousness (as ethically right)<br>1f) righteousness (as vindicated), justification, salvation<br>1f1) of God<br>1f2) prosperity (of people)<br>1g) righteous acts<BR>Aramaic equivalent: <i>tsid.qah</i> (צִדְקָה \"righteousness\" H6665)",
+                  "raw": "H6666\tH6666 =\tH6666\tצְדָקָה\ttse.da.qah\tH:N-F\trighteousness\t1) justice, righteousness<br>1a) righteousness (in government)<br>1a1) of judge, ruler, king<br>1a2) of law<br>1a3) of Davidic king Messiah<br>1b) righteousness (of God's attribute)<br>1c) righteousness (in a case or cause)<br>1d) righteousness, truthfulness<br>1e) righteousness (as ethically right)<br>1f) righteousness (as vindicated), justification, salvation<br>1f1) of God<br>1f2) prosperity (of people)<br>1g) righteous acts<BR>Aramaic equivalent: <i>tsid.qah</i> (צִדְקָה \"righteousness\" H6665)"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L צְדָקָֽה\\׃ tze.da.Kah righteousness {H6666}\\H9016 HNcfsa H6666 {H6666=צְדָקָה=righteousness}\\H9016=׃=verseEnd"
+          }
         }
       ],
       "nirv": [
@@ -69,61 +759,751 @@
           "chapter": 14,
           "verse": 21,
           "text": "The king of Sodom said to Abram, “Give me the people. Keep everything else for yourself.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָֽ/ךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La/kh",
+                "wordIndex": 2
+              },
+              {
+                "text": "for",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "yourself",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9032}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9032",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9032",
+                  "lemma": "ךְ",
+                  "translit": "kh",
+                  "morph": "Os2f",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person feminine singular",
+                  "raw": "H9032\tH9032 =\tH9032\tךְ\tkh\tOs2f\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person feminine singular"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9032=Os2f=you}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#11=L לָֽ/ךְ\\׃ La/kh for <the>/ yourself H9005/{H9032}\\H9016 HRd/Sp2ms H9032 H9005=ל=to/{H9032=Os2f=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 22,
           "text": "But Abram said to the king of Sodom, “I have raised my hand to the Lord. He is God Most High. He is the Creator of heaven and earth. I have taken an oath.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וָ/אָֽרֶץ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./'A.retz",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "earth",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9002/{H0776G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L וָ/אָֽרֶץ\\׃ va./'A.retz and/ earth H9002/{H0776G}\\H9016 HC/Ncfsa H0776G H9002=ו=and/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 23,
           "text": "I have said that I won’t accept anything that belongs to you. I won’t take even a thread or the strap of a sandal. You will never be able to say, ‘I made Abram rich.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אַבְרָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'av.Ram",
+                "wordIndex": 2
+              },
+              {
+                "text": "Abram",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0087}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0087",
+                  "lemma": "אַבְרָם",
+                  "translit": "av.ram",
+                  "morph": "N:N-M-P",
+                  "gloss": "Abram A man living at the time of the Patriarchs, first mentioned at Gen.11.26; <br> son of: Terah (H8646); <br> brother of: Nahor (H5152H), Haran (H2039) and Sarah (H8283); married to Sarah (H8283), Hagar (H1904) and Keturah (H6989); <br> father of: Ishmael (H3458), Isaac (H3327), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); also called Abram at Gen.11.26--17.5; 2x<BR>Another name of <i>av.ra.ham</i> (אַבְרָהָם \"Abraham\" H0085) <BR> § Abram = \"exalted father\"<br> original name of Abraham<br>",
+                  "raw": "H0087\tH0087 = a Name of\tH0085\tאַבְרָם\tav.ram\tN:N-M-P\tAbram\tA man living at the time of the Patriarchs, first mentioned at Gen.11.26; <br> son of: Terah (H8646); <br> brother of: Nahor (H5152H), Haran (H2039) and Sarah (H8283); married to Sarah (H8283), Hagar (H1904) and Keturah (H6989); <br> father of: Ishmael (H3458), Isaac (H3327), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); also called Abram at Gen.11.26--17.5; 2x<BR>Another name of <i>av.ra.ham</i> (אַבְרָהָם \"Abraham\" H0085) <BR> § Abram = \"exalted father\"<br> original name of Abraham<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0087",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0087",
+                  "lemma": "אַבְרָם",
+                  "translit": "av.ram",
+                  "morph": "N:N-M-P",
+                  "gloss": "Abram A man living at the time of the Patriarchs, first mentioned at Gen.11.26; <br> son of: Terah (H8646); <br> brother of: Nahor (H5152H), Haran (H2039) and Sarah (H8283); married to Sarah (H8283), Hagar (H1904) and Keturah (H6989); <br> father of: Ishmael (H3458), Isaac (H3327), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); also called Abram at Gen.11.26--17.5; 2x<BR>Another name of <i>av.ra.ham</i> (אַבְרָהָם \"Abraham\" H0085) <BR> § Abram = \"exalted father\"<br> original name of Abraham<br>",
+                  "raw": "H0087\tH0087 = a Name of\tH0085\tאַבְרָם\tav.ram\tN:N-M-P\tAbram\tA man living at the time of the Patriarchs, first mentioned at Gen.11.26; <br> son of: Terah (H8646); <br> brother of: Nahor (H5152H), Haran (H2039) and Sarah (H8283); married to Sarah (H8283), Hagar (H1904) and Keturah (H6989); <br> father of: Ishmael (H3458), Isaac (H3327), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); also called Abram at Gen.11.26--17.5; 2x<BR>Another name of <i>av.ra.ham</i> (אַבְרָהָם \"Abraham\" H0085) <BR> § Abram = \"exalted father\"<br> original name of Abraham<br>"
+                }
+              },
+              {
+                "text": "{H0087=אַבְרָם=Abram»Abraham@Gen.11.26-1Pe}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0087",
+                  "lemma": "אַבְרָם",
+                  "translit": "av.ram",
+                  "morph": "N:N-M-P",
+                  "gloss": "Abram A man living at the time of the Patriarchs, first mentioned at Gen.11.26; <br> son of: Terah (H8646); <br> brother of: Nahor (H5152H), Haran (H2039) and Sarah (H8283); married to Sarah (H8283), Hagar (H1904) and Keturah (H6989); <br> father of: Ishmael (H3458), Isaac (H3327), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); also called Abram at Gen.11.26--17.5; 2x<BR>Another name of <i>av.ra.ham</i> (אַבְרָהָם \"Abraham\" H0085) <BR> § Abram = \"exalted father\"<br> original name of Abraham<br>",
+                  "raw": "H0087\tH0087 = a Name of\tH0085\tאַבְרָם\tav.ram\tN:N-M-P\tAbram\tA man living at the time of the Patriarchs, first mentioned at Gen.11.26; <br> son of: Terah (H8646); <br> brother of: Nahor (H5152H), Haran (H2039) and Sarah (H8283); married to Sarah (H8283), Hagar (H1904) and Keturah (H6989); <br> father of: Ishmael (H3458), Isaac (H3327), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); also called Abram at Gen.11.26--17.5; 2x<BR>Another name of <i>av.ra.ham</i> (אַבְרָהָם \"Abraham\" H0085) <BR> § Abram = \"exalted father\"<br> original name of Abraham<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L אַבְרָֽם\\׃ 'av.Ram Abram {H0087}\\H9016 HNpm H0087 {H0087=אַבְרָם=Abram»Abraham@Gen.11.26-1Pe}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 24,
           "text": "“I’ll accept only what my men have eaten and what belongs to Aner, Eshcol and Mamre. Those three men went with me. Let them have their share.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "חֶלְקָֽ/ם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "chel.Ka/m",
+                "wordIndex": 3
+              },
+              {
+                "text": "share/",
+                "wordIndex": 4
+              },
+              {
+                "text": "their",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H2506A}/H9028\\H9016\\",
+                "wordIndex": 6
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3mp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2506A_B",
+                "wordIndex": 9
+              },
+              {
+                "text": "{H2506A=חֵ֫לֶק=portion}/H9028=Pp3m=their\\H9016=׃=verseEnd\\",
+                "wordIndex": 10
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L חֶלְקָֽ/ם\\׃\\ \\ס chel.Ka/m share/ their {H2506A}/H9028\\H9016\\ \\H9018 HNcmsc/Sp3mp H2506A_B {H2506A=חֵ֫לֶק=portion}/H9028=Pp3m=their\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 15,
           "verse": 1,
           "text": "Some time later, Abram had a vision. The Lord said to him,\n“Abram, do not be afraid.\nI am like a shield to you.\nI am your very great reward.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מְאֹֽד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "me.'Od",
+                "wordIndex": 2
+              },
+              {
+                "text": "very",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3966}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3966",
+                  "lemma": "מְאֹד",
+                  "translit": "me.od",
+                  "morph": "H:A",
+                  "gloss": "much adv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness",
+                  "raw": "H3966\tH3966 =\tH3966\tמְאֹד\tme.od\tH:A\tmuch\tadv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness"
+                }
+              },
+              {
+                "text": "HAcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3966",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3966",
+                  "lemma": "מְאֹד",
+                  "translit": "me.od",
+                  "morph": "H:A",
+                  "gloss": "much adv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness",
+                  "raw": "H3966\tH3966 =\tH3966\tמְאֹד\tme.od\tH:A\tmuch\tadv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness"
+                }
+              },
+              {
+                "text": "{H3966=מְאֹד=much}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3966",
+                  "lemma": "מְאֹד",
+                  "translit": "me.od",
+                  "morph": "H:A",
+                  "gloss": "much adv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness",
+                  "raw": "H3966\tH3966 =\tH3966\tמְאֹד\tme.od\tH:A\tmuch\tadv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L מְאֹֽד\\׃ me.'Od very {H3966}\\H9016 HAcmsa H3966 {H3966=מְאֹד=much}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 15,
           "verse": 2,
           "text": "But Abram said, “Lord and King, what can you give me? I still don’t have any children. My servant Eliezer comes from Damascus. When I die, he will get everything I own.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֱלִיעֶֽזֶר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.li.'E.zer",
+                "wordIndex": 2
+              },
+              {
+                "text": "Eliezer",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0461G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0461",
+                  "lemma": "אֱלִיעֶ֫זֶר",
+                  "translit": "e.li.e.zer",
+                  "morph": "N:N-M-P",
+                  "gloss": "Eliezer A man living at the time of Exile and Return, only mentioned at Ezr.10.31<BR> § Eliezer = \"God is help\"<br>1) Abraham's Damascene servant<br>2) a son of Moses<br>3) a Benjamite<br>4) a priest who helped move the ark<br>5) a Reubenite<br>6) a prophet who spoke to Jehoshaphat<br>7) a Levite chief<br>8) son of Harim<br>9) priest with foreign wife",
+                  "raw": "H0461\tH0461P =\tH0461P\tאֱלִיעֶ֫זֶר\te.li.e.zer\tN:N-M-P\tEliezer\tA man living at the time of Exile and Return, only mentioned at Ezr.10.31<BR> § Eliezer = \"God is help\"<br>1) Abraham's Damascene servant<br>2) a son of Moses<br>3) a Benjamite<br>4) a priest who helped move the ark<br>5) a Reubenite<br>6) a prophet who spoke to Jehoshaphat<br>7) a Levite chief<br>8) son of Harim<br>9) priest with foreign wife"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0461G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0461",
+                  "lemma": "אֱלִיעֶ֫זֶר",
+                  "translit": "e.li.e.zer",
+                  "morph": "N:N-M-P",
+                  "gloss": "Eliezer A man living at the time of Exile and Return, only mentioned at Ezr.10.31<BR> § Eliezer = \"God is help\"<br>1) Abraham's Damascene servant<br>2) a son of Moses<br>3) a Benjamite<br>4) a priest who helped move the ark<br>5) a Reubenite<br>6) a prophet who spoke to Jehoshaphat<br>7) a Levite chief<br>8) son of Harim<br>9) priest with foreign wife",
+                  "raw": "H0461\tH0461P =\tH0461P\tאֱלִיעֶ֫זֶר\te.li.e.zer\tN:N-M-P\tEliezer\tA man living at the time of Exile and Return, only mentioned at Ezr.10.31<BR> § Eliezer = \"God is help\"<br>1) Abraham's Damascene servant<br>2) a son of Moses<br>3) a Benjamite<br>4) a priest who helped move the ark<br>5) a Reubenite<br>6) a prophet who spoke to Jehoshaphat<br>7) a Levite chief<br>8) son of Harim<br>9) priest with foreign wife"
+                }
+              },
+              {
+                "text": "{H0461G=אֱלִיעֶ֫זֶר=Eliezer»Eliezer@Gen.15.2}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0461",
+                  "lemma": "אֱלִיעֶ֫זֶר",
+                  "translit": "e.li.e.zer",
+                  "morph": "N:N-M-P",
+                  "gloss": "Eliezer A man living at the time of Exile and Return, only mentioned at Ezr.10.31<BR> § Eliezer = \"God is help\"<br>1) Abraham's Damascene servant<br>2) a son of Moses<br>3) a Benjamite<br>4) a priest who helped move the ark<br>5) a Reubenite<br>6) a prophet who spoke to Jehoshaphat<br>7) a Levite chief<br>8) son of Harim<br>9) priest with foreign wife",
+                  "raw": "H0461\tH0461P =\tH0461P\tאֱלִיעֶ֫זֶר\te.li.e.zer\tN:N-M-P\tEliezer\tA man living at the time of Exile and Return, only mentioned at Ezr.10.31<BR> § Eliezer = \"God is help\"<br>1) Abraham's Damascene servant<br>2) a son of Moses<br>3) a Benjamite<br>4) a priest who helped move the ark<br>5) a Reubenite<br>6) a prophet who spoke to Jehoshaphat<br>7) a Levite chief<br>8) son of Harim<br>9) priest with foreign wife"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L אֱלִיעֶֽזֶר\\׃ 'e.li.'E.zer Eliezer {H0461G}\\H9016 HNpm H0461G {H0461G=אֱלִיעֶ֫זֶר=Eliezer»Eliezer@Gen.15.2}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 15,
           "verse": 3,
           "text": "Abram continued, “You haven’t given me any children. So a servant in my house will get everything I own.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֹתִֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'o.T/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "<obj.>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "me",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0853}/H9030\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              },
+              {
+                "text": "HTo/Sp1bs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0853",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              },
+              {
+                "text": "{H0853=אֵת=[Obj.]}/H9030=Os1c=me\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L אֹתִֽ/י\\׃ 'o.T/i <obj.>/ me {H0853}/H9030\\H9016 HTo/Sp1bs H0853 {H0853=אֵת=[Obj.]}/H9030=Os1c=me\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 15,
           "verse": 4,
           "text": "Then a message came to Abram from the Lord. He said, “This man will not get what belongs to you. A son will come from your own body. He will get everything you own.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִֽירָשֶֽׁ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yi.ra.She./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "inherit/",
+                "wordIndex": 5
+              },
+              {
+                "text": "you",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H3423G}/H9031\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3423",
+                  "lemma": "יָרַשׁ",
+                  "translit": "ya.rash",
+                  "morph": "H:V",
+                  "gloss": "to possess: poor : poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit",
+                  "raw": "H3423\tH3423I = a Meaning of\tH3423G\tיָרַשׁ\tya.rash\tH:V\tto possess: poor\t: poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit"
+                }
+              },
+              {
+                "text": "HVqi3ms/Sp2ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H3423G_B",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3423",
+                  "lemma": "יָרַשׁ",
+                  "translit": "ya.rash",
+                  "morph": "H:V",
+                  "gloss": "to possess: poor : poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit",
+                  "raw": "H3423\tH3423I = a Meaning of\tH3423G\tיָרַשׁ\tya.rash\tH:V\tto possess: poor\t: poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit"
+                }
+              },
+              {
+                "text": "{H3423G=יָרַשׁ=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H3423",
+                  "lemma": "יָרַשׁ",
+                  "translit": "ya.rash",
+                  "morph": "H:V",
+                  "gloss": "to possess: poor : poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit",
+                  "raw": "H3423\tH3423I = a Meaning of\tH3423G\tיָרַשׁ\tya.rash\tH:V\tto possess: poor\t: poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit"
+                }
+              },
+              {
+                "text": "possess»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "possess:1_possess;_inherit}/H9031=Os2m=you\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9031",
+                  "lemma": "ךָּ",
+                  "translit": "ka",
+                  "morph": "Os2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine singular",
+                  "raw": "H9031\tH9031 =\tH9031\tךָּ\tka\tOs2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L יִֽירָשֶֽׁ/ךָ\\׃ Yi.ra.She./kha he will inherit/ you {H3423G}/H9031\\H9016 HVqi3ms/Sp2ms H3423G_B {H3423G=יָרַשׁ=: possess»to possess:1_possess;_inherit}/H9031=Os2m=you\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 15,
           "verse": 5,
           "text": "The Lord took Abram outside and said, “Look up at the sky. Count the stars, if you can.” Then he said to him, “That is how many children you will have.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "זַרְעֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "zar.'E./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "offspring/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H2233H}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H2233",
+                  "lemma": "זֶ֫רַע",
+                  "translit": "ze.ra",
+                  "morph": "H:N-M",
+                  "gloss": "seed: semen : semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)",
+                  "raw": "H2233\tH2233I = a Meaning of\tH2233G\tזֶ֫רַע\tze.ra\tH:N-M\tseed: semen\t: semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2233H",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2233",
+                  "lemma": "זֶ֫רַע",
+                  "translit": "ze.ra",
+                  "morph": "H:N-M",
+                  "gloss": "seed: semen : semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)",
+                  "raw": "H2233\tH2233I = a Meaning of\tH2233G\tזֶ֫רַע\tze.ra\tH:N-M\tseed: semen\t: semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)"
+                }
+              },
+              {
+                "text": "{H2233H=זֶ֫רַע=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H2233",
+                  "lemma": "זֶ֫רַע",
+                  "translit": "ze.ra",
+                  "morph": "H:N-M",
+                  "gloss": "seed: semen : semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)",
+                  "raw": "H2233\tH2233I = a Meaning of\tH2233G\tזֶ֫רַע\tze.ra\tH:N-M\tseed: semen\t: semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)"
+                }
+              },
+              {
+                "text": "children»seed:2_children;_descendants}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L זַרְעֶֽ/ךָ\\׃ zar.'E./kha offspring/ your {H2233H}/H9021\\H9016 HNcmsc/Sp2ms H2233H {H2233H=זֶ֫רַע=: children»seed:2_children;_descendants}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 15,
           "verse": 6,
           "text": "Abram believed the Lord. The Lord accepted Abram because he believed. So his faith made him right with the Lord.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צְדָקָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tze.da.Kah",
+                "wordIndex": 2
+              },
+              {
+                "text": "righteousness",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6666}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6666",
+                  "lemma": "צְדָקָה",
+                  "translit": "tse.da.qah",
+                  "morph": "H:N-F",
+                  "gloss": "righteousness 1) justice, righteousness<br>1a) righteousness (in government)<br>1a1) of judge, ruler, king<br>1a2) of law<br>1a3) of Davidic king Messiah<br>1b) righteousness (of God's attribute)<br>1c) righteousness (in a case or cause)<br>1d) righteousness, truthfulness<br>1e) righteousness (as ethically right)<br>1f) righteousness (as vindicated), justification, salvation<br>1f1) of God<br>1f2) prosperity (of people)<br>1g) righteous acts<BR>Aramaic equivalent: <i>tsid.qah</i> (צִדְקָה \"righteousness\" H6665)",
+                  "raw": "H6666\tH6666 =\tH6666\tצְדָקָה\ttse.da.qah\tH:N-F\trighteousness\t1) justice, righteousness<br>1a) righteousness (in government)<br>1a1) of judge, ruler, king<br>1a2) of law<br>1a3) of Davidic king Messiah<br>1b) righteousness (of God's attribute)<br>1c) righteousness (in a case or cause)<br>1d) righteousness, truthfulness<br>1e) righteousness (as ethically right)<br>1f) righteousness (as vindicated), justification, salvation<br>1f1) of God<br>1f2) prosperity (of people)<br>1g) righteous acts<BR>Aramaic equivalent: <i>tsid.qah</i> (צִדְקָה \"righteousness\" H6665)"
+                }
+              },
+              {
+                "text": "HNcfsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6666",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6666",
+                  "lemma": "צְדָקָה",
+                  "translit": "tse.da.qah",
+                  "morph": "H:N-F",
+                  "gloss": "righteousness 1) justice, righteousness<br>1a) righteousness (in government)<br>1a1) of judge, ruler, king<br>1a2) of law<br>1a3) of Davidic king Messiah<br>1b) righteousness (of God's attribute)<br>1c) righteousness (in a case or cause)<br>1d) righteousness, truthfulness<br>1e) righteousness (as ethically right)<br>1f) righteousness (as vindicated), justification, salvation<br>1f1) of God<br>1f2) prosperity (of people)<br>1g) righteous acts<BR>Aramaic equivalent: <i>tsid.qah</i> (צִדְקָה \"righteousness\" H6665)",
+                  "raw": "H6666\tH6666 =\tH6666\tצְדָקָה\ttse.da.qah\tH:N-F\trighteousness\t1) justice, righteousness<br>1a) righteousness (in government)<br>1a1) of judge, ruler, king<br>1a2) of law<br>1a3) of Davidic king Messiah<br>1b) righteousness (of God's attribute)<br>1c) righteousness (in a case or cause)<br>1d) righteousness, truthfulness<br>1e) righteousness (as ethically right)<br>1f) righteousness (as vindicated), justification, salvation<br>1f1) of God<br>1f2) prosperity (of people)<br>1g) righteous acts<BR>Aramaic equivalent: <i>tsid.qah</i> (צִדְקָה \"righteousness\" H6665)"
+                }
+              },
+              {
+                "text": "{H6666=צְדָקָה=righteousness}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6666",
+                  "lemma": "צְדָקָה",
+                  "translit": "tse.da.qah",
+                  "morph": "H:N-F",
+                  "gloss": "righteousness 1) justice, righteousness<br>1a) righteousness (in government)<br>1a1) of judge, ruler, king<br>1a2) of law<br>1a3) of Davidic king Messiah<br>1b) righteousness (of God's attribute)<br>1c) righteousness (in a case or cause)<br>1d) righteousness, truthfulness<br>1e) righteousness (as ethically right)<br>1f) righteousness (as vindicated), justification, salvation<br>1f1) of God<br>1f2) prosperity (of people)<br>1g) righteous acts<BR>Aramaic equivalent: <i>tsid.qah</i> (צִדְקָה \"righteousness\" H6665)",
+                  "raw": "H6666\tH6666 =\tH6666\tצְדָקָה\ttse.da.qah\tH:N-F\trighteousness\t1) justice, righteousness<br>1a) righteousness (in government)<br>1a1) of judge, ruler, king<br>1a2) of law<br>1a3) of Davidic king Messiah<br>1b) righteousness (of God's attribute)<br>1c) righteousness (in a case or cause)<br>1d) righteousness, truthfulness<br>1e) righteousness (as ethically right)<br>1f) righteousness (as vindicated), justification, salvation<br>1f1) of God<br>1f2) prosperity (of people)<br>1g) righteous acts<BR>Aramaic equivalent: <i>tsid.qah</i> (צִדְקָה \"righteousness\" H6665)"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L צְדָקָֽה\\׃ tze.da.Kah righteousness {H6666}\\H9016 HNcfsa H6666 {H6666=צְדָקָה=righteousness}\\H9016=׃=verseEnd"
+          }
         }
       ]
     }

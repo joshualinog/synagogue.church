@@ -7,85 +7,995 @@
           "chapter": 41,
           "verse": 1,
           "text": "And it happened that after two full years Pharaoh dreamed, and behold, he was standing by the Nile.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יְאֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha/y.'Or",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "River",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2975G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2975G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2975",
+                  "lemma": "יְאֹר",
+                  "translit": "ye.or",
+                  "morph": "N:N--L",
+                  "gloss": "stream 1) river, stream, canal, Nile, Nile-canal<br>1a) stream, river (Nile)<br>1b) Nile-arms, Nile-canals<br>1c) watercourses<br>1d) shafts (mining)<br>1e) river (in general)",
+                  "raw": "H2975\tH2975H =\tH2975H\tיְאֹר\tye.or\tN:N--L\tstream\t1) river, stream, canal, Nile, Nile-canal<br>1a) stream, river (Nile)<br>1b) Nile-arms, Nile-canals<br>1c) watercourses<br>1d) shafts (mining)<br>1e) river (in general)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2975G=יְאֹר=Nile»Nile@Gen.41.1-Zec}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הַ/יְאֹֽר\\׃ ha/y.'Or the/ River H9009/{H2975G}\\H9016 HTd/Npl H2975G H9009=ה=the/{H2975G=יְאֹר=Nile»Nile@Gen.41.1-Zec}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 2,
           "text": "And behold, seven cows, well built and fat, were coming up from the Nile, and they grazed among the reeds.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּ/אָֽחוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba./'A.chu",
+                "wordIndex": 2
+              },
+              {
+                "text": "among",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "reed[s]",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H0260}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Ncmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0260",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0260",
+                  "lemma": "אָחוּ",
+                  "translit": "a.chu",
+                  "morph": "H:N-M",
+                  "gloss": "meadow reeds, marsh plants, rushes",
+                  "raw": "H0260\tH0260 =\tH0260\tאָחוּ\ta.chu\tH:N-M\tmeadow\treeds, marsh plants, rushes"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H0260=אָחוּ=meadow}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#12=L בָּ/אָֽחוּ\\׃ ba./'A.chu among the/ reed[s] H9003/{H0260}\\H9016 HRd/Ncmsa H0260 H9003=ב=in/{H0260=אָחוּ=meadow}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 3,
           "text": "And behold, seven other cows came up after them from the Nile, ugly and gaunt, and they stood beside those cows on the bank of the Nile.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יְאֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha/y.'Or",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "River",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2975G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2975G_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2975",
+                  "lemma": "יְאֹר",
+                  "translit": "ye.or",
+                  "morph": "N:N--L",
+                  "gloss": "stream 1) river, stream, canal, Nile, Nile-canal<br>1a) stream, river (Nile)<br>1b) Nile-arms, Nile-canals<br>1c) watercourses<br>1d) shafts (mining)<br>1e) river (in general)",
+                  "raw": "H2975\tH2975H =\tH2975H\tיְאֹר\tye.or\tN:N--L\tstream\t1) river, stream, canal, Nile, Nile-canal<br>1a) stream, river (Nile)<br>1b) Nile-arms, Nile-canals<br>1c) watercourses<br>1d) shafts (mining)<br>1e) river (in general)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2975G=יְאֹר=Nile»Nile@Gen.41.1-Zec}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L הַ/יְאֹֽר\\׃ ha/y.'Or the/ River H9009/{H2975G}\\H9016 HTd/Npl H2975G_B H9009=ה=the/{H2975G=יְאֹר=Nile»Nile@Gen.41.1-Zec}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 4,
           "text": "And the ugly and gaunt cows ate the seven well built and fat cows. Then Pharaoh awoke.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פַּרְעֹֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "par.'Oh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Pharaoh",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6547H}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "HNtmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6547H",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "{H6547H=פַּרְעֹה=Pharaoh»Pharaoh@Gen.37.36-Act}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L פַּרְעֹֽה\\׃ par.'Oh Pharaoh {H6547H}\\H9016 HNtmsa H6547H {H6547H=פַּרְעֹה=Pharaoh»Pharaoh@Gen.37.36-Act}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 5,
           "text": "And he fell asleep and dreamed a second time, and behold, seven ears of grain, plump and good, were coming out of one stalk.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/טֹבֽוֹת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./to.Vot",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "good",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9002/{H2896A}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Aafpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2896A",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9002=ו=and/{H2896A=טוֹב=pleasant}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L וְ/טֹבֽוֹת\\׃ ve./to.Vot and/ good H9002/{H2896A}\\H9016 HC/Aafpa H2896A H9002=ו=and/{H2896A=טוֹב=pleasant}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 6,
           "text": "And behold, seven thin ears of grain, scorched by the east wind, sprouted up after them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אַחֲרֵי/הֶֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.cha.rei./Hen",
+                "wordIndex": 2
+              },
+              {
+                "text": "after/",
+                "wordIndex": 3
+              },
+              {
+                "text": "them",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0310A}/H9039\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HAcmpc/Sp3fp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0310A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H0310A=אַחַר=after}/H9039=Op3f=them\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#08=L אַחֲרֵי/הֶֽן\\׃ 'a.cha.rei./Hen after/ them {H0310A}/H9039\\H9016 HAcmpc/Sp3fp H0310A {H0310A=אַחַר=after}/H9039=Op3f=them\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 7,
           "text": "And the thin ears of grain swallowed up the seven plump and full ears of grain. Then Pharaoh awoke, and behold, it was a dream.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "חֲלֽוֹם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "cha.Lom",
+                "wordIndex": 2
+              },
+              {
+                "text": "a",
+                "wordIndex": 3
+              },
+              {
+                "text": "dream",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H2472}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H2472",
+                  "lemma": "חֲלוֹם",
+                  "translit": "cha.lom",
+                  "morph": "H:N-M",
+                  "gloss": "dream 1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)",
+                  "raw": "H2472\tH2472 =\tH2472\tחֲלוֹם\tcha.lom\tH:N-M\tdream\t1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2472",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2472",
+                  "lemma": "חֲלוֹם",
+                  "translit": "cha.lom",
+                  "morph": "H:N-M",
+                  "gloss": "dream 1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)",
+                  "raw": "H2472\tH2472 =\tH2472\tחֲלוֹם\tcha.lom\tH:N-M\tdream\t1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)"
+                }
+              },
+              {
+                "text": "{H2472=חֲלוֹם=dream}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H2472",
+                  "lemma": "חֲלוֹם",
+                  "translit": "cha.lom",
+                  "morph": "H:N-M",
+                  "gloss": "dream 1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)",
+                  "raw": "H2472\tH2472 =\tH2472\tחֲלוֹם\tcha.lom\tH:N-M\tdream\t1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L חֲלֽוֹם\\׃ cha.Lom a dream {H2472}\\H9016 HNcmsa H2472 {H2472=חֲלוֹם=dream}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 8,
           "text": "And it happened that in the morning his spirit was troubled, and he sent and called all of the magicians of Egypt, and all its wise men, and Pharaoh told his dream to them. But they had no interpretation for Pharaoh.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/פַרְעֹֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./far.'Oh",
+                "wordIndex": 2
+              },
+              {
+                "text": "for/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Pharaoh",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H6547H}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ntmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6547H_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H6547H=פַּרְעֹה=Pharaoh»Pharaoh@Gen.37.36-Act}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#22=L לְ/פַרְעֹֽה\\׃ le./far.'Oh for/ Pharaoh H9005/{H6547H}\\H9016 HR/Ntmsa H6547H_B H9005=ל=to/{H6547H=פַּרְעֹה=Pharaoh»Pharaoh@Gen.37.36-Act}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 9,
           "text": "Then the chief of the cupbearers spoke with Pharaoh, saying, “I remember my sins today.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יּֽוֹם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hai./Yom",
+                "wordIndex": 2
+              },
+              {
+                "text": "this/",
+                "wordIndex": 3
+              },
+              {
+                "text": "day",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H3117L}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3117L",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3117L=יוֹם=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "today»day:6_today;_now}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L הַ/יּֽוֹם\\׃ hai./Yom this/ day H9009/{H3117L}\\H9016 HTd/Ncmsa H3117L H9009=ה=the/{H3117L=יוֹם=: today»day:6_today;_now}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 10,
           "text": "Pharaoh was angry with his servants, and he put me and the chief baker in the custody of the house of the chief of the guard.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אֹפִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'o.Fim",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "bakers",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0644}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0644",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0644",
+                  "lemma": "אָפָה",
+                  "translit": "a.phah",
+                  "morph": "H:V",
+                  "gloss": "to bake 1) to bake<br>1a) (Qal)<br>1a1) to bake<br>1a2) (subst) baker<br>1b) (Niphal) to be baked, baked",
+                  "raw": "H0644\tH0644 =\tH0644\tאָפָה\ta.phah\tH:V\tto bake\t1) to bake<br>1a) (Qal)<br>1a1) to bake<br>1a2) (subst) baker<br>1b) (Niphal) to be baked, baked"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0644=אָפָה=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "bake}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L הָ/אֹפִֽים\\׃ ha./'o.Fim the/ bakers H9009/{H0644}\\H9016 HTd/Ncmpa H0644 H9009=ה=the/{H0644=אָפָה=to bake}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 11,
           "text": "And we dreamed a dream one night, I and he, each with a dream that had a meaning.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "חָלָֽמְנוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "cha.La.me.nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "we",
+                "wordIndex": 3
+              },
+              {
+                "text": "dreamed",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H2492B}\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HVqp1cp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2492B_B",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H2492B=חָלַם=to",
+                "wordIndex": 8
+              },
+              {
+                "text": "dream}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L חָלָֽמְנוּ\\׃ cha.La.me.nu we dreamed {H2492B}\\H9016 HVqp1cp H2492B_B {H2492B=חָלַם=to dream}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 12,
           "text": "And there with us was a young man, a Hebrew servant of the chief of the guard, and we told him the dream, and he interpreted our dreams for us, each according to his dream he interpreted.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פָּתָֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "pa.Tar",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "interpreted",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6622}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H6622",
+                  "lemma": "פָּתַר",
+                  "translit": "pa.tar",
+                  "morph": "H:V",
+                  "gloss": "to interpret (Qal) to interpret (dreams)<BR>Aramaic equivalent: <i>pe.shar</i> (פְּשַׁר \"to interpret\" H6590)",
+                  "raw": "H6622\tH6622 =\tH6622\tפָּתַר\tpa.tar\tH:V\tto interpret\t(Qal) to interpret (dreams)<BR>Aramaic equivalent: <i>pe.shar</i> (פְּשַׁר \"to interpret\" H6590)"
+                }
+              },
+              {
+                "text": "HVqp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6622_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6622",
+                  "lemma": "פָּתַר",
+                  "translit": "pa.tar",
+                  "morph": "H:V",
+                  "gloss": "to interpret (Qal) to interpret (dreams)<BR>Aramaic equivalent: <i>pe.shar</i> (פְּשַׁר \"to interpret\" H6590)",
+                  "raw": "H6622\tH6622 =\tH6622\tפָּתַר\tpa.tar\tH:V\tto interpret\t(Qal) to interpret (dreams)<BR>Aramaic equivalent: <i>pe.shar</i> (פְּשַׁר \"to interpret\" H6590)"
+                }
+              },
+              {
+                "text": "{H6622=פָּתַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6622",
+                  "lemma": "פָּתַר",
+                  "translit": "pa.tar",
+                  "morph": "H:V",
+                  "gloss": "to interpret (Qal) to interpret (dreams)<BR>Aramaic equivalent: <i>pe.shar</i> (פְּשַׁר \"to interpret\" H6590)",
+                  "raw": "H6622\tH6622 =\tH6622\tפָּתַר\tpa.tar\tH:V\tto interpret\t(Qal) to interpret (dreams)<BR>Aramaic equivalent: <i>pe.shar</i> (פְּשַׁר \"to interpret\" H6590)"
+                }
+              },
+              {
+                "text": "interpret}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L פָּתָֽר\\׃ pa.Tar he interpreted {H6622}\\H9016 HVqp3ms H6622_B {H6622=פָּתַר=to interpret}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 13,
           "text": "And it happened just as he interpreted to us, so it was. He restored me to my office, and him he hanged.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תָלָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ta.Lah",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "hanged",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H8518}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H8518",
+                  "lemma": "תָּלָה",
+                  "translit": "ta.lah",
+                  "morph": "H:V",
+                  "gloss": "to hang 1) to hang<br>1a) (Qal)<br>1a1) to hang<br>1a1a) to hang up (any object)<br>1a1b) to put to death by hanging<br>1b) (Niphal) to be hanged<br>1c) (Piel) to hang, hang up (for display)",
+                  "raw": "H8518\tH8518 =\tH8518\tתָּלָה\tta.lah\tH:V\tto hang\t1) to hang<br>1a) (Qal)<br>1a1) to hang<br>1a1a) to hang up (any object)<br>1a1b) to put to death by hanging<br>1b) (Niphal) to be hanged<br>1c) (Piel) to hang, hang up (for display)"
+                }
+              },
+              {
+                "text": "HVqp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8518",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8518",
+                  "lemma": "תָּלָה",
+                  "translit": "ta.lah",
+                  "morph": "H:V",
+                  "gloss": "to hang 1) to hang<br>1a) (Qal)<br>1a1) to hang<br>1a1a) to hang up (any object)<br>1a1b) to put to death by hanging<br>1b) (Niphal) to be hanged<br>1c) (Piel) to hang, hang up (for display)",
+                  "raw": "H8518\tH8518 =\tH8518\tתָּלָה\tta.lah\tH:V\tto hang\t1) to hang<br>1a) (Qal)<br>1a1) to hang<br>1a1a) to hang up (any object)<br>1a1b) to put to death by hanging<br>1b) (Niphal) to be hanged<br>1c) (Piel) to hang, hang up (for display)"
+                }
+              },
+              {
+                "text": "{H8518=תָּלָה=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H8518",
+                  "lemma": "תָּלָה",
+                  "translit": "ta.lah",
+                  "morph": "H:V",
+                  "gloss": "to hang 1) to hang<br>1a) (Qal)<br>1a1) to hang<br>1a1a) to hang up (any object)<br>1a1b) to put to death by hanging<br>1b) (Niphal) to be hanged<br>1c) (Piel) to hang, hang up (for display)",
+                  "raw": "H8518\tH8518 =\tH8518\tתָּלָה\tta.lah\tH:V\tto hang\t1) to hang<br>1a) (Qal)<br>1a1) to hang<br>1a1a) to hang up (any object)<br>1a1b) to put to death by hanging<br>1b) (Niphal) to be hanged<br>1c) (Piel) to hang, hang up (for display)"
+                }
+              },
+              {
+                "text": "hang}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L תָלָֽה\\׃ ta.Lah he hanged {H8518}\\H9016 HVqp3ms H8518 {H8518=תָּלָה=to hang}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 14,
           "text": "Then Pharaoh sent and called for Joseph, and they brought him quickly from the prison. And he shaved and changed his clothing, and came to Pharaoh.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פַּרְעֹֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "par.'Oh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Pharaoh",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6547H}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "HNtmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6547H_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "{H6547H=פַּרְעֹה=Pharaoh»Pharaoh@Gen.37.36-Act}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L פַּרְעֹֽה\\׃ par.'Oh Pharaoh {H6547H}\\H9016 HNtmsa H6547H_B {H6547H=פַּרְעֹה=Pharaoh»Pharaoh@Gen.37.36-Act}\\H9016=׃=verseEnd"
+          }
         }
       ],
       "nirv": [
@@ -93,85 +1003,995 @@
           "chapter": 41,
           "verse": 1,
           "text": "When two full years had passed, Pharaoh had a dream. In his dream, he was standing by the Nile River.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יְאֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha/y.'Or",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "River",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2975G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2975G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2975",
+                  "lemma": "יְאֹר",
+                  "translit": "ye.or",
+                  "morph": "N:N--L",
+                  "gloss": "stream 1) river, stream, canal, Nile, Nile-canal<br>1a) stream, river (Nile)<br>1b) Nile-arms, Nile-canals<br>1c) watercourses<br>1d) shafts (mining)<br>1e) river (in general)",
+                  "raw": "H2975\tH2975H =\tH2975H\tיְאֹר\tye.or\tN:N--L\tstream\t1) river, stream, canal, Nile, Nile-canal<br>1a) stream, river (Nile)<br>1b) Nile-arms, Nile-canals<br>1c) watercourses<br>1d) shafts (mining)<br>1e) river (in general)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2975G=יְאֹר=Nile»Nile@Gen.41.1-Zec}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הַ/יְאֹֽר\\׃ ha/y.'Or the/ River H9009/{H2975G}\\H9016 HTd/Npl H2975G H9009=ה=the/{H2975G=יְאֹר=Nile»Nile@Gen.41.1-Zec}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 2,
           "text": "Seven cows came up out of the river. They looked healthy and fat. They were eating some of the tall grass that was growing along the river.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּ/אָֽחוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba./'A.chu",
+                "wordIndex": 2
+              },
+              {
+                "text": "among",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "reed[s]",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H0260}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Ncmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0260",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0260",
+                  "lemma": "אָחוּ",
+                  "translit": "a.chu",
+                  "morph": "H:N-M",
+                  "gloss": "meadow reeds, marsh plants, rushes",
+                  "raw": "H0260\tH0260 =\tH0260\tאָחוּ\ta.chu\tH:N-M\tmeadow\treeds, marsh plants, rushes"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H0260=אָחוּ=meadow}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#12=L בָּ/אָֽחוּ\\׃ ba./'A.chu among the/ reed[s] H9003/{H0260}\\H9016 HRd/Ncmsa H0260 H9003=ב=in/{H0260=אָחוּ=meadow}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 3,
           "text": "After them, seven other cows came up out of the Nile. They looked ugly and skinny. They were standing beside the other cows on the riverbank.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יְאֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha/y.'Or",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "River",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2975G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2975G_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2975",
+                  "lemma": "יְאֹר",
+                  "translit": "ye.or",
+                  "morph": "N:N--L",
+                  "gloss": "stream 1) river, stream, canal, Nile, Nile-canal<br>1a) stream, river (Nile)<br>1b) Nile-arms, Nile-canals<br>1c) watercourses<br>1d) shafts (mining)<br>1e) river (in general)",
+                  "raw": "H2975\tH2975H =\tH2975H\tיְאֹר\tye.or\tN:N--L\tstream\t1) river, stream, canal, Nile, Nile-canal<br>1a) stream, river (Nile)<br>1b) Nile-arms, Nile-canals<br>1c) watercourses<br>1d) shafts (mining)<br>1e) river (in general)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2975G=יְאֹר=Nile»Nile@Gen.41.1-Zec}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L הַ/יְאֹֽר\\׃ ha/y.'Or the/ River H9009/{H2975G}\\H9016 HTd/Npl H2975G_B H9009=ה=the/{H2975G=יְאֹר=Nile»Nile@Gen.41.1-Zec}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 4,
           "text": "The ugly, skinny cows ate up the seven cows that looked healthy and fat. Then Pharaoh woke up.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פַּרְעֹֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "par.'Oh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Pharaoh",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6547H}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "HNtmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6547H",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "{H6547H=פַּרְעֹה=Pharaoh»Pharaoh@Gen.37.36-Act}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L פַּרְעֹֽה\\׃ par.'Oh Pharaoh {H6547H}\\H9016 HNtmsa H6547H {H6547H=פַּרְעֹה=Pharaoh»Pharaoh@Gen.37.36-Act}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 5,
           "text": "He fell asleep again and had a second dream. In that dream, seven heads of grain were growing on one stem. They were healthy and good.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/טֹבֽוֹת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./to.Vot",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "good",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9002/{H2896A}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Aafpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2896A",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9002=ו=and/{H2896A=טוֹב=pleasant}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L וְ/טֹבֽוֹת\\׃ ve./to.Vot and/ good H9002/{H2896A}\\H9016 HC/Aafpa H2896A H9002=ו=and/{H2896A=טוֹב=pleasant}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 6,
           "text": "After them, seven other heads of grain came up. They were thin and dried up by the east wind.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אַחֲרֵי/הֶֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.cha.rei./Hen",
+                "wordIndex": 2
+              },
+              {
+                "text": "after/",
+                "wordIndex": 3
+              },
+              {
+                "text": "them",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0310A}/H9039\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HAcmpc/Sp3fp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0310A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H0310A=אַחַר=after}/H9039=Op3f=them\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#08=L אַחֲרֵי/הֶֽן\\׃ 'a.cha.rei./Hen after/ them {H0310A}/H9039\\H9016 HAcmpc/Sp3fp H0310A {H0310A=אַחַר=after}/H9039=Op3f=them\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 7,
           "text": "The thin heads of grain swallowed up the seven healthy, full heads. Then Pharaoh woke up. It had been a dream.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "חֲלֽוֹם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "cha.Lom",
+                "wordIndex": 2
+              },
+              {
+                "text": "a",
+                "wordIndex": 3
+              },
+              {
+                "text": "dream",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H2472}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H2472",
+                  "lemma": "חֲלוֹם",
+                  "translit": "cha.lom",
+                  "morph": "H:N-M",
+                  "gloss": "dream 1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)",
+                  "raw": "H2472\tH2472 =\tH2472\tחֲלוֹם\tcha.lom\tH:N-M\tdream\t1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2472",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2472",
+                  "lemma": "חֲלוֹם",
+                  "translit": "cha.lom",
+                  "morph": "H:N-M",
+                  "gloss": "dream 1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)",
+                  "raw": "H2472\tH2472 =\tH2472\tחֲלוֹם\tcha.lom\tH:N-M\tdream\t1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)"
+                }
+              },
+              {
+                "text": "{H2472=חֲלוֹם=dream}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H2472",
+                  "lemma": "חֲלוֹם",
+                  "translit": "cha.lom",
+                  "morph": "H:N-M",
+                  "gloss": "dream 1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)",
+                  "raw": "H2472\tH2472 =\tH2472\tחֲלוֹם\tcha.lom\tH:N-M\tdream\t1) dream<br>1a) dream (ordinary)<br>1b) dream (with prophetic meaning)<BR>Aramaic equivalent: <i>che.lem</i> (חֵ֫לֶם \"dream\" H2493)"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L חֲלֽוֹם\\׃ cha.Lom a dream {H2472}\\H9016 HNcmsa H2472 {H2472=חֲלוֹם=dream}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 8,
           "text": "In the morning he was worried. So he sent for all of the magicians and wise men of Egypt. Pharaoh told them his dreams. But no one could tell him what they meant.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/פַרְעֹֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./far.'Oh",
+                "wordIndex": 2
+              },
+              {
+                "text": "for/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Pharaoh",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H6547H}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ntmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6547H_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H6547H=פַּרְעֹה=Pharaoh»Pharaoh@Gen.37.36-Act}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#22=L לְ/פַרְעֹֽה\\׃ le./far.'Oh for/ Pharaoh H9005/{H6547H}\\H9016 HR/Ntmsa H6547H_B H9005=ל=to/{H6547H=פַּרְעֹה=Pharaoh»Pharaoh@Gen.37.36-Act}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 9,
           "text": "Then the chief wine taster spoke up. He said to Pharaoh, “Now I remember that I’ve done something wrong.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יּֽוֹם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hai./Yom",
+                "wordIndex": 2
+              },
+              {
+                "text": "this/",
+                "wordIndex": 3
+              },
+              {
+                "text": "day",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H3117L}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3117L",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3117L=יוֹם=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "today»day:6_today;_now}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L הַ/יּֽוֹם\\׃ hai./Yom this/ day H9009/{H3117L}\\H9016 HTd/Ncmsa H3117L H9009=ה=the/{H3117L=יוֹם=: today»day:6_today;_now}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 10,
           "text": "Pharaoh was once angry with his servants. He put me and the chief baker in prison. We were in the house of the captain of the palace guard.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אֹפִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'o.Fim",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "bakers",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0644}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0644",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0644",
+                  "lemma": "אָפָה",
+                  "translit": "a.phah",
+                  "morph": "H:V",
+                  "gloss": "to bake 1) to bake<br>1a) (Qal)<br>1a1) to bake<br>1a2) (subst) baker<br>1b) (Niphal) to be baked, baked",
+                  "raw": "H0644\tH0644 =\tH0644\tאָפָה\ta.phah\tH:V\tto bake\t1) to bake<br>1a) (Qal)<br>1a1) to bake<br>1a2) (subst) baker<br>1b) (Niphal) to be baked, baked"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0644=אָפָה=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "bake}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L הָ/אֹפִֽים\\׃ ha./'o.Fim the/ bakers H9009/{H0644}\\H9016 HTd/Ncmpa H0644 H9009=ה=the/{H0644=אָפָה=to bake}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 11,
           "text": "Each of us had a dream the same night. Each dream had its own meaning.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "חָלָֽמְנוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "cha.La.me.nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "we",
+                "wordIndex": 3
+              },
+              {
+                "text": "dreamed",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H2492B}\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HVqp1cp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2492B_B",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H2492B=חָלַם=to",
+                "wordIndex": 8
+              },
+              {
+                "text": "dream}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L חָלָֽמְנוּ\\׃ cha.La.me.nu we dreamed {H2492B}\\H9016 HVqp1cp H2492B_B {H2492B=חָלַם=to dream}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 12,
           "text": "“A young Hebrew servant was there with us. He was a servant of the captain of the guard. We told him our dreams. And he explained them to us. He told each of us the meaning of our dreams.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פָּתָֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "pa.Tar",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "interpreted",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6622}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H6622",
+                  "lemma": "פָּתַר",
+                  "translit": "pa.tar",
+                  "morph": "H:V",
+                  "gloss": "to interpret (Qal) to interpret (dreams)<BR>Aramaic equivalent: <i>pe.shar</i> (פְּשַׁר \"to interpret\" H6590)",
+                  "raw": "H6622\tH6622 =\tH6622\tפָּתַר\tpa.tar\tH:V\tto interpret\t(Qal) to interpret (dreams)<BR>Aramaic equivalent: <i>pe.shar</i> (פְּשַׁר \"to interpret\" H6590)"
+                }
+              },
+              {
+                "text": "HVqp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6622_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6622",
+                  "lemma": "פָּתַר",
+                  "translit": "pa.tar",
+                  "morph": "H:V",
+                  "gloss": "to interpret (Qal) to interpret (dreams)<BR>Aramaic equivalent: <i>pe.shar</i> (פְּשַׁר \"to interpret\" H6590)",
+                  "raw": "H6622\tH6622 =\tH6622\tפָּתַר\tpa.tar\tH:V\tto interpret\t(Qal) to interpret (dreams)<BR>Aramaic equivalent: <i>pe.shar</i> (פְּשַׁר \"to interpret\" H6590)"
+                }
+              },
+              {
+                "text": "{H6622=פָּתַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6622",
+                  "lemma": "פָּתַר",
+                  "translit": "pa.tar",
+                  "morph": "H:V",
+                  "gloss": "to interpret (Qal) to interpret (dreams)<BR>Aramaic equivalent: <i>pe.shar</i> (פְּשַׁר \"to interpret\" H6590)",
+                  "raw": "H6622\tH6622 =\tH6622\tפָּתַר\tpa.tar\tH:V\tto interpret\t(Qal) to interpret (dreams)<BR>Aramaic equivalent: <i>pe.shar</i> (פְּשַׁר \"to interpret\" H6590)"
+                }
+              },
+              {
+                "text": "interpret}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L פָּתָֽר\\׃ pa.Tar he interpreted {H6622}\\H9016 HVqp3ms H6622_B {H6622=פָּתַר=to interpret}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 13,
           "text": "Things turned out exactly as he said they would. I was given back my position. The other man had a pole stuck through his body.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תָלָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ta.Lah",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "hanged",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H8518}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H8518",
+                  "lemma": "תָּלָה",
+                  "translit": "ta.lah",
+                  "morph": "H:V",
+                  "gloss": "to hang 1) to hang<br>1a) (Qal)<br>1a1) to hang<br>1a1a) to hang up (any object)<br>1a1b) to put to death by hanging<br>1b) (Niphal) to be hanged<br>1c) (Piel) to hang, hang up (for display)",
+                  "raw": "H8518\tH8518 =\tH8518\tתָּלָה\tta.lah\tH:V\tto hang\t1) to hang<br>1a) (Qal)<br>1a1) to hang<br>1a1a) to hang up (any object)<br>1a1b) to put to death by hanging<br>1b) (Niphal) to be hanged<br>1c) (Piel) to hang, hang up (for display)"
+                }
+              },
+              {
+                "text": "HVqp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8518",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8518",
+                  "lemma": "תָּלָה",
+                  "translit": "ta.lah",
+                  "morph": "H:V",
+                  "gloss": "to hang 1) to hang<br>1a) (Qal)<br>1a1) to hang<br>1a1a) to hang up (any object)<br>1a1b) to put to death by hanging<br>1b) (Niphal) to be hanged<br>1c) (Piel) to hang, hang up (for display)",
+                  "raw": "H8518\tH8518 =\tH8518\tתָּלָה\tta.lah\tH:V\tto hang\t1) to hang<br>1a) (Qal)<br>1a1) to hang<br>1a1a) to hang up (any object)<br>1a1b) to put to death by hanging<br>1b) (Niphal) to be hanged<br>1c) (Piel) to hang, hang up (for display)"
+                }
+              },
+              {
+                "text": "{H8518=תָּלָה=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H8518",
+                  "lemma": "תָּלָה",
+                  "translit": "ta.lah",
+                  "morph": "H:V",
+                  "gloss": "to hang 1) to hang<br>1a) (Qal)<br>1a1) to hang<br>1a1a) to hang up (any object)<br>1a1b) to put to death by hanging<br>1b) (Niphal) to be hanged<br>1c) (Piel) to hang, hang up (for display)",
+                  "raw": "H8518\tH8518 =\tH8518\tתָּלָה\tta.lah\tH:V\tto hang\t1) to hang<br>1a) (Qal)<br>1a1) to hang<br>1a1a) to hang up (any object)<br>1a1b) to put to death by hanging<br>1b) (Niphal) to be hanged<br>1c) (Piel) to hang, hang up (for display)"
+                }
+              },
+              {
+                "text": "hang}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L תָלָֽה\\׃ ta.Lah he hanged {H8518}\\H9016 HVqp3ms H8518 {H8518=תָּלָה=to hang}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 41,
           "verse": 14,
           "text": "So Pharaoh sent for Joseph. He was quickly brought out of the prison. Joseph shaved himself and changed his clothes. Then he came to Pharaoh.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פַּרְעֹֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "par.'Oh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Pharaoh",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6547H}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "HNtmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6547H_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "{H6547H=פַּרְעֹה=Pharaoh»Pharaoh@Gen.37.36-Act}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L פַּרְעֹֽה\\׃ par.'Oh Pharaoh {H6547H}\\H9016 HNtmsa H6547H_B {H6547H=פַּרְעֹה=Pharaoh»Pharaoh@Gen.37.36-Act}\\H9016=׃=verseEnd"
+          }
         }
       ]
     }

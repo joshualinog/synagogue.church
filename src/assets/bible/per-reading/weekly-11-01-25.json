@@ -7,115 +7,1358 @@
           "chapter": 1,
           "verse": 1,
           "text": "Yahweh spoke to Moses in the desert of Sinai, in the tent of assembly, on the first of the month, in the second year after they came out of the land of Egypt, saying,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L לֵ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 2,
           "text": "“Take a census of the entire community of the Israelites according to their clans and their families, according to the number of names, every male individually",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/גֻלְגְּלֹתָֽ/ם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./gul.ge.lo.Ta/m",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "heads/",
+                "wordIndex": 4
+              },
+              {
+                "text": "their",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H1538}/H9028\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncfpc/Sp3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1538",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1538",
+                  "lemma": "גֻּלְגֹּ֫לֶת",
+                  "translit": "gul.go.let",
+                  "morph": "H:N-F",
+                  "gloss": "head 1) head, poll, skull<br>1a) skull<br>1b) head, poll (of census)",
+                  "raw": "H1538\tH1538 =\tH1538\tגֻּלְגֹּ֫לֶת\tgul.go.let\tH:N-F\thead\t1) head, poll, skull<br>1a) skull<br>1b) head, poll (of census)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H1538=גֻּלְגֹּ֫לֶת=head}/H9028=Pp3m=their\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#15=L לְ/גֻלְגְּלֹתָֽ/ם\\׃ le./gul.ge.lo.Ta/m to/ heads/ their H9005/{H1538}/H9028\\H9016 HR/Ncfpc/Sp3mp H1538 H9005=ל=to/{H1538=גֻּלְגֹּ֫לֶת=head}/H9028=Pp3m=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 3,
           "text": "from twenty years old and above, everyone in Israel who is able to go to war. You and Aaron must muster them for their wars.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/אַהֲרֹֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./'a.ha.Ron",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Aaron",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9002/{H0175}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Npm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0175",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0175",
+                  "lemma": "אַהֲרֹן",
+                  "translit": "a.ha.ron",
+                  "morph": "N:N-M-P",
+                  "gloss": "Aaron A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.4.14; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Moses (H4872) and Miriam (H4813); married to Elisheba (H0472); <br> father of: Nadab (H5070), Abihu (H0030), Eleazar (H0499) and Ithamar (H0385)<BR>Also named: <i>Aarōn</i> (Ἀαρών \"Aaron\" G0002) <BR> § Aaron = \"light bringer\"<br> brother of Moses, a Levite and the first high priest<br>",
+                  "raw": "H0175\tH0175 =\tH0175\tאַהֲרֹן\ta.ha.ron\tN:N-M-P\tAaron\tA man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.4.14; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Moses (H4872) and Miriam (H4813); married to Elisheba (H0472); <br> father of: Nadab (H5070), Abihu (H0030), Eleazar (H0499) and Ithamar (H0385)<BR>Also named: <i>Aarōn</i> (Ἀαρών \"Aaron\" G0002) <BR> § Aaron = \"light bringer\"<br> brother of Moses, a Levite and the first high priest<br>"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H0175=אַהֲרֹן=Aaron»Aaron@Exo.4.14-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L וְ/אַהֲרֹֽן\\׃ ve./'a.ha.Ron and/ Aaron H9002/{H0175}\\H9016 HC/Npm H0175 H9002=ו=and/{H0175=אַהֲרֹן=Aaron»Aaron@Exo.4.14-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 4,
           "text": "A man from each tribe will be with you, each man the head of his family.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הֽוּא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Hu'",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1931}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "HPp3ms",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1931",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הֽוּא\\׃ Hu' he {H1931}\\H9016 HPp3ms H1931 {H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 5,
           "text": "And these are the names of the men who will assist you: from Reuben, Elizur son of Shedeur;",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שְׁדֵיאֽוּר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "she.dei.'Ur",
+                "wordIndex": 2
+              },
+              {
+                "text": "Shedeur",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H7707}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H7707",
+                  "lemma": "שְׁדֵיאוּר",
+                  "translit": "she.de.ur",
+                  "morph": "N:N-M-P",
+                  "gloss": "Shedeur A man living at the time of Egypt and Wilderness, first mentioned at Num.1.5; <br> father of: Elizur (H0468) <BR> § Shedeur = \"darter of light\"<br> father of Elizur, chief of the tribe of Reuben at the time of the exodus<br>",
+                  "raw": "H7707\tH7707 =\tH7707\tשְׁדֵיאוּר\tshe.de.ur\tN:N-M-P\tShedeur\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.5; <br> father of: Elizur (H0468) <BR> § Shedeur = \"darter of light\"<br> father of Elizur, chief of the tribe of Reuben at the time of the exodus<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H7707",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H7707",
+                  "lemma": "שְׁדֵיאוּר",
+                  "translit": "she.de.ur",
+                  "morph": "N:N-M-P",
+                  "gloss": "Shedeur A man living at the time of Egypt and Wilderness, first mentioned at Num.1.5; <br> father of: Elizur (H0468) <BR> § Shedeur = \"darter of light\"<br> father of Elizur, chief of the tribe of Reuben at the time of the exodus<br>",
+                  "raw": "H7707\tH7707 =\tH7707\tשְׁדֵיאוּר\tshe.de.ur\tN:N-M-P\tShedeur\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.5; <br> father of: Elizur (H0468) <BR> § Shedeur = \"darter of light\"<br> father of Elizur, chief of the tribe of Reuben at the time of the exodus<br>"
+                }
+              },
+              {
+                "text": "{H7707=שְׁדֵיאוּר=Shedeur»Shedeur@Num.1.5-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7707",
+                  "lemma": "שְׁדֵיאוּר",
+                  "translit": "she.de.ur",
+                  "morph": "N:N-M-P",
+                  "gloss": "Shedeur A man living at the time of Egypt and Wilderness, first mentioned at Num.1.5; <br> father of: Elizur (H0468) <BR> § Shedeur = \"darter of light\"<br> father of Elizur, chief of the tribe of Reuben at the time of the exodus<br>",
+                  "raw": "H7707\tH7707 =\tH7707\tשְׁדֵיאוּר\tshe.de.ur\tN:N-M-P\tShedeur\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.5; <br> father of: Elizur (H0468) <BR> § Shedeur = \"darter of light\"<br> father of Elizur, chief of the tribe of Reuben at the time of the exodus<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L שְׁדֵיאֽוּר\\׃ she.dei.'Ur Shedeur {H7707}\\H9016 HNpm H7707 {H7707=שְׁדֵיאוּר=Shedeur»Shedeur@Num.1.5-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 6,
           "text": "from Simeon, Shelumiel son of Zurishaddai;",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צוּרִֽישַׁדָּֽי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tzu.Ri.sha.Dai",
+                "wordIndex": 2
+              },
+              {
+                "text": "Zurishaddai",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6701}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6701",
+                  "lemma": "צוּרִישַׁדָּ֑י",
+                  "translit": "tsu.ri.shad.day",
+                  "morph": "N:N-M-P",
+                  "gloss": "Zurishaddai A man living at the time of Egypt and Wilderness, first mentioned at Num.1.6; <br> father of: Shelumiel (H8017) <BR> § Zurishaddai = \"my rock is almighty\"<br> father of Shelumiel, the chief of the Simeonites at the time of the exodus<br>",
+                  "raw": "H6701\tH6701 =\tH6701\tצוּרִישַׁדָּ֑י\ttsu.ri.shad.day\tN:N-M-P\tZurishaddai\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.6; <br> father of: Shelumiel (H8017) <BR> § Zurishaddai = \"my rock is almighty\"<br> father of Shelumiel, the chief of the Simeonites at the time of the exodus<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6701",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6701",
+                  "lemma": "צוּרִישַׁדָּ֑י",
+                  "translit": "tsu.ri.shad.day",
+                  "morph": "N:N-M-P",
+                  "gloss": "Zurishaddai A man living at the time of Egypt and Wilderness, first mentioned at Num.1.6; <br> father of: Shelumiel (H8017) <BR> § Zurishaddai = \"my rock is almighty\"<br> father of Shelumiel, the chief of the Simeonites at the time of the exodus<br>",
+                  "raw": "H6701\tH6701 =\tH6701\tצוּרִישַׁדָּ֑י\ttsu.ri.shad.day\tN:N-M-P\tZurishaddai\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.6; <br> father of: Shelumiel (H8017) <BR> § Zurishaddai = \"my rock is almighty\"<br> father of Shelumiel, the chief of the Simeonites at the time of the exodus<br>"
+                }
+              },
+              {
+                "text": "{H6701=צוּרִישַׁדָּ֑י=Zurishaddai»Zurishaddai@Num.1.6-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6701",
+                  "lemma": "צוּרִישַׁדָּ֑י",
+                  "translit": "tsu.ri.shad.day",
+                  "morph": "N:N-M-P",
+                  "gloss": "Zurishaddai A man living at the time of Egypt and Wilderness, first mentioned at Num.1.6; <br> father of: Shelumiel (H8017) <BR> § Zurishaddai = \"my rock is almighty\"<br> father of Shelumiel, the chief of the Simeonites at the time of the exodus<br>",
+                  "raw": "H6701\tH6701 =\tH6701\tצוּרִישַׁדָּ֑י\ttsu.ri.shad.day\tN:N-M-P\tZurishaddai\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.6; <br> father of: Shelumiel (H8017) <BR> § Zurishaddai = \"my rock is almighty\"<br> father of Shelumiel, the chief of the Simeonites at the time of the exodus<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L צוּרִֽישַׁדָּֽי\\׃ tzu.Ri.sha.Dai Zurishaddai {H6701}\\H9016 HNpm H6701 {H6701=צוּרִישַׁדָּ֑י=Zurishaddai»Zurishaddai@Num.1.6-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 7,
           "text": "from Judah, Nahshon son of Amminadab;",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עַמִּינָדָֽב\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.mi.na.Dav",
+                "wordIndex": 2
+              },
+              {
+                "text": "Amminadab",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5992G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5992",
+                  "lemma": "עַמִּינָדָב",
+                  "translit": "am.mi.na.dav",
+                  "morph": "N:N-M-P",
+                  "gloss": "Izhar A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.6.18; <br> son of: Kohath (H6955); <br> brother of: Amram (H6019), Hebron (H2275B) and Uzziel (H5816); <br> father of: Korah (H7141I), Nepheg (H5298), Zichri (H2147) and Shelomith (H8019A)<BR>Another name of <i>yits.har</i> (יִצְהָר \"Izhar\" H3324)<BR> § Amminadab = \"my kinsman is noble\"<br>1) son of Ram or Aram and father of Nahshon or Naasson and an ancestor of Jesus; father-in-law of Aaron<br>2) a Kohathite Levite and chief of the sons of Uzziel<br>3) a Levite, son of Kohath; also 'Izhar'",
+                  "raw": "H5992\tH5992I = a Name of\tH3324\tעַמִּינָדָב\tam.mi.na.dav\tN:N-M-P\tIzhar\tA man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.6.18; <br> son of: Kohath (H6955); <br> brother of: Amram (H6019), Hebron (H2275B) and Uzziel (H5816); <br> father of: Korah (H7141I), Nepheg (H5298), Zichri (H2147) and Shelomith (H8019A)<BR>Another name of <i>yits.har</i> (יִצְהָר \"Izhar\" H3324)<BR> § Amminadab = \"my kinsman is noble\"<br>1) son of Ram or Aram and father of Nahshon or Naasson and an ancestor of Jesus; father-in-law of Aaron<br>2) a Kohathite Levite and chief of the sons of Uzziel<br>3) a Levite, son of Kohath; also 'Izhar'"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5992G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5992",
+                  "lemma": "עַמִּינָדָב",
+                  "translit": "am.mi.na.dav",
+                  "morph": "N:N-M-P",
+                  "gloss": "Izhar A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.6.18; <br> son of: Kohath (H6955); <br> brother of: Amram (H6019), Hebron (H2275B) and Uzziel (H5816); <br> father of: Korah (H7141I), Nepheg (H5298), Zichri (H2147) and Shelomith (H8019A)<BR>Another name of <i>yits.har</i> (יִצְהָר \"Izhar\" H3324)<BR> § Amminadab = \"my kinsman is noble\"<br>1) son of Ram or Aram and father of Nahshon or Naasson and an ancestor of Jesus; father-in-law of Aaron<br>2) a Kohathite Levite and chief of the sons of Uzziel<br>3) a Levite, son of Kohath; also 'Izhar'",
+                  "raw": "H5992\tH5992I = a Name of\tH3324\tעַמִּינָדָב\tam.mi.na.dav\tN:N-M-P\tIzhar\tA man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.6.18; <br> son of: Kohath (H6955); <br> brother of: Amram (H6019), Hebron (H2275B) and Uzziel (H5816); <br> father of: Korah (H7141I), Nepheg (H5298), Zichri (H2147) and Shelomith (H8019A)<BR>Another name of <i>yits.har</i> (יִצְהָר \"Izhar\" H3324)<BR> § Amminadab = \"my kinsman is noble\"<br>1) son of Ram or Aram and father of Nahshon or Naasson and an ancestor of Jesus; father-in-law of Aaron<br>2) a Kohathite Levite and chief of the sons of Uzziel<br>3) a Levite, son of Kohath; also 'Izhar'"
+                }
+              },
+              {
+                "text": "{H5992G=עַמִּינָדָב=Amminadab»Amminadab@Exo.6.23-Luk}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5992",
+                  "lemma": "עַמִּינָדָב",
+                  "translit": "am.mi.na.dav",
+                  "morph": "N:N-M-P",
+                  "gloss": "Izhar A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.6.18; <br> son of: Kohath (H6955); <br> brother of: Amram (H6019), Hebron (H2275B) and Uzziel (H5816); <br> father of: Korah (H7141I), Nepheg (H5298), Zichri (H2147) and Shelomith (H8019A)<BR>Another name of <i>yits.har</i> (יִצְהָר \"Izhar\" H3324)<BR> § Amminadab = \"my kinsman is noble\"<br>1) son of Ram or Aram and father of Nahshon or Naasson and an ancestor of Jesus; father-in-law of Aaron<br>2) a Kohathite Levite and chief of the sons of Uzziel<br>3) a Levite, son of Kohath; also 'Izhar'",
+                  "raw": "H5992\tH5992I = a Name of\tH3324\tעַמִּינָדָב\tam.mi.na.dav\tN:N-M-P\tIzhar\tA man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.6.18; <br> son of: Kohath (H6955); <br> brother of: Amram (H6019), Hebron (H2275B) and Uzziel (H5816); <br> father of: Korah (H7141I), Nepheg (H5298), Zichri (H2147) and Shelomith (H8019A)<BR>Another name of <i>yits.har</i> (יִצְהָר \"Izhar\" H3324)<BR> § Amminadab = \"my kinsman is noble\"<br>1) son of Ram or Aram and father of Nahshon or Naasson and an ancestor of Jesus; father-in-law of Aaron<br>2) a Kohathite Levite and chief of the sons of Uzziel<br>3) a Levite, son of Kohath; also 'Izhar'"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L עַמִּינָדָֽב\\׃ 'a.mi.na.Dav Amminadab {H5992G}\\H9016 HNpm H5992G {H5992G=עַמִּינָדָב=Amminadab»Amminadab@Exo.6.23-Luk}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 8,
           "text": "from Issachar, Nethanel son of Zuar;",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צוּעָֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tzu.'Ar",
+                "wordIndex": 2
+              },
+              {
+                "text": "Zuar",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6686}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6686",
+                  "lemma": "צוּעָר",
+                  "translit": "tsu.ar",
+                  "morph": "N:N-M-P",
+                  "gloss": "Zuar A man living at the time of Egypt and Wilderness, first mentioned at Num.1.8; <br> father of: Nethanel (H5417) <BR> § Zuar = \"littleness\"<br> father of Nethaneel, the chief of the tribe of Issachar at the time of the exodus and an assistant of Moses<br>",
+                  "raw": "H6686\tH6686 =\tH6686\tצוּעָר\ttsu.ar\tN:N-M-P\tZuar\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.8; <br> father of: Nethanel (H5417) <BR> § Zuar = \"littleness\"<br> father of Nethaneel, the chief of the tribe of Issachar at the time of the exodus and an assistant of Moses<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6686",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6686",
+                  "lemma": "צוּעָר",
+                  "translit": "tsu.ar",
+                  "morph": "N:N-M-P",
+                  "gloss": "Zuar A man living at the time of Egypt and Wilderness, first mentioned at Num.1.8; <br> father of: Nethanel (H5417) <BR> § Zuar = \"littleness\"<br> father of Nethaneel, the chief of the tribe of Issachar at the time of the exodus and an assistant of Moses<br>",
+                  "raw": "H6686\tH6686 =\tH6686\tצוּעָר\ttsu.ar\tN:N-M-P\tZuar\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.8; <br> father of: Nethanel (H5417) <BR> § Zuar = \"littleness\"<br> father of Nethaneel, the chief of the tribe of Issachar at the time of the exodus and an assistant of Moses<br>"
+                }
+              },
+              {
+                "text": "{H6686=צוּעָר=Zuar»Zuar@Num.1.8-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6686",
+                  "lemma": "צוּעָר",
+                  "translit": "tsu.ar",
+                  "morph": "N:N-M-P",
+                  "gloss": "Zuar A man living at the time of Egypt and Wilderness, first mentioned at Num.1.8; <br> father of: Nethanel (H5417) <BR> § Zuar = \"littleness\"<br> father of Nethaneel, the chief of the tribe of Issachar at the time of the exodus and an assistant of Moses<br>",
+                  "raw": "H6686\tH6686 =\tH6686\tצוּעָר\ttsu.ar\tN:N-M-P\tZuar\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.8; <br> father of: Nethanel (H5417) <BR> § Zuar = \"littleness\"<br> father of Nethaneel, the chief of the tribe of Issachar at the time of the exodus and an assistant of Moses<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L צוּעָֽר\\׃ tzu.'Ar Zuar {H6686}\\H9016 HNpm H6686 {H6686=צוּעָר=Zuar»Zuar@Num.1.8-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 9,
           "text": "from Zebulun, Eliab son of Helon.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "חֵלֹֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "che.Lon",
+                "wordIndex": 2
+              },
+              {
+                "text": "Helon",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H2497}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H2497",
+                  "lemma": "חֵלֹן",
+                  "translit": "che.lon",
+                  "morph": "N:N-M-P",
+                  "gloss": "Helon A man living at the time of Egypt and Wilderness, first mentioned at Num.1.9; <br> father of: Eliab (H0446) <BR> § Helon = \"strength\"<br> father of Eliab of the tribe of Zebulun<br>",
+                  "raw": "H2497\tH2497 =\tH2497\tחֵלֹן\tche.lon\tN:N-M-P\tHelon\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.9; <br> father of: Eliab (H0446) <BR> § Helon = \"strength\"<br> father of Eliab of the tribe of Zebulun<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H2497",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H2497",
+                  "lemma": "חֵלֹן",
+                  "translit": "che.lon",
+                  "morph": "N:N-M-P",
+                  "gloss": "Helon A man living at the time of Egypt and Wilderness, first mentioned at Num.1.9; <br> father of: Eliab (H0446) <BR> § Helon = \"strength\"<br> father of Eliab of the tribe of Zebulun<br>",
+                  "raw": "H2497\tH2497 =\tH2497\tחֵלֹן\tche.lon\tN:N-M-P\tHelon\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.9; <br> father of: Eliab (H0446) <BR> § Helon = \"strength\"<br> father of Eliab of the tribe of Zebulun<br>"
+                }
+              },
+              {
+                "text": "{H2497=חֵלֹן=Helon»Helon@Num.1.9-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2497",
+                  "lemma": "חֵלֹן",
+                  "translit": "che.lon",
+                  "morph": "N:N-M-P",
+                  "gloss": "Helon A man living at the time of Egypt and Wilderness, first mentioned at Num.1.9; <br> father of: Eliab (H0446) <BR> § Helon = \"strength\"<br> father of Eliab of the tribe of Zebulun<br>",
+                  "raw": "H2497\tH2497 =\tH2497\tחֵלֹן\tche.lon\tN:N-M-P\tHelon\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.9; <br> father of: Eliab (H0446) <BR> § Helon = \"strength\"<br> father of Eliab of the tribe of Zebulun<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L חֵלֹֽן\\׃ che.Lon Helon {H2497}\\H9016 HNpm H2497 {H2497=חֵלֹן=Helon»Helon@Num.1.9-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 10,
           "text": "From the descendants of Joseph: from Ephraim, Elishama son of Ammihud; from Manasseh, Gamaliel son of Pedahzur.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פְּדָהצֽוּר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "pe.da.h.Tzur",
+                "wordIndex": 2
+              },
+              {
+                "text": "Pedahzur",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6301}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6301",
+                  "lemma": "פְּדָהצוּר",
+                  "translit": "pe.da.h.tsur",
+                  "morph": "N:N-M-P",
+                  "gloss": "Pedahzur A man living at the time of Egypt and Wilderness, first mentioned at Num.1.10; <br> father of: Gamaliel (H1583) <BR> § Pedahzur = \"the Rock has ransomed\"<br> father of Gamaliel who was the chief of the tribe of Manasseh at the time of the exodus<br>",
+                  "raw": "H6301\tH6301 =\tH6301\tפְּדָהצוּר\tpe.da.h.tsur\tN:N-M-P\tPedahzur\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.10; <br> father of: Gamaliel (H1583) <BR> § Pedahzur = \"the Rock has ransomed\"<br> father of Gamaliel who was the chief of the tribe of Manasseh at the time of the exodus<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6301",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6301",
+                  "lemma": "פְּדָהצוּר",
+                  "translit": "pe.da.h.tsur",
+                  "morph": "N:N-M-P",
+                  "gloss": "Pedahzur A man living at the time of Egypt and Wilderness, first mentioned at Num.1.10; <br> father of: Gamaliel (H1583) <BR> § Pedahzur = \"the Rock has ransomed\"<br> father of Gamaliel who was the chief of the tribe of Manasseh at the time of the exodus<br>",
+                  "raw": "H6301\tH6301 =\tH6301\tפְּדָהצוּר\tpe.da.h.tsur\tN:N-M-P\tPedahzur\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.10; <br> father of: Gamaliel (H1583) <BR> § Pedahzur = \"the Rock has ransomed\"<br> father of Gamaliel who was the chief of the tribe of Manasseh at the time of the exodus<br>"
+                }
+              },
+              {
+                "text": "{H6301=פְּדָהצוּר=Pedahzur»Pedahzur@Num.1.10-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6301",
+                  "lemma": "פְּדָהצוּר",
+                  "translit": "pe.da.h.tsur",
+                  "morph": "N:N-M-P",
+                  "gloss": "Pedahzur A man living at the time of Egypt and Wilderness, first mentioned at Num.1.10; <br> father of: Gamaliel (H1583) <BR> § Pedahzur = \"the Rock has ransomed\"<br> father of Gamaliel who was the chief of the tribe of Manasseh at the time of the exodus<br>",
+                  "raw": "H6301\tH6301 =\tH6301\tפְּדָהצוּר\tpe.da.h.tsur\tN:N-M-P\tPedahzur\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.10; <br> father of: Gamaliel (H1583) <BR> § Pedahzur = \"the Rock has ransomed\"<br> father of Gamaliel who was the chief of the tribe of Manasseh at the time of the exodus<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L פְּדָהצֽוּר\\׃ pe.da.h.Tzur Pedahzur {H6301}\\H9016 HNpm H6301 {H6301=פְּדָהצוּר=Pedahzur»Pedahzur@Num.1.10-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 11,
           "text": "From Benjamin, Abidan son of Gideoni;",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "גִּדְעֹנִֽי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "gid.'o.Ni",
+                "wordIndex": 2
+              },
+              {
+                "text": "Gideoni",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1441}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1441",
+                  "lemma": "גִּדְעֹנִי",
+                  "translit": "gid.o.ni",
+                  "morph": "N:N-M-P",
+                  "gloss": "Gideoni A man living at the time of Egypt and Wilderness, first mentioned at Num.1.11; <br> father of: Abidan (H0027) <BR> § Gideoni = \"my hewer\"<br> a Benjamite, father of Abidan<br>",
+                  "raw": "H1441\tH1441 =\tH1441\tגִּדְעֹנִי\tgid.o.ni\tN:N-M-P\tGideoni\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.11; <br> father of: Abidan (H0027) <BR> § Gideoni = \"my hewer\"<br> a Benjamite, father of Abidan<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1441",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1441",
+                  "lemma": "גִּדְעֹנִי",
+                  "translit": "gid.o.ni",
+                  "morph": "N:N-M-P",
+                  "gloss": "Gideoni A man living at the time of Egypt and Wilderness, first mentioned at Num.1.11; <br> father of: Abidan (H0027) <BR> § Gideoni = \"my hewer\"<br> a Benjamite, father of Abidan<br>",
+                  "raw": "H1441\tH1441 =\tH1441\tגִּדְעֹנִי\tgid.o.ni\tN:N-M-P\tGideoni\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.11; <br> father of: Abidan (H0027) <BR> § Gideoni = \"my hewer\"<br> a Benjamite, father of Abidan<br>"
+                }
+              },
+              {
+                "text": "{H1441=גִּדְעֹנִי=Gideoni»Gideoni@Num.1.11-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1441",
+                  "lemma": "גִּדְעֹנִי",
+                  "translit": "gid.o.ni",
+                  "morph": "N:N-M-P",
+                  "gloss": "Gideoni A man living at the time of Egypt and Wilderness, first mentioned at Num.1.11; <br> father of: Abidan (H0027) <BR> § Gideoni = \"my hewer\"<br> a Benjamite, father of Abidan<br>",
+                  "raw": "H1441\tH1441 =\tH1441\tגִּדְעֹנִי\tgid.o.ni\tN:N-M-P\tGideoni\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.11; <br> father of: Abidan (H0027) <BR> § Gideoni = \"my hewer\"<br> a Benjamite, father of Abidan<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L גִּדְעֹנִֽי\\׃ gid.'o.Ni Gideoni {H1441}\\H9016 HNpm H1441 {H1441=גִּדְעֹנִי=Gideoni»Gideoni@Num.1.11-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 12,
           "text": "from Dan, Ahiezer son of Ammishaddai;",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עַמִּֽישַׁדָּֽי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'am.Mi.sha.Dai",
+                "wordIndex": 2
+              },
+              {
+                "text": "Ammishaddai",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5996}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5996",
+                  "lemma": "עַמִּישַׁדָּ֑י",
+                  "translit": "am.mi.shad.day",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ammishaddai A man living at the time of Egypt and Wilderness, first mentioned at Num.1.12; <br> father of: Ahiezer (H0295) <BR> § Ammishaddai = \"my kinsman is Almighty\"<br> father of Ahiezer, prince of the tribe of Dan at the time of the exodus<br>",
+                  "raw": "H5996\tH5996 =\tH5996\tעַמִּישַׁדָּ֑י\tam.mi.shad.day\tN:N-M-P\tAmmishaddai\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.12; <br> father of: Ahiezer (H0295) <BR> § Ammishaddai = \"my kinsman is Almighty\"<br> father of Ahiezer, prince of the tribe of Dan at the time of the exodus<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5996",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5996",
+                  "lemma": "עַמִּישַׁדָּ֑י",
+                  "translit": "am.mi.shad.day",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ammishaddai A man living at the time of Egypt and Wilderness, first mentioned at Num.1.12; <br> father of: Ahiezer (H0295) <BR> § Ammishaddai = \"my kinsman is Almighty\"<br> father of Ahiezer, prince of the tribe of Dan at the time of the exodus<br>",
+                  "raw": "H5996\tH5996 =\tH5996\tעַמִּישַׁדָּ֑י\tam.mi.shad.day\tN:N-M-P\tAmmishaddai\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.12; <br> father of: Ahiezer (H0295) <BR> § Ammishaddai = \"my kinsman is Almighty\"<br> father of Ahiezer, prince of the tribe of Dan at the time of the exodus<br>"
+                }
+              },
+              {
+                "text": "{H5996=עַמִּישַׁדָּ֑י=Ammishaddai»Ammishaddai@Num.1.12-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5996",
+                  "lemma": "עַמִּישַׁדָּ֑י",
+                  "translit": "am.mi.shad.day",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ammishaddai A man living at the time of Egypt and Wilderness, first mentioned at Num.1.12; <br> father of: Ahiezer (H0295) <BR> § Ammishaddai = \"my kinsman is Almighty\"<br> father of Ahiezer, prince of the tribe of Dan at the time of the exodus<br>",
+                  "raw": "H5996\tH5996 =\tH5996\tעַמִּישַׁדָּ֑י\tam.mi.shad.day\tN:N-M-P\tAmmishaddai\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.12; <br> father of: Ahiezer (H0295) <BR> § Ammishaddai = \"my kinsman is Almighty\"<br> father of Ahiezer, prince of the tribe of Dan at the time of the exodus<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L עַמִּֽישַׁדָּֽי\\׃ 'am.Mi.sha.Dai Ammishaddai {H5996}\\H9016 HNpm H5996 {H5996=עַמִּישַׁדָּ֑י=Ammishaddai»Ammishaddai@Num.1.12-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 13,
           "text": "from Asher, Pagiel son of Ocran;",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עָכְרָֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.khe.Ran",
+                "wordIndex": 2
+              },
+              {
+                "text": "Ocran",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5918}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5918",
+                  "lemma": "עׇכְרָן",
+                  "translit": "okh.ran",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ochran A man living at the time of Egypt and Wilderness, first mentioned at Num.1.13; <br> father of: Pagiel (H6295) <BR> § Ocran = \"troubled\"<br> an Asherite, father of Pagiel<br>",
+                  "raw": "H5918\tH5918 =\tH5918\tעׇכְרָן\tokh.ran\tN:N-M-P\tOchran\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.13; <br> father of: Pagiel (H6295) <BR> § Ocran = \"troubled\"<br> an Asherite, father of Pagiel<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5918",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5918",
+                  "lemma": "עׇכְרָן",
+                  "translit": "okh.ran",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ochran A man living at the time of Egypt and Wilderness, first mentioned at Num.1.13; <br> father of: Pagiel (H6295) <BR> § Ocran = \"troubled\"<br> an Asherite, father of Pagiel<br>",
+                  "raw": "H5918\tH5918 =\tH5918\tעׇכְרָן\tokh.ran\tN:N-M-P\tOchran\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.13; <br> father of: Pagiel (H6295) <BR> § Ocran = \"troubled\"<br> an Asherite, father of Pagiel<br>"
+                }
+              },
+              {
+                "text": "{H5918=עׇכְרָן=Ochran»Ochran@Num.1.13-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5918",
+                  "lemma": "עׇכְרָן",
+                  "translit": "okh.ran",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ochran A man living at the time of Egypt and Wilderness, first mentioned at Num.1.13; <br> father of: Pagiel (H6295) <BR> § Ocran = \"troubled\"<br> an Asherite, father of Pagiel<br>",
+                  "raw": "H5918\tH5918 =\tH5918\tעׇכְרָן\tokh.ran\tN:N-M-P\tOchran\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.13; <br> father of: Pagiel (H6295) <BR> § Ocran = \"troubled\"<br> an Asherite, father of Pagiel<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L עָכְרָֽן\\׃ 'a.khe.Ran Ocran {H5918}\\H9016 HNpm H5918 {H5918=עׇכְרָן=Ochran»Ochran@Num.1.13-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 14,
           "text": "from Gad, Eliasaph son of Deuel;",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "דְּעוּאֵֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "de.'u.'El",
+                "wordIndex": 2
+              },
+              {
+                "text": "Deuel",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1845}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1845",
+                  "lemma": "דְּעוּאֵל",
+                  "translit": "de.u.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Deuel A man living at the time of Egypt and Wilderness, first mentioned at Num.1.14; <br> father of: Eliasaph (H0460); also called Reuel at Num.2.14;<BR>Also named: <i>re.u.el</i> (רְעוּאֵל \"Reuel\" H7467I) <BR> § Deuel = \"they know God\"<br> father of Eliasaph, the captain of the tribe of Gad at the time of the numbering of the people at Sinai, also called 'Reuel'<br>",
+                  "raw": "H1845\tH1845 =\tH1845\tדְּעוּאֵל\tde.u.el\tN:N-M-P\tDeuel\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.14; <br> father of: Eliasaph (H0460); also called Reuel at Num.2.14;<BR>Also named: <i>re.u.el</i> (רְעוּאֵל \"Reuel\" H7467I) <BR> § Deuel = \"they know God\"<br> father of Eliasaph, the captain of the tribe of Gad at the time of the numbering of the people at Sinai, also called 'Reuel'<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1845",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1845",
+                  "lemma": "דְּעוּאֵל",
+                  "translit": "de.u.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Deuel A man living at the time of Egypt and Wilderness, first mentioned at Num.1.14; <br> father of: Eliasaph (H0460); also called Reuel at Num.2.14;<BR>Also named: <i>re.u.el</i> (רְעוּאֵל \"Reuel\" H7467I) <BR> § Deuel = \"they know God\"<br> father of Eliasaph, the captain of the tribe of Gad at the time of the numbering of the people at Sinai, also called 'Reuel'<br>",
+                  "raw": "H1845\tH1845 =\tH1845\tדְּעוּאֵל\tde.u.el\tN:N-M-P\tDeuel\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.14; <br> father of: Eliasaph (H0460); also called Reuel at Num.2.14;<BR>Also named: <i>re.u.el</i> (רְעוּאֵל \"Reuel\" H7467I) <BR> § Deuel = \"they know God\"<br> father of Eliasaph, the captain of the tribe of Gad at the time of the numbering of the people at Sinai, also called 'Reuel'<br>"
+                }
+              },
+              {
+                "text": "{H1845=דְּעוּאֵל=Deuel»Deuel@Num.1.14-2.14}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1845",
+                  "lemma": "דְּעוּאֵל",
+                  "translit": "de.u.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Deuel A man living at the time of Egypt and Wilderness, first mentioned at Num.1.14; <br> father of: Eliasaph (H0460); also called Reuel at Num.2.14;<BR>Also named: <i>re.u.el</i> (רְעוּאֵל \"Reuel\" H7467I) <BR> § Deuel = \"they know God\"<br> father of Eliasaph, the captain of the tribe of Gad at the time of the numbering of the people at Sinai, also called 'Reuel'<br>",
+                  "raw": "H1845\tH1845 =\tH1845\tדְּעוּאֵל\tde.u.el\tN:N-M-P\tDeuel\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.14; <br> father of: Eliasaph (H0460); also called Reuel at Num.2.14;<BR>Also named: <i>re.u.el</i> (רְעוּאֵל \"Reuel\" H7467I) <BR> § Deuel = \"they know God\"<br> father of Eliasaph, the captain of the tribe of Gad at the time of the numbering of the people at Sinai, also called 'Reuel'<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L דְּעוּאֵֽל\\׃ de.'u.'El Deuel {H1845}\\H9016 HNpm H1845 {H1845=דְּעוּאֵל=Deuel»Deuel@Num.1.14-2.14}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 15,
           "text": "and from Naphtali, Ahira son of Enan.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עֵינָֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'ei.Nan",
+                "wordIndex": 2
+              },
+              {
+                "text": "Enan",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5881}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5881",
+                  "lemma": "עֵינָן",
+                  "translit": "e.nan",
+                  "morph": "N:N-M-P",
+                  "gloss": "Enan A man living at the time of Egypt and Wilderness, first mentioned at Num.1.15; <br> father of: Ahira (H0299) <BR> § Enan = \"having eyes\"<br> a prince of the tribe of Naphtali at the census at Mount Sinai<br>",
+                  "raw": "H5881\tH5881 =\tH5881\tעֵינָן\te.nan\tN:N-M-P\tEnan\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.15; <br> father of: Ahira (H0299) <BR> § Enan = \"having eyes\"<br> a prince of the tribe of Naphtali at the census at Mount Sinai<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5881",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5881",
+                  "lemma": "עֵינָן",
+                  "translit": "e.nan",
+                  "morph": "N:N-M-P",
+                  "gloss": "Enan A man living at the time of Egypt and Wilderness, first mentioned at Num.1.15; <br> father of: Ahira (H0299) <BR> § Enan = \"having eyes\"<br> a prince of the tribe of Naphtali at the census at Mount Sinai<br>",
+                  "raw": "H5881\tH5881 =\tH5881\tעֵינָן\te.nan\tN:N-M-P\tEnan\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.15; <br> father of: Ahira (H0299) <BR> § Enan = \"having eyes\"<br> a prince of the tribe of Naphtali at the census at Mount Sinai<br>"
+                }
+              },
+              {
+                "text": "{H5881=עֵינָן=Enan»Enan@Num.1.15-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5881",
+                  "lemma": "עֵינָן",
+                  "translit": "e.nan",
+                  "morph": "N:N-M-P",
+                  "gloss": "Enan A man living at the time of Egypt and Wilderness, first mentioned at Num.1.15; <br> father of: Ahira (H0299) <BR> § Enan = \"having eyes\"<br> a prince of the tribe of Naphtali at the census at Mount Sinai<br>",
+                  "raw": "H5881\tH5881 =\tH5881\tעֵינָן\te.nan\tN:N-M-P\tEnan\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.15; <br> father of: Ahira (H0299) <BR> § Enan = \"having eyes\"<br> a prince of the tribe of Naphtali at the census at Mount Sinai<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L עֵינָֽן\\׃ 'ei.Nan Enan {H5881}\\H9016 HNpm H5881 {H5881=עֵינָן=Enan»Enan@Num.1.15-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 16,
           "text": "These are the ones summoned from the community, the leaders of their ancestors’ tribes; they are the heads of Israel’s clans.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הֵֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Hem",
+                "wordIndex": 2
+              },
+              {
+                "text": "they",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1992}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1992",
+                  "lemma": "הֵ֫מָּה",
+                  "translit": "hem.mah",
+                  "morph": "H:DemP",
+                  "gloss": "they(masc.) they, these, the same, who",
+                  "raw": "H1992\tH1992 =\tH1992\tהֵ֫מָּה\them.mah\tH:DemP\tthey(masc.)\tthey, these, the same, who"
+                }
+              },
+              {
+                "text": "HPp3mp",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1992",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1992",
+                  "lemma": "הֵ֫מָּה",
+                  "translit": "hem.mah",
+                  "morph": "H:DemP",
+                  "gloss": "they(masc.) they, these, the same, who",
+                  "raw": "H1992\tH1992 =\tH1992\tהֵ֫מָּה\them.mah\tH:DemP\tthey(masc.)\tthey, these, the same, who"
+                }
+              },
+              {
+                "text": "{H1992=הֵ֫מָּה=they(masc.)}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1992",
+                  "lemma": "הֵ֫מָּה",
+                  "translit": "hem.mah",
+                  "morph": "H:DemP",
+                  "gloss": "they(masc.) they, these, the same, who",
+                  "raw": "H1992\tH1992 =\tH1992\tהֵ֫מָּה\them.mah\tH:DemP\tthey(masc.)\tthey, these, the same, who"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הֵֽם\\׃ Hem they {H1992}\\H9016 HPp3mp H1992 {H1992=הֵ֫מָּה=they(masc.)}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 17,
           "text": "So Moses and Aaron took these men who had been designated by name,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/שֵׁמֽוֹת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./she.Mot",
+                "wordIndex": 2
+              },
+              {
+                "text": "by/",
+                "wordIndex": 3
+              },
+              {
+                "text": "names",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9003/{H8034}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncfpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8034",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8034",
+                  "lemma": "שֵׁם",
+                  "translit": "shem",
+                  "morph": "H:N-M",
+                  "gloss": "name 1) name<br>1a) name<br>1b) reputation, fame, glory<br>1c) the Name (as designation of God)<br>1d) memorial, monument<BR>Aramaic equivalent: <i>shum</i> (שֻׁם \"name\" H8036)",
+                  "raw": "H8034\tH8034 =\tH8034\tשֵׁם\tshem\tH:N-M\tname\t1) name<br>1a) name<br>1b) reputation, fame, glory<br>1c) the Name (as designation of God)<br>1d) memorial, monument<BR>Aramaic equivalent: <i>shum</i> (שֻׁם \"name\" H8036)"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H8034=שֵׁם=name}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#09=L בְּ/שֵׁמֽוֹת\\׃ be./she.Mot by/ names H9003/{H8034}\\H9016 HR/Ncfpa H8034 H9003=ב=in/{H8034=שֵׁם=name}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 18,
           "text": "and they summoned the entire community on the first day of the second month. And they registered themselves among their clans according to their families, according to the number of names from those twenty years old and above individually,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/גֻלְגְּלֹתָֽ/ם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./gul.ge.lo.Ta/m",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "heads/",
+                "wordIndex": 4
+              },
+              {
+                "text": "their",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H1538}/H9028\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncfpc/Sp3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1538",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1538",
+                  "lemma": "גֻּלְגֹּ֫לֶת",
+                  "translit": "gul.go.let",
+                  "morph": "H:N-F",
+                  "gloss": "head 1) head, poll, skull<br>1a) skull<br>1b) head, poll (of census)",
+                  "raw": "H1538\tH1538 =\tH1538\tגֻּלְגֹּ֫לֶת\tgul.go.let\tH:N-F\thead\t1) head, poll, skull<br>1a) skull<br>1b) head, poll (of census)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H1538=גֻּלְגֹּ֫לֶת=head}/H9028=Pp3m=their\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#19=L לְ/גֻלְגְּלֹתָֽ/ם\\׃ le./gul.ge.lo.Ta/m to/ heads/ their H9005/{H1538}/H9028\\H9016 HR/Ncfpc/Sp3mp H1538 H9005=ל=to/{H1538=גֻּלְגֹּ֫לֶת=head}/H9028=Pp3m=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 19,
           "text": "just as Yahweh commanded Moses. And he counted them in the desert of Sinai.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "סִינָֽי\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "si.Nai",
+                "wordIndex": 3
+              },
+              {
+                "text": "Sinai",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5514H}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H5514",
+                  "lemma": "סִינַי",
+                  "translit": "si.nay",
+                  "morph": "N:N--L",
+                  "gloss": "(Wilderness of) Sinai <BR>Combined with <i>mid.bar</i> (מִדְבָּר \"wilderness\" H4057)<BR> § Sinai = \"thorny\"<br> the mountain where Moses received the Law from Jehovah; located at the southern end of the Sinai peninsula between the horns of the Red Sea; exact",
+                  "raw": "H5514\tH5514H = a Part of\tH4057G\tסִינַי\tsi.nay\tN:N--L\t(Wilderness of) Sinai\t<BR>Combined with <i>mid.bar</i> (מִדְבָּר \"wilderness\" H4057)<BR> § Sinai = \"thorny\"<br> the mountain where Moses received the Law from Jehovah; located at the southern end of the Sinai peninsula between the horns of the Red Sea; exact "
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5514H",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H5514",
+                  "lemma": "סִינַי",
+                  "translit": "si.nay",
+                  "morph": "N:N--L",
+                  "gloss": "(Wilderness of) Sinai <BR>Combined with <i>mid.bar</i> (מִדְבָּר \"wilderness\" H4057)<BR> § Sinai = \"thorny\"<br> the mountain where Moses received the Law from Jehovah; located at the southern end of the Sinai peninsula between the horns of the Red Sea; exact",
+                  "raw": "H5514\tH5514H = a Part of\tH4057G\tסִינַי\tsi.nay\tN:N--L\t(Wilderness of) Sinai\t<BR>Combined with <i>mid.bar</i> (מִדְבָּר \"wilderness\" H4057)<BR> § Sinai = \"thorny\"<br> the mountain where Moses received the Law from Jehovah; located at the southern end of the Sinai peninsula between the horns of the Red Sea; exact "
+                }
+              },
+              {
+                "text": "{H5514H=סִינַי=",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H5514",
+                  "lemma": "סִינַי",
+                  "translit": "si.nay",
+                  "morph": "N:N--L",
+                  "gloss": "(Wilderness of) Sinai <BR>Combined with <i>mid.bar</i> (מִדְבָּר \"wilderness\" H4057)<BR> § Sinai = \"thorny\"<br> the mountain where Moses received the Law from Jehovah; located at the southern end of the Sinai peninsula between the horns of the Red Sea; exact",
+                  "raw": "H5514\tH5514H = a Part of\tH4057G\tסִינַי\tsi.nay\tN:N--L\t(Wilderness of) Sinai\t<BR>Combined with <i>mid.bar</i> (מִדְבָּר \"wilderness\" H4057)<BR> § Sinai = \"thorny\"<br> the mountain where Moses received the Law from Jehovah; located at the southern end of the Sinai peninsula between the horns of the Red Sea; exact "
+                }
+              },
+              {
+                "text": "of",
+                "wordIndex": 10
+              },
+              {
+                "text": "Sinai»Sinai_Wilderness@Exo.19.1-Num}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L סִינָֽי\\׃\\ \\פ si.Nai Sinai {H5514H}\\H9016\\ \\H9017 HNpl H5514H {H5514H=סִינַי= of Sinai»Sinai_Wilderness@Exo.19.1-Num}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ],
       "nirv": [
@@ -123,115 +1366,1358 @@
           "chapter": 1,
           "verse": 1,
           "text": "The Lord spoke to Moses in the Tent of Meeting. It happened in the Desert of Sinai. The Lord spoke to him on the first day of the second month. It was the second year after the people of Israel came out of Egypt.\nThe Lord said,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L לֵ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 2,
           "text": "“Count all of the men of Israel. Make a list of them by their tribes and families. List every man by name. List them one by one.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/גֻלְגְּלֹתָֽ/ם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./gul.ge.lo.Ta/m",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "heads/",
+                "wordIndex": 4
+              },
+              {
+                "text": "their",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H1538}/H9028\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncfpc/Sp3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1538",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1538",
+                  "lemma": "גֻּלְגֹּ֫לֶת",
+                  "translit": "gul.go.let",
+                  "morph": "H:N-F",
+                  "gloss": "head 1) head, poll, skull<br>1a) skull<br>1b) head, poll (of census)",
+                  "raw": "H1538\tH1538 =\tH1538\tגֻּלְגֹּ֫לֶת\tgul.go.let\tH:N-F\thead\t1) head, poll, skull<br>1a) skull<br>1b) head, poll (of census)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H1538=גֻּלְגֹּ֫לֶת=head}/H9028=Pp3m=their\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#15=L לְ/גֻלְגְּלֹתָֽ/ם\\׃ le./gul.ge.lo.Ta/m to/ heads/ their H9005/{H1538}/H9028\\H9016 HR/Ncfpc/Sp3mp H1538 H9005=ל=to/{H1538=גֻּלְגֹּ֫לֶת=head}/H9028=Pp3m=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 3,
           "text": "Count all of the men who are able to serve in the army. They must be 20 years old or more. I want you and Aaron to make a list of them company by company.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/אַהֲרֹֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./'a.ha.Ron",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Aaron",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9002/{H0175}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Npm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0175",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0175",
+                  "lemma": "אַהֲרֹן",
+                  "translit": "a.ha.ron",
+                  "morph": "N:N-M-P",
+                  "gloss": "Aaron A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.4.14; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Moses (H4872) and Miriam (H4813); married to Elisheba (H0472); <br> father of: Nadab (H5070), Abihu (H0030), Eleazar (H0499) and Ithamar (H0385)<BR>Also named: <i>Aarōn</i> (Ἀαρών \"Aaron\" G0002) <BR> § Aaron = \"light bringer\"<br> brother of Moses, a Levite and the first high priest<br>",
+                  "raw": "H0175\tH0175 =\tH0175\tאַהֲרֹן\ta.ha.ron\tN:N-M-P\tAaron\tA man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.4.14; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Moses (H4872) and Miriam (H4813); married to Elisheba (H0472); <br> father of: Nadab (H5070), Abihu (H0030), Eleazar (H0499) and Ithamar (H0385)<BR>Also named: <i>Aarōn</i> (Ἀαρών \"Aaron\" G0002) <BR> § Aaron = \"light bringer\"<br> brother of Moses, a Levite and the first high priest<br>"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H0175=אַהֲרֹן=Aaron»Aaron@Exo.4.14-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L וְ/אַהֲרֹֽן\\׃ ve./'a.ha.Ron and/ Aaron H9002/{H0175}\\H9016 HC/Npm H0175 H9002=ו=and/{H0175=אַהֲרֹן=Aaron»Aaron@Exo.4.14-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 4,
           "text": "One man from each tribe must help you. Those who help must be the heads of their families.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הֽוּא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Hu'",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1931}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "HPp3ms",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1931",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הֽוּא\\׃ Hu' he {H1931}\\H9016 HPp3ms H1931 {H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 5,
           "text": "“From the tribe of Reuben will come Elizur, the son of Shedeur.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שְׁדֵיאֽוּר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "she.dei.'Ur",
+                "wordIndex": 2
+              },
+              {
+                "text": "Shedeur",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H7707}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H7707",
+                  "lemma": "שְׁדֵיאוּר",
+                  "translit": "she.de.ur",
+                  "morph": "N:N-M-P",
+                  "gloss": "Shedeur A man living at the time of Egypt and Wilderness, first mentioned at Num.1.5; <br> father of: Elizur (H0468) <BR> § Shedeur = \"darter of light\"<br> father of Elizur, chief of the tribe of Reuben at the time of the exodus<br>",
+                  "raw": "H7707\tH7707 =\tH7707\tשְׁדֵיאוּר\tshe.de.ur\tN:N-M-P\tShedeur\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.5; <br> father of: Elizur (H0468) <BR> § Shedeur = \"darter of light\"<br> father of Elizur, chief of the tribe of Reuben at the time of the exodus<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H7707",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H7707",
+                  "lemma": "שְׁדֵיאוּר",
+                  "translit": "she.de.ur",
+                  "morph": "N:N-M-P",
+                  "gloss": "Shedeur A man living at the time of Egypt and Wilderness, first mentioned at Num.1.5; <br> father of: Elizur (H0468) <BR> § Shedeur = \"darter of light\"<br> father of Elizur, chief of the tribe of Reuben at the time of the exodus<br>",
+                  "raw": "H7707\tH7707 =\tH7707\tשְׁדֵיאוּר\tshe.de.ur\tN:N-M-P\tShedeur\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.5; <br> father of: Elizur (H0468) <BR> § Shedeur = \"darter of light\"<br> father of Elizur, chief of the tribe of Reuben at the time of the exodus<br>"
+                }
+              },
+              {
+                "text": "{H7707=שְׁדֵיאוּר=Shedeur»Shedeur@Num.1.5-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7707",
+                  "lemma": "שְׁדֵיאוּר",
+                  "translit": "she.de.ur",
+                  "morph": "N:N-M-P",
+                  "gloss": "Shedeur A man living at the time of Egypt and Wilderness, first mentioned at Num.1.5; <br> father of: Elizur (H0468) <BR> § Shedeur = \"darter of light\"<br> father of Elizur, chief of the tribe of Reuben at the time of the exodus<br>",
+                  "raw": "H7707\tH7707 =\tH7707\tשְׁדֵיאוּר\tshe.de.ur\tN:N-M-P\tShedeur\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.5; <br> father of: Elizur (H0468) <BR> § Shedeur = \"darter of light\"<br> father of Elizur, chief of the tribe of Reuben at the time of the exodus<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L שְׁדֵיאֽוּר\\׃ she.dei.'Ur Shedeur {H7707}\\H9016 HNpm H7707 {H7707=שְׁדֵיאוּר=Shedeur»Shedeur@Num.1.5-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 6,
           "text": "From the tribe of Simeon will come Shelumiel, the son of Zurishaddai.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צוּרִֽישַׁדָּֽי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tzu.Ri.sha.Dai",
+                "wordIndex": 2
+              },
+              {
+                "text": "Zurishaddai",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6701}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6701",
+                  "lemma": "צוּרִישַׁדָּ֑י",
+                  "translit": "tsu.ri.shad.day",
+                  "morph": "N:N-M-P",
+                  "gloss": "Zurishaddai A man living at the time of Egypt and Wilderness, first mentioned at Num.1.6; <br> father of: Shelumiel (H8017) <BR> § Zurishaddai = \"my rock is almighty\"<br> father of Shelumiel, the chief of the Simeonites at the time of the exodus<br>",
+                  "raw": "H6701\tH6701 =\tH6701\tצוּרִישַׁדָּ֑י\ttsu.ri.shad.day\tN:N-M-P\tZurishaddai\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.6; <br> father of: Shelumiel (H8017) <BR> § Zurishaddai = \"my rock is almighty\"<br> father of Shelumiel, the chief of the Simeonites at the time of the exodus<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6701",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6701",
+                  "lemma": "צוּרִישַׁדָּ֑י",
+                  "translit": "tsu.ri.shad.day",
+                  "morph": "N:N-M-P",
+                  "gloss": "Zurishaddai A man living at the time of Egypt and Wilderness, first mentioned at Num.1.6; <br> father of: Shelumiel (H8017) <BR> § Zurishaddai = \"my rock is almighty\"<br> father of Shelumiel, the chief of the Simeonites at the time of the exodus<br>",
+                  "raw": "H6701\tH6701 =\tH6701\tצוּרִישַׁדָּ֑י\ttsu.ri.shad.day\tN:N-M-P\tZurishaddai\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.6; <br> father of: Shelumiel (H8017) <BR> § Zurishaddai = \"my rock is almighty\"<br> father of Shelumiel, the chief of the Simeonites at the time of the exodus<br>"
+                }
+              },
+              {
+                "text": "{H6701=צוּרִישַׁדָּ֑י=Zurishaddai»Zurishaddai@Num.1.6-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6701",
+                  "lemma": "צוּרִישַׁדָּ֑י",
+                  "translit": "tsu.ri.shad.day",
+                  "morph": "N:N-M-P",
+                  "gloss": "Zurishaddai A man living at the time of Egypt and Wilderness, first mentioned at Num.1.6; <br> father of: Shelumiel (H8017) <BR> § Zurishaddai = \"my rock is almighty\"<br> father of Shelumiel, the chief of the Simeonites at the time of the exodus<br>",
+                  "raw": "H6701\tH6701 =\tH6701\tצוּרִישַׁדָּ֑י\ttsu.ri.shad.day\tN:N-M-P\tZurishaddai\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.6; <br> father of: Shelumiel (H8017) <BR> § Zurishaddai = \"my rock is almighty\"<br> father of Shelumiel, the chief of the Simeonites at the time of the exodus<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L צוּרִֽישַׁדָּֽי\\׃ tzu.Ri.sha.Dai Zurishaddai {H6701}\\H9016 HNpm H6701 {H6701=צוּרִישַׁדָּ֑י=Zurishaddai»Zurishaddai@Num.1.6-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 7,
           "text": "From the tribe of Judah will come Nahshon, the son of Amminadab.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עַמִּינָדָֽב\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.mi.na.Dav",
+                "wordIndex": 2
+              },
+              {
+                "text": "Amminadab",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5992G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5992",
+                  "lemma": "עַמִּינָדָב",
+                  "translit": "am.mi.na.dav",
+                  "morph": "N:N-M-P",
+                  "gloss": "Izhar A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.6.18; <br> son of: Kohath (H6955); <br> brother of: Amram (H6019), Hebron (H2275B) and Uzziel (H5816); <br> father of: Korah (H7141I), Nepheg (H5298), Zichri (H2147) and Shelomith (H8019A)<BR>Another name of <i>yits.har</i> (יִצְהָר \"Izhar\" H3324)<BR> § Amminadab = \"my kinsman is noble\"<br>1) son of Ram or Aram and father of Nahshon or Naasson and an ancestor of Jesus; father-in-law of Aaron<br>2) a Kohathite Levite and chief of the sons of Uzziel<br>3) a Levite, son of Kohath; also 'Izhar'",
+                  "raw": "H5992\tH5992I = a Name of\tH3324\tעַמִּינָדָב\tam.mi.na.dav\tN:N-M-P\tIzhar\tA man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.6.18; <br> son of: Kohath (H6955); <br> brother of: Amram (H6019), Hebron (H2275B) and Uzziel (H5816); <br> father of: Korah (H7141I), Nepheg (H5298), Zichri (H2147) and Shelomith (H8019A)<BR>Another name of <i>yits.har</i> (יִצְהָר \"Izhar\" H3324)<BR> § Amminadab = \"my kinsman is noble\"<br>1) son of Ram or Aram and father of Nahshon or Naasson and an ancestor of Jesus; father-in-law of Aaron<br>2) a Kohathite Levite and chief of the sons of Uzziel<br>3) a Levite, son of Kohath; also 'Izhar'"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5992G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5992",
+                  "lemma": "עַמִּינָדָב",
+                  "translit": "am.mi.na.dav",
+                  "morph": "N:N-M-P",
+                  "gloss": "Izhar A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.6.18; <br> son of: Kohath (H6955); <br> brother of: Amram (H6019), Hebron (H2275B) and Uzziel (H5816); <br> father of: Korah (H7141I), Nepheg (H5298), Zichri (H2147) and Shelomith (H8019A)<BR>Another name of <i>yits.har</i> (יִצְהָר \"Izhar\" H3324)<BR> § Amminadab = \"my kinsman is noble\"<br>1) son of Ram or Aram and father of Nahshon or Naasson and an ancestor of Jesus; father-in-law of Aaron<br>2) a Kohathite Levite and chief of the sons of Uzziel<br>3) a Levite, son of Kohath; also 'Izhar'",
+                  "raw": "H5992\tH5992I = a Name of\tH3324\tעַמִּינָדָב\tam.mi.na.dav\tN:N-M-P\tIzhar\tA man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.6.18; <br> son of: Kohath (H6955); <br> brother of: Amram (H6019), Hebron (H2275B) and Uzziel (H5816); <br> father of: Korah (H7141I), Nepheg (H5298), Zichri (H2147) and Shelomith (H8019A)<BR>Another name of <i>yits.har</i> (יִצְהָר \"Izhar\" H3324)<BR> § Amminadab = \"my kinsman is noble\"<br>1) son of Ram or Aram and father of Nahshon or Naasson and an ancestor of Jesus; father-in-law of Aaron<br>2) a Kohathite Levite and chief of the sons of Uzziel<br>3) a Levite, son of Kohath; also 'Izhar'"
+                }
+              },
+              {
+                "text": "{H5992G=עַמִּינָדָב=Amminadab»Amminadab@Exo.6.23-Luk}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5992",
+                  "lemma": "עַמִּינָדָב",
+                  "translit": "am.mi.na.dav",
+                  "morph": "N:N-M-P",
+                  "gloss": "Izhar A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.6.18; <br> son of: Kohath (H6955); <br> brother of: Amram (H6019), Hebron (H2275B) and Uzziel (H5816); <br> father of: Korah (H7141I), Nepheg (H5298), Zichri (H2147) and Shelomith (H8019A)<BR>Another name of <i>yits.har</i> (יִצְהָר \"Izhar\" H3324)<BR> § Amminadab = \"my kinsman is noble\"<br>1) son of Ram or Aram and father of Nahshon or Naasson and an ancestor of Jesus; father-in-law of Aaron<br>2) a Kohathite Levite and chief of the sons of Uzziel<br>3) a Levite, son of Kohath; also 'Izhar'",
+                  "raw": "H5992\tH5992I = a Name of\tH3324\tעַמִּינָדָב\tam.mi.na.dav\tN:N-M-P\tIzhar\tA man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.6.18; <br> son of: Kohath (H6955); <br> brother of: Amram (H6019), Hebron (H2275B) and Uzziel (H5816); <br> father of: Korah (H7141I), Nepheg (H5298), Zichri (H2147) and Shelomith (H8019A)<BR>Another name of <i>yits.har</i> (יִצְהָר \"Izhar\" H3324)<BR> § Amminadab = \"my kinsman is noble\"<br>1) son of Ram or Aram and father of Nahshon or Naasson and an ancestor of Jesus; father-in-law of Aaron<br>2) a Kohathite Levite and chief of the sons of Uzziel<br>3) a Levite, son of Kohath; also 'Izhar'"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L עַמִּינָדָֽב\\׃ 'a.mi.na.Dav Amminadab {H5992G}\\H9016 HNpm H5992G {H5992G=עַמִּינָדָב=Amminadab»Amminadab@Exo.6.23-Luk}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 8,
           "text": "From the tribe of Issachar will come Nethanel, the son of Zuar.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צוּעָֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tzu.'Ar",
+                "wordIndex": 2
+              },
+              {
+                "text": "Zuar",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6686}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6686",
+                  "lemma": "צוּעָר",
+                  "translit": "tsu.ar",
+                  "morph": "N:N-M-P",
+                  "gloss": "Zuar A man living at the time of Egypt and Wilderness, first mentioned at Num.1.8; <br> father of: Nethanel (H5417) <BR> § Zuar = \"littleness\"<br> father of Nethaneel, the chief of the tribe of Issachar at the time of the exodus and an assistant of Moses<br>",
+                  "raw": "H6686\tH6686 =\tH6686\tצוּעָר\ttsu.ar\tN:N-M-P\tZuar\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.8; <br> father of: Nethanel (H5417) <BR> § Zuar = \"littleness\"<br> father of Nethaneel, the chief of the tribe of Issachar at the time of the exodus and an assistant of Moses<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6686",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6686",
+                  "lemma": "צוּעָר",
+                  "translit": "tsu.ar",
+                  "morph": "N:N-M-P",
+                  "gloss": "Zuar A man living at the time of Egypt and Wilderness, first mentioned at Num.1.8; <br> father of: Nethanel (H5417) <BR> § Zuar = \"littleness\"<br> father of Nethaneel, the chief of the tribe of Issachar at the time of the exodus and an assistant of Moses<br>",
+                  "raw": "H6686\tH6686 =\tH6686\tצוּעָר\ttsu.ar\tN:N-M-P\tZuar\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.8; <br> father of: Nethanel (H5417) <BR> § Zuar = \"littleness\"<br> father of Nethaneel, the chief of the tribe of Issachar at the time of the exodus and an assistant of Moses<br>"
+                }
+              },
+              {
+                "text": "{H6686=צוּעָר=Zuar»Zuar@Num.1.8-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6686",
+                  "lemma": "צוּעָר",
+                  "translit": "tsu.ar",
+                  "morph": "N:N-M-P",
+                  "gloss": "Zuar A man living at the time of Egypt and Wilderness, first mentioned at Num.1.8; <br> father of: Nethanel (H5417) <BR> § Zuar = \"littleness\"<br> father of Nethaneel, the chief of the tribe of Issachar at the time of the exodus and an assistant of Moses<br>",
+                  "raw": "H6686\tH6686 =\tH6686\tצוּעָר\ttsu.ar\tN:N-M-P\tZuar\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.8; <br> father of: Nethanel (H5417) <BR> § Zuar = \"littleness\"<br> father of Nethaneel, the chief of the tribe of Issachar at the time of the exodus and an assistant of Moses<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L צוּעָֽר\\׃ tzu.'Ar Zuar {H6686}\\H9016 HNpm H6686 {H6686=צוּעָר=Zuar»Zuar@Num.1.8-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 9,
           "text": "From the tribe of Zebulun will come Eliab, the son of Helon.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "חֵלֹֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "che.Lon",
+                "wordIndex": 2
+              },
+              {
+                "text": "Helon",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H2497}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H2497",
+                  "lemma": "חֵלֹן",
+                  "translit": "che.lon",
+                  "morph": "N:N-M-P",
+                  "gloss": "Helon A man living at the time of Egypt and Wilderness, first mentioned at Num.1.9; <br> father of: Eliab (H0446) <BR> § Helon = \"strength\"<br> father of Eliab of the tribe of Zebulun<br>",
+                  "raw": "H2497\tH2497 =\tH2497\tחֵלֹן\tche.lon\tN:N-M-P\tHelon\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.9; <br> father of: Eliab (H0446) <BR> § Helon = \"strength\"<br> father of Eliab of the tribe of Zebulun<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H2497",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H2497",
+                  "lemma": "חֵלֹן",
+                  "translit": "che.lon",
+                  "morph": "N:N-M-P",
+                  "gloss": "Helon A man living at the time of Egypt and Wilderness, first mentioned at Num.1.9; <br> father of: Eliab (H0446) <BR> § Helon = \"strength\"<br> father of Eliab of the tribe of Zebulun<br>",
+                  "raw": "H2497\tH2497 =\tH2497\tחֵלֹן\tche.lon\tN:N-M-P\tHelon\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.9; <br> father of: Eliab (H0446) <BR> § Helon = \"strength\"<br> father of Eliab of the tribe of Zebulun<br>"
+                }
+              },
+              {
+                "text": "{H2497=חֵלֹן=Helon»Helon@Num.1.9-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2497",
+                  "lemma": "חֵלֹן",
+                  "translit": "che.lon",
+                  "morph": "N:N-M-P",
+                  "gloss": "Helon A man living at the time of Egypt and Wilderness, first mentioned at Num.1.9; <br> father of: Eliab (H0446) <BR> § Helon = \"strength\"<br> father of Eliab of the tribe of Zebulun<br>",
+                  "raw": "H2497\tH2497 =\tH2497\tחֵלֹן\tche.lon\tN:N-M-P\tHelon\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.9; <br> father of: Eliab (H0446) <BR> § Helon = \"strength\"<br> father of Eliab of the tribe of Zebulun<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L חֵלֹֽן\\׃ che.Lon Helon {H2497}\\H9016 HNpm H2497 {H2497=חֵלֹן=Helon»Helon@Num.1.9-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 10,
           "text": "From the tribe of Ephraim will come Elishama, the son of Ammihud.\nFrom the tribe of Manasseh will come Gamaliel, the son of Pedahzur.\nEphraim and Manasseh were Joseph’s two sons.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פְּדָהצֽוּר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "pe.da.h.Tzur",
+                "wordIndex": 2
+              },
+              {
+                "text": "Pedahzur",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6301}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6301",
+                  "lemma": "פְּדָהצוּר",
+                  "translit": "pe.da.h.tsur",
+                  "morph": "N:N-M-P",
+                  "gloss": "Pedahzur A man living at the time of Egypt and Wilderness, first mentioned at Num.1.10; <br> father of: Gamaliel (H1583) <BR> § Pedahzur = \"the Rock has ransomed\"<br> father of Gamaliel who was the chief of the tribe of Manasseh at the time of the exodus<br>",
+                  "raw": "H6301\tH6301 =\tH6301\tפְּדָהצוּר\tpe.da.h.tsur\tN:N-M-P\tPedahzur\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.10; <br> father of: Gamaliel (H1583) <BR> § Pedahzur = \"the Rock has ransomed\"<br> father of Gamaliel who was the chief of the tribe of Manasseh at the time of the exodus<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6301",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6301",
+                  "lemma": "פְּדָהצוּר",
+                  "translit": "pe.da.h.tsur",
+                  "morph": "N:N-M-P",
+                  "gloss": "Pedahzur A man living at the time of Egypt and Wilderness, first mentioned at Num.1.10; <br> father of: Gamaliel (H1583) <BR> § Pedahzur = \"the Rock has ransomed\"<br> father of Gamaliel who was the chief of the tribe of Manasseh at the time of the exodus<br>",
+                  "raw": "H6301\tH6301 =\tH6301\tפְּדָהצוּר\tpe.da.h.tsur\tN:N-M-P\tPedahzur\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.10; <br> father of: Gamaliel (H1583) <BR> § Pedahzur = \"the Rock has ransomed\"<br> father of Gamaliel who was the chief of the tribe of Manasseh at the time of the exodus<br>"
+                }
+              },
+              {
+                "text": "{H6301=פְּדָהצוּר=Pedahzur»Pedahzur@Num.1.10-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6301",
+                  "lemma": "פְּדָהצוּר",
+                  "translit": "pe.da.h.tsur",
+                  "morph": "N:N-M-P",
+                  "gloss": "Pedahzur A man living at the time of Egypt and Wilderness, first mentioned at Num.1.10; <br> father of: Gamaliel (H1583) <BR> § Pedahzur = \"the Rock has ransomed\"<br> father of Gamaliel who was the chief of the tribe of Manasseh at the time of the exodus<br>",
+                  "raw": "H6301\tH6301 =\tH6301\tפְּדָהצוּר\tpe.da.h.tsur\tN:N-M-P\tPedahzur\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.10; <br> father of: Gamaliel (H1583) <BR> § Pedahzur = \"the Rock has ransomed\"<br> father of Gamaliel who was the chief of the tribe of Manasseh at the time of the exodus<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L פְּדָהצֽוּר\\׃ pe.da.h.Tzur Pedahzur {H6301}\\H9016 HNpm H6301 {H6301=פְּדָהצוּר=Pedahzur»Pedahzur@Num.1.10-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 11,
           "text": "From the tribe of Benjamin will come Abidan, the son of Gideoni.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "גִּדְעֹנִֽי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "gid.'o.Ni",
+                "wordIndex": 2
+              },
+              {
+                "text": "Gideoni",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1441}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1441",
+                  "lemma": "גִּדְעֹנִי",
+                  "translit": "gid.o.ni",
+                  "morph": "N:N-M-P",
+                  "gloss": "Gideoni A man living at the time of Egypt and Wilderness, first mentioned at Num.1.11; <br> father of: Abidan (H0027) <BR> § Gideoni = \"my hewer\"<br> a Benjamite, father of Abidan<br>",
+                  "raw": "H1441\tH1441 =\tH1441\tגִּדְעֹנִי\tgid.o.ni\tN:N-M-P\tGideoni\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.11; <br> father of: Abidan (H0027) <BR> § Gideoni = \"my hewer\"<br> a Benjamite, father of Abidan<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1441",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1441",
+                  "lemma": "גִּדְעֹנִי",
+                  "translit": "gid.o.ni",
+                  "morph": "N:N-M-P",
+                  "gloss": "Gideoni A man living at the time of Egypt and Wilderness, first mentioned at Num.1.11; <br> father of: Abidan (H0027) <BR> § Gideoni = \"my hewer\"<br> a Benjamite, father of Abidan<br>",
+                  "raw": "H1441\tH1441 =\tH1441\tגִּדְעֹנִי\tgid.o.ni\tN:N-M-P\tGideoni\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.11; <br> father of: Abidan (H0027) <BR> § Gideoni = \"my hewer\"<br> a Benjamite, father of Abidan<br>"
+                }
+              },
+              {
+                "text": "{H1441=גִּדְעֹנִי=Gideoni»Gideoni@Num.1.11-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1441",
+                  "lemma": "גִּדְעֹנִי",
+                  "translit": "gid.o.ni",
+                  "morph": "N:N-M-P",
+                  "gloss": "Gideoni A man living at the time of Egypt and Wilderness, first mentioned at Num.1.11; <br> father of: Abidan (H0027) <BR> § Gideoni = \"my hewer\"<br> a Benjamite, father of Abidan<br>",
+                  "raw": "H1441\tH1441 =\tH1441\tגִּדְעֹנִי\tgid.o.ni\tN:N-M-P\tGideoni\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.11; <br> father of: Abidan (H0027) <BR> § Gideoni = \"my hewer\"<br> a Benjamite, father of Abidan<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L גִּדְעֹנִֽי\\׃ gid.'o.Ni Gideoni {H1441}\\H9016 HNpm H1441 {H1441=גִּדְעֹנִי=Gideoni»Gideoni@Num.1.11-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 12,
           "text": "From the tribe of Dan will come Ahiezer, the son of Ammishaddai.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עַמִּֽישַׁדָּֽי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'am.Mi.sha.Dai",
+                "wordIndex": 2
+              },
+              {
+                "text": "Ammishaddai",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5996}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5996",
+                  "lemma": "עַמִּישַׁדָּ֑י",
+                  "translit": "am.mi.shad.day",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ammishaddai A man living at the time of Egypt and Wilderness, first mentioned at Num.1.12; <br> father of: Ahiezer (H0295) <BR> § Ammishaddai = \"my kinsman is Almighty\"<br> father of Ahiezer, prince of the tribe of Dan at the time of the exodus<br>",
+                  "raw": "H5996\tH5996 =\tH5996\tעַמִּישַׁדָּ֑י\tam.mi.shad.day\tN:N-M-P\tAmmishaddai\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.12; <br> father of: Ahiezer (H0295) <BR> § Ammishaddai = \"my kinsman is Almighty\"<br> father of Ahiezer, prince of the tribe of Dan at the time of the exodus<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5996",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5996",
+                  "lemma": "עַמִּישַׁדָּ֑י",
+                  "translit": "am.mi.shad.day",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ammishaddai A man living at the time of Egypt and Wilderness, first mentioned at Num.1.12; <br> father of: Ahiezer (H0295) <BR> § Ammishaddai = \"my kinsman is Almighty\"<br> father of Ahiezer, prince of the tribe of Dan at the time of the exodus<br>",
+                  "raw": "H5996\tH5996 =\tH5996\tעַמִּישַׁדָּ֑י\tam.mi.shad.day\tN:N-M-P\tAmmishaddai\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.12; <br> father of: Ahiezer (H0295) <BR> § Ammishaddai = \"my kinsman is Almighty\"<br> father of Ahiezer, prince of the tribe of Dan at the time of the exodus<br>"
+                }
+              },
+              {
+                "text": "{H5996=עַמִּישַׁדָּ֑י=Ammishaddai»Ammishaddai@Num.1.12-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5996",
+                  "lemma": "עַמִּישַׁדָּ֑י",
+                  "translit": "am.mi.shad.day",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ammishaddai A man living at the time of Egypt and Wilderness, first mentioned at Num.1.12; <br> father of: Ahiezer (H0295) <BR> § Ammishaddai = \"my kinsman is Almighty\"<br> father of Ahiezer, prince of the tribe of Dan at the time of the exodus<br>",
+                  "raw": "H5996\tH5996 =\tH5996\tעַמִּישַׁדָּ֑י\tam.mi.shad.day\tN:N-M-P\tAmmishaddai\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.12; <br> father of: Ahiezer (H0295) <BR> § Ammishaddai = \"my kinsman is Almighty\"<br> father of Ahiezer, prince of the tribe of Dan at the time of the exodus<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L עַמִּֽישַׁדָּֽי\\׃ 'am.Mi.sha.Dai Ammishaddai {H5996}\\H9016 HNpm H5996 {H5996=עַמִּישַׁדָּ֑י=Ammishaddai»Ammishaddai@Num.1.12-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 13,
           "text": "From the tribe of Asher will come Pagiel, the son of Ocran.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עָכְרָֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.khe.Ran",
+                "wordIndex": 2
+              },
+              {
+                "text": "Ocran",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5918}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5918",
+                  "lemma": "עׇכְרָן",
+                  "translit": "okh.ran",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ochran A man living at the time of Egypt and Wilderness, first mentioned at Num.1.13; <br> father of: Pagiel (H6295) <BR> § Ocran = \"troubled\"<br> an Asherite, father of Pagiel<br>",
+                  "raw": "H5918\tH5918 =\tH5918\tעׇכְרָן\tokh.ran\tN:N-M-P\tOchran\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.13; <br> father of: Pagiel (H6295) <BR> § Ocran = \"troubled\"<br> an Asherite, father of Pagiel<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5918",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5918",
+                  "lemma": "עׇכְרָן",
+                  "translit": "okh.ran",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ochran A man living at the time of Egypt and Wilderness, first mentioned at Num.1.13; <br> father of: Pagiel (H6295) <BR> § Ocran = \"troubled\"<br> an Asherite, father of Pagiel<br>",
+                  "raw": "H5918\tH5918 =\tH5918\tעׇכְרָן\tokh.ran\tN:N-M-P\tOchran\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.13; <br> father of: Pagiel (H6295) <BR> § Ocran = \"troubled\"<br> an Asherite, father of Pagiel<br>"
+                }
+              },
+              {
+                "text": "{H5918=עׇכְרָן=Ochran»Ochran@Num.1.13-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5918",
+                  "lemma": "עׇכְרָן",
+                  "translit": "okh.ran",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ochran A man living at the time of Egypt and Wilderness, first mentioned at Num.1.13; <br> father of: Pagiel (H6295) <BR> § Ocran = \"troubled\"<br> an Asherite, father of Pagiel<br>",
+                  "raw": "H5918\tH5918 =\tH5918\tעׇכְרָן\tokh.ran\tN:N-M-P\tOchran\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.13; <br> father of: Pagiel (H6295) <BR> § Ocran = \"troubled\"<br> an Asherite, father of Pagiel<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L עָכְרָֽן\\׃ 'a.khe.Ran Ocran {H5918}\\H9016 HNpm H5918 {H5918=עׇכְרָן=Ochran»Ochran@Num.1.13-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 14,
           "text": "From the tribe of Gad will come Eliasaph, the son of Deuel.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "דְּעוּאֵֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "de.'u.'El",
+                "wordIndex": 2
+              },
+              {
+                "text": "Deuel",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1845}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1845",
+                  "lemma": "דְּעוּאֵל",
+                  "translit": "de.u.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Deuel A man living at the time of Egypt and Wilderness, first mentioned at Num.1.14; <br> father of: Eliasaph (H0460); also called Reuel at Num.2.14;<BR>Also named: <i>re.u.el</i> (רְעוּאֵל \"Reuel\" H7467I) <BR> § Deuel = \"they know God\"<br> father of Eliasaph, the captain of the tribe of Gad at the time of the numbering of the people at Sinai, also called 'Reuel'<br>",
+                  "raw": "H1845\tH1845 =\tH1845\tדְּעוּאֵל\tde.u.el\tN:N-M-P\tDeuel\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.14; <br> father of: Eliasaph (H0460); also called Reuel at Num.2.14;<BR>Also named: <i>re.u.el</i> (רְעוּאֵל \"Reuel\" H7467I) <BR> § Deuel = \"they know God\"<br> father of Eliasaph, the captain of the tribe of Gad at the time of the numbering of the people at Sinai, also called 'Reuel'<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1845",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1845",
+                  "lemma": "דְּעוּאֵל",
+                  "translit": "de.u.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Deuel A man living at the time of Egypt and Wilderness, first mentioned at Num.1.14; <br> father of: Eliasaph (H0460); also called Reuel at Num.2.14;<BR>Also named: <i>re.u.el</i> (רְעוּאֵל \"Reuel\" H7467I) <BR> § Deuel = \"they know God\"<br> father of Eliasaph, the captain of the tribe of Gad at the time of the numbering of the people at Sinai, also called 'Reuel'<br>",
+                  "raw": "H1845\tH1845 =\tH1845\tדְּעוּאֵל\tde.u.el\tN:N-M-P\tDeuel\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.14; <br> father of: Eliasaph (H0460); also called Reuel at Num.2.14;<BR>Also named: <i>re.u.el</i> (רְעוּאֵל \"Reuel\" H7467I) <BR> § Deuel = \"they know God\"<br> father of Eliasaph, the captain of the tribe of Gad at the time of the numbering of the people at Sinai, also called 'Reuel'<br>"
+                }
+              },
+              {
+                "text": "{H1845=דְּעוּאֵל=Deuel»Deuel@Num.1.14-2.14}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1845",
+                  "lemma": "דְּעוּאֵל",
+                  "translit": "de.u.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Deuel A man living at the time of Egypt and Wilderness, first mentioned at Num.1.14; <br> father of: Eliasaph (H0460); also called Reuel at Num.2.14;<BR>Also named: <i>re.u.el</i> (רְעוּאֵל \"Reuel\" H7467I) <BR> § Deuel = \"they know God\"<br> father of Eliasaph, the captain of the tribe of Gad at the time of the numbering of the people at Sinai, also called 'Reuel'<br>",
+                  "raw": "H1845\tH1845 =\tH1845\tדְּעוּאֵל\tde.u.el\tN:N-M-P\tDeuel\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.14; <br> father of: Eliasaph (H0460); also called Reuel at Num.2.14;<BR>Also named: <i>re.u.el</i> (רְעוּאֵל \"Reuel\" H7467I) <BR> § Deuel = \"they know God\"<br> father of Eliasaph, the captain of the tribe of Gad at the time of the numbering of the people at Sinai, also called 'Reuel'<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L דְּעוּאֵֽל\\׃ de.'u.'El Deuel {H1845}\\H9016 HNpm H1845 {H1845=דְּעוּאֵל=Deuel»Deuel@Num.1.14-2.14}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 15,
           "text": "From the tribe of Naphtali will come Ahira, the son of Enan.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עֵינָֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'ei.Nan",
+                "wordIndex": 2
+              },
+              {
+                "text": "Enan",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5881}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5881",
+                  "lemma": "עֵינָן",
+                  "translit": "e.nan",
+                  "morph": "N:N-M-P",
+                  "gloss": "Enan A man living at the time of Egypt and Wilderness, first mentioned at Num.1.15; <br> father of: Ahira (H0299) <BR> § Enan = \"having eyes\"<br> a prince of the tribe of Naphtali at the census at Mount Sinai<br>",
+                  "raw": "H5881\tH5881 =\tH5881\tעֵינָן\te.nan\tN:N-M-P\tEnan\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.15; <br> father of: Ahira (H0299) <BR> § Enan = \"having eyes\"<br> a prince of the tribe of Naphtali at the census at Mount Sinai<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5881",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5881",
+                  "lemma": "עֵינָן",
+                  "translit": "e.nan",
+                  "morph": "N:N-M-P",
+                  "gloss": "Enan A man living at the time of Egypt and Wilderness, first mentioned at Num.1.15; <br> father of: Ahira (H0299) <BR> § Enan = \"having eyes\"<br> a prince of the tribe of Naphtali at the census at Mount Sinai<br>",
+                  "raw": "H5881\tH5881 =\tH5881\tעֵינָן\te.nan\tN:N-M-P\tEnan\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.15; <br> father of: Ahira (H0299) <BR> § Enan = \"having eyes\"<br> a prince of the tribe of Naphtali at the census at Mount Sinai<br>"
+                }
+              },
+              {
+                "text": "{H5881=עֵינָן=Enan»Enan@Num.1.15-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5881",
+                  "lemma": "עֵינָן",
+                  "translit": "e.nan",
+                  "morph": "N:N-M-P",
+                  "gloss": "Enan A man living at the time of Egypt and Wilderness, first mentioned at Num.1.15; <br> father of: Ahira (H0299) <BR> § Enan = \"having eyes\"<br> a prince of the tribe of Naphtali at the census at Mount Sinai<br>",
+                  "raw": "H5881\tH5881 =\tH5881\tעֵינָן\te.nan\tN:N-M-P\tEnan\tA man living at the time of Egypt and Wilderness, first mentioned at Num.1.15; <br> father of: Ahira (H0299) <BR> § Enan = \"having eyes\"<br> a prince of the tribe of Naphtali at the census at Mount Sinai<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L עֵינָֽן\\׃ 'ei.Nan Enan {H5881}\\H9016 HNpm H5881 {H5881=עֵינָן=Enan»Enan@Num.1.15-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 16,
           "text": "Those were the men who were appointed from the community. They were the leaders of the tribes of their people. They were the heads of the major families in Israel.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הֵֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Hem",
+                "wordIndex": 2
+              },
+              {
+                "text": "they",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1992}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1992",
+                  "lemma": "הֵ֫מָּה",
+                  "translit": "hem.mah",
+                  "morph": "H:DemP",
+                  "gloss": "they(masc.) they, these, the same, who",
+                  "raw": "H1992\tH1992 =\tH1992\tהֵ֫מָּה\them.mah\tH:DemP\tthey(masc.)\tthey, these, the same, who"
+                }
+              },
+              {
+                "text": "HPp3mp",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1992",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1992",
+                  "lemma": "הֵ֫מָּה",
+                  "translit": "hem.mah",
+                  "morph": "H:DemP",
+                  "gloss": "they(masc.) they, these, the same, who",
+                  "raw": "H1992\tH1992 =\tH1992\tהֵ֫מָּה\them.mah\tH:DemP\tthey(masc.)\tthey, these, the same, who"
+                }
+              },
+              {
+                "text": "{H1992=הֵ֫מָּה=they(masc.)}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1992",
+                  "lemma": "הֵ֫מָּה",
+                  "translit": "hem.mah",
+                  "morph": "H:DemP",
+                  "gloss": "they(masc.) they, these, the same, who",
+                  "raw": "H1992\tH1992 =\tH1992\tהֵ֫מָּה\them.mah\tH:DemP\tthey(masc.)\tthey, these, the same, who"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הֵֽם\\׃ Hem they {H1992}\\H9016 HPp3mp H1992 {H1992=הֵ֫מָּה=they(masc.)}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 17,
           "text": "Moses and Aaron went and got the men whose names had been given to them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/שֵׁמֽוֹת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./she.Mot",
+                "wordIndex": 2
+              },
+              {
+                "text": "by/",
+                "wordIndex": 3
+              },
+              {
+                "text": "names",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9003/{H8034}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncfpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8034",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8034",
+                  "lemma": "שֵׁם",
+                  "translit": "shem",
+                  "morph": "H:N-M",
+                  "gloss": "name 1) name<br>1a) name<br>1b) reputation, fame, glory<br>1c) the Name (as designation of God)<br>1d) memorial, monument<BR>Aramaic equivalent: <i>shum</i> (שֻׁם \"name\" H8036)",
+                  "raw": "H8034\tH8034 =\tH8034\tשֵׁם\tshem\tH:N-M\tname\t1) name<br>1a) name<br>1b) reputation, fame, glory<br>1c) the Name (as designation of God)<br>1d) memorial, monument<BR>Aramaic equivalent: <i>shum</i> (שֻׁם \"name\" H8036)"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H8034=שֵׁם=name}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#09=L בְּ/שֵׁמֽוֹת\\׃ be./she.Mot by/ names H9003/{H8034}\\H9016 HR/Ncfpa H8034 H9003=ב=in/{H8034=שֵׁם=name}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 18,
           "text": "Then Moses and Aaron gathered all of the men of Israel together. It was the first day of the second month. The men announced the tribe and family they belonged to. Those who were 20 years old or more were listed by name. They were listed one by one.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/גֻלְגְּלֹתָֽ/ם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./gul.ge.lo.Ta/m",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "heads/",
+                "wordIndex": 4
+              },
+              {
+                "text": "their",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H1538}/H9028\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncfpc/Sp3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1538",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1538",
+                  "lemma": "גֻּלְגֹּ֫לֶת",
+                  "translit": "gul.go.let",
+                  "morph": "H:N-F",
+                  "gloss": "head 1) head, poll, skull<br>1a) skull<br>1b) head, poll (of census)",
+                  "raw": "H1538\tH1538 =\tH1538\tגֻּלְגֹּ֫לֶת\tgul.go.let\tH:N-F\thead\t1) head, poll, skull<br>1a) skull<br>1b) head, poll (of census)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H1538=גֻּלְגֹּ֫לֶת=head}/H9028=Pp3m=their\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#19=L לְ/גֻלְגְּלֹתָֽ/ם\\׃ le./gul.ge.lo.Ta/m to/ heads/ their H9005/{H1538}/H9028\\H9016 HR/Ncfpc/Sp3mp H1538 H9005=ל=to/{H1538=גֻּלְגֹּ֫לֶת=head}/H9028=Pp3m=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 19,
           "text": "Everything was done just as the Lord had commanded Moses. So Moses counted them in the Desert of Sinai.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "סִינָֽי\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "si.Nai",
+                "wordIndex": 3
+              },
+              {
+                "text": "Sinai",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5514H}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H5514",
+                  "lemma": "סִינַי",
+                  "translit": "si.nay",
+                  "morph": "N:N--L",
+                  "gloss": "(Wilderness of) Sinai <BR>Combined with <i>mid.bar</i> (מִדְבָּר \"wilderness\" H4057)<BR> § Sinai = \"thorny\"<br> the mountain where Moses received the Law from Jehovah; located at the southern end of the Sinai peninsula between the horns of the Red Sea; exact",
+                  "raw": "H5514\tH5514H = a Part of\tH4057G\tסִינַי\tsi.nay\tN:N--L\t(Wilderness of) Sinai\t<BR>Combined with <i>mid.bar</i> (מִדְבָּר \"wilderness\" H4057)<BR> § Sinai = \"thorny\"<br> the mountain where Moses received the Law from Jehovah; located at the southern end of the Sinai peninsula between the horns of the Red Sea; exact "
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5514H",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H5514",
+                  "lemma": "סִינַי",
+                  "translit": "si.nay",
+                  "morph": "N:N--L",
+                  "gloss": "(Wilderness of) Sinai <BR>Combined with <i>mid.bar</i> (מִדְבָּר \"wilderness\" H4057)<BR> § Sinai = \"thorny\"<br> the mountain where Moses received the Law from Jehovah; located at the southern end of the Sinai peninsula between the horns of the Red Sea; exact",
+                  "raw": "H5514\tH5514H = a Part of\tH4057G\tסִינַי\tsi.nay\tN:N--L\t(Wilderness of) Sinai\t<BR>Combined with <i>mid.bar</i> (מִדְבָּר \"wilderness\" H4057)<BR> § Sinai = \"thorny\"<br> the mountain where Moses received the Law from Jehovah; located at the southern end of the Sinai peninsula between the horns of the Red Sea; exact "
+                }
+              },
+              {
+                "text": "{H5514H=סִינַי=",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H5514",
+                  "lemma": "סִינַי",
+                  "translit": "si.nay",
+                  "morph": "N:N--L",
+                  "gloss": "(Wilderness of) Sinai <BR>Combined with <i>mid.bar</i> (מִדְבָּר \"wilderness\" H4057)<BR> § Sinai = \"thorny\"<br> the mountain where Moses received the Law from Jehovah; located at the southern end of the Sinai peninsula between the horns of the Red Sea; exact",
+                  "raw": "H5514\tH5514H = a Part of\tH4057G\tסִינַי\tsi.nay\tN:N--L\t(Wilderness of) Sinai\t<BR>Combined with <i>mid.bar</i> (מִדְבָּר \"wilderness\" H4057)<BR> § Sinai = \"thorny\"<br> the mountain where Moses received the Law from Jehovah; located at the southern end of the Sinai peninsula between the horns of the Red Sea; exact "
+                }
+              },
+              {
+                "text": "of",
+                "wordIndex": 10
+              },
+              {
+                "text": "Sinai»Sinai_Wilderness@Exo.19.1-Num}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L סִינָֽי\\׃\\ \\פ si.Nai Sinai {H5514H}\\H9016\\ \\H9017 HNpl H5514H {H5514H=סִינַי= of Sinai»Sinai_Wilderness@Exo.19.1-Num}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ]
     }

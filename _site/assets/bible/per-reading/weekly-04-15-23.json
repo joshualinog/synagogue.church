@@ -7,79 +7,1008 @@
           "chapter": 47,
           "verse": 28,
           "text": "And Jacob lived in the land of Egypt seventeen years. And the days of Jacob, the years of his life, were one hundred and forty-seven years.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שָׁנָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "sha.Nah",
+                "wordIndex": 2
+              },
+              {
+                "text": "year[s]",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H8141}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H8141",
+                  "lemma": "שָׁנָה",
+                  "translit": "sha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "year 1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)",
+                  "raw": "H8141\tH8141 =\tH8141\tשָׁנָה\tsha.neh\tH:N-F\tyear\t1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)"
+                }
+              },
+              {
+                "text": "HNcfsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H8141_D",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H8141",
+                  "lemma": "שָׁנָה",
+                  "translit": "sha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "year 1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)",
+                  "raw": "H8141\tH8141 =\tH8141\tשָׁנָה\tsha.neh\tH:N-F\tyear\t1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)"
+                }
+              },
+              {
+                "text": "{H8141=שָׁנָה=year}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8141",
+                  "lemma": "שָׁנָה",
+                  "translit": "sha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "year 1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)",
+                  "raw": "H8141\tH8141 =\tH8141\tשָׁנָה\tsha.neh\tH:N-F\tyear\t1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L שָׁנָֽה\\׃ sha.Nah year[s] {H8141}\\H9016 HNcfsa H8141_D {H8141=שָׁנָה=year}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 47,
           "verse": 29,
           "text": "When the time of Israel’s death drew near, he called to his son, to Joseph. And he said to him, “If I have found favor in your eyes, please put your hand under my thigh, that you might vow to deal kindly and faithfully with me. Please do not bury me in Egypt,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#27=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/מִצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "in/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9003/{H4714G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#27=L בְּ/מִצְרָֽיִם\\׃ be./mitz.Ra.yim in/ Egypt H9003/{H4714G}\\H9016 HR/Npl H4714G H9003=ב=in/{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 47,
           "verse": 30,
           "text": "but let me lie with my ancestors. Carry me out of Egypt and bury me in their burial site.” And he said, “I will do according to your word.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "כִ/דְבָרֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "khi/d.va.Re./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "according",
+                "wordIndex": 3
+              },
+              {
+                "text": "to/",
+                "wordIndex": 4
+              },
+              {
+                "text": "word/",
+                "wordIndex": 5
+              },
+              {
+                "text": "your",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9004/{H1697G}/H9021\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9004",
+                  "lemma": "/כ",
+                  "translit": "k",
+                  "morph": "Prefix",
+                  "gloss": "like/as Prefix kaph: like, as",
+                  "raw": "H9004\tH9004 =\tH9004\t/כ\tk\tPrefix\tlike/as\tPrefix kaph: like, as "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp2ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H1697G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H1697",
+                  "lemma": "דָּבָר",
+                  "translit": "da.var",
+                  "morph": "H:N-M",
+                  "gloss": "Chronicles <BR> This name means  word, speaking",
+                  "raw": "H1697\tH1697O =\tH1697O\tדָּבָר\tda.var\tH:N-M\tChronicles\t<BR> This name means  word, speaking"
+                }
+              },
+              {
+                "text": "H9004=כ=like/{H1697G=דָּבָר=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9004",
+                  "lemma": "/כ",
+                  "translit": "k",
+                  "morph": "Prefix",
+                  "gloss": "like/as Prefix kaph: like, as",
+                  "raw": "H9004\tH9004 =\tH9004\t/כ\tk\tPrefix\tlike/as\tPrefix kaph: like, as "
+                }
+              },
+              {
+                "text": "word»word:1_word;_speech;_command}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L כִ/דְבָרֶֽ/ךָ\\׃ khi/d.va.Re./kha according to/ word/ your H9004/{H1697G}/H9021\\H9016 HR/Ncmsc/Sp2ms H1697G H9004=כ=like/{H1697G=דָּבָר=: word»word:1_word;_speech;_command}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 47,
           "verse": 31,
           "text": "Then he said, “Swear to me.” And he swore to him. Then Israel bowed himself on the head of the bed.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/מִּטָּֽה\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "ha./mi.Tah",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "bed",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H4296}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H4296",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4296",
+                  "lemma": "מִטָּה",
+                  "translit": "mit.tah",
+                  "morph": "H:N-F",
+                  "gloss": "bed couch, bed, bier",
+                  "raw": "H4296\tH4296 =\tH4296\tמִטָּה\tmit.tah\tH:N-F\tbed\tcouch, bed, bier"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H4296=מִטָּה=bed}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הַ/מִּטָּֽה\\׃\\ \\פ ha./mi.Tah the/ bed H9009/{H4296}\\H9016\\ \\H9017 HTd/Ncfsa H4296 H9009=ה=the/{H4296=מִטָּה=bed}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 48,
           "verse": 1,
           "text": "And it happened that after these things, it was said to Joseph, “Behold, your father is ill.” And he took his two sons with him, Ephraim and Manasseh.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֶפְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'ef.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "Ephraim",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0669G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0669",
+                  "lemma": "אֶפְרַ֫יִם",
+                  "translit": "eph.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "Ephraim Ephraim = \"double ash-heap: I shall be doubly fruitful\"<br> the  country of the tribe of Ephraim<BR>Also named: <i>Ephraim</i> (Ἐφραίμ \"Ephraim\" G2187)",
+                  "raw": "H0669\tH0669L =\tH0669L\tאֶפְרַ֫יִם\teph.ra.yim\tN:N--L\tEphraim\tEphraim = \"double ash-heap: I shall be doubly fruitful\"<br> the  country of the tribe of Ephraim<BR>Also named: <i>Ephraim</i> (Ἐφραίμ \"Ephraim\" G2187)"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0669G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0669",
+                  "lemma": "אֶפְרַ֫יִם",
+                  "translit": "eph.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "Ephraim Ephraim = \"double ash-heap: I shall be doubly fruitful\"<br> the  country of the tribe of Ephraim<BR>Also named: <i>Ephraim</i> (Ἐφραίμ \"Ephraim\" G2187)",
+                  "raw": "H0669\tH0669L =\tH0669L\tאֶפְרַ֫יִם\teph.ra.yim\tN:N--L\tEphraim\tEphraim = \"double ash-heap: I shall be doubly fruitful\"<br> the  country of the tribe of Ephraim<BR>Also named: <i>Ephraim</i> (Ἐφραίμ \"Ephraim\" G2187)"
+                }
+              },
+              {
+                "text": "{H0669G=אֶפְרַ֫יִם=Ephraim»Ephraim@Gen.41.52-1Ki}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0669",
+                  "lemma": "אֶפְרַ֫יִם",
+                  "translit": "eph.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "Ephraim Ephraim = \"double ash-heap: I shall be doubly fruitful\"<br> the  country of the tribe of Ephraim<BR>Also named: <i>Ephraim</i> (Ἐφραίμ \"Ephraim\" G2187)",
+                  "raw": "H0669\tH0669L =\tH0669L\tאֶפְרַ֫יִם\teph.ra.yim\tN:N--L\tEphraim\tEphraim = \"double ash-heap: I shall be doubly fruitful\"<br> the  country of the tribe of Ephraim<BR>Also named: <i>Ephraim</i> (Ἐφραίμ \"Ephraim\" G2187)"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L אֶפְרָֽיִם\\׃ 'ef.Ra.yim Ephraim {H0669G}\\H9016 HNpm H0669G {H0669G=אֶפְרַ֫יִם=Ephraim»Ephraim@Gen.41.52-1Ki}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 48,
           "verse": 2,
           "text": "And it was told to Jacob, “Behold, your son Joseph has come to you.” Then Israel strengthened himself and he sat up in the bed.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/מִּטָּֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./mi.Tah",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "bed",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H4296}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4296",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4296",
+                  "lemma": "מִטָּה",
+                  "translit": "mit.tah",
+                  "morph": "H:N-F",
+                  "gloss": "bed couch, bed, bier",
+                  "raw": "H4296\tH4296 =\tH4296\tמִטָּה\tmit.tah\tH:N-F\tbed\tcouch, bed, bier"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H4296=מִטָּה=bed}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L הַ/מִּטָּֽה\\׃ ha./mi.Tah the/ bed H9009/{H4296}\\H9016 HTd/Ncfsa H4296 H9009=ה=the/{H4296=מִטָּה=bed}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 48,
           "verse": 3,
           "text": "Then Jacob said to Joseph, “El-Shaddai appeared to me in Luz, in the land of Canaan, and blessed me,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֹתִֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'o.T/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "<obj.>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "me",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0853}/H9030\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              },
+              {
+                "text": "HTo/Sp1bs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0853",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              },
+              {
+                "text": "{H0853=אֵת=[Obj.]}/H9030=Os1c=me\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L אֹתִֽ/י\\׃ 'o.T/i <obj.>/ me {H0853}/H9030\\H9016 HTo/Sp1bs H0853 {H0853=אֵת=[Obj.]}/H9030=Os1c=me\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 48,
           "verse": 4,
           "text": "and said to me, ‘Behold, I will make you fruitful and make you numerous, and will make you a company of nations. And I will give this land to your offspring after you as an everlasting possession.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עוֹלָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "o.Lam",
+                "wordIndex": 2
+              },
+              {
+                "text": "perpetuity",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5769G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5769G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "{H5769G=עוֹלָם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L עוֹלָֽם\\׃ o.Lam perpetuity {H5769G}\\H9016 HNcmsa H5769G {H5769G=עוֹלָם=: enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 48,
           "verse": 5,
           "text": "And now, your two sons who were born to you in the land of Egypt before my coming to you in Egypt, are mine. Ephraim and Manasseh shall be mine as Reuben and Simeon are.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לִֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "L/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "me",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H9030}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Sp1bs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9030_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9030",
+                  "lemma": "נִי",
+                  "translit": "ni",
+                  "morph": "Os1c",
+                  "gloss": "me Personal object pronoun -  suffix for propositions and verbs without an object: 1st person singular",
+                  "raw": "H9030\tH9030 =\tH9030\tנִי\tni\tOs1c\tme\tPersonal object pronoun -  suffix for propositions and verbs without an object: 1st person singular"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9030=Os1c=me}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#19=L לִֽ/י\\׃ L/i to/ me H9005/{H9030}\\H9016 HR/Sp1bs H9030_B H9005=ל=to/{H9030=Os1c=me}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 48,
           "verse": 6,
           "text": "And your children whom you father after them shall be yours. By the name of their brothers they shall be called, with respect to their inheritance.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/נַחֲלָתָֽ/ם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./na.cha.la.Ta/m",
+                "wordIndex": 2
+              },
+              {
+                "text": "in/",
+                "wordIndex": 3
+              },
+              {
+                "text": "inheritance/",
+                "wordIndex": 4
+              },
+              {
+                "text": "their",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H5159}/H9028\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncfsc/Sp3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5159",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H5159",
+                  "lemma": "נַחֲלָה",
+                  "translit": "na.cha.lah",
+                  "morph": "H:N-F",
+                  "gloss": "inheritance 1) possession, property, inheritance, heritage<br>1a) property<br>1b) portion, share<br>1c) inheritance, portion",
+                  "raw": "H5159\tH5159 =\tH5159\tנַחֲלָה\tna.cha.lah\tH:N-F\tinheritance\t1) possession, property, inheritance, heritage<br>1a) property<br>1b) portion, share<br>1c) inheritance, portion"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H5159=נַחֲלָה=inheritance}/H9028=Pp3m=their\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#11=L בְּ/נַחֲלָתָֽ/ם\\׃ be./na.cha.la.Ta/m in/ inheritance/ their H9003/{H5159}/H9028\\H9016 HR/Ncfsc/Sp3mp H5159 H9003=ב=in/{H5159=נַחֲלָה=inheritance}/H9028=Pp3m=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 48,
           "verse": 7,
           "text": "As for me, when I came to Paddan-Aram Rachel died to my sorrow in the land of Canaan on the way when there was still some distance to go to Ephrath. And I buried her there on the way to Ephrath (that is, Bethlehem).”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָֽחֶם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La.chem",
+                "wordIndex": 2
+              },
+              {
+                "text": "-lehem",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1035G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1035",
+                  "lemma": "בֵּית לֶ֫חֶם",
+                  "translit": "bet le.chem",
+                  "morph": "N:N--L",
+                  "gloss": "Bethlehem <BR> § Beth-lehem = \"house of bread (food)\"<br>  a place in Zebulun",
+                  "raw": "H1035\tH1035H =\tH1035H\tבֵּית לֶ֫חֶם\tbet le.chem\tN:N--L\tBethlehem\t<BR> § Beth-lehem = \"house of bread (food)\"<br>  a place in Zebulun"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1035G_b",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1035",
+                  "lemma": "בֵּית לֶ֫חֶם",
+                  "translit": "bet le.chem",
+                  "morph": "N:N--L",
+                  "gloss": "Bethlehem <BR> § Beth-lehem = \"house of bread (food)\"<br>  a place in Zebulun",
+                  "raw": "H1035\tH1035H =\tH1035H\tבֵּית לֶ֫חֶם\tbet le.chem\tN:N--L\tBethlehem\t<BR> § Beth-lehem = \"house of bread (food)\"<br>  a place in Zebulun"
+                }
+              },
+              {
+                "text": "{H1035G=בֵּית",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1035",
+                  "lemma": "בֵּית לֶ֫חֶם",
+                  "translit": "bet le.chem",
+                  "morph": "N:N--L",
+                  "gloss": "Bethlehem <BR> § Beth-lehem = \"house of bread (food)\"<br>  a place in Zebulun",
+                  "raw": "H1035\tH1035H =\tH1035H\tבֵּית לֶ֫חֶם\tbet le.chem\tN:N--L\tBethlehem\t<BR> § Beth-lehem = \"house of bread (food)\"<br>  a place in Zebulun"
+                }
+              },
+              {
+                "text": "לֶ֫חֶם=Bethlehem»Bethlehem@Gen.35.16-Jhn}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L לָֽחֶם\\׃ La.chem -lehem {H1035G}\\H9016 HNpl H1035G_b {H1035G=בֵּית לֶ֫חֶם=Bethlehem»Bethlehem@Gen.35.16-Jhn}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 48,
           "verse": 8,
           "text": "When Israel saw the sons of Joseph he said, “Who are these?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֵֽלֶּה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'E.leh",
+                "wordIndex": 2
+              },
+              {
+                "text": "[are]",
+                "wordIndex": 3
+              },
+              {
+                "text": "these",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0428}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0428",
+                  "lemma": "אֵ֫לֶּה",
+                  "translit": "el.leh",
+                  "morph": "H:DemP",
+                  "gloss": "these 1) these<br>1a) used before antecedent<br>1b) used following antecedent<BR>Aramaic equivalent: <i>el.leh</i> (אֵלֶּה \"these\" H0429)",
+                  "raw": "H0428\tH0428 =\tH0428\tאֵ֫לֶּה\tel.leh\tH:DemP\tthese\t1) these<br>1a) used before antecedent<br>1b) used following antecedent<BR>Aramaic equivalent: <i>el.leh</i> (אֵלֶּה \"these\" H0429)"
+                }
+              },
+              {
+                "text": "HTm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0428",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0428",
+                  "lemma": "אֵ֫לֶּה",
+                  "translit": "el.leh",
+                  "morph": "H:DemP",
+                  "gloss": "these 1) these<br>1a) used before antecedent<br>1b) used following antecedent<BR>Aramaic equivalent: <i>el.leh</i> (אֵלֶּה \"these\" H0429)",
+                  "raw": "H0428\tH0428 =\tH0428\tאֵ֫לֶּה\tel.leh\tH:DemP\tthese\t1) these<br>1a) used before antecedent<br>1b) used following antecedent<BR>Aramaic equivalent: <i>el.leh</i> (אֵלֶּה \"these\" H0429)"
+                }
+              },
+              {
+                "text": "{H0428=אֵ֫לֶּה=these}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0428",
+                  "lemma": "אֵ֫לֶּה",
+                  "translit": "el.leh",
+                  "morph": "H:DemP",
+                  "gloss": "these 1) these<br>1a) used before antecedent<br>1b) used following antecedent<BR>Aramaic equivalent: <i>el.leh</i> (אֵלֶּה \"these\" H0429)",
+                  "raw": "H0428\tH0428 =\tH0428\tאֵ֫לֶּה\tel.leh\tH:DemP\tthese\t1) these<br>1a) used before antecedent<br>1b) used following antecedent<BR>Aramaic equivalent: <i>el.leh</i> (אֵלֶּה \"these\" H0429)"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L אֵֽלֶּה\\׃ 'E.leh [are] these {H0428}\\H9016 HTm H0428 {H0428=אֵ֫לֶּה=these}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 48,
           "verse": 9,
           "text": "Then Joseph said to his father, “They are my sons whom God has given me here.” And he said, “Please bring them to me that I may bless them.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/אֲבָרֲכֵֽ/ם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./'a.va.ra.Khe/m",
+                "wordIndex": 2
+              },
+              {
+                "text": "so/",
+                "wordIndex": 3
+              },
+              {
+                "text": "I",
+                "wordIndex": 4
+              },
+              {
+                "text": "may",
+                "wordIndex": 5
+              },
+              {
+                "text": "bless/",
+                "wordIndex": 6
+              },
+              {
+                "text": "them",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9002/{H1288}/H9038\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Vpu1cs/Sp3mp",
+                "wordIndex": 9
+              },
+              {
+                "text": "H1288",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H1288",
+                  "lemma": "בָּרַךְ",
+                  "translit": "ba.rakh",
+                  "morph": "H:V",
+                  "gloss": "to bless 1) to bless, kneel<br>1a) (Qal)<br>1a1) to kneel<br>1a2) to bless<br>1b) (Niphal) to be blessed, bless oneself<br>1c) (Piel) to bless<br>1d) (Pual) to be blessed, be adored<br>1e) (Hiphil) to cause to kneel<br>1f) (Hithpael) to bless oneself<br>2) (TWOT) to praise, salute, curse<BR>Aramaic equivalent: <i>be.rakh</i> (בְּרַךְ \"to bless\" H1289)",
+                  "raw": "H1288\tH1288 =\tH1288\tבָּרַךְ\tba.rakh\tH:V\tto bless\t1) to bless, kneel<br>1a) (Qal)<br>1a1) to kneel<br>1a2) to bless<br>1b) (Niphal) to be blessed, bless oneself<br>1c) (Piel) to bless<br>1d) (Pual) to be blessed, be adored<br>1e) (Hiphil) to cause to kneel<br>1f) (Hithpael) to bless oneself<br>2) (TWOT) to praise, salute, curse<BR>Aramaic equivalent: <i>be.rakh</i> (בְּרַךְ \"to bless\" H1289)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H1288=בָּרַךְ=to",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "bless}/H9038=Op3m=them\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9038",
+                  "lemma": "הֶם",
+                  "translit": "hem",
+                  "morph": "Op3m",
+                  "gloss": "them Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural",
+                  "raw": "H9038\tH9038 =\tH9038\tהֶם\them\tOp3m\tthem\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L וַ/אֲבָרֲכֵֽ/ם\\׃ va./'a.va.ra.Khe/m so/ I may bless/ them H9002/{H1288}/H9038\\H9016 HC/Vpu1cs/Sp3mp H1288 H9002=ו=and/{H1288=בָּרַךְ=to bless}/H9038=Op3m=them\\H9016=׃=verseEnd"
+          }
         }
       ],
       "nirv": [
@@ -87,79 +1016,1008 @@
           "chapter": 47,
           "verse": 28,
           "text": "Jacob lived 17 years in Egypt. He lived a total of 147 years.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שָׁנָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "sha.Nah",
+                "wordIndex": 2
+              },
+              {
+                "text": "year[s]",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H8141}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H8141",
+                  "lemma": "שָׁנָה",
+                  "translit": "sha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "year 1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)",
+                  "raw": "H8141\tH8141 =\tH8141\tשָׁנָה\tsha.neh\tH:N-F\tyear\t1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)"
+                }
+              },
+              {
+                "text": "HNcfsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H8141_D",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H8141",
+                  "lemma": "שָׁנָה",
+                  "translit": "sha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "year 1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)",
+                  "raw": "H8141\tH8141 =\tH8141\tשָׁנָה\tsha.neh\tH:N-F\tyear\t1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)"
+                }
+              },
+              {
+                "text": "{H8141=שָׁנָה=year}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8141",
+                  "lemma": "שָׁנָה",
+                  "translit": "sha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "year 1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)",
+                  "raw": "H8141\tH8141 =\tH8141\tשָׁנָה\tsha.neh\tH:N-F\tyear\t1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L שָׁנָֽה\\׃ sha.Nah year[s] {H8141}\\H9016 HNcfsa H8141_D {H8141=שָׁנָה=year}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 47,
           "verse": 29,
           "text": "The time came near for Israel to die. So he sent for his son Joseph. He said to him, “If you are pleased with me, put your hand under my thigh. Promise me that you will be kind and faithful to me. Don’t bury me in Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#27=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/מִצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "in/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9003/{H4714G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#27=L בְּ/מִצְרָֽיִם\\׃ be./mitz.Ra.yim in/ Egypt H9003/{H4714G}\\H9016 HR/Npl H4714G H9003=ב=in/{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 47,
           "verse": 30,
           "text": "When I join the members of my family who have already died, carry me out of Egypt. Bury me where they are buried.”\n“I’ll do exactly as you say,” Joseph said.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "כִ/דְבָרֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "khi/d.va.Re./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "according",
+                "wordIndex": 3
+              },
+              {
+                "text": "to/",
+                "wordIndex": 4
+              },
+              {
+                "text": "word/",
+                "wordIndex": 5
+              },
+              {
+                "text": "your",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9004/{H1697G}/H9021\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9004",
+                  "lemma": "/כ",
+                  "translit": "k",
+                  "morph": "Prefix",
+                  "gloss": "like/as Prefix kaph: like, as",
+                  "raw": "H9004\tH9004 =\tH9004\t/כ\tk\tPrefix\tlike/as\tPrefix kaph: like, as "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp2ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H1697G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H1697",
+                  "lemma": "דָּבָר",
+                  "translit": "da.var",
+                  "morph": "H:N-M",
+                  "gloss": "Chronicles <BR> This name means  word, speaking",
+                  "raw": "H1697\tH1697O =\tH1697O\tדָּבָר\tda.var\tH:N-M\tChronicles\t<BR> This name means  word, speaking"
+                }
+              },
+              {
+                "text": "H9004=כ=like/{H1697G=דָּבָר=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9004",
+                  "lemma": "/כ",
+                  "translit": "k",
+                  "morph": "Prefix",
+                  "gloss": "like/as Prefix kaph: like, as",
+                  "raw": "H9004\tH9004 =\tH9004\t/כ\tk\tPrefix\tlike/as\tPrefix kaph: like, as "
+                }
+              },
+              {
+                "text": "word»word:1_word;_speech;_command}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L כִ/דְבָרֶֽ/ךָ\\׃ khi/d.va.Re./kha according to/ word/ your H9004/{H1697G}/H9021\\H9016 HR/Ncmsc/Sp2ms H1697G H9004=כ=like/{H1697G=דָּבָר=: word»word:1_word;_speech;_command}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 47,
           "verse": 31,
           "text": "“Promise me with an oath that you will do it,” Jacob said. So Joseph promised him. And Israel worshiped God as he leaned on the top of his wooden staff.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/מִּטָּֽה\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "ha./mi.Tah",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "bed",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H4296}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H4296",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4296",
+                  "lemma": "מִטָּה",
+                  "translit": "mit.tah",
+                  "morph": "H:N-F",
+                  "gloss": "bed couch, bed, bier",
+                  "raw": "H4296\tH4296 =\tH4296\tמִטָּה\tmit.tah\tH:N-F\tbed\tcouch, bed, bier"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H4296=מִטָּה=bed}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הַ/מִּטָּֽה\\׃\\ \\פ ha./mi.Tah the/ bed H9009/{H4296}\\H9016\\ \\H9017 HTd/Ncfsa H4296 H9009=ה=the/{H4296=מִטָּה=bed}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 48,
           "verse": 1,
           "text": "Some time later Joseph was told, “Your father is sick.” So he took his two sons Manasseh and Ephraim along with him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֶפְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'ef.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "Ephraim",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0669G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0669",
+                  "lemma": "אֶפְרַ֫יִם",
+                  "translit": "eph.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "Ephraim Ephraim = \"double ash-heap: I shall be doubly fruitful\"<br> the  country of the tribe of Ephraim<BR>Also named: <i>Ephraim</i> (Ἐφραίμ \"Ephraim\" G2187)",
+                  "raw": "H0669\tH0669L =\tH0669L\tאֶפְרַ֫יִם\teph.ra.yim\tN:N--L\tEphraim\tEphraim = \"double ash-heap: I shall be doubly fruitful\"<br> the  country of the tribe of Ephraim<BR>Also named: <i>Ephraim</i> (Ἐφραίμ \"Ephraim\" G2187)"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0669G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0669",
+                  "lemma": "אֶפְרַ֫יִם",
+                  "translit": "eph.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "Ephraim Ephraim = \"double ash-heap: I shall be doubly fruitful\"<br> the  country of the tribe of Ephraim<BR>Also named: <i>Ephraim</i> (Ἐφραίμ \"Ephraim\" G2187)",
+                  "raw": "H0669\tH0669L =\tH0669L\tאֶפְרַ֫יִם\teph.ra.yim\tN:N--L\tEphraim\tEphraim = \"double ash-heap: I shall be doubly fruitful\"<br> the  country of the tribe of Ephraim<BR>Also named: <i>Ephraim</i> (Ἐφραίμ \"Ephraim\" G2187)"
+                }
+              },
+              {
+                "text": "{H0669G=אֶפְרַ֫יִם=Ephraim»Ephraim@Gen.41.52-1Ki}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0669",
+                  "lemma": "אֶפְרַ֫יִם",
+                  "translit": "eph.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "Ephraim Ephraim = \"double ash-heap: I shall be doubly fruitful\"<br> the  country of the tribe of Ephraim<BR>Also named: <i>Ephraim</i> (Ἐφραίμ \"Ephraim\" G2187)",
+                  "raw": "H0669\tH0669L =\tH0669L\tאֶפְרַ֫יִם\teph.ra.yim\tN:N--L\tEphraim\tEphraim = \"double ash-heap: I shall be doubly fruitful\"<br> the  country of the tribe of Ephraim<BR>Also named: <i>Ephraim</i> (Ἐφραίμ \"Ephraim\" G2187)"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L אֶפְרָֽיִם\\׃ 'ef.Ra.yim Ephraim {H0669G}\\H9016 HNpm H0669G {H0669G=אֶפְרַ֫יִם=Ephraim»Ephraim@Gen.41.52-1Ki}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 48,
           "verse": 2,
           "text": "Jacob was told, “Your son Joseph has come to you.” So Israel became stronger and sat up in bed.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/מִּטָּֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./mi.Tah",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "bed",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H4296}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4296",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4296",
+                  "lemma": "מִטָּה",
+                  "translit": "mit.tah",
+                  "morph": "H:N-F",
+                  "gloss": "bed couch, bed, bier",
+                  "raw": "H4296\tH4296 =\tH4296\tמִטָּה\tmit.tah\tH:N-F\tbed\tcouch, bed, bier"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H4296=מִטָּה=bed}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L הַ/מִּטָּֽה\\׃ ha./mi.Tah the/ bed H9009/{H4296}\\H9016 HTd/Ncfsa H4296 H9009=ה=the/{H4296=מִטָּה=bed}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 48,
           "verse": 3,
           "text": "Jacob said to Joseph, “The Mighty God appeared to me at Luz in the land of Canaan. He blessed me there.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֹתִֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'o.T/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "<obj.>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "me",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0853}/H9030\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              },
+              {
+                "text": "HTo/Sp1bs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0853",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              },
+              {
+                "text": "{H0853=אֵת=[Obj.]}/H9030=Os1c=me\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L אֹתִֽ/י\\׃ 'o.T/i <obj.>/ me {H0853}/H9030\\H9016 HTo/Sp1bs H0853 {H0853=אֵת=[Obj.]}/H9030=Os1c=me\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 48,
           "verse": 4,
           "text": "He said to me, ‘I am going to give you children. I will increase your numbers. I will make you a community of nations. And I will give this land to your children after you. It will belong to them forever.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עוֹלָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "o.Lam",
+                "wordIndex": 2
+              },
+              {
+                "text": "perpetuity",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5769G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5769G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "{H5769G=עוֹלָם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L עוֹלָֽם\\׃ o.Lam perpetuity {H5769G}\\H9016 HNcmsa H5769G {H5769G=עוֹלָם=: enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 48,
           "verse": 5,
           "text": "“Now then, two sons were born to you in Egypt. It happened before I came to you here. They will be counted as my own sons. Ephraim and Manasseh will belong to me, in the same way that Reuben and Simeon belong to me.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לִֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "L/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "me",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H9030}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Sp1bs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9030_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9030",
+                  "lemma": "נִי",
+                  "translit": "ni",
+                  "morph": "Os1c",
+                  "gloss": "me Personal object pronoun -  suffix for propositions and verbs without an object: 1st person singular",
+                  "raw": "H9030\tH9030 =\tH9030\tנִי\tni\tOs1c\tme\tPersonal object pronoun -  suffix for propositions and verbs without an object: 1st person singular"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9030=Os1c=me}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#19=L לִֽ/י\\׃ L/i to/ me H9005/{H9030}\\H9016 HR/Sp1bs H9030_B H9005=ל=to/{H9030=Os1c=me}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 48,
           "verse": 6,
           "text": "“Any children who are born to you after them will belong to you. Any territory they receive will come from the land that is given to Ephraim and Manasseh.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/נַחֲלָתָֽ/ם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./na.cha.la.Ta/m",
+                "wordIndex": 2
+              },
+              {
+                "text": "in/",
+                "wordIndex": 3
+              },
+              {
+                "text": "inheritance/",
+                "wordIndex": 4
+              },
+              {
+                "text": "their",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H5159}/H9028\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncfsc/Sp3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5159",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H5159",
+                  "lemma": "נַחֲלָה",
+                  "translit": "na.cha.lah",
+                  "morph": "H:N-F",
+                  "gloss": "inheritance 1) possession, property, inheritance, heritage<br>1a) property<br>1b) portion, share<br>1c) inheritance, portion",
+                  "raw": "H5159\tH5159 =\tH5159\tנַחֲלָה\tna.cha.lah\tH:N-F\tinheritance\t1) possession, property, inheritance, heritage<br>1a) property<br>1b) portion, share<br>1c) inheritance, portion"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H5159=נַחֲלָה=inheritance}/H9028=Pp3m=their\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#11=L בְּ/נַחֲלָתָֽ/ם\\׃ be./na.cha.la.Ta/m in/ inheritance/ their H9003/{H5159}/H9028\\H9016 HR/Ncfsc/Sp3mp H5159 H9003=ב=in/{H5159=נַחֲלָה=inheritance}/H9028=Pp3m=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 48,
           "verse": 7,
           "text": "“As I was returning from Paddan, Rachel died. It made me very sad. She died in the land of Canaan while we were still on the way. We weren’t very far away from Ephrath. So I buried her body there beside the road to Ephrath.” Ephrath was also called Bethlehem.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָֽחֶם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La.chem",
+                "wordIndex": 2
+              },
+              {
+                "text": "-lehem",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1035G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1035",
+                  "lemma": "בֵּית לֶ֫חֶם",
+                  "translit": "bet le.chem",
+                  "morph": "N:N--L",
+                  "gloss": "Bethlehem <BR> § Beth-lehem = \"house of bread (food)\"<br>  a place in Zebulun",
+                  "raw": "H1035\tH1035H =\tH1035H\tבֵּית לֶ֫חֶם\tbet le.chem\tN:N--L\tBethlehem\t<BR> § Beth-lehem = \"house of bread (food)\"<br>  a place in Zebulun"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1035G_b",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1035",
+                  "lemma": "בֵּית לֶ֫חֶם",
+                  "translit": "bet le.chem",
+                  "morph": "N:N--L",
+                  "gloss": "Bethlehem <BR> § Beth-lehem = \"house of bread (food)\"<br>  a place in Zebulun",
+                  "raw": "H1035\tH1035H =\tH1035H\tבֵּית לֶ֫חֶם\tbet le.chem\tN:N--L\tBethlehem\t<BR> § Beth-lehem = \"house of bread (food)\"<br>  a place in Zebulun"
+                }
+              },
+              {
+                "text": "{H1035G=בֵּית",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1035",
+                  "lemma": "בֵּית לֶ֫חֶם",
+                  "translit": "bet le.chem",
+                  "morph": "N:N--L",
+                  "gloss": "Bethlehem <BR> § Beth-lehem = \"house of bread (food)\"<br>  a place in Zebulun",
+                  "raw": "H1035\tH1035H =\tH1035H\tבֵּית לֶ֫חֶם\tbet le.chem\tN:N--L\tBethlehem\t<BR> § Beth-lehem = \"house of bread (food)\"<br>  a place in Zebulun"
+                }
+              },
+              {
+                "text": "לֶ֫חֶם=Bethlehem»Bethlehem@Gen.35.16-Jhn}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L לָֽחֶם\\׃ La.chem -lehem {H1035G}\\H9016 HNpl H1035G_b {H1035G=בֵּית לֶ֫חֶם=Bethlehem»Bethlehem@Gen.35.16-Jhn}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 48,
           "verse": 8,
           "text": "Israel saw Joseph’s sons. He asked, “Who are they?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֵֽלֶּה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'E.leh",
+                "wordIndex": 2
+              },
+              {
+                "text": "[are]",
+                "wordIndex": 3
+              },
+              {
+                "text": "these",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0428}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0428",
+                  "lemma": "אֵ֫לֶּה",
+                  "translit": "el.leh",
+                  "morph": "H:DemP",
+                  "gloss": "these 1) these<br>1a) used before antecedent<br>1b) used following antecedent<BR>Aramaic equivalent: <i>el.leh</i> (אֵלֶּה \"these\" H0429)",
+                  "raw": "H0428\tH0428 =\tH0428\tאֵ֫לֶּה\tel.leh\tH:DemP\tthese\t1) these<br>1a) used before antecedent<br>1b) used following antecedent<BR>Aramaic equivalent: <i>el.leh</i> (אֵלֶּה \"these\" H0429)"
+                }
+              },
+              {
+                "text": "HTm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0428",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0428",
+                  "lemma": "אֵ֫לֶּה",
+                  "translit": "el.leh",
+                  "morph": "H:DemP",
+                  "gloss": "these 1) these<br>1a) used before antecedent<br>1b) used following antecedent<BR>Aramaic equivalent: <i>el.leh</i> (אֵלֶּה \"these\" H0429)",
+                  "raw": "H0428\tH0428 =\tH0428\tאֵ֫לֶּה\tel.leh\tH:DemP\tthese\t1) these<br>1a) used before antecedent<br>1b) used following antecedent<BR>Aramaic equivalent: <i>el.leh</i> (אֵלֶּה \"these\" H0429)"
+                }
+              },
+              {
+                "text": "{H0428=אֵ֫לֶּה=these}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0428",
+                  "lemma": "אֵ֫לֶּה",
+                  "translit": "el.leh",
+                  "morph": "H:DemP",
+                  "gloss": "these 1) these<br>1a) used before antecedent<br>1b) used following antecedent<BR>Aramaic equivalent: <i>el.leh</i> (אֵלֶּה \"these\" H0429)",
+                  "raw": "H0428\tH0428 =\tH0428\tאֵ֫לֶּה\tel.leh\tH:DemP\tthese\t1) these<br>1a) used before antecedent<br>1b) used following antecedent<BR>Aramaic equivalent: <i>el.leh</i> (אֵלֶּה \"these\" H0429)"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L אֵֽלֶּה\\׃ 'E.leh [are] these {H0428}\\H9016 HTm H0428 {H0428=אֵ֫לֶּה=these}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 48,
           "verse": 9,
           "text": "Then Israel said, “Bring them to me. I want to give them my blessing.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/אֲבָרֲכֵֽ/ם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./'a.va.ra.Khe/m",
+                "wordIndex": 2
+              },
+              {
+                "text": "so/",
+                "wordIndex": 3
+              },
+              {
+                "text": "I",
+                "wordIndex": 4
+              },
+              {
+                "text": "may",
+                "wordIndex": 5
+              },
+              {
+                "text": "bless/",
+                "wordIndex": 6
+              },
+              {
+                "text": "them",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9002/{H1288}/H9038\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Vpu1cs/Sp3mp",
+                "wordIndex": 9
+              },
+              {
+                "text": "H1288",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H1288",
+                  "lemma": "בָּרַךְ",
+                  "translit": "ba.rakh",
+                  "morph": "H:V",
+                  "gloss": "to bless 1) to bless, kneel<br>1a) (Qal)<br>1a1) to kneel<br>1a2) to bless<br>1b) (Niphal) to be blessed, bless oneself<br>1c) (Piel) to bless<br>1d) (Pual) to be blessed, be adored<br>1e) (Hiphil) to cause to kneel<br>1f) (Hithpael) to bless oneself<br>2) (TWOT) to praise, salute, curse<BR>Aramaic equivalent: <i>be.rakh</i> (בְּרַךְ \"to bless\" H1289)",
+                  "raw": "H1288\tH1288 =\tH1288\tבָּרַךְ\tba.rakh\tH:V\tto bless\t1) to bless, kneel<br>1a) (Qal)<br>1a1) to kneel<br>1a2) to bless<br>1b) (Niphal) to be blessed, bless oneself<br>1c) (Piel) to bless<br>1d) (Pual) to be blessed, be adored<br>1e) (Hiphil) to cause to kneel<br>1f) (Hithpael) to bless oneself<br>2) (TWOT) to praise, salute, curse<BR>Aramaic equivalent: <i>be.rakh</i> (בְּרַךְ \"to bless\" H1289)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H1288=בָּרַךְ=to",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "bless}/H9038=Op3m=them\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9038",
+                  "lemma": "הֶם",
+                  "translit": "hem",
+                  "morph": "Op3m",
+                  "gloss": "them Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural",
+                  "raw": "H9038\tH9038 =\tH9038\tהֶם\them\tOp3m\tthem\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L וַ/אֲבָרֲכֵֽ/ם\\׃ va./'a.va.ra.Khe/m so/ I may bless/ them H9002/{H1288}/H9038\\H9016 HC/Vpu1cs/Sp3mp H1288 H9002=ו=and/{H1288=בָּרַךְ=to bless}/H9038=Op3m=them\\H9016=׃=verseEnd"
+          }
         }
       ]
     }

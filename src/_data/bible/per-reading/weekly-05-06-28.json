@@ -7,85 +7,999 @@
           "chapter": 29,
           "verse": 15,
           "text": "But with whoever is standing here with us today before Yahweh our God, and with whoever is not standing here with us today.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.14)#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יּֽוֹם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hai./Yom",
+                "wordIndex": 2
+              },
+              {
+                "text": "this/",
+                "wordIndex": 3
+              },
+              {
+                "text": "day",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H3117G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3117G_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3117G=יוֹם=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "(29.14)#17=L הַ/יּֽוֹם\\׃ hai./Yom this/ day H9009/{H3117G}\\H9016 HTd/Ncmsa H3117G_B H9009=ה=the/{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 16,
           "text": "For you know how we lived in the land of Egypt and how we traveled through the midst of the nations that you traveled through.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.15)#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עֲבַרְתֶּֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.var.Tem",
+                "wordIndex": 2
+              },
+              {
+                "text": "you",
+                "wordIndex": 3
+              },
+              {
+                "text": "passed",
+                "wordIndex": 4
+              },
+              {
+                "text": "through",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H5674A}\\H9016",
+                "wordIndex": 6
+              },
+              {
+                "text": "HVqp2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5674A_B",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H5674A=עָבַר=:",
+                "wordIndex": 9
+              },
+              {
+                "text": "pass»to",
+                "wordIndex": 10
+              },
+              {
+                "text": "pass:1_pass}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "(29.15)#15=L עֲבַרְתֶּֽם\\׃ 'a.var.Tem you passed through {H5674A}\\H9016 HVqp2mp H5674A_B {H5674A=עָבַר=: pass»to pass:1_pass}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 17,
           "text": "And you have seen their detestable things and their idols of wood and stone, silver, and gold that were among them,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.16)#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עִמָּ/הֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'i.ma./Hem",
+                "wordIndex": 2
+              },
+              {
+                "text": "[were]",
+                "wordIndex": 3
+              },
+              {
+                "text": "with/",
+                "wordIndex": 4
+              },
+              {
+                "text": "them",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H5973A}/H9038\\H9016",
+                "wordIndex": 6
+              },
+              {
+                "text": "HRd/Sp3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5973A",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H5973A=עִם=with}/H9038=Op3m=them\\H9016=׃=verseEnd",
+                "wordIndex": 9
+              }
+            ],
+            "originalVerseText": "(29.16)#11=L עִמָּ/הֶֽם\\׃ 'i.ma./Hem [were] with/ them {H5973A}/H9038\\H9016 HRd/Sp3mp H5973A {H5973A=עִם=with}/H9038=Op3m=them\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 18,
           "text": "so that there is not among you a man or a woman or a clan or a tribe whose heart turns today from being with Yahweh our God to go to serve the gods of these nations, so that there is not among you a root sprouting poison and wormwood.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.17)#30=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/לַעֲנָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./la.'a.Nah",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "wormwood",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9002/{H3939}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3939",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3939",
+                  "lemma": "לַעֲנָה",
+                  "translit": "la.a.nah",
+                  "morph": "H:N-F",
+                  "gloss": "wormwood 1) wormwood<br>1a) bitterness (metaph.)",
+                  "raw": "H3939\tH3939 =\tH3939\tלַעֲנָה\tla.a.nah\tH:N-F\twormwood\t1) wormwood<br>1a) bitterness (metaph.)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H3939=לַעֲנָה=wormwood}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "(29.17)#30=L וְ/לַעֲנָֽה\\׃ ve./la.'a.Nah and/ wormwood H9002/{H3939}\\H9016 HC/Ncfsa H3939 H9002=ו=and/{H3939=לַעֲנָה=wormwood}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 19,
           "text": "And then when he hears the words of this oath, then he will assure himself in his heart, saying, ‘Safety shall be mine even though I go in the stubbornness of my heart,’ thereby destroying the well-watered land along with the parched.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.18)#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/צְּמֵאָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./tze.me.'Ah",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "thirsty",
+                "wordIndex": 4
+              },
+              {
+                "text": "[ground]",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H6771}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Aafsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H6771",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6771",
+                  "lemma": "צָמֵא",
+                  "translit": "tsa.me",
+                  "morph": "H:A",
+                  "gloss": "thirsty thirsty",
+                  "raw": "H6771\tH6771 =\tH6771\tצָמֵא\ttsa.me\tH:A\tthirsty\tthirsty"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H6771=צָמֵא=thirsty}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "(29.18)#21=L הַ/צְּמֵאָֽה\\׃ ha./tze.me.'Ah the/ thirsty [ground] H9009/{H6771}\\H9016 HTd/Aafsa H6771 H9009=ה=the/{H6771=צָמֵא=thirsty}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 20,
           "text": "Yahweh will not be willing to forgive him, for by then the anger of Yahweh will smoke, and his passion against that man and all the curses written in this scroll will descend on him, and Yahweh will blot out his name from under heaven.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.19)#26=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/שָּׁמָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./sha.Ma.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "heavens",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H8064}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8064",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8064",
+                  "lemma": "שָׁמַיִם",
+                  "translit": "sha.ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "heaven 1) heaven, heavens, sky<br>1a) visible heavens, sky<br>1a1) as abode of the stars<br>1a2) as the visible universe, the sky, atmosphere, etc<br>1b) Heaven (as the abode of God)<BR>Aramaic equivalent: <i>sha.ma.yin</i> (שָׁמַ֫יִן \"heaven\" H8065)",
+                  "raw": "H8064\tH8064 =\tH8064\tשָׁמַיִם\tsha.ma.yim\tH:N-M\theaven\t1) heaven, heavens, sky<br>1a) visible heavens, sky<br>1a1) as abode of the stars<br>1a2) as the visible universe, the sky, atmosphere, etc<br>1b) Heaven (as the abode of God)<BR>Aramaic equivalent: <i>sha.ma.yin</i> (שָׁמַ֫יִן \"heaven\" H8065)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H8064=שָׁמַיִם=heaven}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "(29.19)#26=L הַ/שָּׁמָֽיִם\\׃ ha./sha.Ma.yim the/ heavens H9009/{H8064}\\H9016 HTd/Ncmpa H8064 H9009=ה=the/{H8064=שָׁמַיִם=heaven}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 21,
           "text": "And Yahweh will single him out for calamity out of all the tribes of Israel, according to all the curses of the covenant written in the scroll of this law.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.20)#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/זֶּֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Zeh",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "this",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2088}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Tm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2088",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2088",
+                  "lemma": "זֶה",
+                  "translit": "zeh",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2088\tH2088 =\tH2088\tזֶה\tzeh\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "(29.20)#13=L הַ/זֶּֽה\\׃ ha./Zeh <the>/ this H9009/{H2088}\\H9016 HTd/Tm H2088 H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 22,
           "text": "“And the next generation, that is, your children who will rise up after you, and the foreigner who will come from a distant land, when they will see the plagues of that land and its diseases that Yahweh has inflicted upon it, will say,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.21)#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ba/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "<in>",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "it",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H9034}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Sp3fs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9034",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9034",
+                  "lemma": "הָ",
+                  "translit": "ha",
+                  "morph": "Os3f",
+                  "gloss": "her Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular",
+                  "raw": "H9034\tH9034 =\tH9034\tהָ\tha\tOs3f\ther\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H9034=Os3f=her}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "(29.21)#23=L בָּֽ/הּ\\׃ Ba/h <in> <the>/ it H9003/{H9034}\\H9016 HRd/Sp3fs H9034 H9003=ב=in/{H9034=Os3f=her}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 23,
           "text": "‘All its land is brimstone and salt left by fire, none of its land will be sown, and it will not make plants sprout out and it will not grow any vegetation; it is as the destruction of Sodom and Gomorrah, Adman and Zeboiim, which Yahweh overturned in his anger and in his wrath.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.22)#24=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/בַ/חֲמָתֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./va./cha.ma.T/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "in/",
+                "wordIndex": 4
+              },
+              {
+                "text": "rage/",
+                "wordIndex": 5
+              },
+              {
+                "text": "his",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/H9003/{H2534}/H9023\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/R/Ncfsc/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2534",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2534",
+                  "lemma": "חֵמָה",
+                  "translit": "che.mah",
+                  "morph": "H:N-F",
+                  "gloss": "rage 1) heat, rage, hot displeasure, indignation, anger, wrath, poison, bottles<br>1a) heat<br>1a1) fever<br>1a2) venom, poison (fig.)<br>1b) burning anger, rage<BR>Aramaic equivalent: <i>che.ma</i> (חֱמָא \"rage\" H2528)",
+                  "raw": "H2534\tH2534 =\tH2534\tחֵמָה\tche.mah\tH:N-F\trage\t1) heat, rage, hot displeasure, indignation, anger, wrath, poison, bottles<br>1a) heat<br>1a1) fever<br>1a2) venom, poison (fig.)<br>1b) burning anger, rage<BR>Aramaic equivalent: <i>che.ma</i> (חֱמָא \"rage\" H2528)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/H9003=ב=in/{H2534=חֵמָה=rage}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "(29.22)#24=L וּ/בַ/חֲמָתֽ/וֹ\\׃ u./va./cha.ma.T/o and/ in/ rage/ his H9002/H9003/{H2534}/H9023\\H9016 HC/R/Ncfsc/Sp3ms H2534 H9002=ו=and/H9003=ב=in/{H2534=חֵמָה=rage}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 24,
           "text": "And all the nations will say, ‘Why has Yahweh done such a thing to this land? What caused the fierceness of this great anger?’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.23)#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/זֶּֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Zeh",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "this",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2088}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Tm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2088",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2088",
+                  "lemma": "זֶה",
+                  "translit": "zeh",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2088\tH2088 =\tH2088\tזֶה\tzeh\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "(29.23)#15=L הַ/זֶּֽה\\׃ ha./Zeh <the>/ this H9009/{H2088}\\H9016 HTd/Tm H2088 H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 25,
           "text": "And they will say, ‘It is because they abandoned the covenant of Yahweh, the God of their ancestors, which he made with them when he brought them out from the land of Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.24)#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4714G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "(29.24)#16=L מִצְרָֽיִם\\׃ mitz.Ra.yim Egypt {H4714G}\\H9016 HNpl H4714G {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 26,
           "text": "And they went and served other gods and bowed down to them, gods whom they did not know them and he had not allotted to them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.25)#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/הֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Hem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "them",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9038}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9038_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9038",
+                  "lemma": "הֶם",
+                  "translit": "hem",
+                  "morph": "Op3m",
+                  "gloss": "them Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural",
+                  "raw": "H9038\tH9038 =\tH9038\tהֶם\them\tOp3m\tthem\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9038=Op3m=them}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "(29.25)#13=L לָ/הֶֽם\\׃ la./Hem to <the>/ them H9005/{H9038}\\H9016 HRd/Sp3mp H9038_B H9005=ל=to/{H9038=Op3m=them}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 27,
           "text": "So the anger of Yahweh was kindled against that land to bring upon it all the curses written in this scroll,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.26)#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/זֶּֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Zeh",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "this",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2088}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Tm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2088",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2088",
+                  "lemma": "זֶה",
+                  "translit": "zeh",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2088\tH2088 =\tH2088\tזֶה\tzeh\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "(29.26)#13=L הַ/זֶּֽה\\׃ ha./Zeh <the>/ this H9009/{H2088}\\H9016 HTd/Tm H2088 H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 28,
           "text": "and Yahweh uprooted them from their land in anger and in wrath and in great fury, and he cast them into another land, just as it is today.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.27)#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/זֶּֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Zeh",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "this",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2088}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Tm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2088",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2088",
+                  "lemma": "זֶה",
+                  "translit": "zeh",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2088\tH2088 =\tH2088\tזֶה\tzeh\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "(29.27)#14=L הַ/זֶּֽה\\׃ ha./Zeh <the>/ this H9009/{H2088}\\H9016 HTd/Tm H2088 H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd"
+          }
         }
       ],
       "nirv": [
@@ -93,85 +1007,999 @@
           "chapter": 29,
           "verse": 15,
           "text": "who are standing here with us today in the sight of the Lord our God. I’m also making it with those who aren’t here today.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.14)#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יּֽוֹם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hai./Yom",
+                "wordIndex": 2
+              },
+              {
+                "text": "this/",
+                "wordIndex": 3
+              },
+              {
+                "text": "day",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H3117G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3117G_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3117G=יוֹם=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "(29.14)#17=L הַ/יּֽוֹם\\׃ hai./Yom this/ day H9009/{H3117G}\\H9016 HTd/Ncmsa H3117G_B H9009=ה=the/{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 16,
           "text": "You yourselves know how we lived in Egypt. You also know how we passed through other countries on the way here.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.15)#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עֲבַרְתֶּֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.var.Tem",
+                "wordIndex": 2
+              },
+              {
+                "text": "you",
+                "wordIndex": 3
+              },
+              {
+                "text": "passed",
+                "wordIndex": 4
+              },
+              {
+                "text": "through",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H5674A}\\H9016",
+                "wordIndex": 6
+              },
+              {
+                "text": "HVqp2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5674A_B",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H5674A=עָבַר=:",
+                "wordIndex": 9
+              },
+              {
+                "text": "pass»to",
+                "wordIndex": 10
+              },
+              {
+                "text": "pass:1_pass}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "(29.15)#15=L עֲבַרְתֶּֽם\\׃ 'a.var.Tem you passed through {H5674A}\\H9016 HVqp2mp H5674A_B {H5674A=עָבַר=: pass»to pass:1_pass}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 17,
           "text": "You saw the statues of their gods that were made out of wood, stone, silver and gold. The Lord hates those statues.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.16)#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עִמָּ/הֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'i.ma./Hem",
+                "wordIndex": 2
+              },
+              {
+                "text": "[were]",
+                "wordIndex": 3
+              },
+              {
+                "text": "with/",
+                "wordIndex": 4
+              },
+              {
+                "text": "them",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H5973A}/H9038\\H9016",
+                "wordIndex": 6
+              },
+              {
+                "text": "HRd/Sp3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5973A",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H5973A=עִם=with}/H9038=Op3m=them\\H9016=׃=verseEnd",
+                "wordIndex": 9
+              }
+            ],
+            "originalVerseText": "(29.16)#11=L עִמָּ/הֶֽם\\׃ 'i.ma./Hem [were] with/ them {H5973A}/H9038\\H9016 HRd/Sp3mp H5973A {H5973A=עִם=with}/H9038=Op3m=them\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 18,
           "text": "Make sure there isn’t a man or woman among your families or tribes who turns away from the Lord our God. No one must worship the gods of those nations. Make sure that kind of worship doesn’t spread like bitter poison through your whole community.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.17)#30=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/לַעֲנָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./la.'a.Nah",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "wormwood",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9002/{H3939}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3939",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3939",
+                  "lemma": "לַעֲנָה",
+                  "translit": "la.a.nah",
+                  "morph": "H:N-F",
+                  "gloss": "wormwood 1) wormwood<br>1a) bitterness (metaph.)",
+                  "raw": "H3939\tH3939 =\tH3939\tלַעֲנָה\tla.a.nah\tH:N-F\twormwood\t1) wormwood<br>1a) bitterness (metaph.)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H3939=לַעֲנָה=wormwood}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "(29.17)#30=L וְ/לַעֲנָֽה\\׃ ve./la.'a.Nah and/ wormwood H9002/{H3939}\\H9016 HC/Ncfsa H3939 H9002=ו=and/{H3939=לַעֲנָה=wormwood}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 19,
           "text": "Some people who worship those gods will hear the oath that seals the covenant I’m making. They think they can escape trouble by saying to themselves, “We’ll be safe, even though we’re stubborn and go our own way.” But trouble will come on them everywhere in the land.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.18)#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/צְּמֵאָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./tze.me.'Ah",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "thirsty",
+                "wordIndex": 4
+              },
+              {
+                "text": "[ground]",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H6771}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Aafsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H6771",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6771",
+                  "lemma": "צָמֵא",
+                  "translit": "tsa.me",
+                  "morph": "H:A",
+                  "gloss": "thirsty thirsty",
+                  "raw": "H6771\tH6771 =\tH6771\tצָמֵא\ttsa.me\tH:A\tthirsty\tthirsty"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H6771=צָמֵא=thirsty}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "(29.18)#21=L הַ/צְּמֵאָֽה\\׃ ha./tze.me.'Ah the/ thirsty [ground] H9009/{H6771}\\H9016 HTd/Aafsa H6771 H9009=ה=the/{H6771=צָמֵא=thirsty}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 20,
           "text": "The Lord will never be willing to forgive those people. His burning anger will blaze out against them. All of the curses I’ve written down in this scroll will fall on them. And the Lord will wipe out their names from the earth.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.19)#26=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/שָּׁמָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./sha.Ma.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "heavens",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H8064}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8064",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8064",
+                  "lemma": "שָׁמַיִם",
+                  "translit": "sha.ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "heaven 1) heaven, heavens, sky<br>1a) visible heavens, sky<br>1a1) as abode of the stars<br>1a2) as the visible universe, the sky, atmosphere, etc<br>1b) Heaven (as the abode of God)<BR>Aramaic equivalent: <i>sha.ma.yin</i> (שָׁמַ֫יִן \"heaven\" H8065)",
+                  "raw": "H8064\tH8064 =\tH8064\tשָׁמַיִם\tsha.ma.yim\tH:N-M\theaven\t1) heaven, heavens, sky<br>1a) visible heavens, sky<br>1a1) as abode of the stars<br>1a2) as the visible universe, the sky, atmosphere, etc<br>1b) Heaven (as the abode of God)<BR>Aramaic equivalent: <i>sha.ma.yin</i> (שָׁמַ֫יִן \"heaven\" H8065)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H8064=שָׁמַיִם=heaven}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "(29.19)#26=L הַ/שָּׁמָֽיִם\\׃ ha./sha.Ma.yim the/ heavens H9009/{H8064}\\H9016 HTd/Ncmpa H8064 H9009=ה=the/{H8064=שָׁמַיִם=heaven}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 21,
           "text": "He will find those people in all of the tribes of Israel and give them nothing but trouble. That will be in keeping with all of the curses of the covenant. They are written down in this Scroll of the Law.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.20)#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/זֶּֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Zeh",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "this",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2088}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Tm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2088",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2088",
+                  "lemma": "זֶה",
+                  "translit": "zeh",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2088\tH2088 =\tH2088\tזֶה\tzeh\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "(29.20)#13=L הַ/זֶּֽה\\׃ ha./Zeh <the>/ this H9009/{H2088}\\H9016 HTd/Tm H2088 H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 22,
           "text": "Even your children’s children will see the troubles that have fallen on the land. They’ll see the sicknesses the Lord has brought on it. People who come from countries far away will also see those things.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.21)#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ba/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "<in>",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "it",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H9034}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Sp3fs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9034",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9034",
+                  "lemma": "הָ",
+                  "translit": "ha",
+                  "morph": "Os3f",
+                  "gloss": "her Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular",
+                  "raw": "H9034\tH9034 =\tH9034\tהָ\tha\tOs3f\ther\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H9034=Os3f=her}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "(29.21)#23=L בָּֽ/הּ\\׃ Ba/h <in> <the>/ it H9003/{H9034}\\H9016 HRd/Sp3fs H9034 H9003=ב=in/{H9034=Os3f=her}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 23,
           "text": "The whole land will be burned up. Nothing but salt and sulfur will be left. Nothing will be planted there. Nothing will grow there. In fact, nothing will even start to grow there. The land will be like Sodom, Gomorrah, Admah and Zeboiim after they were destroyed. The Lord wiped out those cities because he was very angry.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.22)#24=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/בַ/חֲמָתֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./va./cha.ma.T/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "in/",
+                "wordIndex": 4
+              },
+              {
+                "text": "rage/",
+                "wordIndex": 5
+              },
+              {
+                "text": "his",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/H9003/{H2534}/H9023\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/R/Ncfsc/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2534",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2534",
+                  "lemma": "חֵמָה",
+                  "translit": "che.mah",
+                  "morph": "H:N-F",
+                  "gloss": "rage 1) heat, rage, hot displeasure, indignation, anger, wrath, poison, bottles<br>1a) heat<br>1a1) fever<br>1a2) venom, poison (fig.)<br>1b) burning anger, rage<BR>Aramaic equivalent: <i>che.ma</i> (חֱמָא \"rage\" H2528)",
+                  "raw": "H2534\tH2534 =\tH2534\tחֵמָה\tche.mah\tH:N-F\trage\t1) heat, rage, hot displeasure, indignation, anger, wrath, poison, bottles<br>1a) heat<br>1a1) fever<br>1a2) venom, poison (fig.)<br>1b) burning anger, rage<BR>Aramaic equivalent: <i>che.ma</i> (חֱמָא \"rage\" H2528)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/H9003=ב=in/{H2534=חֵמָה=rage}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "(29.22)#24=L וּ/בַ/חֲמָתֽ/וֹ\\׃ u./va./cha.ma.T/o and/ in/ rage/ his H9002/H9003/{H2534}/H9023\\H9016 HC/R/Ncfsc/Sp3ms H2534 H9002=ו=and/H9003=ב=in/{H2534=חֵמָה=rage}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 24,
           "text": "All of the nations will ask, “Why has the Lord done this to the land? What could have made him so very angry?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.23)#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/זֶּֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Zeh",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "this",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2088}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Tm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2088",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2088",
+                  "lemma": "זֶה",
+                  "translit": "zeh",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2088\tH2088 =\tH2088\tזֶה\tzeh\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "(29.23)#15=L הַ/זֶּֽה\\׃ ha./Zeh <the>/ this H9009/{H2088}\\H9016 HTd/Tm H2088 H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 25,
           "text": "And they will hear the answer, “It’s because the people who are living there have broken the covenant of the Lord. He’s the God of their parents. He made that covenant with them when he brought them out of Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.24)#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4714G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "(29.24)#16=L מִצְרָֽיִם\\׃ mitz.Ra.yim Egypt {H4714G}\\H9016 HNpl H4714G {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 26,
           "text": "They went off and worshiped other gods. They bowed down to them. They hadn’t known anything about those gods before. The Lord hadn’t given those gods to them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.25)#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/הֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Hem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "them",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9038}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9038_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9038",
+                  "lemma": "הֶם",
+                  "translit": "hem",
+                  "morph": "Op3m",
+                  "gloss": "them Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural",
+                  "raw": "H9038\tH9038 =\tH9038\tהֶם\them\tOp3m\tthem\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9038=Op3m=them}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "(29.25)#13=L לָ/הֶֽם\\׃ la./Hem to <the>/ them H9005/{H9038}\\H9016 HRd/Sp3mp H9038_B H9005=ל=to/{H9038=Op3m=them}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 27,
           "text": "“So the Lord’s anger burned against the land. He brought on it all of the curses that are written down in this scroll.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.26)#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/זֶּֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Zeh",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "this",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2088}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Tm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2088",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2088",
+                  "lemma": "זֶה",
+                  "translit": "zeh",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2088\tH2088 =\tH2088\tזֶה\tzeh\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "(29.26)#13=L הַ/זֶּֽה\\׃ ha./Zeh <the>/ this H9009/{H2088}\\H9016 HTd/Tm H2088 H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 28,
           "text": "The Lord’s anger blazed out against his people. So he pulled them up out of their land. He threw them into another land. And that’s where they are now.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(29.27)#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/זֶּֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Zeh",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "this",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2088}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Tm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2088",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2088",
+                  "lemma": "זֶה",
+                  "translit": "zeh",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2088\tH2088 =\tH2088\tזֶה\tzeh\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "(29.27)#14=L הַ/זֶּֽה\\׃ ha./Zeh <the>/ this H9009/{H2088}\\H9016 HTd/Tm H2088 H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd"
+          }
         }
       ]
     }

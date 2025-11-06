@@ -7,37 +7,463 @@
           "chapter": 14,
           "verse": 9,
           "text": "And the Egyptians chased after them, and they overtook them encamped at the sea—all the horses of the chariots of Pharaoh and his charioteers and his army—at Pi-hahiroth before Baal Zephon.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צְפֹֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tze.Fon",
+                "wordIndex": 2
+              },
+              {
+                "text": "Zephon",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1189}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1189",
+                  "lemma": "בַּ֫עַל צְפוֹן",
+                  "translit": "ba.al tse.phon",
+                  "morph": "N:N--L",
+                  "gloss": "Baal-zephon <BR> § Baal Tsphon or Baal-zephon = \"lord of the north\"<br> a place in Egypt near the Red Sea where Pharaoh and his army were destroyed during the Exodus<br>",
+                  "raw": "H1189\tH1189 =\tH1189\tבַּ֫עַל צְפוֹן\tba.al tse.phon\tN:N--L\tBaal-zephon\t <BR> § Baal Tsphon or Baal-zephon = \"lord of the north\"<br> a place in Egypt near the Red Sea where Pharaoh and his army were destroyed during the Exodus<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1189_b",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1189",
+                  "lemma": "בַּ֫עַל צְפוֹן",
+                  "translit": "ba.al tse.phon",
+                  "morph": "N:N--L",
+                  "gloss": "Baal-zephon <BR> § Baal Tsphon or Baal-zephon = \"lord of the north\"<br> a place in Egypt near the Red Sea where Pharaoh and his army were destroyed during the Exodus<br>",
+                  "raw": "H1189\tH1189 =\tH1189\tבַּ֫עַל צְפוֹן\tba.al tse.phon\tN:N--L\tBaal-zephon\t <BR> § Baal Tsphon or Baal-zephon = \"lord of the north\"<br> a place in Egypt near the Red Sea where Pharaoh and his army were destroyed during the Exodus<br>"
+                }
+              },
+              {
+                "text": "{H1189=בַּ֫עַל",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1189",
+                  "lemma": "בַּ֫עַל צְפוֹן",
+                  "translit": "ba.al tse.phon",
+                  "morph": "N:N--L",
+                  "gloss": "Baal-zephon <BR> § Baal Tsphon or Baal-zephon = \"lord of the north\"<br> a place in Egypt near the Red Sea where Pharaoh and his army were destroyed during the Exodus<br>",
+                  "raw": "H1189\tH1189 =\tH1189\tבַּ֫עַל צְפוֹן\tba.al tse.phon\tN:N--L\tBaal-zephon\t <BR> § Baal Tsphon or Baal-zephon = \"lord of the north\"<br> a place in Egypt near the Red Sea where Pharaoh and his army were destroyed during the Exodus<br>"
+                }
+              },
+              {
+                "text": "צְפוֹן=Baal-zephon»Baal-zephon@Exo.14.2-Num}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L צְפֹֽן\\׃ tze.Fon Zephon {H1189}\\H9016 HNpl H1189_b {H1189=בַּ֫עַל צְפוֹן=Baal-zephon»Baal-zephon@Exo.14.2-Num}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 10,
           "text": "And Pharaoh approached, and the Israelites lifted their eyes, and there were the Egyptians traveling after them! And they were very afraid, and the Israelites cried out to Yahweh.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יְהוָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yah.weh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3068G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "HNpt",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3068G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L יְהוָֽה\\׃ Yah.weh Yahweh {H3068G}\\H9016 HNpt H3068G {H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 11,
           "text": "And they said to Moses, “Because there are no graves in Egypt? Is that why you have taken us to die in the desert? What is this you have done to us by bringing us out from Egypt!",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִ/מִּצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mi./mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "from/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9006/{H4714G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "HR/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4714G_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "H9006=מ=from/{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L מִ/מִּצְרָֽיִם\\׃ mi./mitz.Ra.yim from/ Egypt H9006/{H4714G}\\H9016 HR/Npl H4714G_B H9006=מ=from/{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 12,
           "text": "Isn’t this the word we spoke to you in Egypt, saying, ‘Leave us alone so that we can serve Egypt!’ because serving Egypt is better for us than our dying in the desert.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בַּ/מִּדְבָּֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba./mid.Bar",
+                "wordIndex": 2
+              },
+              {
+                "text": "in",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "wilderness",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H4057B}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Ncmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4057B",
+                "wordIndex": 8
+              },
+              {
+                "text": "H9003=ב=in/{H4057B=מִדְבָּר=wilderness}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#21=L בַּ/מִּדְבָּֽר\\׃ ba./mid.Bar in the/ wilderness H9003/{H4057B}\\H9016 HRd/Ncmsa H4057B H9003=ב=in/{H4057B=מִדְבָּר=wilderness}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 13,
           "text": "And Moses said to the people, “You must not be afraid. Stand still and see the salvation of Yahweh, which he will accomplish for you today, because the Egyptians whom you see today you will see never again.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#27=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עוֹלָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "o.Lam",
+                "wordIndex": 2
+              },
+              {
+                "text": "perpetuity",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5769G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5769G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "{H5769G=עוֹלָם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#27=L עוֹלָֽם\\׃ o.Lam perpetuity {H5769G}\\H9016 HNcmsa H5769G {H5769G=עוֹלָם=: enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 14,
           "text": "Yahweh will fight for you, and you must be quiet.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תַּחֲרִישֽׁוּ/ן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "ta.cha.ri.Shu/n",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "keep",
+                "wordIndex": 6
+              },
+              {
+                "text": "quiet/",
+                "wordIndex": 7
+              },
+              {
+                "text": "!",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H2790B}/H9013\\H9016\\",
+                "wordIndex": 9
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HVhi2mp/Sn",
+                "wordIndex": 11
+              },
+              {
+                "text": "H2790B",
+                "wordIndex": 12
+              },
+              {
+                "text": "{H2790B=חָרֵשׁ=be",
+                "wordIndex": 13
+              },
+              {
+                "text": "quiet}/H9013=נ=emph.\\H9016=׃=verseEnd\\",
+                "wordIndex": 14,
+                "lex": {
+                  "code": "H9013",
+                  "lemma": "ן/",
+                  "translit": "n",
+                  "morph": "Suffix",
+                  "gloss": "[emph.?] Punctuation  nun – paragogic: adds emphasis",
+                  "raw": "H9013\tH9013 =\tH9013\tן/\tn\tSuffix\t[emph.?]\tPunctuation  nun – paragogic: adds emphasis"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 15,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L תַּחֲרִישֽׁוּ/ן\\׃\\ \\פ ta.cha.ri.Shu/n you will keep quiet/ ! {H2790B}/H9013\\H9016\\ \\H9017 HVhi2mp/Sn H2790B {H2790B=חָרֵשׁ=be quiet}/H9013=נ=emph.\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ],
       "nirv": [
@@ -45,37 +471,463 @@
           "chapter": 14,
           "verse": 9,
           "text": "The Egyptians went after the Israelites. All of Pharaoh’s horses and chariots and horsemen and troops went after them. They caught up with them as they camped by the sea. The Israelites were near Pi Hahiroth, across from Baal Zephon.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צְפֹֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tze.Fon",
+                "wordIndex": 2
+              },
+              {
+                "text": "Zephon",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1189}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1189",
+                  "lemma": "בַּ֫עַל צְפוֹן",
+                  "translit": "ba.al tse.phon",
+                  "morph": "N:N--L",
+                  "gloss": "Baal-zephon <BR> § Baal Tsphon or Baal-zephon = \"lord of the north\"<br> a place in Egypt near the Red Sea where Pharaoh and his army were destroyed during the Exodus<br>",
+                  "raw": "H1189\tH1189 =\tH1189\tבַּ֫עַל צְפוֹן\tba.al tse.phon\tN:N--L\tBaal-zephon\t <BR> § Baal Tsphon or Baal-zephon = \"lord of the north\"<br> a place in Egypt near the Red Sea where Pharaoh and his army were destroyed during the Exodus<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1189_b",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1189",
+                  "lemma": "בַּ֫עַל צְפוֹן",
+                  "translit": "ba.al tse.phon",
+                  "morph": "N:N--L",
+                  "gloss": "Baal-zephon <BR> § Baal Tsphon or Baal-zephon = \"lord of the north\"<br> a place in Egypt near the Red Sea where Pharaoh and his army were destroyed during the Exodus<br>",
+                  "raw": "H1189\tH1189 =\tH1189\tבַּ֫עַל צְפוֹן\tba.al tse.phon\tN:N--L\tBaal-zephon\t <BR> § Baal Tsphon or Baal-zephon = \"lord of the north\"<br> a place in Egypt near the Red Sea where Pharaoh and his army were destroyed during the Exodus<br>"
+                }
+              },
+              {
+                "text": "{H1189=בַּ֫עַל",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1189",
+                  "lemma": "בַּ֫עַל צְפוֹן",
+                  "translit": "ba.al tse.phon",
+                  "morph": "N:N--L",
+                  "gloss": "Baal-zephon <BR> § Baal Tsphon or Baal-zephon = \"lord of the north\"<br> a place in Egypt near the Red Sea where Pharaoh and his army were destroyed during the Exodus<br>",
+                  "raw": "H1189\tH1189 =\tH1189\tבַּ֫עַל צְפוֹן\tba.al tse.phon\tN:N--L\tBaal-zephon\t <BR> § Baal Tsphon or Baal-zephon = \"lord of the north\"<br> a place in Egypt near the Red Sea where Pharaoh and his army were destroyed during the Exodus<br>"
+                }
+              },
+              {
+                "text": "צְפוֹן=Baal-zephon»Baal-zephon@Exo.14.2-Num}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L צְפֹֽן\\׃ tze.Fon Zephon {H1189}\\H9016 HNpl H1189_b {H1189=בַּ֫עַל צְפוֹן=Baal-zephon»Baal-zephon@Exo.14.2-Num}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 10,
           "text": "As Pharaoh approached, the people of Israel looked up. There were the Egyptians marching after them! The Israelites were terrified. They cried out to the Lord.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יְהוָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yah.weh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3068G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "HNpt",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3068G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L יְהוָֽה\\׃ Yah.weh Yahweh {H3068G}\\H9016 HNpt H3068G {H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 11,
           "text": "They said to Moses, “Why did you bring us to the desert to die? Weren’t there any graves in Egypt? What have you done to us by bringing us out of Egypt?",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִ/מִּצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mi./mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "from/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9006/{H4714G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "HR/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4714G_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "H9006=מ=from/{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L מִ/מִּצְרָֽיִם\\׃ mi./mitz.Ra.yim from/ Egypt H9006/{H4714G}\\H9016 HR/Npl H4714G_B H9006=מ=from/{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 12,
           "text": "We told you in Egypt, ‘Leave us alone. Let us serve the Egyptians.’ It would have been better for us to serve the Egyptians than to die here in the desert!”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בַּ/מִּדְבָּֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba./mid.Bar",
+                "wordIndex": 2
+              },
+              {
+                "text": "in",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "wilderness",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H4057B}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Ncmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4057B",
+                "wordIndex": 8
+              },
+              {
+                "text": "H9003=ב=in/{H4057B=מִדְבָּר=wilderness}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#21=L בַּ/מִּדְבָּֽר\\׃ ba./mid.Bar in the/ wilderness H9003/{H4057B}\\H9016 HRd/Ncmsa H4057B H9003=ב=in/{H4057B=מִדְבָּר=wilderness}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 13,
           "text": "Moses answered the people. He said, “Don’t be afraid. Stand firm. You will see how the Lord will save you today. Do you see those Egyptians? You will never see them again.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#27=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עוֹלָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "o.Lam",
+                "wordIndex": 2
+              },
+              {
+                "text": "perpetuity",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5769G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5769G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "{H5769G=עוֹלָם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#27=L עוֹלָֽם\\׃ o.Lam perpetuity {H5769G}\\H9016 HNcmsa H5769G {H5769G=עוֹלָם=: enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 14,
           "text": "The Lord will fight for you. Just be still.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תַּחֲרִישֽׁוּ/ן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "ta.cha.ri.Shu/n",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "keep",
+                "wordIndex": 6
+              },
+              {
+                "text": "quiet/",
+                "wordIndex": 7
+              },
+              {
+                "text": "!",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H2790B}/H9013\\H9016\\",
+                "wordIndex": 9
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HVhi2mp/Sn",
+                "wordIndex": 11
+              },
+              {
+                "text": "H2790B",
+                "wordIndex": 12
+              },
+              {
+                "text": "{H2790B=חָרֵשׁ=be",
+                "wordIndex": 13
+              },
+              {
+                "text": "quiet}/H9013=נ=emph.\\H9016=׃=verseEnd\\",
+                "wordIndex": 14,
+                "lex": {
+                  "code": "H9013",
+                  "lemma": "ן/",
+                  "translit": "n",
+                  "morph": "Suffix",
+                  "gloss": "[emph.?] Punctuation  nun – paragogic: adds emphasis",
+                  "raw": "H9013\tH9013 =\tH9013\tן/\tn\tSuffix\t[emph.?]\tPunctuation  nun – paragogic: adds emphasis"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 15,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L תַּחֲרִישֽׁוּ/ן\\׃\\ \\פ ta.cha.ri.Shu/n you will keep quiet/ ! {H2790B}/H9013\\H9016\\ \\H9017 HVhi2mp/Sn H2790B {H2790B=חָרֵשׁ=be quiet}/H9013=נ=emph.\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ]
     }

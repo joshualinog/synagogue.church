@@ -7,25 +7,305 @@
           "chapter": 32,
           "verse": 40,
           "text": "And I promise as I live forever,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/עֹלָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./'o.Lam",
+                "wordIndex": 2
+              },
+              {
+                "text": "for/",
+                "wordIndex": 3
+              },
+              {
+                "text": "ever",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H5769G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5769G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H5769G=עוֹלָם=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L לְ/עֹלָֽם\\׃ le./'o.Lam for/ ever H9005/{H5769G}\\H9016 HR/Ncmsa H5769G H9005=ל=to/{H5769G=עוֹלָם=: enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 41,
           "text": "and my hand takes hold of it in judgment,\nI will take reprisals against my foes,\nand my haters I will repay.",
-          "isHeading": true
+          "isHeading": true,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֲשַׁלֵּֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.sha.Lem",
+                "wordIndex": 2
+              },
+              {
+                "text": "I",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "repay",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H7999A}\\H9016",
+                "wordIndex": 6
+              },
+              {
+                "text": "HVpi1cs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7999A",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H7999A=שָׁלֵם=to",
+                "wordIndex": 9
+              },
+              {
+                "text": "complete}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L אֲשַׁלֵּֽם\\׃ 'a.sha.Lem I will repay {H7999A}\\H9016 HVpi1cs H7999A {H7999A=שָׁלֵם=to complete}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 42,
           "text": "and my sword shall devour flesh with the blood of the slain,\nand captives from the heads of the leaders of the enemy.’",
-          "isHeading": true
+          "isHeading": true,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אוֹיֵֽב\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'o.Yev",
+                "wordIndex": 2
+              },
+              {
+                "text": "[the]",
+                "wordIndex": 3
+              },
+              {
+                "text": "enemy",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0341}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0341",
+                  "lemma": "אֹיֵב",
+                  "translit": "o.yev",
+                  "morph": "H:N-M",
+                  "gloss": "enemy 1) (Qal) enemy<br>1a) personal<br>1b) national",
+                  "raw": "H0341\tH0341 =\tH0341\tאֹיֵב\to.yev\tH:N-M\tenemy\t1) (Qal) enemy<br>1a) personal<br>1b) national"
+                }
+              },
+              {
+                "text": "HVqrmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0341",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0341",
+                  "lemma": "אֹיֵב",
+                  "translit": "o.yev",
+                  "morph": "H:N-M",
+                  "gloss": "enemy 1) (Qal) enemy<br>1a) personal<br>1b) national",
+                  "raw": "H0341\tH0341 =\tH0341\tאֹיֵב\to.yev\tH:N-M\tenemy\t1) (Qal) enemy<br>1a) personal<br>1b) national"
+                }
+              },
+              {
+                "text": "{H0341=אֹיֵב=enemy}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0341",
+                  "lemma": "אֹיֵב",
+                  "translit": "o.yev",
+                  "morph": "H:N-M",
+                  "gloss": "enemy 1) (Qal) enemy<br>1a) personal<br>1b) national",
+                  "raw": "H0341\tH0341 =\tH0341\tאֹיֵב\to.yev\tH:N-M\tenemy\t1) (Qal) enemy<br>1a) personal<br>1b) national"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L אוֹיֵֽב\\׃ 'o.Yev [the] enemy {H0341}\\H9016 HVqrmsa H0341 {H0341=אֹיֵב=enemy}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 43,
           "text": "for the blood of his servants he will avenge,\nand he will take reprisals against his foes,\nand he will make atonement for his land, his people.”",
-          "isHeading": true
+          "isHeading": true,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עַמּֽ/וֹ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "a.M/o",
+                "wordIndex": 3
+              },
+              {
+                "text": "people/",
+                "wordIndex": 4
+              },
+              {
+                "text": "his",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H5971A}/H9023\\H9016\\",
+                "wordIndex": 6
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H5971A_B",
+                "wordIndex": 9
+              },
+              {
+                "text": "{H5971A=עַם=:",
+                "wordIndex": 10
+              },
+              {
+                "text": "people»people:1_people;_nation}/H9023=Ps3m=his\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L עַמּֽ/וֹ\\׃\\ \\פ a.M/o people/ his {H5971A}/H9023\\H9016\\ \\H9017 HNcmsc/Sp3ms H5971A_B {H5971A=עַם=: people»people:1_people;_nation}/H9023=Ps3m=his\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ],
       "nirv": [
@@ -33,25 +313,305 @@
           "chapter": 32,
           "verse": 40,
           "text": "I raise my hand to heaven. Here is the oath I take.\nYou can be sure that I live forever.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/עֹלָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./'o.Lam",
+                "wordIndex": 2
+              },
+              {
+                "text": "for/",
+                "wordIndex": 3
+              },
+              {
+                "text": "ever",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H5769G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5769G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H5769G=עוֹלָם=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L לְ/עֹלָֽם\\׃ le./'o.Lam for/ ever H9005/{H5769G}\\H9016 HR/Ncmsa H5769G H9005=ל=to/{H5769G=עוֹלָם=: enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 41,
           "text": "that I will sharpen my flashing sword.\nMy hand will hold it when I judge.\nI will get even with my enemies.\nI will pay back those who hate me.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֲשַׁלֵּֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.sha.Lem",
+                "wordIndex": 2
+              },
+              {
+                "text": "I",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "repay",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H7999A}\\H9016",
+                "wordIndex": 6
+              },
+              {
+                "text": "HVpi1cs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7999A",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H7999A=שָׁלֵם=to",
+                "wordIndex": 9
+              },
+              {
+                "text": "complete}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L אֲשַׁלֵּֽם\\׃ 'a.sha.Lem I will repay {H7999A}\\H9016 HVpi1cs H7999A {H7999A=שָׁלֵם=to complete}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 42,
           "text": "I will make my arrows drip with blood.\nMy sword will destroy people.\nIt will kill some. It will even kill prisoners.\nIt will cut off the heads of enemy leaders.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אוֹיֵֽב\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'o.Yev",
+                "wordIndex": 2
+              },
+              {
+                "text": "[the]",
+                "wordIndex": 3
+              },
+              {
+                "text": "enemy",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0341}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0341",
+                  "lemma": "אֹיֵב",
+                  "translit": "o.yev",
+                  "morph": "H:N-M",
+                  "gloss": "enemy 1) (Qal) enemy<br>1a) personal<br>1b) national",
+                  "raw": "H0341\tH0341 =\tH0341\tאֹיֵב\to.yev\tH:N-M\tenemy\t1) (Qal) enemy<br>1a) personal<br>1b) national"
+                }
+              },
+              {
+                "text": "HVqrmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0341",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0341",
+                  "lemma": "אֹיֵב",
+                  "translit": "o.yev",
+                  "morph": "H:N-M",
+                  "gloss": "enemy 1) (Qal) enemy<br>1a) personal<br>1b) national",
+                  "raw": "H0341\tH0341 =\tH0341\tאֹיֵב\to.yev\tH:N-M\tenemy\t1) (Qal) enemy<br>1a) personal<br>1b) national"
+                }
+              },
+              {
+                "text": "{H0341=אֹיֵב=enemy}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0341",
+                  "lemma": "אֹיֵב",
+                  "translit": "o.yev",
+                  "morph": "H:N-M",
+                  "gloss": "enemy 1) (Qal) enemy<br>1a) personal<br>1b) national",
+                  "raw": "H0341\tH0341 =\tH0341\tאֹיֵב\to.yev\tH:N-M\tenemy\t1) (Qal) enemy<br>1a) personal<br>1b) national"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L אוֹיֵֽב\\׃ 'o.Yev [the] enemy {H0341}\\H9016 HVqrmsa H0341 {H0341=אֹיֵב=enemy}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 43,
           "text": "You nations, be full of joy. Be joyful together with God’s people.\nThe Lord will get even with his enemies.\nHe will pay them back for killing those who serve him.\nHe will wipe away the sin of his land and people.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עַמּֽ/וֹ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "a.M/o",
+                "wordIndex": 3
+              },
+              {
+                "text": "people/",
+                "wordIndex": 4
+              },
+              {
+                "text": "his",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H5971A}/H9023\\H9016\\",
+                "wordIndex": 6
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H5971A_B",
+                "wordIndex": 9
+              },
+              {
+                "text": "{H5971A=עַם=:",
+                "wordIndex": 10
+              },
+              {
+                "text": "people»people:1_people;_nation}/H9023=Ps3m=his\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L עַמּֽ/וֹ\\׃\\ \\פ a.M/o people/ his {H5971A}/H9023\\H9016\\ \\H9017 HNcmsc/Sp3ms H5971A_B {H5971A=עַם=: people»people:1_people;_nation}/H9023=Ps3m=his\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ]
     }

@@ -7,67 +7,822 @@
           "chapter": 21,
           "verse": 10,
           "text": "The Israelites set out and encamped at Oboth.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/אֹבֹֽת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./'o.Vot",
+                "wordIndex": 2
+              },
+              {
+                "text": "in/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Oboth",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9003/{H0088}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0088",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0088",
+                  "lemma": "אֹבֹת",
+                  "translit": "o.vot",
+                  "morph": "N:N--L",
+                  "gloss": "Oboth <BR> § Oboth = \"waterskins\"<br> undetermined site of an Israelite camp in the wilderness (perhaps at east boundary of Moab)<br>",
+                  "raw": "H0088\tH0088 =\tH0088\tאֹבֹת\to.vot\tN:N--L\tOboth\t <BR> § Oboth = \"waterskins\"<br> undetermined site of an Israelite camp in the wilderness (perhaps at east boundary of Moab)<br>"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H0088=אֹבֹת=Oboth»Oboth@Num.21.10-}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#05=L בְּ/אֹבֹֽת\\׃ be./'o.Vot in/ Oboth H9003/{H0088}\\H9016 HR/Npl H0088 H9003=ב=in/{H0088=אֹבֹת=Oboth»Oboth@Num.21.10-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 11,
           "text": "They set out from Oboth and encamped at Iye Abarim in the desert, which was in front of Moab toward the sunrise.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/שָּֽׁמֶשׁ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Sha.mesh",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "sun",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H8121}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncbsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8121",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8121",
+                  "lemma": "שֶׁ֫מֶשׁ",
+                  "translit": "she.mesh",
+                  "morph": "H:N",
+                  "gloss": "sun 1) sun<br>1a) sun<br>1b) sunrise, sun-rising, east, sun-setting, west (of direction)<br>1c) sun (as object of illicit worship)<br>1d) openly, publicly (in other phrases)<br>1e) pinnacles, battlements, shields (as glittering or shining)",
+                  "raw": "H8121\tH8121 =\tH8121\tשֶׁ֫מֶשׁ\tshe.mesh\tH:N\tsun\t1) sun<br>1a) sun<br>1b) sunrise, sun-rising, east, sun-setting, west (of direction)<br>1c) sun (as object of illicit worship)<br>1d) openly, publicly (in other phrases)<br>1e) pinnacles, battlements, shields (as glittering or shining)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H8121=שֶׁ֫מֶשׁ=sun}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L הַ/שָּֽׁמֶשׁ\\׃ ha./Sha.mesh the/ sun H9009/{H8121}\\H9016 HTd/Ncbsa H8121 H9009=ה=the/{H8121=שֶׁ֫מֶשׁ=sun}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 12,
           "text": "From there they set out and encamped at the valley of Zered.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "זָֽרֶד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Za.red",
+                "wordIndex": 2
+              },
+              {
+                "text": "Zered",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H2218}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H2218",
+                  "lemma": "זֶ֫רֶד",
+                  "translit": "ze.red",
+                  "morph": "N:N--L",
+                  "gloss": "Zered <BR> § Zered = \"osier brook\"<br> a river east of the Jordan, in the region of Moab and Edom, a source of the Arnon river<br>",
+                  "raw": "H2218\tH2218 =\tH2218\tזֶ֫רֶד\tze.red\tN:N--L\tZered\t <BR> § Zered = \"osier brook\"<br> a river east of the Jordan, in the region of Moab and Edom, a source of the Arnon river<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H2218",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H2218",
+                  "lemma": "זֶ֫רֶד",
+                  "translit": "ze.red",
+                  "morph": "N:N--L",
+                  "gloss": "Zered <BR> § Zered = \"osier brook\"<br> a river east of the Jordan, in the region of Moab and Edom, a source of the Arnon river<br>",
+                  "raw": "H2218\tH2218 =\tH2218\tזֶ֫רֶד\tze.red\tN:N--L\tZered\t <BR> § Zered = \"osier brook\"<br> a river east of the Jordan, in the region of Moab and Edom, a source of the Arnon river<br>"
+                }
+              },
+              {
+                "text": "{H2218=זֶ֫רֶד=Zered»Zered@Num.21.12-Deu}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2218",
+                  "lemma": "זֶ֫רֶד",
+                  "translit": "ze.red",
+                  "morph": "N:N--L",
+                  "gloss": "Zered <BR> § Zered = \"osier brook\"<br> a river east of the Jordan, in the region of Moab and Edom, a source of the Arnon river<br>",
+                  "raw": "H2218\tH2218 =\tH2218\tזֶ֫רֶד\tze.red\tN:N--L\tZered\t <BR> § Zered = \"osier brook\"<br> a river east of the Jordan, in the region of Moab and Edom, a source of the Arnon river<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L זָֽרֶד\\׃ Za.red Zered {H2218}\\H9016 HNpl H2218 {H2218=זֶ֫רֶד=Zered»Zered@Num.21.12-Deu}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 13,
           "text": "From there they set out and encamped beyond Arnon, which is in the desert that goes out from the boundary of the Amorites, because Arnon is the boundary of Moab, between Moab and the Amorites.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אֱמֹרִֽי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'e.mo.Ri",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Amorite[s]",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0567}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ngmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0567_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0567",
+                  "lemma": "אֱמֹרִי",
+                  "translit": "e.mo.ri",
+                  "morph": "N:N--LG",
+                  "gloss": "Amorite Someone descended from Amor(?), first mentioned at Gen.10.16; descended from Canaan (H3667); along with Sidon (H6721), Heth (H2845), Jebusite (H2983), Girgashite (H1622), Hivite (H2340), Arkite (H6208), Sinite (H5513), Arvadite (H0721), Zemarite (H6786) and Hamathite (H2577) <BR> § Amorite = \"a sayer\"<br> one of the peoples of east Canaan and beyond the Jordan, dispossessed by the Israelite incursion from Egypt<br>",
+                  "raw": "H0567\tH0567 =\tH0567\tאֱמֹרִי\te.mo.ri\tN:N--LG\tAmorite\tSomeone descended from Amor(?), first mentioned at Gen.10.16; descended from Canaan (H3667); along with Sidon (H6721), Heth (H2845), Jebusite (H2983), Girgashite (H1622), Hivite (H2340), Arkite (H6208), Sinite (H5513), Arvadite (H0721), Zemarite (H6786) and Hamathite (H2577) <BR> § Amorite = \"a sayer\"<br> one of the peoples of east Canaan and beyond the Jordan, dispossessed by the Israelite incursion from Egypt<br>"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0567=אֱמֹרִי=Amorite»Amorites@Gen.10.16-Amo}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L הָ/אֱמֹרִֽי\\׃ ha./'e.mo.Ri the/ Amorite[s] H9009/{H0567}\\H9016 HTd/Ngmsa H0567_B H9009=ה=the/{H0567=אֱמֹרִי=Amorite»Amorites@Gen.10.16-Amo}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 14,
           "text": "“Waheb in Suphah,\nand the wadis of Arnon,",
-          "isHeading": true
+          "isHeading": true,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אַרְנֽוֹן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'ar.Non",
+                "wordIndex": 2
+              },
+              {
+                "text": "Arnon",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0769}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0769",
+                  "lemma": "אַרְנוֹן",
+                  "translit": "ar.non",
+                  "morph": "N:N--L",
+                  "gloss": "Arnon <BR> § Arnon = \"rushing stream\"<br> a river and surrounding valley in south Palestine, forms the border between Moab and the Amorites<br>",
+                  "raw": "H0769\tH0769 =\tH0769\tאַרְנוֹן\tar.non\tN:N--L\tArnon\t <BR> § Arnon = \"rushing stream\"<br> a river and surrounding valley in south Palestine, forms the border between Moab and the Amorites<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0769",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0769",
+                  "lemma": "אַרְנוֹן",
+                  "translit": "ar.non",
+                  "morph": "N:N--L",
+                  "gloss": "Arnon <BR> § Arnon = \"rushing stream\"<br> a river and surrounding valley in south Palestine, forms the border between Moab and the Amorites<br>",
+                  "raw": "H0769\tH0769 =\tH0769\tאַרְנוֹן\tar.non\tN:N--L\tArnon\t <BR> § Arnon = \"rushing stream\"<br> a river and surrounding valley in south Palestine, forms the border between Moab and the Amorites<br>"
+                }
+              },
+              {
+                "text": "{H0769=אַרְנוֹן=Arnon»Arnon@Num.21.13-Jer}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0769",
+                  "lemma": "אַרְנוֹן",
+                  "translit": "ar.non",
+                  "morph": "N:N--L",
+                  "gloss": "Arnon <BR> § Arnon = \"rushing stream\"<br> a river and surrounding valley in south Palestine, forms the border between Moab and the Amorites<br>",
+                  "raw": "H0769\tH0769 =\tH0769\tאַרְנוֹן\tar.non\tN:N--L\tArnon\t <BR> § Arnon = \"rushing stream\"<br> a river and surrounding valley in south Palestine, forms the border between Moab and the Amorites<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L אַרְנֽוֹן\\׃ 'ar.Non Arnon {H0769}\\H9016 HNpl H0769 {H0769=אַרְנוֹן=Arnon»Arnon@Num.21.13-Jer}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 15,
           "text": "that spreads out to the dwelling of Ar\nand lies at the boundary of Moab.”",
-          "isHeading": true
+          "isHeading": true,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מוֹאָֽב\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mo.'Av",
+                "wordIndex": 2
+              },
+              {
+                "text": "Moab",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4124G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4124",
+                  "lemma": "מוֹאָב",
+                  "translit": "mo.av",
+                  "morph": "N:N--L",
+                  "gloss": "(Plains of) Moab <BR>Combined with <i>a.ra.vah</i> (עֲרָבָה \" Plains\" H6160I)<BR> § Moab = \"of his father\"<br>the land inhabited by the descendants of the son of Lot",
+                  "raw": "H4124\tH4124I =\tH4124I\tמוֹאָב\tmo.av\tN:N--L\t(Plains of) Moab\t<BR>Combined with <i>a.ra.vah</i> (עֲרָבָה \" Plains\" H6160I)<BR> § Moab = \"of his father\"<br>the land inhabited by the descendants of the son of Lot"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4124G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4124",
+                  "lemma": "מוֹאָב",
+                  "translit": "mo.av",
+                  "morph": "N:N--L",
+                  "gloss": "(Plains of) Moab <BR>Combined with <i>a.ra.vah</i> (עֲרָבָה \" Plains\" H6160I)<BR> § Moab = \"of his father\"<br>the land inhabited by the descendants of the son of Lot",
+                  "raw": "H4124\tH4124I =\tH4124I\tמוֹאָב\tmo.av\tN:N--L\t(Plains of) Moab\t<BR>Combined with <i>a.ra.vah</i> (עֲרָבָה \" Plains\" H6160I)<BR> § Moab = \"of his father\"<br>the land inhabited by the descendants of the son of Lot"
+                }
+              },
+              {
+                "text": "{H4124G=מוֹאָב=Moab»Moab@Gen.19.37b-Zep}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4124",
+                  "lemma": "מוֹאָב",
+                  "translit": "mo.av",
+                  "morph": "N:N--L",
+                  "gloss": "(Plains of) Moab <BR>Combined with <i>a.ra.vah</i> (עֲרָבָה \" Plains\" H6160I)<BR> § Moab = \"of his father\"<br>the land inhabited by the descendants of the son of Lot",
+                  "raw": "H4124\tH4124I =\tH4124I\tמוֹאָב\tmo.av\tN:N--L\t(Plains of) Moab\t<BR>Combined with <i>a.ra.vah</i> (עֲרָבָה \" Plains\" H6160I)<BR> § Moab = \"of his father\"<br>the land inhabited by the descendants of the son of Lot"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L מוֹאָֽב\\׃ mo.'Av Moab {H4124G}\\H9016 HNpl H4124G {H4124G=מוֹאָב=Moab»Moab@Gen.19.37b-Zep}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 16,
           "text": "From there they went to Beer, which is the water well where Yahweh spoke to Moses, “Gather the people, that I may give them water.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מָֽיִם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "Ma.yim",
+                "wordIndex": 3
+              },
+              {
+                "text": "water",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4325G}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4325G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              },
+              {
+                "text": "{H4325G=מַי=water}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L מָֽיִם\\׃\\ \\ס Ma.yim water {H4325G}\\H9016\\ \\H9018 HNcmpa H4325G {H4325G=מַי=water}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 21,
           "verse": 17,
           "text": "Then Israel sang this song, “Arise, well water! Sing to it!",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "of",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "it",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9034}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp3fs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9034",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9034",
+                  "lemma": "הָ",
+                  "translit": "ha",
+                  "morph": "Os3f",
+                  "gloss": "her Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular",
+                  "raw": "H9034\tH9034 =\tH9034\tהָ\tha\tOs3f\ther\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9034=Os3f=her}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#10=L לָֽ/הּ\\׃ La/h of <the>/ it H9005/{H9034}\\H9016 HRd/Sp3fs H9034 H9005=ל=to/{H9034=Os3f=her}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 18,
           "text": "Well water that the princes dug, that the leaders of the people dug, with a staff and with their rods.” And from the desert they continued to Mattanah,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מַתָּנָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ma.ta.Nah",
+                "wordIndex": 2
+              },
+              {
+                "text": "Mattanah",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4980}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4980",
+                  "lemma": "מַתָּנָה",
+                  "translit": "mat.ta.nah",
+                  "morph": "N:N--L",
+                  "gloss": "Mattanah <BR> § Mattanah = \"gift of Jehovah\"<br> a station of the Israelites in the latter part of their wanderings located east of the Jordan and probably to the southeast of the Dead Sea<br>",
+                  "raw": "H4980\tH4980 =\tH4980\tמַתָּנָה\tmat.ta.nah\tN:N--L\tMattanah\t <BR> § Mattanah = \"gift of Jehovah\"<br> a station of the Israelites in the latter part of their wanderings located east of the Jordan and probably to the southeast of the Dead Sea<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4980",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4980",
+                  "lemma": "מַתָּנָה",
+                  "translit": "mat.ta.nah",
+                  "morph": "N:N--L",
+                  "gloss": "Mattanah <BR> § Mattanah = \"gift of Jehovah\"<br> a station of the Israelites in the latter part of their wanderings located east of the Jordan and probably to the southeast of the Dead Sea<br>",
+                  "raw": "H4980\tH4980 =\tH4980\tמַתָּנָה\tmat.ta.nah\tN:N--L\tMattanah\t <BR> § Mattanah = \"gift of Jehovah\"<br> a station of the Israelites in the latter part of their wanderings located east of the Jordan and probably to the southeast of the Dead Sea<br>"
+                }
+              },
+              {
+                "text": "{H4980=מַתָּנָה=Mattanah»Mattanah@Num.21.18-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4980",
+                  "lemma": "מַתָּנָה",
+                  "translit": "mat.ta.nah",
+                  "morph": "N:N--L",
+                  "gloss": "Mattanah <BR> § Mattanah = \"gift of Jehovah\"<br> a station of the Israelites in the latter part of their wanderings located east of the Jordan and probably to the southeast of the Dead Sea<br>",
+                  "raw": "H4980\tH4980 =\tH4980\tמַתָּנָה\tmat.ta.nah\tN:N--L\tMattanah\t <BR> § Mattanah = \"gift of Jehovah\"<br> a station of the Israelites in the latter part of their wanderings located east of the Jordan and probably to the southeast of the Dead Sea<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L מַתָּנָֽה\\׃ ma.ta.Nah Mattanah {H4980}\\H9016 HNpl H4980 {H4980=מַתָּנָה=Mattanah»Mattanah@Num.21.18-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 19,
           "text": "and from Mattanah to Nahaliel, and from Nahaliel to Bamoth;",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּמֽוֹת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba.Mot",
+                "wordIndex": 2
+              },
+              {
+                "text": "Bamoth",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1120G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1120",
+                  "lemma": "בָּמוֹת",
+                  "translit": "ba.mot",
+                  "morph": "N:N--L",
+                  "gloss": "Bamoth <BR> § Bamoth = \"high places\" or \"great high place\"<br> a town on the river Arnon in Moab",
+                  "raw": "H1120\tH1120H =\tH1120H\tבָּמוֹת\tba.mot\tN:N--L\tBamoth\t<BR> § Bamoth = \"high places\" or \"great high place\"<br> a town on the river Arnon in Moab"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1120G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1120",
+                  "lemma": "בָּמוֹת",
+                  "translit": "ba.mot",
+                  "morph": "N:N--L",
+                  "gloss": "Bamoth <BR> § Bamoth = \"high places\" or \"great high place\"<br> a town on the river Arnon in Moab",
+                  "raw": "H1120\tH1120H =\tH1120H\tבָּמוֹת\tba.mot\tN:N--L\tBamoth\t<BR> § Bamoth = \"high places\" or \"great high place\"<br> a town on the river Arnon in Moab"
+                }
+              },
+              {
+                "text": "{H1120G=בָּמוֹת=Bamoth»Bamoth@Num.21.19-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1120",
+                  "lemma": "בָּמוֹת",
+                  "translit": "ba.mot",
+                  "morph": "N:N--L",
+                  "gloss": "Bamoth <BR> § Bamoth = \"high places\" or \"great high place\"<br> a town on the river Arnon in Moab",
+                  "raw": "H1120\tH1120H =\tH1120H\tבָּמוֹת\tba.mot\tN:N--L\tBamoth\t<BR> § Bamoth = \"high places\" or \"great high place\"<br> a town on the river Arnon in Moab"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L בָּמֽוֹת\\׃ ba.Mot Bamoth {H1120G}\\H9016 HNpl H1120G {H1120G=בָּמוֹת=Bamoth»Bamoth@Num.21.19-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 20,
           "text": "and from Bamoth to the valley that is in the territory of Moab, by the top of Pisgah, which overlooks the surface of the wasteland.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יְשִׁימֹֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "ha/y.shi.Mon",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "desolate",
+                "wordIndex": 5
+              },
+              {
+                "text": "place",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9009/{H3452H}\\H9016\\",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 9
+              },
+              {
+                "text": "H3452H",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H3452",
+                  "lemma": "יְשִׁימוֹן",
+                  "translit": "ye.shi.mon",
+                  "morph": "H:N-M",
+                  "gloss": "wilderness waste, wilderness, desert, desolate place",
+                  "raw": "H3452\tH3452H =\tH3452H\tיְשִׁימוֹן\tye.shi.mon\tH:N-M\twilderness\twaste, wilderness, desert, desolate place"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3452H=יְשִׁימוֹן=wilderness}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L הַ/יְשִׁימֹֽן\\׃\\ \\פ ha/y.shi.Mon the/ desolate place H9009/{H3452H}\\H9016\\ \\H9017 HTd/Ncmsa H3452H H9009=ה=the/{H3452H=יְשִׁימוֹן=wilderness}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ],
       "nirv": [
@@ -75,67 +830,822 @@
           "chapter": 21,
           "verse": 10,
           "text": "The people of Israel moved on. They camped at Oboth.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/אֹבֹֽת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./'o.Vot",
+                "wordIndex": 2
+              },
+              {
+                "text": "in/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Oboth",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9003/{H0088}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0088",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0088",
+                  "lemma": "אֹבֹת",
+                  "translit": "o.vot",
+                  "morph": "N:N--L",
+                  "gloss": "Oboth <BR> § Oboth = \"waterskins\"<br> undetermined site of an Israelite camp in the wilderness (perhaps at east boundary of Moab)<br>",
+                  "raw": "H0088\tH0088 =\tH0088\tאֹבֹת\to.vot\tN:N--L\tOboth\t <BR> § Oboth = \"waterskins\"<br> undetermined site of an Israelite camp in the wilderness (perhaps at east boundary of Moab)<br>"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H0088=אֹבֹת=Oboth»Oboth@Num.21.10-}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#05=L בְּ/אֹבֹֽת\\׃ be./'o.Vot in/ Oboth H9003/{H0088}\\H9016 HR/Npl H0088 H9003=ב=in/{H0088=אֹבֹת=Oboth»Oboth@Num.21.10-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 11,
           "text": "Then they started out from Oboth. They camped in Iye Abarim. It’s in the desert on the eastern border of Moab.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/שָּֽׁמֶשׁ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Sha.mesh",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "sun",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H8121}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncbsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8121",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8121",
+                  "lemma": "שֶׁ֫מֶשׁ",
+                  "translit": "she.mesh",
+                  "morph": "H:N",
+                  "gloss": "sun 1) sun<br>1a) sun<br>1b) sunrise, sun-rising, east, sun-setting, west (of direction)<br>1c) sun (as object of illicit worship)<br>1d) openly, publicly (in other phrases)<br>1e) pinnacles, battlements, shields (as glittering or shining)",
+                  "raw": "H8121\tH8121 =\tH8121\tשֶׁ֫מֶשׁ\tshe.mesh\tH:N\tsun\t1) sun<br>1a) sun<br>1b) sunrise, sun-rising, east, sun-setting, west (of direction)<br>1c) sun (as object of illicit worship)<br>1d) openly, publicly (in other phrases)<br>1e) pinnacles, battlements, shields (as glittering or shining)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H8121=שֶׁ֫מֶשׁ=sun}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L הַ/שָּֽׁמֶשׁ\\׃ ha./Sha.mesh the/ sun H9009/{H8121}\\H9016 HTd/Ncbsa H8121 H9009=ה=the/{H8121=שֶׁ֫מֶשׁ=sun}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 12,
           "text": "From there they moved on. They camped in the Zered Valley.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "זָֽרֶד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Za.red",
+                "wordIndex": 2
+              },
+              {
+                "text": "Zered",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H2218}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H2218",
+                  "lemma": "זֶ֫רֶד",
+                  "translit": "ze.red",
+                  "morph": "N:N--L",
+                  "gloss": "Zered <BR> § Zered = \"osier brook\"<br> a river east of the Jordan, in the region of Moab and Edom, a source of the Arnon river<br>",
+                  "raw": "H2218\tH2218 =\tH2218\tזֶ֫רֶד\tze.red\tN:N--L\tZered\t <BR> § Zered = \"osier brook\"<br> a river east of the Jordan, in the region of Moab and Edom, a source of the Arnon river<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H2218",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H2218",
+                  "lemma": "זֶ֫רֶד",
+                  "translit": "ze.red",
+                  "morph": "N:N--L",
+                  "gloss": "Zered <BR> § Zered = \"osier brook\"<br> a river east of the Jordan, in the region of Moab and Edom, a source of the Arnon river<br>",
+                  "raw": "H2218\tH2218 =\tH2218\tזֶ֫רֶד\tze.red\tN:N--L\tZered\t <BR> § Zered = \"osier brook\"<br> a river east of the Jordan, in the region of Moab and Edom, a source of the Arnon river<br>"
+                }
+              },
+              {
+                "text": "{H2218=זֶ֫רֶד=Zered»Zered@Num.21.12-Deu}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2218",
+                  "lemma": "זֶ֫רֶד",
+                  "translit": "ze.red",
+                  "morph": "N:N--L",
+                  "gloss": "Zered <BR> § Zered = \"osier brook\"<br> a river east of the Jordan, in the region of Moab and Edom, a source of the Arnon river<br>",
+                  "raw": "H2218\tH2218 =\tH2218\tזֶ֫רֶד\tze.red\tN:N--L\tZered\t <BR> § Zered = \"osier brook\"<br> a river east of the Jordan, in the region of Moab and Edom, a source of the Arnon river<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L זָֽרֶד\\׃ Za.red Zered {H2218}\\H9016 HNpl H2218 {H2218=זֶ֫רֶד=Zered»Zered@Num.21.12-Deu}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 13,
           "text": "They started out from there and camped by the Arnon River. It’s in the desert that spreads out into the territory of the Amorites. The Arnon is the border of Moab. It’s between Moab and the Amorites.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אֱמֹרִֽי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'e.mo.Ri",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Amorite[s]",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0567}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ngmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0567_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0567",
+                  "lemma": "אֱמֹרִי",
+                  "translit": "e.mo.ri",
+                  "morph": "N:N--LG",
+                  "gloss": "Amorite Someone descended from Amor(?), first mentioned at Gen.10.16; descended from Canaan (H3667); along with Sidon (H6721), Heth (H2845), Jebusite (H2983), Girgashite (H1622), Hivite (H2340), Arkite (H6208), Sinite (H5513), Arvadite (H0721), Zemarite (H6786) and Hamathite (H2577) <BR> § Amorite = \"a sayer\"<br> one of the peoples of east Canaan and beyond the Jordan, dispossessed by the Israelite incursion from Egypt<br>",
+                  "raw": "H0567\tH0567 =\tH0567\tאֱמֹרִי\te.mo.ri\tN:N--LG\tAmorite\tSomeone descended from Amor(?), first mentioned at Gen.10.16; descended from Canaan (H3667); along with Sidon (H6721), Heth (H2845), Jebusite (H2983), Girgashite (H1622), Hivite (H2340), Arkite (H6208), Sinite (H5513), Arvadite (H0721), Zemarite (H6786) and Hamathite (H2577) <BR> § Amorite = \"a sayer\"<br> one of the peoples of east Canaan and beyond the Jordan, dispossessed by the Israelite incursion from Egypt<br>"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0567=אֱמֹרִי=Amorite»Amorites@Gen.10.16-Amo}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L הָ/אֱמֹרִֽי\\׃ ha./'e.mo.Ri the/ Amorite[s] H9009/{H0567}\\H9016 HTd/Ngmsa H0567_B H9009=ה=the/{H0567=אֱמֹרִי=Amorite»Amorites@Gen.10.16-Amo}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 14,
           "text": "Here is what the Book of the Wars of the Lord says about it. It says,\n“Sing about Waheb in Suphah and the valleys.\nSing about the Arnon",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אַרְנֽוֹן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'ar.Non",
+                "wordIndex": 2
+              },
+              {
+                "text": "Arnon",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0769}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0769",
+                  "lemma": "אַרְנוֹן",
+                  "translit": "ar.non",
+                  "morph": "N:N--L",
+                  "gloss": "Arnon <BR> § Arnon = \"rushing stream\"<br> a river and surrounding valley in south Palestine, forms the border between Moab and the Amorites<br>",
+                  "raw": "H0769\tH0769 =\tH0769\tאַרְנוֹן\tar.non\tN:N--L\tArnon\t <BR> § Arnon = \"rushing stream\"<br> a river and surrounding valley in south Palestine, forms the border between Moab and the Amorites<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0769",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0769",
+                  "lemma": "אַרְנוֹן",
+                  "translit": "ar.non",
+                  "morph": "N:N--L",
+                  "gloss": "Arnon <BR> § Arnon = \"rushing stream\"<br> a river and surrounding valley in south Palestine, forms the border between Moab and the Amorites<br>",
+                  "raw": "H0769\tH0769 =\tH0769\tאַרְנוֹן\tar.non\tN:N--L\tArnon\t <BR> § Arnon = \"rushing stream\"<br> a river and surrounding valley in south Palestine, forms the border between Moab and the Amorites<br>"
+                }
+              },
+              {
+                "text": "{H0769=אַרְנוֹן=Arnon»Arnon@Num.21.13-Jer}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0769",
+                  "lemma": "אַרְנוֹן",
+                  "translit": "ar.non",
+                  "morph": "N:N--L",
+                  "gloss": "Arnon <BR> § Arnon = \"rushing stream\"<br> a river and surrounding valley in south Palestine, forms the border between Moab and the Amorites<br>",
+                  "raw": "H0769\tH0769 =\tH0769\tאַרְנוֹן\tar.non\tN:N--L\tArnon\t <BR> § Arnon = \"rushing stream\"<br> a river and surrounding valley in south Palestine, forms the border between Moab and the Amorites<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L אַרְנֽוֹן\\׃ 'ar.Non Arnon {H0769}\\H9016 HNpl H0769 {H0769=אַרְנוֹן=Arnon»Arnon@Num.21.13-Jer}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 15,
           "text": "and the slopes of the valleys.\nThey lead to the place called Ar.\nThey lie along the border of Moab.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מוֹאָֽב\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mo.'Av",
+                "wordIndex": 2
+              },
+              {
+                "text": "Moab",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4124G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4124",
+                  "lemma": "מוֹאָב",
+                  "translit": "mo.av",
+                  "morph": "N:N--L",
+                  "gloss": "(Plains of) Moab <BR>Combined with <i>a.ra.vah</i> (עֲרָבָה \" Plains\" H6160I)<BR> § Moab = \"of his father\"<br>the land inhabited by the descendants of the son of Lot",
+                  "raw": "H4124\tH4124I =\tH4124I\tמוֹאָב\tmo.av\tN:N--L\t(Plains of) Moab\t<BR>Combined with <i>a.ra.vah</i> (עֲרָבָה \" Plains\" H6160I)<BR> § Moab = \"of his father\"<br>the land inhabited by the descendants of the son of Lot"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4124G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4124",
+                  "lemma": "מוֹאָב",
+                  "translit": "mo.av",
+                  "morph": "N:N--L",
+                  "gloss": "(Plains of) Moab <BR>Combined with <i>a.ra.vah</i> (עֲרָבָה \" Plains\" H6160I)<BR> § Moab = \"of his father\"<br>the land inhabited by the descendants of the son of Lot",
+                  "raw": "H4124\tH4124I =\tH4124I\tמוֹאָב\tmo.av\tN:N--L\t(Plains of) Moab\t<BR>Combined with <i>a.ra.vah</i> (עֲרָבָה \" Plains\" H6160I)<BR> § Moab = \"of his father\"<br>the land inhabited by the descendants of the son of Lot"
+                }
+              },
+              {
+                "text": "{H4124G=מוֹאָב=Moab»Moab@Gen.19.37b-Zep}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4124",
+                  "lemma": "מוֹאָב",
+                  "translit": "mo.av",
+                  "morph": "N:N--L",
+                  "gloss": "(Plains of) Moab <BR>Combined with <i>a.ra.vah</i> (עֲרָבָה \" Plains\" H6160I)<BR> § Moab = \"of his father\"<br>the land inhabited by the descendants of the son of Lot",
+                  "raw": "H4124\tH4124I =\tH4124I\tמוֹאָב\tmo.av\tN:N--L\t(Plains of) Moab\t<BR>Combined with <i>a.ra.vah</i> (עֲרָבָה \" Plains\" H6160I)<BR> § Moab = \"of his father\"<br>the land inhabited by the descendants of the son of Lot"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L מוֹאָֽב\\׃ mo.'Av Moab {H4124G}\\H9016 HNpl H4124G {H4124G=מוֹאָב=Moab»Moab@Gen.19.37b-Zep}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 16,
           "text": "From there the people of Israel continued on to Beer. That was the well where the Lord spoke to Moses. He said, “Gather the people together. I will give them water to drink.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מָֽיִם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "Ma.yim",
+                "wordIndex": 3
+              },
+              {
+                "text": "water",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4325G}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4325G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              },
+              {
+                "text": "{H4325G=מַי=water}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L מָֽיִם\\׃\\ \\ס Ma.yim water {H4325G}\\H9016\\ \\H9018 HNcmpa H4325G {H4325G=מַי=water}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 21,
           "verse": 17,
           "text": "Then Israel sang a song. They said,\n“Spring up, you well!\nSing about it.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "of",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "it",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9034}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp3fs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9034",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9034",
+                  "lemma": "הָ",
+                  "translit": "ha",
+                  "morph": "Os3f",
+                  "gloss": "her Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular",
+                  "raw": "H9034\tH9034 =\tH9034\tהָ\tha\tOs3f\ther\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9034=Os3f=her}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#10=L לָֽ/הּ\\׃ La/h of <the>/ it H9005/{H9034}\\H9016 HRd/Sp3fs H9034 H9005=ל=to/{H9034=Os3f=her}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 18,
           "text": "Sing about the well the princes dug.\nSing about the well the nobles of the people dug.\nAll of their rulers were holding their rods and staffs.”\nThen the people of Israel went from the desert to Mattanah.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מַתָּנָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ma.ta.Nah",
+                "wordIndex": 2
+              },
+              {
+                "text": "Mattanah",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4980}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4980",
+                  "lemma": "מַתָּנָה",
+                  "translit": "mat.ta.nah",
+                  "morph": "N:N--L",
+                  "gloss": "Mattanah <BR> § Mattanah = \"gift of Jehovah\"<br> a station of the Israelites in the latter part of their wanderings located east of the Jordan and probably to the southeast of the Dead Sea<br>",
+                  "raw": "H4980\tH4980 =\tH4980\tמַתָּנָה\tmat.ta.nah\tN:N--L\tMattanah\t <BR> § Mattanah = \"gift of Jehovah\"<br> a station of the Israelites in the latter part of their wanderings located east of the Jordan and probably to the southeast of the Dead Sea<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4980",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4980",
+                  "lemma": "מַתָּנָה",
+                  "translit": "mat.ta.nah",
+                  "morph": "N:N--L",
+                  "gloss": "Mattanah <BR> § Mattanah = \"gift of Jehovah\"<br> a station of the Israelites in the latter part of their wanderings located east of the Jordan and probably to the southeast of the Dead Sea<br>",
+                  "raw": "H4980\tH4980 =\tH4980\tמַתָּנָה\tmat.ta.nah\tN:N--L\tMattanah\t <BR> § Mattanah = \"gift of Jehovah\"<br> a station of the Israelites in the latter part of their wanderings located east of the Jordan and probably to the southeast of the Dead Sea<br>"
+                }
+              },
+              {
+                "text": "{H4980=מַתָּנָה=Mattanah»Mattanah@Num.21.18-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4980",
+                  "lemma": "מַתָּנָה",
+                  "translit": "mat.ta.nah",
+                  "morph": "N:N--L",
+                  "gloss": "Mattanah <BR> § Mattanah = \"gift of Jehovah\"<br> a station of the Israelites in the latter part of their wanderings located east of the Jordan and probably to the southeast of the Dead Sea<br>",
+                  "raw": "H4980\tH4980 =\tH4980\tמַתָּנָה\tmat.ta.nah\tN:N--L\tMattanah\t <BR> § Mattanah = \"gift of Jehovah\"<br> a station of the Israelites in the latter part of their wanderings located east of the Jordan and probably to the southeast of the Dead Sea<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L מַתָּנָֽה\\׃ ma.ta.Nah Mattanah {H4980}\\H9016 HNpl H4980 {H4980=מַתָּנָה=Mattanah»Mattanah@Num.21.18-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 19,
           "text": "They went from Mattanah to Nahaliel. They went from Nahaliel to Bamoth.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּמֽוֹת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba.Mot",
+                "wordIndex": 2
+              },
+              {
+                "text": "Bamoth",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1120G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1120",
+                  "lemma": "בָּמוֹת",
+                  "translit": "ba.mot",
+                  "morph": "N:N--L",
+                  "gloss": "Bamoth <BR> § Bamoth = \"high places\" or \"great high place\"<br> a town on the river Arnon in Moab",
+                  "raw": "H1120\tH1120H =\tH1120H\tבָּמוֹת\tba.mot\tN:N--L\tBamoth\t<BR> § Bamoth = \"high places\" or \"great high place\"<br> a town on the river Arnon in Moab"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1120G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1120",
+                  "lemma": "בָּמוֹת",
+                  "translit": "ba.mot",
+                  "morph": "N:N--L",
+                  "gloss": "Bamoth <BR> § Bamoth = \"high places\" or \"great high place\"<br> a town on the river Arnon in Moab",
+                  "raw": "H1120\tH1120H =\tH1120H\tבָּמוֹת\tba.mot\tN:N--L\tBamoth\t<BR> § Bamoth = \"high places\" or \"great high place\"<br> a town on the river Arnon in Moab"
+                }
+              },
+              {
+                "text": "{H1120G=בָּמוֹת=Bamoth»Bamoth@Num.21.19-}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1120",
+                  "lemma": "בָּמוֹת",
+                  "translit": "ba.mot",
+                  "morph": "N:N--L",
+                  "gloss": "Bamoth <BR> § Bamoth = \"high places\" or \"great high place\"<br> a town on the river Arnon in Moab",
+                  "raw": "H1120\tH1120H =\tH1120H\tבָּמוֹת\tba.mot\tN:N--L\tBamoth\t<BR> § Bamoth = \"high places\" or \"great high place\"<br> a town on the river Arnon in Moab"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L בָּמֽוֹת\\׃ ba.Mot Bamoth {H1120G}\\H9016 HNpl H1120G {H1120G=בָּמוֹת=Bamoth»Bamoth@Num.21.19-}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 20,
           "text": "And they went from Bamoth to a valley in Moab. It’s the valley where the highest slopes of Pisgah look out over a dry and empty land.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יְשִׁימֹֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "ha/y.shi.Mon",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "desolate",
+                "wordIndex": 5
+              },
+              {
+                "text": "place",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9009/{H3452H}\\H9016\\",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 9
+              },
+              {
+                "text": "H3452H",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H3452",
+                  "lemma": "יְשִׁימוֹן",
+                  "translit": "ye.shi.mon",
+                  "morph": "H:N-M",
+                  "gloss": "wilderness waste, wilderness, desert, desolate place",
+                  "raw": "H3452\tH3452H =\tH3452H\tיְשִׁימוֹן\tye.shi.mon\tH:N-M\twilderness\twaste, wilderness, desert, desolate place"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3452H=יְשִׁימוֹן=wilderness}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L הַ/יְשִׁימֹֽן\\׃\\ \\פ ha/y.shi.Mon the/ desolate place H9009/{H3452H}\\H9016\\ \\H9017 HTd/Ncmsa H3452H H9009=ה=the/{H3452H=יְשִׁימוֹן=wilderness}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ]
     }

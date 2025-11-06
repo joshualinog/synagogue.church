@@ -7,43 +7,594 @@
           "chapter": 20,
           "verse": 7,
           "text": "Yahweh spoke to Moses, saying,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵּ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L לֵּ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 20,
           "verse": 8,
           "text": "“Take the staff and summon the community, you and Aaron your brother, and speak to the rock before their eyes, and it will give water. Bring out for them water from the rock, and let the community and their livestock drink.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#25=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּעִירָֽ/ם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be.'i.Ra/m",
+                "wordIndex": 2
+              },
+              {
+                "text": "livestock/",
+                "wordIndex": 3
+              },
+              {
+                "text": "their",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H1165}/H9028\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H1165",
+                  "lemma": "בְּעִיר",
+                  "translit": "be.ir",
+                  "morph": "H:N-M",
+                  "gloss": "cattle beasts, cattle",
+                  "raw": "H1165\tH1165 =\tH1165\tבְּעִיר\tbe.ir\tH:N-M\tcattle\tbeasts, cattle"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1165",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1165",
+                  "lemma": "בְּעִיר",
+                  "translit": "be.ir",
+                  "morph": "H:N-M",
+                  "gloss": "cattle beasts, cattle",
+                  "raw": "H1165\tH1165 =\tH1165\tבְּעִיר\tbe.ir\tH:N-M\tcattle\tbeasts, cattle"
+                }
+              },
+              {
+                "text": "{H1165=בְּעִיר=cattle}/H9028=Pp3m=their\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1165",
+                  "lemma": "בְּעִיר",
+                  "translit": "be.ir",
+                  "morph": "H:N-M",
+                  "gloss": "cattle beasts, cattle",
+                  "raw": "H1165\tH1165 =\tH1165\tבְּעִיר\tbe.ir\tH:N-M\tcattle\tbeasts, cattle"
+                }
+              }
+            ],
+            "originalVerseText": "#25=L בְּעִירָֽ/ם\\׃ be.'i.Ra/m livestock/ their {H1165}/H9028\\H9016 HNcmsc/Sp3mp H1165 {H1165=בְּעִיר=cattle}/H9028=Pp3m=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 20,
           "verse": 9,
           "text": "So Moses took the staff from before Yahweh just as he command him,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צִוָּֽ/הוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tzi.Va./hu",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "had",
+                "wordIndex": 4
+              },
+              {
+                "text": "commanded/",
+                "wordIndex": 5
+              },
+              {
+                "text": "him",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6680}/H9033\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6680",
+                  "lemma": "צָוָה",
+                  "translit": "tsa.vah",
+                  "morph": "H:V",
+                  "gloss": "to command 1) to command, charge, give orders, lay charge, give charge to, order<br>1a)(Piel)<br>1a1) to lay charge upon<br>1a2) to give charge to, give command to<br>1a3) to give charge unto<br>1a4) to give charge over, appoint<br>1a5) to give charge, command<br>1a6) to charge, command<br>1a7) to charge, commission<br>1a8) to command, appoint, ordain (of divine act)<br>1b) (Pual) to be commanded",
+                  "raw": "H6680\tH6680 =\tH6680\tצָוָה\ttsa.vah\tH:V\tto command\t1) to command, charge, give orders, lay charge, give charge to, order<br>1a)(Piel)<br>1a1) to lay charge upon<br>1a2) to give charge to, give command to<br>1a3) to give charge unto<br>1a4) to give charge over, appoint<br>1a5) to give charge, command<br>1a6) to charge, command<br>1a7) to charge, commission<br>1a8) to command, appoint, ordain (of divine act)<br>1b) (Pual) to be commanded"
+                }
+              },
+              {
+                "text": "HVpp3ms/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H6680",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H6680",
+                  "lemma": "צָוָה",
+                  "translit": "tsa.vah",
+                  "morph": "H:V",
+                  "gloss": "to command 1) to command, charge, give orders, lay charge, give charge to, order<br>1a)(Piel)<br>1a1) to lay charge upon<br>1a2) to give charge to, give command to<br>1a3) to give charge unto<br>1a4) to give charge over, appoint<br>1a5) to give charge, command<br>1a6) to charge, command<br>1a7) to charge, commission<br>1a8) to command, appoint, ordain (of divine act)<br>1b) (Pual) to be commanded",
+                  "raw": "H6680\tH6680 =\tH6680\tצָוָה\ttsa.vah\tH:V\tto command\t1) to command, charge, give orders, lay charge, give charge to, order<br>1a)(Piel)<br>1a1) to lay charge upon<br>1a2) to give charge to, give command to<br>1a3) to give charge unto<br>1a4) to give charge over, appoint<br>1a5) to give charge, command<br>1a6) to charge, command<br>1a7) to charge, commission<br>1a8) to command, appoint, ordain (of divine act)<br>1b) (Pual) to be commanded"
+                }
+              },
+              {
+                "text": "{H6680=צָוָה=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H6680",
+                  "lemma": "צָוָה",
+                  "translit": "tsa.vah",
+                  "morph": "H:V",
+                  "gloss": "to command 1) to command, charge, give orders, lay charge, give charge to, order<br>1a)(Piel)<br>1a1) to lay charge upon<br>1a2) to give charge to, give command to<br>1a3) to give charge unto<br>1a4) to give charge over, appoint<br>1a5) to give charge, command<br>1a6) to charge, command<br>1a7) to charge, commission<br>1a8) to command, appoint, ordain (of divine act)<br>1b) (Pual) to be commanded",
+                  "raw": "H6680\tH6680 =\tH6680\tצָוָה\ttsa.vah\tH:V\tto command\t1) to command, charge, give orders, lay charge, give charge to, order<br>1a)(Piel)<br>1a1) to lay charge upon<br>1a2) to give charge to, give command to<br>1a3) to give charge unto<br>1a4) to give charge over, appoint<br>1a5) to give charge, command<br>1a6) to charge, command<br>1a7) to charge, commission<br>1a8) to command, appoint, ordain (of divine act)<br>1b) (Pual) to be commanded"
+                }
+              },
+              {
+                "text": "command}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L צִוָּֽ/הוּ\\׃ tzi.Va./hu he had commanded/ him {H6680}/H9033\\H9016 HVpp3ms/Sp3ms H6680 {H6680=צָוָה=to command}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 20,
           "verse": 10,
           "text": "and Moses and Aaron summoned the assembly to the presence of the rock, and he said to them, “Please listen, you rebels; can we bring out water for you from this rock?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ma.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "water",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4325G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4325G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              },
+              {
+                "text": "{H4325G=מַי=water}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              }
+            ],
+            "originalVerseText": "#19=L מָֽיִם\\׃ Ma.yim water {H4325G}\\H9016 HNcmpa H4325G {H4325G=מַי=water}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 20,
           "verse": 11,
           "text": "Then Moses lifted up his hand and struck the rock with his staff twice. And abundant water went out, and the community and their livestock drank.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/בְעִירָֽ/ם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "u./ve.'i.Ra/m",
+                "wordIndex": 3
+              },
+              {
+                "text": "and/",
+                "wordIndex": 4
+              },
+              {
+                "text": "livestock/",
+                "wordIndex": 5
+              },
+              {
+                "text": "their",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/{H1165}/H9028\\H9016\\",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HC/Ncmsc/Sp3mp",
+                "wordIndex": 9
+              },
+              {
+                "text": "H1165",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H1165",
+                  "lemma": "בְּעִיר",
+                  "translit": "be.ir",
+                  "morph": "H:N-M",
+                  "gloss": "cattle beasts, cattle",
+                  "raw": "H1165\tH1165 =\tH1165\tבְּעִיר\tbe.ir\tH:N-M\tcattle\tbeasts, cattle"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H1165=בְּעִיר=cattle}/H9028=Pp3m=their\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L וּ/בְעִירָֽ/ם\\׃\\ \\ס u./ve.'i.Ra/m and/ livestock/ their H9002/{H1165}/H9028\\H9016\\ \\H9018 HC/Ncmsc/Sp3mp H1165 H9002=ו=and/{H1165=בְּעִיר=cattle}/H9028=Pp3m=their\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 20,
           "verse": 12,
           "text": "But Yahweh said to Moses and Aaron, “Because you have not trusted in me, to regard me as holy in the sight of the Israelites, you will not bring this assembly into the land that I have given to them.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#25=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/הֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Hem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "them",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9038}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9038",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9038",
+                  "lemma": "הֶם",
+                  "translit": "hem",
+                  "morph": "Op3m",
+                  "gloss": "them Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural",
+                  "raw": "H9038\tH9038 =\tH9038\tהֶם\them\tOp3m\tthem\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9038=Op3m=them}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#25=L לָ/הֶֽם\\׃ la./Hem to <the>/ them H9005/{H9038}\\H9016 HRd/Sp3mp H9038 H9005=ל=to/{H9038=Op3m=them}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 20,
           "verse": 13,
           "text": "Those were the waters of Meribah, where the Israelites quarreled with Yahweh, and he showed himself holy among them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּֽ/ם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "Ba/m",
+                "wordIndex": 3
+              },
+              {
+                "text": "among",
+                "wordIndex": 4
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 5
+              },
+              {
+                "text": "them",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9003/{H9038}\\H9016\\",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HRd/Sp3mp",
+                "wordIndex": 9
+              },
+              {
+                "text": "H9038",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9038",
+                  "lemma": "הֶם",
+                  "translit": "hem",
+                  "morph": "Op3m",
+                  "gloss": "them Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural",
+                  "raw": "H9038\tH9038 =\tH9038\tהֶם\them\tOp3m\tthem\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H9038=Op3m=them}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L בָּֽ/ם\\׃\\ \\ס Ba/m among <the>/ them H9003/{H9038}\\H9016\\ \\H9018 HRd/Sp3mp H9038 H9003=ב=in/{H9038=Op3m=them}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         }
       ],
       "nirv": [
@@ -51,43 +602,594 @@
           "chapter": 20,
           "verse": 7,
           "text": "The Lord spoke to Moses. He said,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵּ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L לֵּ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 20,
           "verse": 8,
           "text": "“Get your wooden staff. You and your brother Aaron gather the people together. Then speak to that rock while everyone is watching. It will pour out its water. You will bring water out of the rock for the community. Then they and their livestock can drink it.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#25=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּעִירָֽ/ם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be.'i.Ra/m",
+                "wordIndex": 2
+              },
+              {
+                "text": "livestock/",
+                "wordIndex": 3
+              },
+              {
+                "text": "their",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H1165}/H9028\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H1165",
+                  "lemma": "בְּעִיר",
+                  "translit": "be.ir",
+                  "morph": "H:N-M",
+                  "gloss": "cattle beasts, cattle",
+                  "raw": "H1165\tH1165 =\tH1165\tבְּעִיר\tbe.ir\tH:N-M\tcattle\tbeasts, cattle"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1165",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1165",
+                  "lemma": "בְּעִיר",
+                  "translit": "be.ir",
+                  "morph": "H:N-M",
+                  "gloss": "cattle beasts, cattle",
+                  "raw": "H1165\tH1165 =\tH1165\tבְּעִיר\tbe.ir\tH:N-M\tcattle\tbeasts, cattle"
+                }
+              },
+              {
+                "text": "{H1165=בְּעִיר=cattle}/H9028=Pp3m=their\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1165",
+                  "lemma": "בְּעִיר",
+                  "translit": "be.ir",
+                  "morph": "H:N-M",
+                  "gloss": "cattle beasts, cattle",
+                  "raw": "H1165\tH1165 =\tH1165\tבְּעִיר\tbe.ir\tH:N-M\tcattle\tbeasts, cattle"
+                }
+              }
+            ],
+            "originalVerseText": "#25=L בְּעִירָֽ/ם\\׃ be.'i.Ra/m livestock/ their {H1165}/H9028\\H9016 HNcmsc/Sp3mp H1165 {H1165=בְּעִיר=cattle}/H9028=Pp3m=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 20,
           "verse": 9,
           "text": "So Moses took the wooden staff from the tent. He did just as the Lord had commanded him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צִוָּֽ/הוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tzi.Va./hu",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "had",
+                "wordIndex": 4
+              },
+              {
+                "text": "commanded/",
+                "wordIndex": 5
+              },
+              {
+                "text": "him",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6680}/H9033\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6680",
+                  "lemma": "צָוָה",
+                  "translit": "tsa.vah",
+                  "morph": "H:V",
+                  "gloss": "to command 1) to command, charge, give orders, lay charge, give charge to, order<br>1a)(Piel)<br>1a1) to lay charge upon<br>1a2) to give charge to, give command to<br>1a3) to give charge unto<br>1a4) to give charge over, appoint<br>1a5) to give charge, command<br>1a6) to charge, command<br>1a7) to charge, commission<br>1a8) to command, appoint, ordain (of divine act)<br>1b) (Pual) to be commanded",
+                  "raw": "H6680\tH6680 =\tH6680\tצָוָה\ttsa.vah\tH:V\tto command\t1) to command, charge, give orders, lay charge, give charge to, order<br>1a)(Piel)<br>1a1) to lay charge upon<br>1a2) to give charge to, give command to<br>1a3) to give charge unto<br>1a4) to give charge over, appoint<br>1a5) to give charge, command<br>1a6) to charge, command<br>1a7) to charge, commission<br>1a8) to command, appoint, ordain (of divine act)<br>1b) (Pual) to be commanded"
+                }
+              },
+              {
+                "text": "HVpp3ms/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H6680",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H6680",
+                  "lemma": "צָוָה",
+                  "translit": "tsa.vah",
+                  "morph": "H:V",
+                  "gloss": "to command 1) to command, charge, give orders, lay charge, give charge to, order<br>1a)(Piel)<br>1a1) to lay charge upon<br>1a2) to give charge to, give command to<br>1a3) to give charge unto<br>1a4) to give charge over, appoint<br>1a5) to give charge, command<br>1a6) to charge, command<br>1a7) to charge, commission<br>1a8) to command, appoint, ordain (of divine act)<br>1b) (Pual) to be commanded",
+                  "raw": "H6680\tH6680 =\tH6680\tצָוָה\ttsa.vah\tH:V\tto command\t1) to command, charge, give orders, lay charge, give charge to, order<br>1a)(Piel)<br>1a1) to lay charge upon<br>1a2) to give charge to, give command to<br>1a3) to give charge unto<br>1a4) to give charge over, appoint<br>1a5) to give charge, command<br>1a6) to charge, command<br>1a7) to charge, commission<br>1a8) to command, appoint, ordain (of divine act)<br>1b) (Pual) to be commanded"
+                }
+              },
+              {
+                "text": "{H6680=צָוָה=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H6680",
+                  "lemma": "צָוָה",
+                  "translit": "tsa.vah",
+                  "morph": "H:V",
+                  "gloss": "to command 1) to command, charge, give orders, lay charge, give charge to, order<br>1a)(Piel)<br>1a1) to lay charge upon<br>1a2) to give charge to, give command to<br>1a3) to give charge unto<br>1a4) to give charge over, appoint<br>1a5) to give charge, command<br>1a6) to charge, command<br>1a7) to charge, commission<br>1a8) to command, appoint, ordain (of divine act)<br>1b) (Pual) to be commanded",
+                  "raw": "H6680\tH6680 =\tH6680\tצָוָה\ttsa.vah\tH:V\tto command\t1) to command, charge, give orders, lay charge, give charge to, order<br>1a)(Piel)<br>1a1) to lay charge upon<br>1a2) to give charge to, give command to<br>1a3) to give charge unto<br>1a4) to give charge over, appoint<br>1a5) to give charge, command<br>1a6) to charge, command<br>1a7) to charge, commission<br>1a8) to command, appoint, ordain (of divine act)<br>1b) (Pual) to be commanded"
+                }
+              },
+              {
+                "text": "command}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L צִוָּֽ/הוּ\\׃ tzi.Va./hu he had commanded/ him {H6680}/H9033\\H9016 HVpp3ms/Sp3ms H6680 {H6680=צָוָה=to command}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 20,
           "verse": 10,
           "text": "He and Aaron gathered the people together in front of the rock. Moses said to them, “Listen, you who refuse to obey! Do we have to bring water out of this rock for you?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ma.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "water",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4325G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4325G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              },
+              {
+                "text": "{H4325G=מַי=water}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              }
+            ],
+            "originalVerseText": "#19=L מָֽיִם\\׃ Ma.yim water {H4325G}\\H9016 HNcmpa H4325G {H4325G=מַי=water}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 20,
           "verse": 11,
           "text": "Then Moses raised his arm. He hit the rock twice with his staff. Water poured out. And the people and their livestock drank it.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/בְעִירָֽ/ם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "u./ve.'i.Ra/m",
+                "wordIndex": 3
+              },
+              {
+                "text": "and/",
+                "wordIndex": 4
+              },
+              {
+                "text": "livestock/",
+                "wordIndex": 5
+              },
+              {
+                "text": "their",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/{H1165}/H9028\\H9016\\",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HC/Ncmsc/Sp3mp",
+                "wordIndex": 9
+              },
+              {
+                "text": "H1165",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H1165",
+                  "lemma": "בְּעִיר",
+                  "translit": "be.ir",
+                  "morph": "H:N-M",
+                  "gloss": "cattle beasts, cattle",
+                  "raw": "H1165\tH1165 =\tH1165\tבְּעִיר\tbe.ir\tH:N-M\tcattle\tbeasts, cattle"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H1165=בְּעִיר=cattle}/H9028=Pp3m=their\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L וּ/בְעִירָֽ/ם\\׃\\ \\ס u./ve.'i.Ra/m and/ livestock/ their H9002/{H1165}/H9028\\H9016\\ \\H9018 HC/Ncmsc/Sp3mp H1165 H9002=ו=and/{H1165=בְּעִיר=cattle}/H9028=Pp3m=their\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 20,
           "verse": 12,
           "text": "But the Lord spoke to Moses and Aaron. He said, “You did not trust in me enough to honor me. You did not honor me as the holy God in front of the people of Israel. So you will not bring this community into the land I am giving them.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#25=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/הֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Hem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "them",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9038}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9038",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9038",
+                  "lemma": "הֶם",
+                  "translit": "hem",
+                  "morph": "Op3m",
+                  "gloss": "them Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural",
+                  "raw": "H9038\tH9038 =\tH9038\tהֶם\them\tOp3m\tthem\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9038=Op3m=them}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#25=L לָ/הֶֽם\\׃ la./Hem to <the>/ them H9005/{H9038}\\H9016 HRd/Sp3mp H9038 H9005=ל=to/{H9038=Op3m=them}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 20,
           "verse": 13,
           "text": "Those were the waters of Meribah. That’s where the people of Israel argued with the Lord. And that’s where he showed them he is holy.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּֽ/ם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "Ba/m",
+                "wordIndex": 3
+              },
+              {
+                "text": "among",
+                "wordIndex": 4
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 5
+              },
+              {
+                "text": "them",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9003/{H9038}\\H9016\\",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HRd/Sp3mp",
+                "wordIndex": 9
+              },
+              {
+                "text": "H9038",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9038",
+                  "lemma": "הֶם",
+                  "translit": "hem",
+                  "morph": "Op3m",
+                  "gloss": "them Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural",
+                  "raw": "H9038\tH9038 =\tH9038\tהֶם\them\tOp3m\tthem\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H9038=Op3m=them}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L בָּֽ/ם\\׃\\ \\ס Ba/m among <the>/ them H9003/{H9038}\\H9016\\ \\H9018 HRd/Sp3mp H9038 H9003=ב=in/{H9038=Op3m=them}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         }
       ]
     }

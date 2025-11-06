@@ -7,37 +7,511 @@
           "chapter": 31,
           "verse": 25,
           "text": "then Moses commanded the Levites carrying the ark of the covenant of Yahweh, saying,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L לֵ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 31,
           "verse": 26,
           "text": "“Take the scroll of this law and put it at the side of the ark of the covenant of Yahweh your God, and it will be there as a witness against you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/עֵֽד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./'Ed",
+                "wordIndex": 2
+              },
+              {
+                "text": "<into>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "a",
+                "wordIndex": 4
+              },
+              {
+                "text": "witness",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H5707}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5707",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H5707",
+                  "lemma": "עֵד",
+                  "translit": "ed",
+                  "morph": "H:N-M",
+                  "gloss": "witness 1) witness<br>1a) witness, testimony, evidence (of things)<br>1b) witness (of people)",
+                  "raw": "H5707\tH5707 =\tH5707\tעֵד\ted\tH:N-M\twitness\t1) witness<br>1a) witness, testimony, evidence (of things)<br>1b) witness (of people)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H5707=עֵד=witness}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#16=L לְ/עֵֽד\\׃ le./'Ed <into>/ a witness H9005/{H5707}\\H9016 HR/Ncmsa H5707 H9005=ל=to/{H5707=עֵד=witness}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 31,
           "verse": 27,
           "text": "For I know your rebellion and your stiff neck even now while I am still alive with you today, rebelling against Yahweh, and how much more after my death.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מוֹתִֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mo.T/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "death/",
+                "wordIndex": 3
+              },
+              {
+                "text": "my",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4194}/H9020\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4194",
+                  "lemma": "מָ֫וֶת",
+                  "translit": "ma.vet",
+                  "morph": "H:N-M",
+                  "gloss": "death 1) death, dying, Death (personified), realm of the dead<br>1a) death<br>1b) death by violence (as a penalty)<br>1c) state of death, place of death<BR>Aramaic equivalent: <i>mot</i> (מוֹת \"death\" H4193)",
+                  "raw": "H4194\tH4194 =\tH4194\tמָ֫וֶת\tma.vet\tH:N-M\tdeath\t1) death, dying, Death (personified), realm of the dead<br>1a) death<br>1b) death by violence (as a penalty)<br>1c) state of death, place of death<BR>Aramaic equivalent: <i>mot</i> (מוֹת \"death\" H4193)"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp1bs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4194",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4194",
+                  "lemma": "מָ֫וֶת",
+                  "translit": "ma.vet",
+                  "morph": "H:N-M",
+                  "gloss": "death 1) death, dying, Death (personified), realm of the dead<br>1a) death<br>1b) death by violence (as a penalty)<br>1c) state of death, place of death<BR>Aramaic equivalent: <i>mot</i> (מוֹת \"death\" H4193)",
+                  "raw": "H4194\tH4194 =\tH4194\tמָ֫וֶת\tma.vet\tH:N-M\tdeath\t1) death, dying, Death (personified), realm of the dead<br>1a) death<br>1b) death by violence (as a penalty)<br>1c) state of death, place of death<BR>Aramaic equivalent: <i>mot</i> (מוֹת \"death\" H4193)"
+                }
+              },
+              {
+                "text": "{H4194=מָ֫וֶת=death}/H9020=Ps1c=my\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4194",
+                  "lemma": "מָ֫וֶת",
+                  "translit": "ma.vet",
+                  "morph": "H:N-M",
+                  "gloss": "death 1) death, dying, Death (personified), realm of the dead<br>1a) death<br>1b) death by violence (as a penalty)<br>1c) state of death, place of death<BR>Aramaic equivalent: <i>mot</i> (מוֹת \"death\" H4193)",
+                  "raw": "H4194\tH4194 =\tH4194\tמָ֫וֶת\tma.vet\tH:N-M\tdeath\t1) death, dying, Death (personified), realm of the dead<br>1a) death<br>1b) death by violence (as a penalty)<br>1c) state of death, place of death<BR>Aramaic equivalent: <i>mot</i> (מוֹת \"death\" H4193)"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L מוֹתִֽ/י\\׃ mo.T/i death/ my {H4194}/H9020\\H9016 HNcmsc/Sp1bs H4194 {H4194=מָ֫וֶת=death}/H9020=Ps1c=my\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 31,
           "verse": 28,
           "text": "Assemble to me all the elders of your tribes and your officials, so that I may speak in their ears these words, and that I may call as witness against them heaven and earth.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אָֽרֶץ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'A.retz",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "earth",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0776G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L הָ/אָֽרֶץ\\׃ ha./'A.retz the/ earth H9009/{H0776G}\\H9016 HTd/Ncfsa H0776G H9009=ה=the/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 31,
           "verse": 29,
           "text": "For I know that after my death you will certainly act corruptly, and you will turn aside from the way that I have commanded you, and the disaster in the future days will befall you, because you will do evil in the eyes of Yahweh, provoking him with the work of your hands.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#27=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יְדֵי/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ye.dei./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "hands/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3027G}/H9026\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3027",
+                  "lemma": "יָד",
+                  "translit": "yad",
+                  "morph": "H:N-F",
+                  "gloss": "hand: swear : swear/allegience/hand(under)<br>1) hand<br>1a) hand (of man)<br>1b) strength, power (fig.)<br>1c) side (of land), part, portion (metaph.) (fig.)<br>1d) (various special, technical senses)<br>1d1) sign, monument<br>1d2) part, fractional part, share<br>1d3) time, repetition<br>1d4) axle-trees, axle<br>1d5) stays, support (for laver)<br>1d6) tenons (in tabernacle)<br>1d7) a phallus, a hand (meaning unsure)<br>1d8) wrists",
+                  "raw": "H3027\tH3027X = a Meaning of\tH3027G\tיָד\tyad\tH:N-F\thand: swear\t: swear/allegience/hand(under)<br>1) hand<br>1a) hand (of man)<br>1b) strength, power (fig.)<br>1c) side (of land), part, portion (metaph.) (fig.)<br>1d) (various special, technical senses)<br>1d1) sign, monument<br>1d2) part, fractional part, share<br>1d3) time, repetition<br>1d4) axle-trees, axle<br>1d5) stays, support (for laver)<br>1d6) tenons (in tabernacle)<br>1d7) a phallus, a hand (meaning unsure)<br>1d8) wrists"
+                }
+              },
+              {
+                "text": "HNcbdc/Sp2mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3027G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3027",
+                  "lemma": "יָד",
+                  "translit": "yad",
+                  "morph": "H:N-F",
+                  "gloss": "hand: swear : swear/allegience/hand(under)<br>1) hand<br>1a) hand (of man)<br>1b) strength, power (fig.)<br>1c) side (of land), part, portion (metaph.) (fig.)<br>1d) (various special, technical senses)<br>1d1) sign, monument<br>1d2) part, fractional part, share<br>1d3) time, repetition<br>1d4) axle-trees, axle<br>1d5) stays, support (for laver)<br>1d6) tenons (in tabernacle)<br>1d7) a phallus, a hand (meaning unsure)<br>1d8) wrists",
+                  "raw": "H3027\tH3027X = a Meaning of\tH3027G\tיָד\tyad\tH:N-F\thand: swear\t: swear/allegience/hand(under)<br>1) hand<br>1a) hand (of man)<br>1b) strength, power (fig.)<br>1c) side (of land), part, portion (metaph.) (fig.)<br>1d) (various special, technical senses)<br>1d1) sign, monument<br>1d2) part, fractional part, share<br>1d3) time, repetition<br>1d4) axle-trees, axle<br>1d5) stays, support (for laver)<br>1d6) tenons (in tabernacle)<br>1d7) a phallus, a hand (meaning unsure)<br>1d8) wrists"
+                }
+              },
+              {
+                "text": "{H3027G=יָד=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3027",
+                  "lemma": "יָד",
+                  "translit": "yad",
+                  "morph": "H:N-F",
+                  "gloss": "hand: swear : swear/allegience/hand(under)<br>1) hand<br>1a) hand (of man)<br>1b) strength, power (fig.)<br>1c) side (of land), part, portion (metaph.) (fig.)<br>1d) (various special, technical senses)<br>1d1) sign, monument<br>1d2) part, fractional part, share<br>1d3) time, repetition<br>1d4) axle-trees, axle<br>1d5) stays, support (for laver)<br>1d6) tenons (in tabernacle)<br>1d7) a phallus, a hand (meaning unsure)<br>1d8) wrists",
+                  "raw": "H3027\tH3027X = a Meaning of\tH3027G\tיָד\tyad\tH:N-F\thand: swear\t: swear/allegience/hand(under)<br>1) hand<br>1a) hand (of man)<br>1b) strength, power (fig.)<br>1c) side (of land), part, portion (metaph.) (fig.)<br>1d) (various special, technical senses)<br>1d1) sign, monument<br>1d2) part, fractional part, share<br>1d3) time, repetition<br>1d4) axle-trees, axle<br>1d5) stays, support (for laver)<br>1d6) tenons (in tabernacle)<br>1d7) a phallus, a hand (meaning unsure)<br>1d8) wrists"
+                }
+              },
+              {
+                "text": "hand»hand:1_hand;_arm[anatomy]}/H9026=Pp2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9026",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Pp2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural",
+                  "raw": "H9026\tH9026 =\tH9026\tכֶם\tkhem\tPp2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#27=L יְדֵי/כֶֽם\\׃ ye.dei./Khem hands/ your {H3027G}/H9026\\H9016 HNcbdc/Sp2mp H3027G {H3027G=יָד=: hand»hand:1_hand;_arm[anatomy]}/H9026=Pp2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 31,
           "verse": 30,
           "text": "So Moses spoke into the ears of the assembly of Israel the words of this song until they were complete.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תֻּמָּֽ/ם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "tu.Ma/m",
+                "wordIndex": 3
+              },
+              {
+                "text": "were",
+                "wordIndex": 4
+              },
+              {
+                "text": "complete/",
+                "wordIndex": 5
+              },
+              {
+                "text": "they",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H8552}/H9048\\H9016\\",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8552",
+                  "lemma": "תָּמַם",
+                  "translit": "ta.mam",
+                  "morph": "H:V",
+                  "gloss": "to finish 1) to be complete, be finished, be at an end<br>1a) (Qal)<br>1a1) to be finished, be completed<br>1a1a) completely, wholly, entirely (as auxiliary with verb)<br>1a2) to be finished, come to an end, cease<br>1a3) to be complete (of number)<br>1a4) to be consumed, be exhausted, be spent<br>1a5) to be finished, be consumed, be destroyed<br>1a6) to be complete, be sound, be unimpaired, be upright (ethically)<br>1a7) to complete, finish<br>1a8) to be completely crossed over<br>1b) (Niphal) to be consumed<br>1c) (Hiphil)<br>1c1) to finish, complete, perfect<br>1c2) to finish, cease doing, leave off doing<br>1c3) to complete, sum up, make whole<br>1c4) to destroy (uncleanness)<br>1c5) to make sound<br>1d) (Hithpael) to deal in integrity, act uprightly",
+                  "raw": "H8552\tH8552 =\tH8552\tתָּמַם\tta.mam\tH:V\tto finish\t1) to be complete, be finished, be at an end<br>1a) (Qal)<br>1a1) to be finished, be completed<br>1a1a) completely, wholly, entirely (as auxiliary with verb)<br>1a2) to be finished, come to an end, cease<br>1a3) to be complete (of number)<br>1a4) to be consumed, be exhausted, be spent<br>1a5) to be finished, be consumed, be destroyed<br>1a6) to be complete, be sound, be unimpaired, be upright (ethically)<br>1a7) to complete, finish<br>1a8) to be completely crossed over<br>1b) (Niphal) to be consumed<br>1c) (Hiphil)<br>1c1) to finish, complete, perfect<br>1c2) to finish, cease doing, leave off doing<br>1c3) to complete, sum up, make whole<br>1c4) to destroy (uncleanness)<br>1c5) to make sound<br>1d) (Hithpael) to deal in integrity, act uprightly"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HVqcc/Sp3mp",
+                "wordIndex": 9
+              },
+              {
+                "text": "H8552",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H8552",
+                  "lemma": "תָּמַם",
+                  "translit": "ta.mam",
+                  "morph": "H:V",
+                  "gloss": "to finish 1) to be complete, be finished, be at an end<br>1a) (Qal)<br>1a1) to be finished, be completed<br>1a1a) completely, wholly, entirely (as auxiliary with verb)<br>1a2) to be finished, come to an end, cease<br>1a3) to be complete (of number)<br>1a4) to be consumed, be exhausted, be spent<br>1a5) to be finished, be consumed, be destroyed<br>1a6) to be complete, be sound, be unimpaired, be upright (ethically)<br>1a7) to complete, finish<br>1a8) to be completely crossed over<br>1b) (Niphal) to be consumed<br>1c) (Hiphil)<br>1c1) to finish, complete, perfect<br>1c2) to finish, cease doing, leave off doing<br>1c3) to complete, sum up, make whole<br>1c4) to destroy (uncleanness)<br>1c5) to make sound<br>1d) (Hithpael) to deal in integrity, act uprightly",
+                  "raw": "H8552\tH8552 =\tH8552\tתָּמַם\tta.mam\tH:V\tto finish\t1) to be complete, be finished, be at an end<br>1a) (Qal)<br>1a1) to be finished, be completed<br>1a1a) completely, wholly, entirely (as auxiliary with verb)<br>1a2) to be finished, come to an end, cease<br>1a3) to be complete (of number)<br>1a4) to be consumed, be exhausted, be spent<br>1a5) to be finished, be consumed, be destroyed<br>1a6) to be complete, be sound, be unimpaired, be upright (ethically)<br>1a7) to complete, finish<br>1a8) to be completely crossed over<br>1b) (Niphal) to be consumed<br>1c) (Hiphil)<br>1c1) to finish, complete, perfect<br>1c2) to finish, cease doing, leave off doing<br>1c3) to complete, sum up, make whole<br>1c4) to destroy (uncleanness)<br>1c5) to make sound<br>1d) (Hithpael) to deal in integrity, act uprightly"
+                }
+              },
+              {
+                "text": "{H8552=תָּמַם=to",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H8552",
+                  "lemma": "תָּמַם",
+                  "translit": "ta.mam",
+                  "morph": "H:V",
+                  "gloss": "to finish 1) to be complete, be finished, be at an end<br>1a) (Qal)<br>1a1) to be finished, be completed<br>1a1a) completely, wholly, entirely (as auxiliary with verb)<br>1a2) to be finished, come to an end, cease<br>1a3) to be complete (of number)<br>1a4) to be consumed, be exhausted, be spent<br>1a5) to be finished, be consumed, be destroyed<br>1a6) to be complete, be sound, be unimpaired, be upright (ethically)<br>1a7) to complete, finish<br>1a8) to be completely crossed over<br>1b) (Niphal) to be consumed<br>1c) (Hiphil)<br>1c1) to finish, complete, perfect<br>1c2) to finish, cease doing, leave off doing<br>1c3) to complete, sum up, make whole<br>1c4) to destroy (uncleanness)<br>1c5) to make sound<br>1d) (Hithpael) to deal in integrity, act uprightly",
+                  "raw": "H8552\tH8552 =\tH8552\tתָּמַם\tta.mam\tH:V\tto finish\t1) to be complete, be finished, be at an end<br>1a) (Qal)<br>1a1) to be finished, be completed<br>1a1a) completely, wholly, entirely (as auxiliary with verb)<br>1a2) to be finished, come to an end, cease<br>1a3) to be complete (of number)<br>1a4) to be consumed, be exhausted, be spent<br>1a5) to be finished, be consumed, be destroyed<br>1a6) to be complete, be sound, be unimpaired, be upright (ethically)<br>1a7) to complete, finish<br>1a8) to be completely crossed over<br>1b) (Niphal) to be consumed<br>1c) (Hiphil)<br>1c1) to finish, complete, perfect<br>1c2) to finish, cease doing, leave off doing<br>1c3) to complete, sum up, make whole<br>1c4) to destroy (uncleanness)<br>1c5) to make sound<br>1d) (Hithpael) to deal in integrity, act uprightly"
+                }
+              },
+              {
+                "text": "finish}/H9048=Sp3m=they\\H9016=׃=verseEnd\\",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9048",
+                  "lemma": "ם",
+                  "translit": "m",
+                  "morph": "Sp3m",
+                  "gloss": "they Personal subject pronoun -  suffix for some adverbs and infinitives:  3rd person masculine plural",
+                  "raw": "H9048\tH9048 =\tH9048\tם\tm\tSp3m\tthey\tPersonal subject pronoun -  suffix for some adverbs and infinitives:  3rd person masculine plural"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L תֻּמָּֽ/ם\\׃\\ \\פ tu.Ma/m were complete/ they {H8552}/H9048\\H9016\\ \\H9017 HVqcc/Sp3mp H8552 {H8552=תָּמַם=to finish}/H9048=Sp3m=they\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ],
       "nirv": [
@@ -45,37 +519,511 @@
           "chapter": 31,
           "verse": 25,
           "text": "Then I gave a command to the Levites who carried the ark of the covenant of the Lord. I said,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L לֵ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 31,
           "verse": 26,
           "text": "“Take this Scroll of the Law. Place it beside the ark of the covenant of the Lord your God. It will remain there as a witness against you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/עֵֽד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./'Ed",
+                "wordIndex": 2
+              },
+              {
+                "text": "<into>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "a",
+                "wordIndex": 4
+              },
+              {
+                "text": "witness",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H5707}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5707",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H5707",
+                  "lemma": "עֵד",
+                  "translit": "ed",
+                  "morph": "H:N-M",
+                  "gloss": "witness 1) witness<br>1a) witness, testimony, evidence (of things)<br>1b) witness (of people)",
+                  "raw": "H5707\tH5707 =\tH5707\tעֵד\ted\tH:N-M\twitness\t1) witness<br>1a) witness, testimony, evidence (of things)<br>1b) witness (of people)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H5707=עֵד=witness}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#16=L לְ/עֵֽד\\׃ le./'Ed <into>/ a witness H9005/{H5707}\\H9016 HR/Ncmsa H5707 H9005=ל=to/{H5707=עֵד=witness}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 31,
           "verse": 27,
           "text": "I know how you refuse to obey the Lord. I know how stubborn you are. You have refused to obey him while I’ve been living among you. So you will certainly refuse to obey him after I’m dead!",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מוֹתִֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mo.T/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "death/",
+                "wordIndex": 3
+              },
+              {
+                "text": "my",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4194}/H9020\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4194",
+                  "lemma": "מָ֫וֶת",
+                  "translit": "ma.vet",
+                  "morph": "H:N-M",
+                  "gloss": "death 1) death, dying, Death (personified), realm of the dead<br>1a) death<br>1b) death by violence (as a penalty)<br>1c) state of death, place of death<BR>Aramaic equivalent: <i>mot</i> (מוֹת \"death\" H4193)",
+                  "raw": "H4194\tH4194 =\tH4194\tמָ֫וֶת\tma.vet\tH:N-M\tdeath\t1) death, dying, Death (personified), realm of the dead<br>1a) death<br>1b) death by violence (as a penalty)<br>1c) state of death, place of death<BR>Aramaic equivalent: <i>mot</i> (מוֹת \"death\" H4193)"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp1bs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4194",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4194",
+                  "lemma": "מָ֫וֶת",
+                  "translit": "ma.vet",
+                  "morph": "H:N-M",
+                  "gloss": "death 1) death, dying, Death (personified), realm of the dead<br>1a) death<br>1b) death by violence (as a penalty)<br>1c) state of death, place of death<BR>Aramaic equivalent: <i>mot</i> (מוֹת \"death\" H4193)",
+                  "raw": "H4194\tH4194 =\tH4194\tמָ֫וֶת\tma.vet\tH:N-M\tdeath\t1) death, dying, Death (personified), realm of the dead<br>1a) death<br>1b) death by violence (as a penalty)<br>1c) state of death, place of death<BR>Aramaic equivalent: <i>mot</i> (מוֹת \"death\" H4193)"
+                }
+              },
+              {
+                "text": "{H4194=מָ֫וֶת=death}/H9020=Ps1c=my\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4194",
+                  "lemma": "מָ֫וֶת",
+                  "translit": "ma.vet",
+                  "morph": "H:N-M",
+                  "gloss": "death 1) death, dying, Death (personified), realm of the dead<br>1a) death<br>1b) death by violence (as a penalty)<br>1c) state of death, place of death<BR>Aramaic equivalent: <i>mot</i> (מוֹת \"death\" H4193)",
+                  "raw": "H4194\tH4194 =\tH4194\tמָ֫וֶת\tma.vet\tH:N-M\tdeath\t1) death, dying, Death (personified), realm of the dead<br>1a) death<br>1b) death by violence (as a penalty)<br>1c) state of death, place of death<BR>Aramaic equivalent: <i>mot</i> (מוֹת \"death\" H4193)"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L מוֹתִֽ/י\\׃ mo.T/i death/ my {H4194}/H9020\\H9016 HNcmsc/Sp1bs H4194 {H4194=מָ֫וֶת=death}/H9020=Ps1c=my\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 31,
           "verse": 28,
           "text": "Gather together all of the elders of your tribes and all of your officials. Bring them to me. Then I can speak these words to them. I can call for heaven and earth to give witness against them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אָֽרֶץ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'A.retz",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "earth",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0776G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L הָ/אָֽרֶץ\\׃ ha./'A.retz the/ earth H9009/{H0776G}\\H9016 HTd/Ncfsa H0776G H9009=ה=the/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 31,
           "verse": 29,
           "text": "I know that after I’m dead you will certainly become very sinful. You will turn away from the path I’ve commanded you to take. In days to come, trouble will fall on you. That’s because you will do what is evil in the sight of the Lord. You will make him very angry because of the statues of gods your hands have made.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#27=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יְדֵי/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ye.dei./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "hands/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3027G}/H9026\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3027",
+                  "lemma": "יָד",
+                  "translit": "yad",
+                  "morph": "H:N-F",
+                  "gloss": "hand: swear : swear/allegience/hand(under)<br>1) hand<br>1a) hand (of man)<br>1b) strength, power (fig.)<br>1c) side (of land), part, portion (metaph.) (fig.)<br>1d) (various special, technical senses)<br>1d1) sign, monument<br>1d2) part, fractional part, share<br>1d3) time, repetition<br>1d4) axle-trees, axle<br>1d5) stays, support (for laver)<br>1d6) tenons (in tabernacle)<br>1d7) a phallus, a hand (meaning unsure)<br>1d8) wrists",
+                  "raw": "H3027\tH3027X = a Meaning of\tH3027G\tיָד\tyad\tH:N-F\thand: swear\t: swear/allegience/hand(under)<br>1) hand<br>1a) hand (of man)<br>1b) strength, power (fig.)<br>1c) side (of land), part, portion (metaph.) (fig.)<br>1d) (various special, technical senses)<br>1d1) sign, monument<br>1d2) part, fractional part, share<br>1d3) time, repetition<br>1d4) axle-trees, axle<br>1d5) stays, support (for laver)<br>1d6) tenons (in tabernacle)<br>1d7) a phallus, a hand (meaning unsure)<br>1d8) wrists"
+                }
+              },
+              {
+                "text": "HNcbdc/Sp2mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3027G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3027",
+                  "lemma": "יָד",
+                  "translit": "yad",
+                  "morph": "H:N-F",
+                  "gloss": "hand: swear : swear/allegience/hand(under)<br>1) hand<br>1a) hand (of man)<br>1b) strength, power (fig.)<br>1c) side (of land), part, portion (metaph.) (fig.)<br>1d) (various special, technical senses)<br>1d1) sign, monument<br>1d2) part, fractional part, share<br>1d3) time, repetition<br>1d4) axle-trees, axle<br>1d5) stays, support (for laver)<br>1d6) tenons (in tabernacle)<br>1d7) a phallus, a hand (meaning unsure)<br>1d8) wrists",
+                  "raw": "H3027\tH3027X = a Meaning of\tH3027G\tיָד\tyad\tH:N-F\thand: swear\t: swear/allegience/hand(under)<br>1) hand<br>1a) hand (of man)<br>1b) strength, power (fig.)<br>1c) side (of land), part, portion (metaph.) (fig.)<br>1d) (various special, technical senses)<br>1d1) sign, monument<br>1d2) part, fractional part, share<br>1d3) time, repetition<br>1d4) axle-trees, axle<br>1d5) stays, support (for laver)<br>1d6) tenons (in tabernacle)<br>1d7) a phallus, a hand (meaning unsure)<br>1d8) wrists"
+                }
+              },
+              {
+                "text": "{H3027G=יָד=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3027",
+                  "lemma": "יָד",
+                  "translit": "yad",
+                  "morph": "H:N-F",
+                  "gloss": "hand: swear : swear/allegience/hand(under)<br>1) hand<br>1a) hand (of man)<br>1b) strength, power (fig.)<br>1c) side (of land), part, portion (metaph.) (fig.)<br>1d) (various special, technical senses)<br>1d1) sign, monument<br>1d2) part, fractional part, share<br>1d3) time, repetition<br>1d4) axle-trees, axle<br>1d5) stays, support (for laver)<br>1d6) tenons (in tabernacle)<br>1d7) a phallus, a hand (meaning unsure)<br>1d8) wrists",
+                  "raw": "H3027\tH3027X = a Meaning of\tH3027G\tיָד\tyad\tH:N-F\thand: swear\t: swear/allegience/hand(under)<br>1) hand<br>1a) hand (of man)<br>1b) strength, power (fig.)<br>1c) side (of land), part, portion (metaph.) (fig.)<br>1d) (various special, technical senses)<br>1d1) sign, monument<br>1d2) part, fractional part, share<br>1d3) time, repetition<br>1d4) axle-trees, axle<br>1d5) stays, support (for laver)<br>1d6) tenons (in tabernacle)<br>1d7) a phallus, a hand (meaning unsure)<br>1d8) wrists"
+                }
+              },
+              {
+                "text": "hand»hand:1_hand;_arm[anatomy]}/H9026=Pp2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9026",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Pp2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural",
+                  "raw": "H9026\tH9026 =\tH9026\tכֶם\tkhem\tPp2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#27=L יְדֵי/כֶֽם\\׃ ye.dei./Khem hands/ your {H3027G}/H9026\\H9016 HNcbdc/Sp2mp H3027G {H3027G=יָד=: hand»hand:1_hand;_arm[anatomy]}/H9026=Pp2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 31,
           "verse": 30,
           "text": "I spoke the words of this song from beginning to end. The whole community of Israel heard them. Here is what I said.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תֻּמָּֽ/ם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "tu.Ma/m",
+                "wordIndex": 3
+              },
+              {
+                "text": "were",
+                "wordIndex": 4
+              },
+              {
+                "text": "complete/",
+                "wordIndex": 5
+              },
+              {
+                "text": "they",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H8552}/H9048\\H9016\\",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8552",
+                  "lemma": "תָּמַם",
+                  "translit": "ta.mam",
+                  "morph": "H:V",
+                  "gloss": "to finish 1) to be complete, be finished, be at an end<br>1a) (Qal)<br>1a1) to be finished, be completed<br>1a1a) completely, wholly, entirely (as auxiliary with verb)<br>1a2) to be finished, come to an end, cease<br>1a3) to be complete (of number)<br>1a4) to be consumed, be exhausted, be spent<br>1a5) to be finished, be consumed, be destroyed<br>1a6) to be complete, be sound, be unimpaired, be upright (ethically)<br>1a7) to complete, finish<br>1a8) to be completely crossed over<br>1b) (Niphal) to be consumed<br>1c) (Hiphil)<br>1c1) to finish, complete, perfect<br>1c2) to finish, cease doing, leave off doing<br>1c3) to complete, sum up, make whole<br>1c4) to destroy (uncleanness)<br>1c5) to make sound<br>1d) (Hithpael) to deal in integrity, act uprightly",
+                  "raw": "H8552\tH8552 =\tH8552\tתָּמַם\tta.mam\tH:V\tto finish\t1) to be complete, be finished, be at an end<br>1a) (Qal)<br>1a1) to be finished, be completed<br>1a1a) completely, wholly, entirely (as auxiliary with verb)<br>1a2) to be finished, come to an end, cease<br>1a3) to be complete (of number)<br>1a4) to be consumed, be exhausted, be spent<br>1a5) to be finished, be consumed, be destroyed<br>1a6) to be complete, be sound, be unimpaired, be upright (ethically)<br>1a7) to complete, finish<br>1a8) to be completely crossed over<br>1b) (Niphal) to be consumed<br>1c) (Hiphil)<br>1c1) to finish, complete, perfect<br>1c2) to finish, cease doing, leave off doing<br>1c3) to complete, sum up, make whole<br>1c4) to destroy (uncleanness)<br>1c5) to make sound<br>1d) (Hithpael) to deal in integrity, act uprightly"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HVqcc/Sp3mp",
+                "wordIndex": 9
+              },
+              {
+                "text": "H8552",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H8552",
+                  "lemma": "תָּמַם",
+                  "translit": "ta.mam",
+                  "morph": "H:V",
+                  "gloss": "to finish 1) to be complete, be finished, be at an end<br>1a) (Qal)<br>1a1) to be finished, be completed<br>1a1a) completely, wholly, entirely (as auxiliary with verb)<br>1a2) to be finished, come to an end, cease<br>1a3) to be complete (of number)<br>1a4) to be consumed, be exhausted, be spent<br>1a5) to be finished, be consumed, be destroyed<br>1a6) to be complete, be sound, be unimpaired, be upright (ethically)<br>1a7) to complete, finish<br>1a8) to be completely crossed over<br>1b) (Niphal) to be consumed<br>1c) (Hiphil)<br>1c1) to finish, complete, perfect<br>1c2) to finish, cease doing, leave off doing<br>1c3) to complete, sum up, make whole<br>1c4) to destroy (uncleanness)<br>1c5) to make sound<br>1d) (Hithpael) to deal in integrity, act uprightly",
+                  "raw": "H8552\tH8552 =\tH8552\tתָּמַם\tta.mam\tH:V\tto finish\t1) to be complete, be finished, be at an end<br>1a) (Qal)<br>1a1) to be finished, be completed<br>1a1a) completely, wholly, entirely (as auxiliary with verb)<br>1a2) to be finished, come to an end, cease<br>1a3) to be complete (of number)<br>1a4) to be consumed, be exhausted, be spent<br>1a5) to be finished, be consumed, be destroyed<br>1a6) to be complete, be sound, be unimpaired, be upright (ethically)<br>1a7) to complete, finish<br>1a8) to be completely crossed over<br>1b) (Niphal) to be consumed<br>1c) (Hiphil)<br>1c1) to finish, complete, perfect<br>1c2) to finish, cease doing, leave off doing<br>1c3) to complete, sum up, make whole<br>1c4) to destroy (uncleanness)<br>1c5) to make sound<br>1d) (Hithpael) to deal in integrity, act uprightly"
+                }
+              },
+              {
+                "text": "{H8552=תָּמַם=to",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H8552",
+                  "lemma": "תָּמַם",
+                  "translit": "ta.mam",
+                  "morph": "H:V",
+                  "gloss": "to finish 1) to be complete, be finished, be at an end<br>1a) (Qal)<br>1a1) to be finished, be completed<br>1a1a) completely, wholly, entirely (as auxiliary with verb)<br>1a2) to be finished, come to an end, cease<br>1a3) to be complete (of number)<br>1a4) to be consumed, be exhausted, be spent<br>1a5) to be finished, be consumed, be destroyed<br>1a6) to be complete, be sound, be unimpaired, be upright (ethically)<br>1a7) to complete, finish<br>1a8) to be completely crossed over<br>1b) (Niphal) to be consumed<br>1c) (Hiphil)<br>1c1) to finish, complete, perfect<br>1c2) to finish, cease doing, leave off doing<br>1c3) to complete, sum up, make whole<br>1c4) to destroy (uncleanness)<br>1c5) to make sound<br>1d) (Hithpael) to deal in integrity, act uprightly",
+                  "raw": "H8552\tH8552 =\tH8552\tתָּמַם\tta.mam\tH:V\tto finish\t1) to be complete, be finished, be at an end<br>1a) (Qal)<br>1a1) to be finished, be completed<br>1a1a) completely, wholly, entirely (as auxiliary with verb)<br>1a2) to be finished, come to an end, cease<br>1a3) to be complete (of number)<br>1a4) to be consumed, be exhausted, be spent<br>1a5) to be finished, be consumed, be destroyed<br>1a6) to be complete, be sound, be unimpaired, be upright (ethically)<br>1a7) to complete, finish<br>1a8) to be completely crossed over<br>1b) (Niphal) to be consumed<br>1c) (Hiphil)<br>1c1) to finish, complete, perfect<br>1c2) to finish, cease doing, leave off doing<br>1c3) to complete, sum up, make whole<br>1c4) to destroy (uncleanness)<br>1c5) to make sound<br>1d) (Hithpael) to deal in integrity, act uprightly"
+                }
+              },
+              {
+                "text": "finish}/H9048=Sp3m=they\\H9016=׃=verseEnd\\",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9048",
+                  "lemma": "ם",
+                  "translit": "m",
+                  "morph": "Sp3m",
+                  "gloss": "they Personal subject pronoun -  suffix for some adverbs and infinitives:  3rd person masculine plural",
+                  "raw": "H9048\tH9048 =\tH9048\tם\tm\tSp3m\tthey\tPersonal subject pronoun -  suffix for some adverbs and infinitives:  3rd person masculine plural"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L תֻּמָּֽ/ם\\׃\\ \\פ tu.Ma/m were complete/ they {H8552}/H9048\\H9016\\ \\H9017 HVqcc/Sp3mp H8552 {H8552=תָּמַם=to finish}/H9048=Sp3m=they\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ]
     }

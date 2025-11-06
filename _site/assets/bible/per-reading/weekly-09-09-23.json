@@ -7,67 +7,922 @@
           "chapter": 10,
           "verse": 1,
           "text": "And Yahweh said to Moses, “Go to Pharaoh, for I have made his heart insensitive and the heart of his servants in order to put these signs of mine in his midst,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/קִרְבּֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./kir.bo/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "in/",
+                "wordIndex": 3
+              },
+              {
+                "text": "midst/",
+                "wordIndex": 4
+              },
+              {
+                "text": "his",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H7130G}/H9023\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7130G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7130",
+                  "lemma": "קֶ֫רֶב",
+                  "translit": "qe.rev",
+                  "morph": "H:N-M",
+                  "gloss": "entrails: inner parts : inner_parts<br>1) midst, among, inner part, middle<br>1a) inward part<br>1a1) physical sense<br>1a2) as seat of thought and emotion<br>1a3) as faculty of thought and emotion<br>1b) in the midst, among, from among (of a number of persons)<br>1c) entrails (of sacrificial animals)",
+                  "raw": "H7130\tH7130H = a Meaning of\tH7130G\tקֶ֫רֶב\tqe.rev\tH:N-M\tentrails: inner parts\t: inner_parts<br>1) midst, among, inner part, middle<br>1a) inward part<br>1a1) physical sense<br>1a2) as seat of thought and emotion<br>1a3) as faculty of thought and emotion<br>1b) in the midst, among, from among (of a number of persons)<br>1c) entrails (of sacrificial animals)"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H7130G=קֶ֫רֶב=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "among»entrails:1_among;_within}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L בְּ/קִרְבּֽ/וֹ\\׃ be./kir.bo/v in/ midst/ his H9003/{H7130G}/H9023\\H9016 HR/Ncmsc/Sp3ms H7130G H9003=ב=in/{H7130G=קֶ֫רֶב=: among»entrails:1_among;_within}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 2,
           "text": "so that you will tell in the ears of your child and your grandchild that I dealt harshly with the Egyptians and so that you will tell about my signs that I have done among them, and so you will know that I am Yahweh.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יְהוָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yah.weh",
+                "wordIndex": 2
+              },
+              {
+                "text": "[am]",
+                "wordIndex": 3
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3068G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "HNpt",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3068G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L יְהוָֽה\\׃ Yah.weh [am] Yahweh {H3068G}\\H9016 HNpt H3068G {H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 3,
           "text": "And Moses and Aaron came to Pharaoh, and they said to him, “Thus says Yahweh, the God of the Hebrews, ‘Until when will you refuse to submit before me? Release my people so that they may serve me.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/יַֽעַבְדֻֽ/נִי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./Ya.'av.Du./ni",
+                "wordIndex": 2
+              },
+              {
+                "text": "so/",
+                "wordIndex": 3
+              },
+              {
+                "text": "they",
+                "wordIndex": 4
+              },
+              {
+                "text": "may",
+                "wordIndex": 5
+              },
+              {
+                "text": "serve/",
+                "wordIndex": 6
+              },
+              {
+                "text": "me",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9002/{H5647H}/H9030\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Vqu3mp/Sp1bs",
+                "wordIndex": 9
+              },
+              {
+                "text": "H5647H",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H5647",
+                  "lemma": "עָבַד",
+                  "translit": "a.vad",
+                  "morph": "H:V",
+                  "gloss": "to serve: burden : burden<br>1) to work, serve<br>1a) (Qal)<br>1a1) to labour, work, do work<br>1a2) to work for another, serve another by labour<br>1a3) to serve as subjects<br>1a4) to serve (God)<br>1a5) to serve (with Levitical service)<br>1b) (Niphal)<br>1b1) to be worked, be tilled (of land)<br>1b2) to make oneself a servant<br>1c) (Pual) to be worked<br>1d) (Hiphil)<br>1d1) to compel to labour or work, cause to labour, cause to serve<br>1d2) to cause to serve as subjects<br>1e) (Hophal) to be led or enticed to serve",
+                  "raw": "H5647\tH5647J = a Meaning of\tH5647G\tעָבַד\ta.vad\tH:V\tto serve: burden\t: burden<br>1) to work, serve<br>1a) (Qal)<br>1a1) to labour, work, do work<br>1a2) to work for another, serve another by labour<br>1a3) to serve as subjects<br>1a4) to serve (God)<br>1a5) to serve (with Levitical service)<br>1b) (Niphal)<br>1b1) to be worked, be tilled (of land)<br>1b2) to make oneself a servant<br>1c) (Pual) to be worked<br>1d) (Hiphil)<br>1d1) to compel to labour or work, cause to labour, cause to serve<br>1d2) to cause to serve as subjects<br>1e) (Hophal) to be led or enticed to serve"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H5647H=עָבַד=:",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "minister»to",
+                "wordIndex": 12
+              },
+              {
+                "text": "serve:2_minister;_serve[God;_tabernacle;_temple];_worship}/H9030=Os1c=me\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9030",
+                  "lemma": "נִי",
+                  "translit": "ni",
+                  "morph": "Os1c",
+                  "gloss": "me Personal object pronoun -  suffix for propositions and verbs without an object: 1st person singular",
+                  "raw": "H9030\tH9030 =\tH9030\tנִי\tni\tOs1c\tme\tPersonal object pronoun -  suffix for propositions and verbs without an object: 1st person singular"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L וְ/יַֽעַבְדֻֽ/נִי\\׃ ve./Ya.'av.Du./ni so/ they may serve/ me H9002/{H5647H}/H9030\\H9016 HC/Vqu3mp/Sp1bs H5647H H9002=ו=and/{H5647H=עָבַד=: minister»to serve:2_minister;_serve[God;_tabernacle;_temple];_worship}/H9030=Os1c=me\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 4,
           "text": "But if you are refusing to release my people, look, I am about to bring locusts into your territory tomorrow.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בִּ/גְבֻלֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "bi/g.vu.Le./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "in/",
+                "wordIndex": 3
+              },
+              {
+                "text": "territory/",
+                "wordIndex": 4
+              },
+              {
+                "text": "your",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H1366H}/H9021\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1366H",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1366",
+                  "lemma": "גְּבוּל",
+                  "translit": "ge.vul",
+                  "morph": "H:N-M",
+                  "gloss": "border: area : area<br>1) border, territory<br>1a) border<br>1b) territory (enclosed within boundary)<br>1c) region, territory (of darkness) (fig.)",
+                  "raw": "H1366\tH1366H = a Meaning of\tH1366G\tגְּבוּל\tge.vul\tH:N-M\tborder: area\t: area<br>1) border, territory<br>1a) border<br>1b) territory (enclosed within boundary)<br>1c) region, territory (of darkness) (fig.)"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H1366H=גְּבוּל=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "area»border:2_area}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L בִּ/גְבֻלֶֽ/ךָ\\׃ bi/g.vu.Le./kha in/ territory/ your H9003/{H1366H}/H9021\\H9016 HR/Ncmsc/Sp2ms H1366H H9003=ב=in/{H1366H=גְּבוּל=: area»border:2_area}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 5,
           "text": "And they will cover the surface of the land, and no one will be able to see the land, and they will eat the remainder of what is left—what is left over for you from the hail—and they will eat every sprouting tree belonging to you from the field.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#25=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/שָּׂדֶֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./sa.Deh",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "field",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H7704G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7704G",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9009=ה=the/{H7704G=שָׂדֶה=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#25=L הַ/שָּׂדֶֽה\\׃ ha./sa.Deh the/ field H9009/{H7704G}\\H9016 HTd/Ncmsa H7704G H9009=ה=the/{H7704G=שָׂדֶה=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 6,
           "text": "And your houses will be full, and the houses of all your servants and the houses of all Egypt, something that your fathers and your grandfathers never saw from the day they were on the earth until this day.’” And he turned and went out from Pharaoh.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#25=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פַּרְעֹֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "par.'Oh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Pharaoh",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6547J}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "HNtmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6547J",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "{H6547J=פַּרְעֹה=Pharaoh»Pharaoh@Exo.3.10-Rom}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#25=L פַּרְעֹֽה\\׃ par.'Oh Pharaoh {H6547J}\\H9016 HNtmsa H6547J {H6547J=פַּרְעֹה=Pharaoh»Pharaoh@Exo.3.10-Rom}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 7,
           "text": "And the servants of Pharaoh said to him, “Until when will this be a snare for us? Release the men so that they may serve Yahweh their God. Do you not yet know that Egypt is destroyed?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4714G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#22=L מִצְרָֽיִם\\׃ mitz.Ra.yim Egypt {H4714G}\\H9016 HNpl H4714G {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 8,
           "text": "And Moses and Aaron were brought back to Pharaoh, and he said to them, “Serve Yahweh your God. Who are the ones going?",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/הֹלְכִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./ho.le.Khim",
+                "wordIndex": 2
+              },
+              {
+                "text": "[are]",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "[ones]",
+                "wordIndex": 5
+              },
+              {
+                "text": "going",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9009/{H1980G}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Vqrmpa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H1980G_b",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H1980",
+                  "lemma": "הָלַךְ",
+                  "translit": "ha.lakh",
+                  "morph": "H:V",
+                  "gloss": "to go: send : send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H1980\tH1980O = a Meaning of\tH1980I\tהָלַךְ\tha.lakh\tH:V\tto go: send\t: send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "H3212_b",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H3212",
+                  "lemma": "יָלַךְ",
+                  "translit": "ya.lakh",
+                  "morph": "H:V",
+                  "gloss": "to walk 1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Hiphil) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H3212\tH3212 = a Spelling of\tH1980I\tיָלַךְ\tya.lakh\tH:V\tto walk\t1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Hiphil) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H1980G=הָלַךְ=:",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "went»to",
+                "wordIndex": 12
+              },
+              {
+                "text": "go:3_went;_go[away]}\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L הַ/הֹלְכִֽים\\׃ ha./ho.le.Khim [are] the/ [ones] going H9009/{H1980G}\\H9016 HTd/Vqrmpa H1980G_b H3212_b H9009=ה=the/{H1980G=הָלַךְ=: went»to go:3_went;_go[away]}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 9,
           "text": "And Moses said, “With our young and with our old we will go; with our sons and with our daughters, with our sheep and goats and with our cattle we will go because it is the feast of Yahweh for us.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָֽ/נוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La./nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "[will",
+                "wordIndex": 3
+              },
+              {
+                "text": "belong]",
+                "wordIndex": 4
+              },
+              {
+                "text": "to",
+                "wordIndex": 5
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 6
+              },
+              {
+                "text": "us",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9005/{H9035}\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp1bp",
+                "wordIndex": 9
+              },
+              {
+                "text": "H9035",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9035",
+                  "lemma": "נוּ",
+                  "translit": "nu",
+                  "morph": "Op1c",
+                  "gloss": "us Personal object pronoun -  suffix for propositions and verbs without an object: 1st person plural",
+                  "raw": "H9035\tH9035 =\tH9035\tנוּ\tnu\tOp1c\tus\tPersonal object pronoun -  suffix for propositions and verbs without an object: 1st person plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9035=Op1c=us}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#14=L לָֽ/נוּ\\׃ La./nu [will belong] to <the>/ us H9005/{H9035}\\H9016 HRd/Sp1bp H9035 H9005=ל=to/{H9035=Op1c=us}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 10,
           "text": "And he said to them, “Let Yahweh be thus with you as soon as I release you and your dependents. See that evil is before your faces.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פְּנֵי/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "pe.nei./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "faces/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6440G}/H9026\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H6440",
+                  "lemma": "פָּנֶה",
+                  "translit": "pa.neh",
+                  "morph": "H:N-M",
+                  "gloss": "face: kindness : kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
+                  "raw": "H6440\tH6440N = a Meaning of\tH6440H\tפָּנֶה\tpa.neh\tH:N-M\tface: kindness\t: kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp2mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6440G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6440",
+                  "lemma": "פָּנֶה",
+                  "translit": "pa.neh",
+                  "morph": "H:N-M",
+                  "gloss": "face: kindness : kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
+                  "raw": "H6440\tH6440N = a Meaning of\tH6440H\tפָּנֶה\tpa.neh\tH:N-M\tface: kindness\t: kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of"
+                }
+              },
+              {
+                "text": "{H6440G=פָּנֶה=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6440",
+                  "lemma": "פָּנֶה",
+                  "translit": "pa.neh",
+                  "morph": "H:N-M",
+                  "gloss": "face: kindness : kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
+                  "raw": "H6440\tH6440N = a Meaning of\tH6440H\tפָּנֶה\tpa.neh\tH:N-M\tface: kindness\t: kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of"
+                }
+              },
+              {
+                "text": "before»face:2_before;_to;_front}/H9026=Pp2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9026",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Pp2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural",
+                  "raw": "H9026\tH9026 =\tH9026\tכֶם\tkhem\tPp2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L פְּנֵי/כֶֽם\\׃ pe.nei./Khem faces/ your {H6440G}/H9026\\H9016 HNcmpc/Sp2mp H6440G {H6440G=פָּנֶה=: before»face:2_before;_to;_front}/H9026=Pp2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 11,
           "text": "No indeed; just the men go and serve Yahweh, since this is what you are seeking.” And he drove them out from the presence of Pharaoh.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פַרְעֹֽה\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "far.'Oh",
+                "wordIndex": 3
+              },
+              {
+                "text": "Pharaoh",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6547J}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNtmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H6547J",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "{H6547J=פַּרְעֹה=Pharaoh»Pharaoh@Exo.3.10-Rom}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L פַרְעֹֽה\\׃\\ \\פ far.'Oh Pharaoh {H6547J}\\H9016\\ \\H9017 HNtmsa H6547J {H6547J=פַּרְעֹה=Pharaoh»Pharaoh@Exo.3.10-Rom}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ],
       "nirv": [
@@ -75,67 +930,922 @@
           "chapter": 10,
           "verse": 1,
           "text": "Then the Lord said to Moses, “Go to Pharaoh. I have made his heart stubborn. I have also made the hearts of his officials stubborn so I can do my miraculous signs among them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/קִרְבּֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./kir.bo/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "in/",
+                "wordIndex": 3
+              },
+              {
+                "text": "midst/",
+                "wordIndex": 4
+              },
+              {
+                "text": "his",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H7130G}/H9023\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7130G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7130",
+                  "lemma": "קֶ֫רֶב",
+                  "translit": "qe.rev",
+                  "morph": "H:N-M",
+                  "gloss": "entrails: inner parts : inner_parts<br>1) midst, among, inner part, middle<br>1a) inward part<br>1a1) physical sense<br>1a2) as seat of thought and emotion<br>1a3) as faculty of thought and emotion<br>1b) in the midst, among, from among (of a number of persons)<br>1c) entrails (of sacrificial animals)",
+                  "raw": "H7130\tH7130H = a Meaning of\tH7130G\tקֶ֫רֶב\tqe.rev\tH:N-M\tentrails: inner parts\t: inner_parts<br>1) midst, among, inner part, middle<br>1a) inward part<br>1a1) physical sense<br>1a2) as seat of thought and emotion<br>1a3) as faculty of thought and emotion<br>1b) in the midst, among, from among (of a number of persons)<br>1c) entrails (of sacrificial animals)"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H7130G=קֶ֫רֶב=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "among»entrails:1_among;_within}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L בְּ/קִרְבּֽ/וֹ\\׃ be./kir.bo/v in/ midst/ his H9003/{H7130G}/H9023\\H9016 HR/Ncmsc/Sp3ms H7130G H9003=ב=in/{H7130G=קֶ֫רֶב=: among»entrails:1_among;_within}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 2,
           "text": "Then you will be able to tell your children and grandchildren how hard I was on the Egyptians. You can tell them I did great miracles among the people of Egypt. And all of you will know that I am the Lord.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יְהוָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yah.weh",
+                "wordIndex": 2
+              },
+              {
+                "text": "[am]",
+                "wordIndex": 3
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3068G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "HNpt",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3068G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L יְהוָֽה\\׃ Yah.weh [am] Yahweh {H3068G}\\H9016 HNpt H3068G {H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 3,
           "text": "So Moses and Aaron went to Pharaoh. They said to him, “The Lord, the God of the Hebrews, says, ‘How long will you refuse to obey me? Let my people go. Then they will be able to worship me.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/יַֽעַבְדֻֽ/נִי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./Ya.'av.Du./ni",
+                "wordIndex": 2
+              },
+              {
+                "text": "so/",
+                "wordIndex": 3
+              },
+              {
+                "text": "they",
+                "wordIndex": 4
+              },
+              {
+                "text": "may",
+                "wordIndex": 5
+              },
+              {
+                "text": "serve/",
+                "wordIndex": 6
+              },
+              {
+                "text": "me",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9002/{H5647H}/H9030\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Vqu3mp/Sp1bs",
+                "wordIndex": 9
+              },
+              {
+                "text": "H5647H",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H5647",
+                  "lemma": "עָבַד",
+                  "translit": "a.vad",
+                  "morph": "H:V",
+                  "gloss": "to serve: burden : burden<br>1) to work, serve<br>1a) (Qal)<br>1a1) to labour, work, do work<br>1a2) to work for another, serve another by labour<br>1a3) to serve as subjects<br>1a4) to serve (God)<br>1a5) to serve (with Levitical service)<br>1b) (Niphal)<br>1b1) to be worked, be tilled (of land)<br>1b2) to make oneself a servant<br>1c) (Pual) to be worked<br>1d) (Hiphil)<br>1d1) to compel to labour or work, cause to labour, cause to serve<br>1d2) to cause to serve as subjects<br>1e) (Hophal) to be led or enticed to serve",
+                  "raw": "H5647\tH5647J = a Meaning of\tH5647G\tעָבַד\ta.vad\tH:V\tto serve: burden\t: burden<br>1) to work, serve<br>1a) (Qal)<br>1a1) to labour, work, do work<br>1a2) to work for another, serve another by labour<br>1a3) to serve as subjects<br>1a4) to serve (God)<br>1a5) to serve (with Levitical service)<br>1b) (Niphal)<br>1b1) to be worked, be tilled (of land)<br>1b2) to make oneself a servant<br>1c) (Pual) to be worked<br>1d) (Hiphil)<br>1d1) to compel to labour or work, cause to labour, cause to serve<br>1d2) to cause to serve as subjects<br>1e) (Hophal) to be led or enticed to serve"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H5647H=עָבַד=:",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "minister»to",
+                "wordIndex": 12
+              },
+              {
+                "text": "serve:2_minister;_serve[God;_tabernacle;_temple];_worship}/H9030=Os1c=me\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9030",
+                  "lemma": "נִי",
+                  "translit": "ni",
+                  "morph": "Os1c",
+                  "gloss": "me Personal object pronoun -  suffix for propositions and verbs without an object: 1st person singular",
+                  "raw": "H9030\tH9030 =\tH9030\tנִי\tni\tOs1c\tme\tPersonal object pronoun -  suffix for propositions and verbs without an object: 1st person singular"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L וְ/יַֽעַבְדֻֽ/נִי\\׃ ve./Ya.'av.Du./ni so/ they may serve/ me H9002/{H5647H}/H9030\\H9016 HC/Vqu3mp/Sp1bs H5647H H9002=ו=and/{H5647H=עָבַד=: minister»to serve:2_minister;_serve[God;_tabernacle;_temple];_worship}/H9030=Os1c=me\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 4,
           "text": "“‘If you refuse to let them go, I will bring locusts into your country tomorrow.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בִּ/גְבֻלֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "bi/g.vu.Le./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "in/",
+                "wordIndex": 3
+              },
+              {
+                "text": "territory/",
+                "wordIndex": 4
+              },
+              {
+                "text": "your",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H1366H}/H9021\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1366H",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1366",
+                  "lemma": "גְּבוּל",
+                  "translit": "ge.vul",
+                  "morph": "H:N-M",
+                  "gloss": "border: area : area<br>1) border, territory<br>1a) border<br>1b) territory (enclosed within boundary)<br>1c) region, territory (of darkness) (fig.)",
+                  "raw": "H1366\tH1366H = a Meaning of\tH1366G\tגְּבוּל\tge.vul\tH:N-M\tborder: area\t: area<br>1) border, territory<br>1a) border<br>1b) territory (enclosed within boundary)<br>1c) region, territory (of darkness) (fig.)"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H1366H=גְּבוּל=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "area»border:2_area}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L בִּ/גְבֻלֶֽ/ךָ\\׃ bi/g.vu.Le./kha in/ territory/ your H9003/{H1366H}/H9021\\H9016 HR/Ncmsc/Sp2ms H1366H H9003=ב=in/{H1366H=גְּבוּל=: area»border:2_area}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 5,
           "text": "They will cover the ground so that it can’t be seen. They will eat what little you have left after the hail. That includes every tree that is growing in your fields.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#25=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/שָּׂדֶֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./sa.Deh",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "field",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H7704G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7704G",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9009=ה=the/{H7704G=שָׂדֶה=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#25=L הַ/שָּׂדֶֽה\\׃ ha./sa.Deh the/ field H9009/{H7704G}\\H9016 HTd/Ncmsa H7704G H9009=ה=the/{H7704G=שָׂדֶה=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 6,
           "text": "They will fill your houses. They will be in the homes of all of your officials and your people. Your parents and your people before them have never seen anything like it as long as they have lived here.’” Then Moses turned around and left Pharaoh.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#25=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פַּרְעֹֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "par.'Oh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Pharaoh",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6547J}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "HNtmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6547J",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "{H6547J=פַּרְעֹה=Pharaoh»Pharaoh@Exo.3.10-Rom}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#25=L פַּרְעֹֽה\\׃ par.'Oh Pharaoh {H6547J}\\H9016 HNtmsa H6547J {H6547J=פַּרְעֹה=Pharaoh»Pharaoh@Exo.3.10-Rom}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 7,
           "text": "Pharaoh’s officials said to him, “How long will this man be a trap for us? Let the people go. Then they’ll be able to worship the Lord their God. After everything that’s happened, don’t you realize that Egypt is destroyed?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4714G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#22=L מִצְרָֽיִם\\׃ mitz.Ra.yim Egypt {H4714G}\\H9016 HNpl H4714G {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 8,
           "text": "Moses and Aaron were brought back to Pharaoh. “Go. Worship the Lord your God,” he said. “But just who will be going?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/הֹלְכִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./ho.le.Khim",
+                "wordIndex": 2
+              },
+              {
+                "text": "[are]",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "[ones]",
+                "wordIndex": 5
+              },
+              {
+                "text": "going",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9009/{H1980G}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Vqrmpa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H1980G_b",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H1980",
+                  "lemma": "הָלַךְ",
+                  "translit": "ha.lakh",
+                  "morph": "H:V",
+                  "gloss": "to go: send : send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H1980\tH1980O = a Meaning of\tH1980I\tהָלַךְ\tha.lakh\tH:V\tto go: send\t: send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "H3212_b",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H3212",
+                  "lemma": "יָלַךְ",
+                  "translit": "ya.lakh",
+                  "morph": "H:V",
+                  "gloss": "to walk 1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Hiphil) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H3212\tH3212 = a Spelling of\tH1980I\tיָלַךְ\tya.lakh\tH:V\tto walk\t1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Hiphil) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H1980G=הָלַךְ=:",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "went»to",
+                "wordIndex": 12
+              },
+              {
+                "text": "go:3_went;_go[away]}\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L הַ/הֹלְכִֽים\\׃ ha./ho.le.Khim [are] the/ [ones] going H9009/{H1980G}\\H9016 HTd/Vqrmpa H1980G_b H3212_b H9009=ה=the/{H1980G=הָלַךְ=: went»to go:3_went;_go[away]}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 9,
           "text": "Moses answered, “We’ll go with our young people and old people. We’ll go with our sons and daughters. We’ll take our flocks and herds. We are supposed to hold a feast in the Lord’s honor.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָֽ/נוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La./nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "[will",
+                "wordIndex": 3
+              },
+              {
+                "text": "belong]",
+                "wordIndex": 4
+              },
+              {
+                "text": "to",
+                "wordIndex": 5
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 6
+              },
+              {
+                "text": "us",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9005/{H9035}\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp1bp",
+                "wordIndex": 9
+              },
+              {
+                "text": "H9035",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9035",
+                  "lemma": "נוּ",
+                  "translit": "nu",
+                  "morph": "Op1c",
+                  "gloss": "us Personal object pronoun -  suffix for propositions and verbs without an object: 1st person plural",
+                  "raw": "H9035\tH9035 =\tH9035\tנוּ\tnu\tOp1c\tus\tPersonal object pronoun -  suffix for propositions and verbs without an object: 1st person plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9035=Op1c=us}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#14=L לָֽ/נוּ\\׃ La./nu [will belong] to <the>/ us H9005/{H9035}\\H9016 HRd/Sp1bp H9035 H9005=ל=to/{H9035=Op1c=us}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 10,
           "text": "Pharaoh said, “The Lord will really be with all of you if I ever let you go, along with your women and children! Clearly you are planning to do something bad.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פְּנֵי/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "pe.nei./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "faces/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6440G}/H9026\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H6440",
+                  "lemma": "פָּנֶה",
+                  "translit": "pa.neh",
+                  "morph": "H:N-M",
+                  "gloss": "face: kindness : kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
+                  "raw": "H6440\tH6440N = a Meaning of\tH6440H\tפָּנֶה\tpa.neh\tH:N-M\tface: kindness\t: kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp2mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6440G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6440",
+                  "lemma": "פָּנֶה",
+                  "translit": "pa.neh",
+                  "morph": "H:N-M",
+                  "gloss": "face: kindness : kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
+                  "raw": "H6440\tH6440N = a Meaning of\tH6440H\tפָּנֶה\tpa.neh\tH:N-M\tface: kindness\t: kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of"
+                }
+              },
+              {
+                "text": "{H6440G=פָּנֶה=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6440",
+                  "lemma": "פָּנֶה",
+                  "translit": "pa.neh",
+                  "morph": "H:N-M",
+                  "gloss": "face: kindness : kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of",
+                  "raw": "H6440\tH6440N = a Meaning of\tH6440H\tפָּנֶה\tpa.neh\tH:N-M\tface: kindness\t: kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b) presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e) face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind, toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1) in front of, before, to the front of, in the presence of, in the face of, at the face or front of, from the presence of, from before, from before the face of"
+                }
+              },
+              {
+                "text": "before»face:2_before;_to;_front}/H9026=Pp2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9026",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Pp2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural",
+                  "raw": "H9026\tH9026 =\tH9026\tכֶם\tkhem\tPp2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L פְּנֵי/כֶֽם\\׃ pe.nei./Khem faces/ your {H6440G}/H9026\\H9016 HNcmpc/Sp2mp H6440G {H6440G=פָּנֶה=: before»face:2_before;_to;_front}/H9026=Pp2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 10,
           "verse": 11,
           "text": "No! I’ll only allow the men to go. Then all of you can worship the Lord. After all, that’s what you have been asking for.”\nThen Pharaoh drove Moses and Aaron out of his sight.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פַרְעֹֽה\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "far.'Oh",
+                "wordIndex": 3
+              },
+              {
+                "text": "Pharaoh",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6547J}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNtmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H6547J",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "{H6547J=פַּרְעֹה=Pharaoh»Pharaoh@Exo.3.10-Rom}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L פַרְעֹֽה\\׃\\ \\פ far.'Oh Pharaoh {H6547J}\\H9016\\ \\H9017 HNtmsa H6547J {H6547J=פַּרְעֹה=Pharaoh»Pharaoh@Exo.3.10-Rom}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ]
     }

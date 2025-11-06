@@ -7,109 +7,1387 @@
           "chapter": 27,
           "verse": 6,
           "text": "And Yahweh said to Moses, saying,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵּ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L לֵּ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559_B H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 7,
           "text": "“The statements of the daughters of Zelophehad are right. You must surely give them the property of an inheritance in the midst of their father’s brothers, and you must transfer the inheritance of their father to them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/הֶֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Hen",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "them",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9039}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp3fp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9039",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9039",
+                  "lemma": "הֶן",
+                  "translit": "hen",
+                  "morph": "Op3f",
+                  "gloss": "them Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine plural",
+                  "raw": "H9039\tH9039 =\tH9039\tהֶן\then\tOp3f\tthem\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9039=Op3f=them}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#17=L לָ/הֶֽן\\׃ la./Hen to <the>/ them H9005/{H9039}\\H9016 HRd/Sp3fp H9039 H9005=ל=to/{H9039=Op3f=them}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 8,
           "text": "And you must speak to the Israelites, saying, ‘If a man dies and has no son, you must transfer his inheritance to his daughter.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/בִתּֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./vi.T/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "daughter/",
+                "wordIndex": 4
+              },
+              {
+                "text": "his",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H1323G}/H9023\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncfsc/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1323G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1323",
+                  "lemma": "בַּת",
+                  "translit": "bat",
+                  "morph": "H:N-F",
+                  "gloss": "Bath (Shua) A woman living at the time of the Patriarchs, first mentioned at Gen.38.2; <br> daughter of: Shua (H7770); married to Judah (H3063); <br> mother of: Er (H6147), Onan (H0209) and Shelah (H7956)<BR>the wife of Uriah whom David had murdered, having had adulterous relations with her; subsequently wife of David and mother of Solomon, Shimea, Shobab, and Nathan (alternate spelling to 'Bathsheba')",
+                  "raw": "H1323\tH1323I =\tH1323I\tבַּת\tbat\tH:N-F\tBath (Shua)\tA woman living at the time of the Patriarchs, first mentioned at Gen.38.2; <br> daughter of: Shua (H7770); married to Judah (H3063); <br> mother of: Er (H6147), Onan (H0209) and Shelah (H7956)<BR>the wife of Uriah whom David had murdered, having had adulterous relations with her; subsequently wife of David and mother of Solomon, Shimea, Shobab, and Nathan (alternate spelling to 'Bathsheba')"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H1323G=בַּת=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "daughter»daughter:1_daughter}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L לְ/בִתּֽ/וֹ\\׃ le./vi.T/o to/ daughter/ his H9005/{H1323G}/H9023\\H9016 HR/Ncfsc/Sp3ms H1323G H9005=ל=to/{H1323G=בַּת=: daughter»daughter:1_daughter}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 9,
           "text": "And if he has no daughter, you must give his inheritance to his brothers.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/אֶחָי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./'e.cha/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "brothers/",
+                "wordIndex": 4
+              },
+              {
+                "text": "his",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H0251G}/H9023\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmpc/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0251G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0251G=אָח=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "male-sibling»brother:1_male-sibling}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L לְ/אֶחָי/ו\\׃ le./'e.cha/v to/ brothers/ his H9005/{H0251G}/H9023\\H9016 HR/Ncmpc/Sp3ms H0251G H9005=ל=to/{H0251G=אָח=: male-sibling»brother:1_male-sibling}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 10,
           "text": "If he has no brothers, then you must give his inheritance to his father’s brothers.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָבִֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.Vi/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "father/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0001G}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0001",
+                  "lemma": "אָב",
+                  "translit": "av",
+                  "morph": "N:N-M-P",
+                  "gloss": "father of The father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;",
+                  "raw": "H0001\tH0001I = a Part of\tH0022G\tאָב\tav\tN:N-M-P\tfather of\tThe father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0001G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0001",
+                  "lemma": "אָב",
+                  "translit": "av",
+                  "morph": "N:N-M-P",
+                  "gloss": "father of The father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;",
+                  "raw": "H0001\tH0001I = a Part of\tH0022G\tאָב\tav\tN:N-M-P\tfather of\tThe father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;"
+                }
+              },
+              {
+                "text": "{H0001G=אָב=father}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0001",
+                  "lemma": "אָב",
+                  "translit": "av",
+                  "morph": "N:N-M-P",
+                  "gloss": "father of The father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;",
+                  "raw": "H0001\tH0001I = a Part of\tH0022G\tאָב\tav\tN:N-M-P\tfather of\tThe father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L אָבִֽי/ו\\׃ 'a.Vi/v father/ his {H0001G}/H9023\\H9016 HNcmsc/Sp3ms H0001G {H0001G=אָב=father}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 11,
           "text": "If his father has no brothers, then you must give his inheritance to his nearest relative from his own clan, and he will take possession of it. It will be as a decree of stipulation for the Israelites, just as Yahweh commanded Moses.’”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֹשֶֽׁה\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "mo.Sheh",
+                "wordIndex": 3
+              },
+              {
+                "text": "Moses",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4872}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4872",
+                  "lemma": "מֹשֶׁה",
+                  "translit": "mo.sheh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Moses A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>",
+                  "raw": "H4872\tH4872 =\tH4872\tמֹשֶׁה\tmo.sheh\tN:N-M-P\tMoses\tA man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4872",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4872",
+                  "lemma": "מֹשֶׁה",
+                  "translit": "mo.sheh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Moses A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>",
+                  "raw": "H4872\tH4872 =\tH4872\tמֹשֶׁה\tmo.sheh\tN:N-M-P\tMoses\tA man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>"
+                }
+              },
+              {
+                "text": "{H4872=מֹשֶׁה=Moses»Moses@Exo.2.10-Rev}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4872",
+                  "lemma": "מֹשֶׁה",
+                  "translit": "mo.sheh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Moses A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>",
+                  "raw": "H4872\tH4872 =\tH4872\tמֹשֶׁה\tmo.sheh\tN:N-M-P\tMoses\tA man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#23=L מֹשֶֽׁה\\׃\\ \\ס mo.Sheh Moses {H4872}\\H9016\\ \\H9018 HNpm H4872 {H4872=מֹשֶׁה=Moses»Moses@Exo.2.10-Rev}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 12,
           "text": "Yahweh said to Moses, “Go up to this mountain of Abarim, and see the land that I have given to the Israelites.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִשְׂרָאֵֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yis.ra.'El",
+                "wordIndex": 2
+              },
+              {
+                "text": "Israel",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3478}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3478",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L יִשְׂרָאֵֽל\\׃ Yis.ra.'El Israel {H3478}\\H9016 HNpl H3478 {H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 13,
           "text": "When you see it, you will be gathered to your people, just as Aaron your brother was gathered,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָחִֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.Chi./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "brother/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0251G}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0251G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "{H0251G=אָח=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "male-sibling»brother:1_male-sibling}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L אָחִֽי/ךָ\\׃ 'a.Chi./kha brother/ your {H0251G}/H9021\\H9016 HNcmsc/Sp2ms H0251G {H0251G=אָח=: male-sibling»brother:1_male-sibling}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 14,
           "text": "because you rebelled against my word in the desert of Zin when the community quarreled regarding my holiness at the waters.” (These are the waters of Meribah-Kadesh in the desert of Zin.)",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צִֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "Tzin",
+                "wordIndex": 3
+              },
+              {
+                "text": "Zin",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6790}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H6790",
+                  "lemma": "צִן",
+                  "translit": "tsin",
+                  "morph": "N:N--L",
+                  "gloss": "Zin <BR> § Zin = \"flat\"<br> name given to a portion of the desert tract between the Dead Sea and Arabah on the east in which Kadesh-barnea was located<br>",
+                  "raw": "H6790\tH6790 =\tH6790\tצִן\ttsin\tN:N--L\tZin\t <BR> § Zin = \"flat\"<br> name given to a portion of the desert tract between the Dead Sea and Arabah on the east in which Kadesh-barnea was located<br>"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 7
+              },
+              {
+                "text": "H6790_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6790",
+                  "lemma": "צִן",
+                  "translit": "tsin",
+                  "morph": "N:N--L",
+                  "gloss": "Zin <BR> § Zin = \"flat\"<br> name given to a portion of the desert tract between the Dead Sea and Arabah on the east in which Kadesh-barnea was located<br>",
+                  "raw": "H6790\tH6790 =\tH6790\tצִן\ttsin\tN:N--L\tZin\t <BR> § Zin = \"flat\"<br> name given to a portion of the desert tract between the Dead Sea and Arabah on the east in which Kadesh-barnea was located<br>"
+                }
+              },
+              {
+                "text": "{H6790=צִן=Zin»Zin@Num.13.21-Jos}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H6790",
+                  "lemma": "צִן",
+                  "translit": "tsin",
+                  "morph": "N:N--L",
+                  "gloss": "Zin <BR> § Zin = \"flat\"<br> name given to a portion of the desert tract between the Dead Sea and Arabah on the east in which Kadesh-barnea was located<br>",
+                  "raw": "H6790\tH6790 =\tH6790\tצִן\ttsin\tN:N--L\tZin\t <BR> § Zin = \"flat\"<br> name given to a portion of the desert tract between the Dead Sea and Arabah on the east in which Kadesh-barnea was located<br>"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L צִֽן\\׃\\ \\פ Tzin Zin {H6790}\\H9016\\ \\H9017 HNpl H6790_B {H6790=צִן=Zin»Zin@Num.13.21-Jos}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 27,
           "verse": 15,
           "text": "Yahweh spoke to Moses, saying,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L לֵ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 16,
           "text": "“Let Yahweh, the God of the spirits of all flesh, appoint a man over the community",
-          "isHeading": true
+          "isHeading": true,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/עֵדָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'e.Dah",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "congregation",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H5712}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5712",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5712",
+                  "lemma": "עֵדָה",
+                  "translit": "e.dah",
+                  "morph": "H:N-F",
+                  "gloss": "congregation congregation, gathering",
+                  "raw": "H5712\tH5712 =\tH5712\tעֵדָה\te.dah\tH:N-F\tcongregation\tcongregation, gathering"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H5712=עֵדָה=congregation}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L הָ/עֵדָֽה\\׃ ha./'e.Dah the/ congregation H9009/{H5712}\\H9016 HTd/Ncfsa H5712 H9009=ה=the/{H5712=עֵדָה=congregation}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 17,
           "text": "who will go out before them and will come in before them, and who will lead them out and bring them in, so the community of Yahweh will not be like a flock that does not have a shepherd.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "רֹעֶֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ro.'Eh",
+                "wordIndex": 2
+              },
+              {
+                "text": "a",
+                "wordIndex": 3
+              },
+              {
+                "text": "shepherd",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7462B}\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HVqrmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7462B",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H7462B=רָעָה=to",
+                "wordIndex": 8
+              },
+              {
+                "text": "pasture}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L רֹעֶֽה\\׃ ro.'Eh a shepherd {H7462B}\\H9016 HVqrmsa H7462B {H7462B=רָעָה=to pasture}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 18,
           "text": "Then Yahweh said to Moses, “Take Joshua son of Nun, a man in whom is the spirit, and place your hand on him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עָלָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.La/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "on/",
+                "wordIndex": 3
+              },
+              {
+                "text": "him",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5921A}/H9033\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HRd/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5921A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H5921A=עַל=upon}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#18=L עָלָֽי/ו\\׃ 'a.La/v on/ him {H5921A}/H9033\\H9016 HRd/Sp3ms H5921A {H5921A=עַל=upon}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 19,
           "text": "Have him stand before Eleazar the priest and before the entire community, and commission him in their sight.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/עֵינֵי/הֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./'ei.nei./Hem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "eyes/",
+                "wordIndex": 4
+              },
+              {
+                "text": "their",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H5869H}/H9028\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncfdc/Sp3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5869H",
+                "wordIndex": 8
+              },
+              {
+                "text": "H9005=ל=to/{H5869H=עַ֫יִן=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "seeing»eye:2_seeing}/H9028=Pp3m=their\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9028",
+                  "lemma": "הֶם",
+                  "translit": "hem",
+                  "morph": "Pp3m",
+                  "gloss": "their Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine plural",
+                  "raw": "H9028\tH9028 =\tH9028\tהֶם\them\tPp3m\ttheir\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L לְ/עֵינֵי/הֶֽם\\׃ le./'ei.nei./Hem to/ eyes/ their H9005/{H5869H}/H9028\\H9016 HR/Ncfdc/Sp3mp H5869H H9005=ל=to/{H5869H=עַ֫יִן=: seeing»eye:2_seeing}/H9028=Pp3m=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 20,
           "text": "You will give to him from your authority so that the entire community of Israel will obey him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִשְׂרָאֵֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yis.ra.'El",
+                "wordIndex": 2
+              },
+              {
+                "text": "Israel",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3478}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3478",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L יִשְׂרָאֵֽל\\׃ Yis.ra.'El Israel {H3478}\\H9016 HNpl H3478 {H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 21,
           "text": "He will stand before Eleazar the priest, who will ask for him by the decision of the Urim before Yahweh. On his command they will go out, and at his command they will come in, both he and all of the Israelites with him, the entire community.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/עֵדָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'e.Dah",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "congregation",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H5712}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5712",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5712",
+                  "lemma": "עֵדָה",
+                  "translit": "e.dah",
+                  "morph": "H:N-F",
+                  "gloss": "congregation congregation, gathering",
+                  "raw": "H5712\tH5712 =\tH5712\tעֵדָה\te.dah\tH:N-F\tcongregation\tcongregation, gathering"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H5712=עֵדָה=congregation}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#23=L הָ/עֵדָֽה\\׃ ha./'e.Dah the/ congregation H9009/{H5712}\\H9016 HTd/Ncfsa H5712 H9009=ה=the/{H5712=עֵדָה=congregation}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 22,
           "text": "Moses did just as Yahweh commanded him, and he took Joshua and set him before Eleazar the priest and before the entire community.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/עֵדָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'e.Dah",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "congregation",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H5712}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5712",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5712",
+                  "lemma": "עֵדָה",
+                  "translit": "e.dah",
+                  "morph": "H:N-F",
+                  "gloss": "congregation congregation, gathering",
+                  "raw": "H5712\tH5712 =\tH5712\tעֵדָה\te.dah\tH:N-F\tcongregation\tcongregation, gathering"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H5712=עֵדָה=congregation}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L הָ/עֵדָֽה\\׃ ha./'e.Dah the/ congregation H9009/{H5712}\\H9016 HTd/Ncfsa H5712 H9009=ה=the/{H5712=עֵדָה=congregation}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 23,
           "text": "And he placed his hands on him and commissioned him just as Yahweh spoke by the hand of Moses.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֹשֶֽׁה\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "mo.Sheh",
+                "wordIndex": 3
+              },
+              {
+                "text": "Moses",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4872}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4872",
+                  "lemma": "מֹשֶׁה",
+                  "translit": "mo.sheh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Moses A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>",
+                  "raw": "H4872\tH4872 =\tH4872\tמֹשֶׁה\tmo.sheh\tN:N-M-P\tMoses\tA man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4872",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4872",
+                  "lemma": "מֹשֶׁה",
+                  "translit": "mo.sheh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Moses A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>",
+                  "raw": "H4872\tH4872 =\tH4872\tמֹשֶׁה\tmo.sheh\tN:N-M-P\tMoses\tA man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>"
+                }
+              },
+              {
+                "text": "{H4872=מֹשֶׁה=Moses»Moses@Exo.2.10-Rev}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4872",
+                  "lemma": "מֹשֶׁה",
+                  "translit": "mo.sheh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Moses A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>",
+                  "raw": "H4872\tH4872 =\tH4872\tמֹשֶׁה\tmo.sheh\tN:N-M-P\tMoses\tA man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L מֹשֶֽׁה\\׃\\ \\פ mo.Sheh Moses {H4872}\\H9016\\ \\H9017 HNpm H4872 {H4872=מֹשֶׁה=Moses»Moses@Exo.2.10-Rev}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ],
       "nirv": [
@@ -117,109 +1395,1387 @@
           "chapter": 27,
           "verse": 6,
           "text": "The Lord spoke to him. He said,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵּ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L לֵּ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559_B H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 7,
           "text": "“What Zelophehad’s daughters are saying is right. You must certainly give them property. Give them a share among their father’s relatives. Turn their father’s property over to them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/הֶֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Hen",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "them",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9039}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp3fp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9039",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9039",
+                  "lemma": "הֶן",
+                  "translit": "hen",
+                  "morph": "Op3f",
+                  "gloss": "them Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine plural",
+                  "raw": "H9039\tH9039 =\tH9039\tהֶן\then\tOp3f\tthem\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9039=Op3f=them}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#17=L לָ/הֶֽן\\׃ la./Hen to <the>/ them H9005/{H9039}\\H9016 HRd/Sp3fp H9039 H9005=ל=to/{H9039=Op3f=them}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 8,
           "text": "“Say to the people of Israel, ‘Suppose a man dies who doesn’t have a son. Then turn his property over to his daughter.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/בִתּֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./vi.T/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "daughter/",
+                "wordIndex": 4
+              },
+              {
+                "text": "his",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H1323G}/H9023\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncfsc/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1323G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1323",
+                  "lemma": "בַּת",
+                  "translit": "bat",
+                  "morph": "H:N-F",
+                  "gloss": "Bath (Shua) A woman living at the time of the Patriarchs, first mentioned at Gen.38.2; <br> daughter of: Shua (H7770); married to Judah (H3063); <br> mother of: Er (H6147), Onan (H0209) and Shelah (H7956)<BR>the wife of Uriah whom David had murdered, having had adulterous relations with her; subsequently wife of David and mother of Solomon, Shimea, Shobab, and Nathan (alternate spelling to 'Bathsheba')",
+                  "raw": "H1323\tH1323I =\tH1323I\tבַּת\tbat\tH:N-F\tBath (Shua)\tA woman living at the time of the Patriarchs, first mentioned at Gen.38.2; <br> daughter of: Shua (H7770); married to Judah (H3063); <br> mother of: Er (H6147), Onan (H0209) and Shelah (H7956)<BR>the wife of Uriah whom David had murdered, having had adulterous relations with her; subsequently wife of David and mother of Solomon, Shimea, Shobab, and Nathan (alternate spelling to 'Bathsheba')"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H1323G=בַּת=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "daughter»daughter:1_daughter}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L לְ/בִתּֽ/וֹ\\׃ le./vi.T/o to/ daughter/ his H9005/{H1323G}/H9023\\H9016 HR/Ncfsc/Sp3ms H1323G H9005=ל=to/{H1323G=בַּת=: daughter»daughter:1_daughter}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 9,
           "text": "Suppose the man doesn’t have a daughter. Then give his property to his brothers.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/אֶחָי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./'e.cha/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "brothers/",
+                "wordIndex": 4
+              },
+              {
+                "text": "his",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H0251G}/H9023\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmpc/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0251G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0251G=אָח=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "male-sibling»brother:1_male-sibling}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L לְ/אֶחָי/ו\\׃ le./'e.cha/v to/ brothers/ his H9005/{H0251G}/H9023\\H9016 HR/Ncmpc/Sp3ms H0251G H9005=ל=to/{H0251G=אָח=: male-sibling»brother:1_male-sibling}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 10,
           "text": "Suppose the man doesn’t have any brothers. Then give his property to his father’s brothers.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָבִֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.Vi/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "father/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0001G}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0001",
+                  "lemma": "אָב",
+                  "translit": "av",
+                  "morph": "N:N-M-P",
+                  "gloss": "father of The father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;",
+                  "raw": "H0001\tH0001I = a Part of\tH0022G\tאָב\tav\tN:N-M-P\tfather of\tThe father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0001G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0001",
+                  "lemma": "אָב",
+                  "translit": "av",
+                  "morph": "N:N-M-P",
+                  "gloss": "father of The father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;",
+                  "raw": "H0001\tH0001I = a Part of\tH0022G\tאָב\tav\tN:N-M-P\tfather of\tThe father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;"
+                }
+              },
+              {
+                "text": "{H0001G=אָב=father}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0001",
+                  "lemma": "אָב",
+                  "translit": "av",
+                  "morph": "N:N-M-P",
+                  "gloss": "father of The father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;",
+                  "raw": "H0001\tH0001I = a Part of\tH0022G\tאָב\tav\tN:N-M-P\tfather of\tThe father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L אָבִֽי/ו\\׃ 'a.Vi/v father/ his {H0001G}/H9023\\H9016 HNcmsc/Sp3ms H0001G {H0001G=אָב=father}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 11,
           "text": "Suppose his father doesn’t have any brothers. Then give his property to the nearest male relative in his family group. It will belong to him. That is what the law will require of the people of Israel. It is just as the Lord commanded me.’”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֹשֶֽׁה\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "mo.Sheh",
+                "wordIndex": 3
+              },
+              {
+                "text": "Moses",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4872}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4872",
+                  "lemma": "מֹשֶׁה",
+                  "translit": "mo.sheh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Moses A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>",
+                  "raw": "H4872\tH4872 =\tH4872\tמֹשֶׁה\tmo.sheh\tN:N-M-P\tMoses\tA man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4872",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4872",
+                  "lemma": "מֹשֶׁה",
+                  "translit": "mo.sheh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Moses A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>",
+                  "raw": "H4872\tH4872 =\tH4872\tמֹשֶׁה\tmo.sheh\tN:N-M-P\tMoses\tA man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>"
+                }
+              },
+              {
+                "text": "{H4872=מֹשֶׁה=Moses»Moses@Exo.2.10-Rev}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4872",
+                  "lemma": "מֹשֶׁה",
+                  "translit": "mo.sheh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Moses A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>",
+                  "raw": "H4872\tH4872 =\tH4872\tמֹשֶׁה\tmo.sheh\tN:N-M-P\tMoses\tA man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#23=L מֹשֶֽׁה\\׃\\ \\ס mo.Sheh Moses {H4872}\\H9016\\ \\H9018 HNpm H4872 {H4872=מֹשֶׁה=Moses»Moses@Exo.2.10-Rev}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 12,
           "text": "Then the Lord spoke to Moses. He said, “Go up this mountain in the Abarim range. See the land I have given the people of Israel.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִשְׂרָאֵֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yis.ra.'El",
+                "wordIndex": 2
+              },
+              {
+                "text": "Israel",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3478}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3478",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L יִשְׂרָאֵֽל\\׃ Yis.ra.'El Israel {H3478}\\H9016 HNpl H3478 {H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 13,
           "text": "After you have seen it, you too will join the members of your family who have already died. You will die, just as your brother Aaron did.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָחִֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.Chi./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "brother/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0251G}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0251G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "{H0251G=אָח=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "male-sibling»brother:1_male-sibling}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L אָחִֽי/ךָ\\׃ 'a.Chi./kha brother/ your {H0251G}/H9021\\H9016 HNcmsc/Sp2ms H0251G {H0251G=אָח=: male-sibling»brother:1_male-sibling}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 14,
           "text": "“The community refused to obey me at the waters of Meribah Kadesh. At that time, you and Aaron did not obey my command. You did not honor me in front of them as the holy God.” Meribah Kadesh is in the Desert of Zin.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צִֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "Tzin",
+                "wordIndex": 3
+              },
+              {
+                "text": "Zin",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6790}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H6790",
+                  "lemma": "צִן",
+                  "translit": "tsin",
+                  "morph": "N:N--L",
+                  "gloss": "Zin <BR> § Zin = \"flat\"<br> name given to a portion of the desert tract between the Dead Sea and Arabah on the east in which Kadesh-barnea was located<br>",
+                  "raw": "H6790\tH6790 =\tH6790\tצִן\ttsin\tN:N--L\tZin\t <BR> § Zin = \"flat\"<br> name given to a portion of the desert tract between the Dead Sea and Arabah on the east in which Kadesh-barnea was located<br>"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 7
+              },
+              {
+                "text": "H6790_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6790",
+                  "lemma": "צִן",
+                  "translit": "tsin",
+                  "morph": "N:N--L",
+                  "gloss": "Zin <BR> § Zin = \"flat\"<br> name given to a portion of the desert tract between the Dead Sea and Arabah on the east in which Kadesh-barnea was located<br>",
+                  "raw": "H6790\tH6790 =\tH6790\tצִן\ttsin\tN:N--L\tZin\t <BR> § Zin = \"flat\"<br> name given to a portion of the desert tract between the Dead Sea and Arabah on the east in which Kadesh-barnea was located<br>"
+                }
+              },
+              {
+                "text": "{H6790=צִן=Zin»Zin@Num.13.21-Jos}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H6790",
+                  "lemma": "צִן",
+                  "translit": "tsin",
+                  "morph": "N:N--L",
+                  "gloss": "Zin <BR> § Zin = \"flat\"<br> name given to a portion of the desert tract between the Dead Sea and Arabah on the east in which Kadesh-barnea was located<br>",
+                  "raw": "H6790\tH6790 =\tH6790\tצִן\ttsin\tN:N--L\tZin\t <BR> § Zin = \"flat\"<br> name given to a portion of the desert tract between the Dead Sea and Arabah on the east in which Kadesh-barnea was located<br>"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L צִֽן\\׃\\ \\פ Tzin Zin {H6790}\\H9016\\ \\H9017 HNpl H6790_B {H6790=צִן=Zin»Zin@Num.13.21-Jos}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 27,
           "verse": 15,
           "text": "Moses spoke to the Lord. He said,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L לֵ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 16,
           "text": "“Lord, you are the God who creates the spirits of all people. Please appoint a man to lead this community.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/עֵדָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'e.Dah",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "congregation",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H5712}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5712",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5712",
+                  "lemma": "עֵדָה",
+                  "translit": "e.dah",
+                  "morph": "H:N-F",
+                  "gloss": "congregation congregation, gathering",
+                  "raw": "H5712\tH5712 =\tH5712\tעֵדָה\te.dah\tH:N-F\tcongregation\tcongregation, gathering"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H5712=עֵדָה=congregation}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L הָ/עֵדָֽה\\׃ ha./'e.Dah the/ congregation H9009/{H5712}\\H9016 HTd/Ncfsa H5712 H9009=ה=the/{H5712=עֵדָה=congregation}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 17,
           "text": "Put him in charge of them. Tell him to take care of them. Then your people won’t be like sheep that don’t have a shepherd.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "רֹעֶֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ro.'Eh",
+                "wordIndex": 2
+              },
+              {
+                "text": "a",
+                "wordIndex": 3
+              },
+              {
+                "text": "shepherd",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7462B}\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HVqrmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7462B",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H7462B=רָעָה=to",
+                "wordIndex": 8
+              },
+              {
+                "text": "pasture}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L רֹעֶֽה\\׃ ro.'Eh a shepherd {H7462B}\\H9016 HVqrmsa H7462B {H7462B=רָעָה=to pasture}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 18,
           "text": "So the Lord said to Moses, “Joshua, the son of Nun, has the ability to be a wise leader. Get him and place your hand on him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עָלָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.La/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "on/",
+                "wordIndex": 3
+              },
+              {
+                "text": "him",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5921A}/H9033\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HRd/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5921A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H5921A=עַל=upon}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#18=L עָלָֽי/ו\\׃ 'a.La/v on/ him {H5921A}/H9033\\H9016 HRd/Sp3ms H5921A {H5921A=עַל=upon}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 19,
           "text": "Have him stand in front of the priest Eleazar and the whole community. Put him in charge while everyone is watching.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/עֵינֵי/הֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./'ei.nei./Hem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "eyes/",
+                "wordIndex": 4
+              },
+              {
+                "text": "their",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H5869H}/H9028\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncfdc/Sp3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5869H",
+                "wordIndex": 8
+              },
+              {
+                "text": "H9005=ל=to/{H5869H=עַ֫יִן=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "seeing»eye:2_seeing}/H9028=Pp3m=their\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9028",
+                  "lemma": "הֶם",
+                  "translit": "hem",
+                  "morph": "Pp3m",
+                  "gloss": "their Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine plural",
+                  "raw": "H9028\tH9028 =\tH9028\tהֶם\them\tPp3m\ttheir\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L לְ/עֵינֵי/הֶֽם\\׃ le./'ei.nei./Hem to/ eyes/ their H9005/{H5869H}/H9028\\H9016 HR/Ncfdc/Sp3mp H5869H H9005=ל=to/{H5869H=עַ֫יִן=: seeing»eye:2_seeing}/H9028=Pp3m=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 20,
           "text": "Give him some of your authority. Then the whole community of Israel will obey him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִשְׂרָאֵֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yis.ra.'El",
+                "wordIndex": 2
+              },
+              {
+                "text": "Israel",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3478}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3478",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L יִשְׂרָאֵֽל\\׃ Yis.ra.'El Israel {H3478}\\H9016 HNpl H3478 {H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 21,
           "text": "“Joshua will stand in front of the priest Eleazar. Eleazar will help him make decisions. Eleazar will get help from me by using the Urim. Joshua and the whole community of Israel must not make any move at all unless I command them to.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/עֵדָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'e.Dah",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "congregation",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H5712}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5712",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5712",
+                  "lemma": "עֵדָה",
+                  "translit": "e.dah",
+                  "morph": "H:N-F",
+                  "gloss": "congregation congregation, gathering",
+                  "raw": "H5712\tH5712 =\tH5712\tעֵדָה\te.dah\tH:N-F\tcongregation\tcongregation, gathering"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H5712=עֵדָה=congregation}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#23=L הָ/עֵדָֽה\\׃ ha./'e.Dah the/ congregation H9009/{H5712}\\H9016 HTd/Ncfsa H5712 H9009=ה=the/{H5712=עֵדָה=congregation}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 22,
           "text": "Moses did just as the Lord commanded him. He got Joshua and had him stand in front of the priest Eleazar and the whole community.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/עֵדָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'e.Dah",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "congregation",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H5712}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5712",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5712",
+                  "lemma": "עֵדָה",
+                  "translit": "e.dah",
+                  "morph": "H:N-F",
+                  "gloss": "congregation congregation, gathering",
+                  "raw": "H5712\tH5712 =\tH5712\tעֵדָה\te.dah\tH:N-F\tcongregation\tcongregation, gathering"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H5712=עֵדָה=congregation}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L הָ/עֵדָֽה\\׃ ha./'e.Dah the/ congregation H9009/{H5712}\\H9016 HTd/Ncfsa H5712 H9009=ה=the/{H5712=עֵדָה=congregation}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 23,
           "text": "Then Moses placed his hands on Joshua. And he put him in charge of the people. He did just as the Lord had directed through Moses.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֹשֶֽׁה\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "mo.Sheh",
+                "wordIndex": 3
+              },
+              {
+                "text": "Moses",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4872}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4872",
+                  "lemma": "מֹשֶׁה",
+                  "translit": "mo.sheh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Moses A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>",
+                  "raw": "H4872\tH4872 =\tH4872\tמֹשֶׁה\tmo.sheh\tN:N-M-P\tMoses\tA man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4872",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4872",
+                  "lemma": "מֹשֶׁה",
+                  "translit": "mo.sheh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Moses A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>",
+                  "raw": "H4872\tH4872 =\tH4872\tמֹשֶׁה\tmo.sheh\tN:N-M-P\tMoses\tA man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>"
+                }
+              },
+              {
+                "text": "{H4872=מֹשֶׁה=Moses»Moses@Exo.2.10-Rev}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4872",
+                  "lemma": "מֹשֶׁה",
+                  "translit": "mo.sheh",
+                  "morph": "N:N-M-P",
+                  "gloss": "Moses A man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>",
+                  "raw": "H4872\tH4872 =\tH4872\tמֹשֶׁה\tmo.sheh\tN:N-M-P\tMoses\tA man of the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at Exo.2.10; <br> son of: Amram (H6019) and Jochebed (H3115); <br> brother of: Aaron (H0175) and Miriam (H4813); married to Zipporah (H6855); <br> father of: Gershom (H1647) and Eliezer (H0461H); also called Manasseh at Jdg.18.30(?) <BR> § Moses = \"drawn\"<br> the prophet and lawgiver, leader of the exodus<br>"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L מֹשֶֽׁה\\׃\\ \\פ mo.Sheh Moses {H4872}\\H9016\\ \\H9017 HNpm H4872 {H4872=מֹשֶׁה=Moses»Moses@Exo.2.10-Rev}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ]
     }

@@ -7,73 +7,813 @@
           "chapter": 18,
           "verse": 1,
           "text": "And Jethro, the priest of Midian, the father-in-law of Moses, heard all that God had done for Moses and for Israel, his people, that Yahweh had brought Israel out from Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִ/מִּצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mi./mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "from/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9006/{H4714G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "HR/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "H9006=מ=from/{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L מִ/מִּצְרָֽיִם\\׃ mi./mitz.Ra.yim from/ Egypt H9006/{H4714G}\\H9016 HR/Npl H4714G H9006=מ=from/{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 2,
           "text": "And Jethro, the father-in-law of Moses, took Zipporah the wife of Moses after her sending away,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שִׁלּוּחֶֽי/הָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "shi.lu.Chei./ha",
+                "wordIndex": 2
+              },
+              {
+                "text": "dismissal<s>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "her",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7964}/H9024\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H7964",
+                  "lemma": "שִׁלּוּחִים",
+                  "translit": "shil.lu.ach",
+                  "morph": "H:N-M",
+                  "gloss": "parting gift 1) sending away, parting gift<br>1a) sending away<br>1b) parting gift",
+                  "raw": "H7964\tH7964 =\tH7964\tשִׁלּוּחִים\tshil.lu.ach\tH:N-M\tparting gift\t1) sending away, parting gift<br>1a) sending away<br>1b) parting gift"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp3fs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7964",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7964",
+                  "lemma": "שִׁלּוּחִים",
+                  "translit": "shil.lu.ach",
+                  "morph": "H:N-M",
+                  "gloss": "parting gift 1) sending away, parting gift<br>1a) sending away<br>1b) parting gift",
+                  "raw": "H7964\tH7964 =\tH7964\tשִׁלּוּחִים\tshil.lu.ach\tH:N-M\tparting gift\t1) sending away, parting gift<br>1a) sending away<br>1b) parting gift"
+                }
+              },
+              {
+                "text": "{H7964=שִׁלּוּחִים=parting",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7964",
+                  "lemma": "שִׁלּוּחִים",
+                  "translit": "shil.lu.ach",
+                  "morph": "H:N-M",
+                  "gloss": "parting gift 1) sending away, parting gift<br>1a) sending away<br>1b) parting gift",
+                  "raw": "H7964\tH7964 =\tH7964\tשִׁלּוּחִים\tshil.lu.ach\tH:N-M\tparting gift\t1) sending away, parting gift<br>1a) sending away<br>1b) parting gift"
+                }
+              },
+              {
+                "text": "gift}/H9024=Ps3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9024",
+                  "lemma": "הּ",
+                  "translit": "h",
+                  "morph": "Ps3f",
+                  "gloss": "her Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person feminine singular",
+                  "raw": "H9024\tH9024 =\tH9024\tהּ\th\tPs3f\ther\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person feminine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L שִׁלּוּחֶֽי/הָ\\׃ shi.lu.Chei./ha dismissal<s>/ her {H7964}/H9024\\H9016 HNcmpc/Sp3fs H7964 {H7964=שִׁלּוּחִים=parting gift}/H9024=Ps3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 3,
           "text": "and her two sons—the one whose name was Gershom, for he had said, “I have been an alien in a foreign land,”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "נָכְרִיָּֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "na.khe.ri.Yah",
+                "wordIndex": 2
+              },
+              {
+                "text": "foreign",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5237}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5237",
+                  "lemma": "נׇכְרִי",
+                  "translit": "nokh.ri",
+                  "morph": "H:A",
+                  "gloss": "foreign 1) foreign, alien<br>1a) foreign<br>1b) foreigner (subst)<br>1c) foreign woman, harlot<br>1d) unknown, unfamiliar (fig.)",
+                  "raw": "H5237\tH5237 =\tH5237\tנׇכְרִי\tnokh.ri\tH:A\tforeign\t1) foreign, alien<br>1a) foreign<br>1b) foreigner (subst)<br>1c) foreign woman, harlot<br>1d) unknown, unfamiliar (fig.)"
+                }
+              },
+              {
+                "text": "HAafsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5237",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5237",
+                  "lemma": "נׇכְרִי",
+                  "translit": "nokh.ri",
+                  "morph": "H:A",
+                  "gloss": "foreign 1) foreign, alien<br>1a) foreign<br>1b) foreigner (subst)<br>1c) foreign woman, harlot<br>1d) unknown, unfamiliar (fig.)",
+                  "raw": "H5237\tH5237 =\tH5237\tנׇכְרִי\tnokh.ri\tH:A\tforeign\t1) foreign, alien<br>1a) foreign<br>1b) foreigner (subst)<br>1c) foreign woman, harlot<br>1d) unknown, unfamiliar (fig.)"
+                }
+              },
+              {
+                "text": "{H5237=נׇכְרִי=foreign}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5237",
+                  "lemma": "נׇכְרִי",
+                  "translit": "nokh.ri",
+                  "morph": "H:A",
+                  "gloss": "foreign 1) foreign, alien<br>1a) foreign<br>1b) foreigner (subst)<br>1c) foreign woman, harlot<br>1d) unknown, unfamiliar (fig.)",
+                  "raw": "H5237\tH5237 =\tH5237\tנׇכְרִי\tnokh.ri\tH:A\tforeign\t1) foreign, alien<br>1a) foreign<br>1b) foreigner (subst)<br>1c) foreign woman, harlot<br>1d) unknown, unfamiliar (fig.)"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L נָכְרִיָּֽה\\׃ na.khe.ri.Yah foreign {H5237}\\H9016 HAafsa H5237 {H5237=נׇכְרִי=foreign}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 4,
           "text": "and the one whose name was Eliezer, for “the God of my father was my help, and he delivered me from the sword of Pharaoh.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פַּרְעֹֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "par.'Oh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Pharaoh",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6547J}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "HNtmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6547J",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "{H6547J=פַּרְעֹה=Pharaoh»Pharaoh@Exo.3.10-Rom}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L פַּרְעֹֽה\\׃ par.'Oh Pharaoh {H6547J}\\H9016 HNtmsa H6547J {H6547J=פַּרְעֹה=Pharaoh»Pharaoh@Exo.3.10-Rom}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 5,
           "text": "And Jethro, the father-in-law of Moses, came and his sons and his wife to Moses, to the desert where he was camping there at the mountain of God.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אֱלֹהִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'E.lo.Him",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "God",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0430G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0430G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L הָ/אֱלֹהִֽים\\׃ ha./'E.lo.Him <the>/ God H9009/{H0430G}\\H9016 HTd/Ncmpa H0430G H9009=ה=the/{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 6,
           "text": "And he said to Moses, “I, your father-in-law Jethro, am coming to you and your wife and her two sons with her.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עִמָּֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'i.Ma/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "with/",
+                "wordIndex": 3
+              },
+              {
+                "text": "her",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5973A}/H9034\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HR/Sp3fs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5973A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H5973A=עִם=with}/H9034=Os3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#12=L עִמָּֽ/הּ\\׃ 'i.Ma/h with/ her {H5973A}/H9034\\H9016 HR/Sp3fs H5973A {H5973A=עִם=with}/H9034=Os3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 7,
           "text": "And Moses went out to meet his father-in-law, and he bowed, and he kissed him, and they each asked about the other’s welfare, and they came into the tent.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אֹֽהֱלָ/ה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'O.he.la/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "tent/",
+                "wordIndex": 4
+              },
+              {
+                "text": "towards",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H0168G}/H9011\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa/Sd",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0168G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0168",
+                  "lemma": "אֹ֫הֶל",
+                  "translit": "o.hel",
+                  "morph": "H:N-M",
+                  "gloss": "tent: home : home<br>1) tent<br>1a) nomad's tent, and thus symbolic of wilderness life, transience<br>1b) dwelling, home, habitation<br>1c) the sacred tent of Jehovah (the tabernacle)",
+                  "raw": "H0168\tH0168H = a Meaning of\tH0168G\tאֹ֫הֶל\to.hel\tH:N-M\ttent: home\t: home<br>1) tent<br>1a) nomad's tent, and thus symbolic of wilderness life, transience<br>1b) dwelling, home, habitation<br>1c) the sacred tent of Jehovah (the tabernacle)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0168G=אֹ֫הֶל=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "tent»tent:1_tent}/H9011=ה=to\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9011",
+                  "lemma": "ה/",
+                  "translit": "hé",
+                  "morph": "Suffix",
+                  "gloss": "[to] Suffix hé – directional: \"towards\"",
+                  "raw": "H9011\tH9011 =\tH9011\tה/\thé\tSuffix\t[to]\tSuffix hé – directional: \"towards\""
+                }
+              }
+            ],
+            "originalVerseText": "#13=L הָ/אֹֽהֱלָ/ה\\׃ ha./'O.he.la/h the/ tent/ towards H9009/{H0168G}/H9011\\H9016 HTd/Ncmsa/Sd H0168G H9009=ה=the/{H0168G=אֹ֫הֶל=: tent»tent:1_tent}/H9011=ה=to\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 8,
           "text": "And Moses told his father-in-law all that Yahweh had done to Pharaoh and to Egypt on account of Israel, all the hardship that had found them on the way, and how Yahweh delivered them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יְהוָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yah.weh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3068G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "HNpt",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3068G_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L יְהוָֽה\\׃ Yah.weh Yahweh {H3068G}\\H9016 HNpt H3068G_B {H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 9,
           "text": "And Jethro rejoiced over all the good that Yahweh had done for Israel when he delivered them from the hand of Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4714G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L מִצְרָֽיִם\\׃ mitz.Ra.yim Egypt {H4714G}\\H9016 HNpl H4714G {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 10,
           "text": "And Jethro said, “Blessed be Yahweh, who has delivered you from the hand of Egypt and from the hand of Pharaoh—who has delivered the people from under the hand of Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4714G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4714G_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L מִצְרָֽיִם\\׃ mitz.Ra.yim Egypt {H4714G}\\H9016 HNpl H4714G_B {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 11,
           "text": "Now I know that Yahweh is greater than all the gods, even in the matter where they the Egyptians dealt arrogantly against the Israelites.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עֲלֵי/הֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.lei./Hem",
+                "wordIndex": 2
+              },
+              {
+                "text": "on/",
+                "wordIndex": 3
+              },
+              {
+                "text": "them",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5921A}/H9038\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HR/Sp3mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5921A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H5921A=עַל=upon}/H9038=Op3m=them\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#12=L עֲלֵי/הֶֽם\\׃ 'a.lei./Hem on/ them {H5921A}/H9038\\H9016 HR/Sp3mp H5921A {H5921A=עַל=upon}/H9038=Op3m=them\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 12,
           "text": "And Jethro, the father-in-law of Moses, took a burnt offering and sacrifices for God, and Aaron and all the elders of Israel came to eat bread with the father-in-law of Moses before God.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אֱלֹהִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'E.lo.Him",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "God",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0430G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0430G_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L הָ/אֱלֹהִֽים\\׃ ha./'E.lo.Him <the>/ God H9009/{H0430G}\\H9016 HTd/Ncmpa H0430G_B H9009=ה=the/{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         }
       ],
       "nirv": [
@@ -81,73 +821,813 @@
           "chapter": 18,
           "verse": 1,
           "text": "Moses’ father-in-law Jethro was the priest of Midian. He heard about everything God had done for Moses and for his people Israel. He heard how the Lord had brought Israel out of Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִ/מִּצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mi./mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "from/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9006/{H4714G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "HR/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "H9006=מ=from/{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L מִ/מִּצְרָֽיִם\\׃ mi./mitz.Ra.yim from/ Egypt H9006/{H4714G}\\H9016 HR/Npl H4714G H9006=מ=from/{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 2,
           "text": "Moses had sent his wife Zipporah to his father-in-law. So Jethro welcomed her",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שִׁלּוּחֶֽי/הָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "shi.lu.Chei./ha",
+                "wordIndex": 2
+              },
+              {
+                "text": "dismissal<s>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "her",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7964}/H9024\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H7964",
+                  "lemma": "שִׁלּוּחִים",
+                  "translit": "shil.lu.ach",
+                  "morph": "H:N-M",
+                  "gloss": "parting gift 1) sending away, parting gift<br>1a) sending away<br>1b) parting gift",
+                  "raw": "H7964\tH7964 =\tH7964\tשִׁלּוּחִים\tshil.lu.ach\tH:N-M\tparting gift\t1) sending away, parting gift<br>1a) sending away<br>1b) parting gift"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp3fs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7964",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7964",
+                  "lemma": "שִׁלּוּחִים",
+                  "translit": "shil.lu.ach",
+                  "morph": "H:N-M",
+                  "gloss": "parting gift 1) sending away, parting gift<br>1a) sending away<br>1b) parting gift",
+                  "raw": "H7964\tH7964 =\tH7964\tשִׁלּוּחִים\tshil.lu.ach\tH:N-M\tparting gift\t1) sending away, parting gift<br>1a) sending away<br>1b) parting gift"
+                }
+              },
+              {
+                "text": "{H7964=שִׁלּוּחִים=parting",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7964",
+                  "lemma": "שִׁלּוּחִים",
+                  "translit": "shil.lu.ach",
+                  "morph": "H:N-M",
+                  "gloss": "parting gift 1) sending away, parting gift<br>1a) sending away<br>1b) parting gift",
+                  "raw": "H7964\tH7964 =\tH7964\tשִׁלּוּחִים\tshil.lu.ach\tH:N-M\tparting gift\t1) sending away, parting gift<br>1a) sending away<br>1b) parting gift"
+                }
+              },
+              {
+                "text": "gift}/H9024=Ps3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9024",
+                  "lemma": "הּ",
+                  "translit": "h",
+                  "morph": "Ps3f",
+                  "gloss": "her Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person feminine singular",
+                  "raw": "H9024\tH9024 =\tH9024\tהּ\th\tPs3f\ther\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person feminine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L שִׁלּוּחֶֽי/הָ\\׃ shi.lu.Chei./ha dismissal<s>/ her {H7964}/H9024\\H9016 HNcmpc/Sp3fs H7964 {H7964=שִׁלּוּחִים=parting gift}/H9024=Ps3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 3,
           "text": "and her two sons. One son was named Gershom. That’s because Moses had said, “I’m an outsider in a strange land.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "נָכְרִיָּֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "na.khe.ri.Yah",
+                "wordIndex": 2
+              },
+              {
+                "text": "foreign",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5237}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5237",
+                  "lemma": "נׇכְרִי",
+                  "translit": "nokh.ri",
+                  "morph": "H:A",
+                  "gloss": "foreign 1) foreign, alien<br>1a) foreign<br>1b) foreigner (subst)<br>1c) foreign woman, harlot<br>1d) unknown, unfamiliar (fig.)",
+                  "raw": "H5237\tH5237 =\tH5237\tנׇכְרִי\tnokh.ri\tH:A\tforeign\t1) foreign, alien<br>1a) foreign<br>1b) foreigner (subst)<br>1c) foreign woman, harlot<br>1d) unknown, unfamiliar (fig.)"
+                }
+              },
+              {
+                "text": "HAafsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5237",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5237",
+                  "lemma": "נׇכְרִי",
+                  "translit": "nokh.ri",
+                  "morph": "H:A",
+                  "gloss": "foreign 1) foreign, alien<br>1a) foreign<br>1b) foreigner (subst)<br>1c) foreign woman, harlot<br>1d) unknown, unfamiliar (fig.)",
+                  "raw": "H5237\tH5237 =\tH5237\tנׇכְרִי\tnokh.ri\tH:A\tforeign\t1) foreign, alien<br>1a) foreign<br>1b) foreigner (subst)<br>1c) foreign woman, harlot<br>1d) unknown, unfamiliar (fig.)"
+                }
+              },
+              {
+                "text": "{H5237=נׇכְרִי=foreign}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5237",
+                  "lemma": "נׇכְרִי",
+                  "translit": "nokh.ri",
+                  "morph": "H:A",
+                  "gloss": "foreign 1) foreign, alien<br>1a) foreign<br>1b) foreigner (subst)<br>1c) foreign woman, harlot<br>1d) unknown, unfamiliar (fig.)",
+                  "raw": "H5237\tH5237 =\tH5237\tנׇכְרִי\tnokh.ri\tH:A\tforeign\t1) foreign, alien<br>1a) foreign<br>1b) foreigner (subst)<br>1c) foreign woman, harlot<br>1d) unknown, unfamiliar (fig.)"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L נָכְרִיָּֽה\\׃ na.khe.ri.Yah foreign {H5237}\\H9016 HAafsa H5237 {H5237=נׇכְרִי=foreign}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 4,
           "text": "The other was named Eliezer. That’s because Moses had said, “My father’s God helped me. He saved me from Pharaoh’s sword.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פַּרְעֹֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "par.'Oh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Pharaoh",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6547J}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "HNtmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6547J",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              },
+              {
+                "text": "{H6547J=פַּרְעֹה=Pharaoh»Pharaoh@Exo.3.10-Rom}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6547",
+                  "lemma": "פַּרְעֹה",
+                  "translit": "par.oh",
+                  "morph": "N:N--T",
+                  "gloss": "Pharaoh A man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt",
+                  "raw": "H6547\tH6547T = a Name of\tH5224G\tפַּרְעֹה\tpar.oh\tN:N--T\tPharaoh\tA man of the Egyptians living at the time of Divided Monarchy, first mentioned at 2Ki.23.29; also called Pharaoh at 2Ki.23.35 etc.; <BR>Another name of <i>ne.kho</i> (נְכוֹ \"Neco\" H5224G)<BR> § Pharaoh = \"great house\"<br> the common title of the king of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L פַּרְעֹֽה\\׃ par.'Oh Pharaoh {H6547J}\\H9016 HNtmsa H6547J {H6547J=פַּרְעֹה=Pharaoh»Pharaoh@Exo.3.10-Rom}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 5,
           "text": "Moses’ father-in-law Jethro came to Moses in the desert. Moses’ sons and wife came with Jethro. Moses was camped near the mountain of God.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אֱלֹהִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'E.lo.Him",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "God",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0430G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0430G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L הָ/אֱלֹהִֽים\\׃ ha./'E.lo.Him <the>/ God H9009/{H0430G}\\H9016 HTd/Ncmpa H0430G H9009=ה=the/{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 6,
           "text": "Jethro had sent a message to him. It said, “I, your father-in-law Jethro, am coming to you. I’m bringing your wife and her two sons.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עִמָּֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'i.Ma/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "with/",
+                "wordIndex": 3
+              },
+              {
+                "text": "her",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5973A}/H9034\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HR/Sp3fs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5973A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H5973A=עִם=with}/H9034=Os3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#12=L עִמָּֽ/הּ\\׃ 'i.Ma/h with/ her {H5973A}/H9034\\H9016 HR/Sp3fs H5973A {H5973A=עִם=with}/H9034=Os3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 7,
           "text": "So Moses went out to meet his father-in-law. Moses bowed down and kissed him. They greeted each other. Then they went into the tent.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אֹֽהֱלָ/ה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'O.he.la/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "tent/",
+                "wordIndex": 4
+              },
+              {
+                "text": "towards",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H0168G}/H9011\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa/Sd",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0168G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0168",
+                  "lemma": "אֹ֫הֶל",
+                  "translit": "o.hel",
+                  "morph": "H:N-M",
+                  "gloss": "tent: home : home<br>1) tent<br>1a) nomad's tent, and thus symbolic of wilderness life, transience<br>1b) dwelling, home, habitation<br>1c) the sacred tent of Jehovah (the tabernacle)",
+                  "raw": "H0168\tH0168H = a Meaning of\tH0168G\tאֹ֫הֶל\to.hel\tH:N-M\ttent: home\t: home<br>1) tent<br>1a) nomad's tent, and thus symbolic of wilderness life, transience<br>1b) dwelling, home, habitation<br>1c) the sacred tent of Jehovah (the tabernacle)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0168G=אֹ֫הֶל=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "tent»tent:1_tent}/H9011=ה=to\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9011",
+                  "lemma": "ה/",
+                  "translit": "hé",
+                  "morph": "Suffix",
+                  "gloss": "[to] Suffix hé – directional: \"towards\"",
+                  "raw": "H9011\tH9011 =\tH9011\tה/\thé\tSuffix\t[to]\tSuffix hé – directional: \"towards\""
+                }
+              }
+            ],
+            "originalVerseText": "#13=L הָ/אֹֽהֱלָ/ה\\׃ ha./'O.he.la/h the/ tent/ towards H9009/{H0168G}/H9011\\H9016 HTd/Ncmsa/Sd H0168G H9009=ה=the/{H0168G=אֹ֫הֶל=: tent»tent:1_tent}/H9011=ה=to\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 8,
           "text": "Moses told his father-in-law about everything the Lord had done to Pharaoh and the Egyptians because of how much he loved Israel. He told him about all of their hard times along the way. He told him about how the Lord had saved them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יְהוָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yah.weh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3068G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "HNpt",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3068G_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L יְהוָֽה\\׃ Yah.weh Yahweh {H3068G}\\H9016 HNpt H3068G_B {H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 9,
           "text": "Jethro was delighted to hear about all of the good things the Lord had done for Israel. He heard about how God had saved them from the power of Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4714G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L מִצְרָֽיִם\\׃ mitz.Ra.yim Egypt {H4714G}\\H9016 HNpl H4714G {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 10,
           "text": "He said, “I praise the Lord. He saved you and your people from the power of Pharaoh and Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4714G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4714G_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L מִצְרָֽיִם\\׃ mitz.Ra.yim Egypt {H4714G}\\H9016 HNpl H4714G_B {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 11,
           "text": "Now I know that the Lord is greater than all other gods. See what he did to those who looked down on Israel.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עֲלֵי/הֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.lei./Hem",
+                "wordIndex": 2
+              },
+              {
+                "text": "on/",
+                "wordIndex": 3
+              },
+              {
+                "text": "them",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5921A}/H9038\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HR/Sp3mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5921A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H5921A=עַל=upon}/H9038=Op3m=them\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#12=L עֲלֵי/הֶֽם\\׃ 'a.lei./Hem on/ them {H5921A}/H9038\\H9016 HR/Sp3mp H5921A {H5921A=עַל=upon}/H9038=Op3m=them\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 12,
           "text": "Then Moses’ father-in-law Jethro brought a burnt offering and other sacrifices to God. Aaron came with all of the elders of Israel. They ate with Moses’ father-in-law in the sight of God.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אֱלֹהִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'E.lo.Him",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "God",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0430G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0430G_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L הָ/אֱלֹהִֽים\\׃ ha./'E.lo.Him <the>/ God H9009/{H0430G}\\H9016 HTd/Ncmpa H0430G_B H9009=ה=the/{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         }
       ]
     }

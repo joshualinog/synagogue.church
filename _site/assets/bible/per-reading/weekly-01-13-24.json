@@ -7,67 +7,790 @@
           "chapter": 18,
           "verse": 13,
           "text": "And the next day, Moses sat to judge the people, and the people stood before Moses from the morning until the evening.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/עָֽרֶב\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'A.rev",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "evening",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H6153}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6153",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6153",
+                  "lemma": "עֶ֫רֶב",
+                  "translit": "e.rev",
+                  "morph": "H:N-M",
+                  "gloss": "evening 1) evening, night, sunset<br>1a) evening, sunset<br>1b) night",
+                  "raw": "H6153\tH6153 =\tH6153\tעֶ֫רֶב\te.rev\tH:N-M\tevening\t1) evening, night, sunset<br>1a) evening, sunset<br>1b) night"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H6153=עֶ֫רֶב=evening}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L הָ/עָֽרֶב\\׃ ha./'A.rev the/ evening H9009/{H6153}\\H9016 HTd/Ncmsa H6153 H9009=ה=the/{H6153=עֶ֫רֶב=evening}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 14,
           "text": "And the father-in-law of Moses saw all that he was doing for the people, and he said, “What is this thing that you are doing for the people? Why are you sitting alone and all the people are standing by you from morning until evening?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#29=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עָֽרֶב\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'A.rev",
+                "wordIndex": 2
+              },
+              {
+                "text": "evening",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6153}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6153",
+                  "lemma": "עֶ֫רֶב",
+                  "translit": "e.rev",
+                  "morph": "H:N-M",
+                  "gloss": "evening 1) evening, night, sunset<br>1a) evening, sunset<br>1b) night",
+                  "raw": "H6153\tH6153 =\tH6153\tעֶ֫רֶב\te.rev\tH:N-M\tevening\t1) evening, night, sunset<br>1a) evening, sunset<br>1b) night"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6153",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6153",
+                  "lemma": "עֶ֫רֶב",
+                  "translit": "e.rev",
+                  "morph": "H:N-M",
+                  "gloss": "evening 1) evening, night, sunset<br>1a) evening, sunset<br>1b) night",
+                  "raw": "H6153\tH6153 =\tH6153\tעֶ֫רֶב\te.rev\tH:N-M\tevening\t1) evening, night, sunset<br>1a) evening, sunset<br>1b) night"
+                }
+              },
+              {
+                "text": "{H6153=עֶ֫רֶב=evening}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6153",
+                  "lemma": "עֶ֫רֶב",
+                  "translit": "e.rev",
+                  "morph": "H:N-M",
+                  "gloss": "evening 1) evening, night, sunset<br>1a) evening, sunset<br>1b) night",
+                  "raw": "H6153\tH6153 =\tH6153\tעֶ֫רֶב\te.rev\tH:N-M\tevening\t1) evening, night, sunset<br>1a) evening, sunset<br>1b) night"
+                }
+              }
+            ],
+            "originalVerseText": "#29=L עָֽרֶב\\׃ 'A.rev evening {H6153}\\H9016 HNcmsa H6153 {H6153=עֶ֫רֶב=evening}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 15,
           "text": "And Moses said to his father-in-law, “Because the people come to me to seek God.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֱלֹהִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'E.lo.Him",
+                "wordIndex": 2
+              },
+              {
+                "text": "God",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0430G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0430G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L אֱלֹהִֽים\\׃ 'E.lo.Him God {H0430G}\\H9016 HNcmpa H0430G {H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 16,
           "text": "When they have an issue, it comes to me, and I judge between a man and his neighbor, and I make known God’s rule and his instructions.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תּוֹרֹתָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "to.ro.Ta/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "laws/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H8451}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H8451",
+                  "lemma": "תּוֹרָה",
+                  "translit": "to.rah",
+                  "morph": "H:N-F",
+                  "gloss": "instruction 1) law, direction, instruction<br>1a) instruction, direction (human or divine)<br>1a1) body of prophetic teaching<br>1a2) instruction in Messianic age<br>1a3) body of priestly direction or instruction<br>1a4) body of legal directives<br>1b) law<br>1b1) law of the burnt offering<br>1b2) of special law, codes of law<br>1c) custom, manner<br>1d) the Deuteronomic or Mosaic Law",
+                  "raw": "H8451\tH8451 =\tH8451\tתּוֹרָה\tto.rah\tH:N-F\tinstruction\t1) law, direction, instruction<br>1a) instruction, direction (human or divine)<br>1a1) body of prophetic teaching<br>1a2) instruction in Messianic age<br>1a3) body of priestly direction or instruction<br>1a4) body of legal directives<br>1b) law<br>1b1) law of the burnt offering<br>1b2) of special law, codes of law<br>1c) custom, manner<br>1d) the Deuteronomic or Mosaic Law"
+                }
+              },
+              {
+                "text": "HNcfpc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8451",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8451",
+                  "lemma": "תּוֹרָה",
+                  "translit": "to.rah",
+                  "morph": "H:N-F",
+                  "gloss": "instruction 1) law, direction, instruction<br>1a) instruction, direction (human or divine)<br>1a1) body of prophetic teaching<br>1a2) instruction in Messianic age<br>1a3) body of priestly direction or instruction<br>1a4) body of legal directives<br>1b) law<br>1b1) law of the burnt offering<br>1b2) of special law, codes of law<br>1c) custom, manner<br>1d) the Deuteronomic or Mosaic Law",
+                  "raw": "H8451\tH8451 =\tH8451\tתּוֹרָה\tto.rah\tH:N-F\tinstruction\t1) law, direction, instruction<br>1a) instruction, direction (human or divine)<br>1a1) body of prophetic teaching<br>1a2) instruction in Messianic age<br>1a3) body of priestly direction or instruction<br>1a4) body of legal directives<br>1b) law<br>1b1) law of the burnt offering<br>1b2) of special law, codes of law<br>1c) custom, manner<br>1d) the Deuteronomic or Mosaic Law"
+                }
+              },
+              {
+                "text": "{H8451=תּוֹרָה=instruction}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H8451",
+                  "lemma": "תּוֹרָה",
+                  "translit": "to.rah",
+                  "morph": "H:N-F",
+                  "gloss": "instruction 1) law, direction, instruction<br>1a) instruction, direction (human or divine)<br>1a1) body of prophetic teaching<br>1a2) instruction in Messianic age<br>1a3) body of priestly direction or instruction<br>1a4) body of legal directives<br>1b) law<br>1b1) law of the burnt offering<br>1b2) of special law, codes of law<br>1c) custom, manner<br>1d) the Deuteronomic or Mosaic Law",
+                  "raw": "H8451\tH8451 =\tH8451\tתּוֹרָה\tto.rah\tH:N-F\tinstruction\t1) law, direction, instruction<br>1a) instruction, direction (human or divine)<br>1a1) body of prophetic teaching<br>1a2) instruction in Messianic age<br>1a3) body of priestly direction or instruction<br>1a4) body of legal directives<br>1b) law<br>1b1) law of the burnt offering<br>1b2) of special law, codes of law<br>1c) custom, manner<br>1d) the Deuteronomic or Mosaic Law"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L תּוֹרֹתָֽי/ו\\׃ to.ro.Ta/v laws/ his {H8451}/H9023\\H9016 HNcfpc/Sp3ms H8451 {H8451=תּוֹרָה=instruction}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 17,
           "text": "And the father-in-law of Moses said to him, “The thing that you are doing is not good.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עֹשֶֽׂה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'o.Seh",
+                "wordIndex": 2
+              },
+              {
+                "text": "[are]",
+                "wordIndex": 3
+              },
+              {
+                "text": "doing",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6213A}\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HVqrmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6213A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H6213A=עָשָׂה=:",
+                "wordIndex": 8
+              },
+              {
+                "text": "do»to",
+                "wordIndex": 9
+              },
+              {
+                "text": "make:2_do;_perform}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L עֹשֶֽׂה\\׃ 'o.Seh [are] doing {H6213A}\\H9016 HVqrmsa H6213A {H6213A=עָשָׂה=: do»to make:2_do;_perform}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 18,
           "text": "Surely you will wear out, both you and this people who are with you, because the thing is too difficult for you. You are not able to do it alone.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/בַדֶּֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./va.De./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "alone/",
+                "wordIndex": 4
+              },
+              {
+                "text": "you",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H0905H}/H9031\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0905H",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0905",
+                  "lemma": "בַּד",
+                  "translit": "bad",
+                  "morph": "H:N-M",
+                  "gloss": "alone: besides : besides/apart from<br>1) alone, by itself, besides, a part, separation, being alone<br>1a) separation, alone, by itself<br>1a1) only (adv)<br>1a2) apart from, besides (prep)<br>1b) part<br>1c) parts (eg limbs, shoots), bars",
+                  "raw": "H0905\tH0905J = a Meaning of\tH0905G\tבַּד\tbad\tH:N-M\talone: besides\t: besides/apart from<br>1) alone, by itself, besides, a part, separation, being alone<br>1a) separation, alone, by itself<br>1a1) only (adv)<br>1a2) apart from, besides (prep)<br>1b) part<br>1c) parts (eg limbs, shoots), bars"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0905H=בַּד=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "alone»alone:2_alone}/H9031=Ss2m=you\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9031",
+                  "lemma": "ךָּ",
+                  "translit": "ka",
+                  "morph": "Os2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine singular",
+                  "raw": "H9031\tH9031 =\tH9031\tךָּ\tka\tOs2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L לְ/בַדֶּֽ/ךָ\\׃ le./va.De./kha to/ alone/ you H9005/{H0905H}/H9031\\H9016 HR/Ncmsc/Sp2ms H0905H H9005=ל=to/{H0905H=בַּד=: alone»alone:2_alone}/H9031=Ss2m=you\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 19,
           "text": "Now listen to my voice; I will advise you, and may God be with you. You be for the people before God, and you bring the issues to God.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אֱלֹהִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'E.lo.Him",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "God",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0430G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0430G_C",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L הָ/אֱלֹהִֽים\\׃ ha./'E.lo.Him <the>/ God H9009/{H0430G}\\H9016 HTd/Ncmpa H0430G_C H9009=ה=the/{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 20,
           "text": "And you warn them of the rules and the instructions, and you make known to them the way in which they must walk and the work that they must do.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יַעֲשֽׂוּ/ן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ya.'a.Su/n",
+                "wordIndex": 2
+              },
+              {
+                "text": "they",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "do/",
+                "wordIndex": 5
+              },
+              {
+                "text": "!",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6213A}/H9013\\H9016",
+                "wordIndex": 7
+              },
+              {
+                "text": "HVqi3mp/Sn",
+                "wordIndex": 8
+              },
+              {
+                "text": "H6213A",
+                "wordIndex": 9
+              },
+              {
+                "text": "{H6213A=עָשָׂה=:",
+                "wordIndex": 10
+              },
+              {
+                "text": "do»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "make:2_do;_perform}/H9013=נ=emph.\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9013",
+                  "lemma": "ן/",
+                  "translit": "n",
+                  "morph": "Suffix",
+                  "gloss": "[emph.?] Punctuation  nun – paragogic: adds emphasis",
+                  "raw": "H9013\tH9013 =\tH9013\tן/\tn\tSuffix\t[emph.?]\tPunctuation  nun – paragogic: adds emphasis"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L יַעֲשֽׂוּ/ן\\׃ ya.'a.Su/n they will do/ ! {H6213A}/H9013\\H9016 HVqi3mp/Sn H6213A {H6213A=עָשָׂה=: do»to make:2_do;_perform}/H9013=נ=emph.\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 21,
           "text": "And you will select from all the people men of ability, fearers of God, trustworthy men, haters of dishonest gain, and you will appoint such men over them as commanders of thousands, commanders of hundreds, commanders of fifties, and commanders of tens.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עֲשָׂרֹֽת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.sa.Rot",
+                "wordIndex": 2
+              },
+              {
+                "text": "tens",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6235}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6235",
+                  "lemma": "עֶשֶׂר",
+                  "translit": "e.ser",
+                  "morph": "H:N",
+                  "gloss": "ten 1) ten<br>1a) ten<br>1b) with other numbers<BR>Aramaic equivalent: <i>a.sar</i> (עֲשַׂר \"ten\" H6236)",
+                  "raw": "H6235\tH6235 =\tH6235\tעֶשֶׂר\te.ser\tH:N\tten\t1) ten<br>1a) ten<br>1b) with other numbers<BR>Aramaic equivalent: <i>a.sar</i> (עֲשַׂר \"ten\" H6236)"
+                }
+              },
+              {
+                "text": "HNcfpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6235",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6235",
+                  "lemma": "עֶשֶׂר",
+                  "translit": "e.ser",
+                  "morph": "H:N",
+                  "gloss": "ten 1) ten<br>1a) ten<br>1b) with other numbers<BR>Aramaic equivalent: <i>a.sar</i> (עֲשַׂר \"ten\" H6236)",
+                  "raw": "H6235\tH6235 =\tH6235\tעֶשֶׂר\te.ser\tH:N\tten\t1) ten<br>1a) ten<br>1b) with other numbers<BR>Aramaic equivalent: <i>a.sar</i> (עֲשַׂר \"ten\" H6236)"
+                }
+              },
+              {
+                "text": "{H6235=עֶשֶׂר=ten}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6235",
+                  "lemma": "עֶשֶׂר",
+                  "translit": "e.ser",
+                  "morph": "H:N",
+                  "gloss": "ten 1) ten<br>1a) ten<br>1b) with other numbers<BR>Aramaic equivalent: <i>a.sar</i> (עֲשַׂר \"ten\" H6236)",
+                  "raw": "H6235\tH6235 =\tH6235\tעֶשֶׂר\te.ser\tH:N\tten\t1) ten<br>1a) ten<br>1b) with other numbers<BR>Aramaic equivalent: <i>a.sar</i> (עֲשַׂר \"ten\" H6236)"
+                }
+              }
+            ],
+            "originalVerseText": "#22=L עֲשָׂרֹֽת\\׃ 'a.sa.Rot tens {H6235}\\H9016 HNcfpa H6235 {H6235=עֶשֶׂר=ten}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 22,
           "text": "And let them judge the people all the time, and every major issue they will bring to you, and every minor issue they will judge themselves. And so lighten it for yourself, and they will bear it with you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אִתָּֽ/ךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'i.Ta/kh",
+                "wordIndex": 2
+              },
+              {
+                "text": "with/",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0854}/H9031\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0854",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Prep",
+                  "gloss": "with 1) with, near, together with<br>1a) with, together with<br>1b) with (of relationship)<br>1c) near (of place)<br>1d) with (poss.)<br>1e) from...with, from (with other prep)",
+                  "raw": "H0854\tH0854 =\tH0854\tאֵת\tet\tH:Prep\twith\t1) with, near, together with<br>1a) with, together with<br>1b) with (of relationship)<br>1c) near (of place)<br>1d) with (poss.)<br>1e) from...with, from (with other prep)"
+                }
+              },
+              {
+                "text": "HR/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0854",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0854",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Prep",
+                  "gloss": "with 1) with, near, together with<br>1a) with, together with<br>1b) with (of relationship)<br>1c) near (of place)<br>1d) with (poss.)<br>1e) from...with, from (with other prep)",
+                  "raw": "H0854\tH0854 =\tH0854\tאֵת\tet\tH:Prep\twith\t1) with, near, together with<br>1a) with, together with<br>1b) with (of relationship)<br>1c) near (of place)<br>1d) with (poss.)<br>1e) from...with, from (with other prep)"
+                }
+              },
+              {
+                "text": "{H0854=אֵת=with}/H9031=Os2m=you\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0854",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Prep",
+                  "gloss": "with 1) with, near, together with<br>1a) with, together with<br>1b) with (of relationship)<br>1c) near (of place)<br>1d) with (poss.)<br>1e) from...with, from (with other prep)",
+                  "raw": "H0854\tH0854 =\tH0854\tאֵת\tet\tH:Prep\twith\t1) with, near, together with<br>1a) with, together with<br>1b) with (of relationship)<br>1c) near (of place)<br>1d) with (poss.)<br>1e) from...with, from (with other prep)"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L אִתָּֽ/ךְ\\׃ 'i.Ta/kh with/ you {H0854}/H9031\\H9016 HR/Sp2ms H0854 {H0854=אֵת=with}/H9031=Os2m=you\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 23,
           "text": "If you will do this thing and God will command you, then you will be able to endure, and also each of the people will go to his home in peace.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְ/שָׁלֽוֹם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./sha.Lom",
+                "wordIndex": 2
+              },
+              {
+                "text": "in/",
+                "wordIndex": 3
+              },
+              {
+                "text": "peace",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9003/{H7965G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7965G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7965",
+                  "lemma": "שָׁלוֹם",
+                  "translit": "sha.lom",
+                  "morph": "H:N-M",
+                  "gloss": "peace: completely : completely<br>1) completeness, soundness, welfare, peace<br>1a) completeness (in number)<br>1b) safety, soundness (in body)<br>1c) welfare, health, prosperity<br>1d) peace, quiet, tranquillity, contentment<br>1e) peace, friendship<br>1e1) of human relationships<br>1e2) with God especially in covenant relationship<br>1f) peace (from war)<br>1g) peace (as adjective)",
+                  "raw": "H7965\tH7965L = a Meaning of\tH7965G\tשָׁלוֹם\tsha.lom\tH:N-M\tpeace: completely\t: completely<br>1) completeness, soundness, welfare, peace<br>1a) completeness (in number)<br>1b) safety, soundness (in body)<br>1c) welfare, health, prosperity<br>1d) peace, quiet, tranquillity, contentment<br>1e) peace, friendship<br>1e1) of human relationships<br>1e2) with God especially in covenant relationship<br>1f) peace (from war)<br>1g) peace (as adjective)"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H7965G=שָׁלוֹם=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "peace»peace:1_peace}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L בְ/שָׁלֽוֹם\\׃ ve./sha.Lom in/ peace H9003/{H7965G}\\H9016 HR/Ncmsa H7965G H9003=ב=in/{H7965G=שָׁלוֹם=: peace»peace:1_peace}\\H9016=׃=verseEnd"
+          }
         }
       ],
       "nirv": [
@@ -75,67 +798,790 @@
           "chapter": 18,
           "verse": 13,
           "text": "The next day Moses took his seat to serve the people as their judge. They stood around him from morning until evening.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/עָֽרֶב\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'A.rev",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "evening",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H6153}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6153",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6153",
+                  "lemma": "עֶ֫רֶב",
+                  "translit": "e.rev",
+                  "morph": "H:N-M",
+                  "gloss": "evening 1) evening, night, sunset<br>1a) evening, sunset<br>1b) night",
+                  "raw": "H6153\tH6153 =\tH6153\tעֶ֫רֶב\te.rev\tH:N-M\tevening\t1) evening, night, sunset<br>1a) evening, sunset<br>1b) night"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H6153=עֶ֫רֶב=evening}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L הָ/עָֽרֶב\\׃ ha./'A.rev the/ evening H9009/{H6153}\\H9016 HTd/Ncmsa H6153 H9009=ה=the/{H6153=עֶ֫רֶב=evening}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 14,
           "text": "His father-in-law saw everything Moses was doing for the people. So he said, “Aren’t you trying to do too much for the people? You are the only judge. And all of these people are standing around you from morning until evening.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#29=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עָֽרֶב\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'A.rev",
+                "wordIndex": 2
+              },
+              {
+                "text": "evening",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6153}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6153",
+                  "lemma": "עֶ֫רֶב",
+                  "translit": "e.rev",
+                  "morph": "H:N-M",
+                  "gloss": "evening 1) evening, night, sunset<br>1a) evening, sunset<br>1b) night",
+                  "raw": "H6153\tH6153 =\tH6153\tעֶ֫רֶב\te.rev\tH:N-M\tevening\t1) evening, night, sunset<br>1a) evening, sunset<br>1b) night"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6153",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6153",
+                  "lemma": "עֶ֫רֶב",
+                  "translit": "e.rev",
+                  "morph": "H:N-M",
+                  "gloss": "evening 1) evening, night, sunset<br>1a) evening, sunset<br>1b) night",
+                  "raw": "H6153\tH6153 =\tH6153\tעֶ֫רֶב\te.rev\tH:N-M\tevening\t1) evening, night, sunset<br>1a) evening, sunset<br>1b) night"
+                }
+              },
+              {
+                "text": "{H6153=עֶ֫רֶב=evening}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6153",
+                  "lemma": "עֶ֫רֶב",
+                  "translit": "e.rev",
+                  "morph": "H:N-M",
+                  "gloss": "evening 1) evening, night, sunset<br>1a) evening, sunset<br>1b) night",
+                  "raw": "H6153\tH6153 =\tH6153\tעֶ֫רֶב\te.rev\tH:N-M\tevening\t1) evening, night, sunset<br>1a) evening, sunset<br>1b) night"
+                }
+              }
+            ],
+            "originalVerseText": "#29=L עָֽרֶב\\׃ 'A.rev evening {H6153}\\H9016 HNcmsa H6153 {H6153=עֶ֫רֶב=evening}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 15,
           "text": "Moses answered him. He said, “The people come to me to find out what God wants them to do.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֱלֹהִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'E.lo.Him",
+                "wordIndex": 2
+              },
+              {
+                "text": "God",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0430G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0430G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L אֱלֹהִֽים\\׃ 'E.lo.Him God {H0430G}\\H9016 HNcmpa H0430G {H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 16,
           "text": "Anytime they don’t agree, they come to me. I decide between them. I tell them about God’s rules and laws.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תּוֹרֹתָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "to.ro.Ta/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "laws/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H8451}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H8451",
+                  "lemma": "תּוֹרָה",
+                  "translit": "to.rah",
+                  "morph": "H:N-F",
+                  "gloss": "instruction 1) law, direction, instruction<br>1a) instruction, direction (human or divine)<br>1a1) body of prophetic teaching<br>1a2) instruction in Messianic age<br>1a3) body of priestly direction or instruction<br>1a4) body of legal directives<br>1b) law<br>1b1) law of the burnt offering<br>1b2) of special law, codes of law<br>1c) custom, manner<br>1d) the Deuteronomic or Mosaic Law",
+                  "raw": "H8451\tH8451 =\tH8451\tתּוֹרָה\tto.rah\tH:N-F\tinstruction\t1) law, direction, instruction<br>1a) instruction, direction (human or divine)<br>1a1) body of prophetic teaching<br>1a2) instruction in Messianic age<br>1a3) body of priestly direction or instruction<br>1a4) body of legal directives<br>1b) law<br>1b1) law of the burnt offering<br>1b2) of special law, codes of law<br>1c) custom, manner<br>1d) the Deuteronomic or Mosaic Law"
+                }
+              },
+              {
+                "text": "HNcfpc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8451",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8451",
+                  "lemma": "תּוֹרָה",
+                  "translit": "to.rah",
+                  "morph": "H:N-F",
+                  "gloss": "instruction 1) law, direction, instruction<br>1a) instruction, direction (human or divine)<br>1a1) body of prophetic teaching<br>1a2) instruction in Messianic age<br>1a3) body of priestly direction or instruction<br>1a4) body of legal directives<br>1b) law<br>1b1) law of the burnt offering<br>1b2) of special law, codes of law<br>1c) custom, manner<br>1d) the Deuteronomic or Mosaic Law",
+                  "raw": "H8451\tH8451 =\tH8451\tתּוֹרָה\tto.rah\tH:N-F\tinstruction\t1) law, direction, instruction<br>1a) instruction, direction (human or divine)<br>1a1) body of prophetic teaching<br>1a2) instruction in Messianic age<br>1a3) body of priestly direction or instruction<br>1a4) body of legal directives<br>1b) law<br>1b1) law of the burnt offering<br>1b2) of special law, codes of law<br>1c) custom, manner<br>1d) the Deuteronomic or Mosaic Law"
+                }
+              },
+              {
+                "text": "{H8451=תּוֹרָה=instruction}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H8451",
+                  "lemma": "תּוֹרָה",
+                  "translit": "to.rah",
+                  "morph": "H:N-F",
+                  "gloss": "instruction 1) law, direction, instruction<br>1a) instruction, direction (human or divine)<br>1a1) body of prophetic teaching<br>1a2) instruction in Messianic age<br>1a3) body of priestly direction or instruction<br>1a4) body of legal directives<br>1b) law<br>1b1) law of the burnt offering<br>1b2) of special law, codes of law<br>1c) custom, manner<br>1d) the Deuteronomic or Mosaic Law",
+                  "raw": "H8451\tH8451 =\tH8451\tתּוֹרָה\tto.rah\tH:N-F\tinstruction\t1) law, direction, instruction<br>1a) instruction, direction (human or divine)<br>1a1) body of prophetic teaching<br>1a2) instruction in Messianic age<br>1a3) body of priestly direction or instruction<br>1a4) body of legal directives<br>1b) law<br>1b1) law of the burnt offering<br>1b2) of special law, codes of law<br>1c) custom, manner<br>1d) the Deuteronomic or Mosaic Law"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L תּוֹרֹתָֽי/ו\\׃ to.ro.Ta/v laws/ his {H8451}/H9023\\H9016 HNcfpc/Sp3ms H8451 {H8451=תּוֹרָה=instruction}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 17,
           "text": "Moses’ father-in-law replied, “What you are doing isn’t good.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עֹשֶֽׂה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'o.Seh",
+                "wordIndex": 2
+              },
+              {
+                "text": "[are]",
+                "wordIndex": 3
+              },
+              {
+                "text": "doing",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6213A}\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HVqrmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6213A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H6213A=עָשָׂה=:",
+                "wordIndex": 8
+              },
+              {
+                "text": "do»to",
+                "wordIndex": 9
+              },
+              {
+                "text": "make:2_do;_perform}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L עֹשֶֽׂה\\׃ 'o.Seh [are] doing {H6213A}\\H9016 HVqrmsa H6213A {H6213A=עָשָׂה=: do»to make:2_do;_perform}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 18,
           "text": "You will just get worn out. And so will these people who come to you. There’s too much work for you. You can’t possibly handle it by yourself.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/בַדֶּֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./va.De./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "alone/",
+                "wordIndex": 4
+              },
+              {
+                "text": "you",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H0905H}/H9031\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0905H",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0905",
+                  "lemma": "בַּד",
+                  "translit": "bad",
+                  "morph": "H:N-M",
+                  "gloss": "alone: besides : besides/apart from<br>1) alone, by itself, besides, a part, separation, being alone<br>1a) separation, alone, by itself<br>1a1) only (adv)<br>1a2) apart from, besides (prep)<br>1b) part<br>1c) parts (eg limbs, shoots), bars",
+                  "raw": "H0905\tH0905J = a Meaning of\tH0905G\tבַּד\tbad\tH:N-M\talone: besides\t: besides/apart from<br>1) alone, by itself, besides, a part, separation, being alone<br>1a) separation, alone, by itself<br>1a1) only (adv)<br>1a2) apart from, besides (prep)<br>1b) part<br>1c) parts (eg limbs, shoots), bars"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0905H=בַּד=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "alone»alone:2_alone}/H9031=Ss2m=you\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9031",
+                  "lemma": "ךָּ",
+                  "translit": "ka",
+                  "morph": "Os2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine singular",
+                  "raw": "H9031\tH9031 =\tH9031\tךָּ\tka\tOs2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L לְ/בַדֶּֽ/ךָ\\׃ le./va.De./kha to/ alone/ you H9005/{H0905H}/H9031\\H9016 HR/Ncmsc/Sp2ms H0905H H9005=ל=to/{H0905H=בַּד=: alone»alone:2_alone}/H9031=Ss2m=you\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 19,
           "text": "“Listen to me. I’ll give you some advice, and may God be with you. You must speak to God for the people. Take their problems to him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אֱלֹהִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'E.lo.Him",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "God",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0430G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0430G_C",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L הָ/אֱלֹהִֽים\\׃ ha./'E.lo.Him <the>/ God H9009/{H0430G}\\H9016 HTd/Ncmpa H0430G_C H9009=ה=the/{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 20,
           "text": "Teach them the rules and laws. Show them how to live and what to do.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יַעֲשֽׂוּ/ן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ya.'a.Su/n",
+                "wordIndex": 2
+              },
+              {
+                "text": "they",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "do/",
+                "wordIndex": 5
+              },
+              {
+                "text": "!",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6213A}/H9013\\H9016",
+                "wordIndex": 7
+              },
+              {
+                "text": "HVqi3mp/Sn",
+                "wordIndex": 8
+              },
+              {
+                "text": "H6213A",
+                "wordIndex": 9
+              },
+              {
+                "text": "{H6213A=עָשָׂה=:",
+                "wordIndex": 10
+              },
+              {
+                "text": "do»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "make:2_do;_perform}/H9013=נ=emph.\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9013",
+                  "lemma": "ן/",
+                  "translit": "n",
+                  "morph": "Suffix",
+                  "gloss": "[emph.?] Punctuation  nun – paragogic: adds emphasis",
+                  "raw": "H9013\tH9013 =\tH9013\tן/\tn\tSuffix\t[emph.?]\tPunctuation  nun – paragogic: adds emphasis"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L יַעֲשֽׂוּ/ן\\׃ ya.'a.Su/n they will do/ ! {H6213A}/H9013\\H9016 HVqi3mp/Sn H6213A {H6213A=עָשָׂה=: do»to make:2_do;_perform}/H9013=נ=emph.\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 21,
           "text": "“But choose men of ability from all of the people. They must have respect for God. You must be able to trust them. They must not try to get money by cheating others. Appoint them as officials over thousands, hundreds, fifties and tens.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עֲשָׂרֹֽת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.sa.Rot",
+                "wordIndex": 2
+              },
+              {
+                "text": "tens",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6235}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6235",
+                  "lemma": "עֶשֶׂר",
+                  "translit": "e.ser",
+                  "morph": "H:N",
+                  "gloss": "ten 1) ten<br>1a) ten<br>1b) with other numbers<BR>Aramaic equivalent: <i>a.sar</i> (עֲשַׂר \"ten\" H6236)",
+                  "raw": "H6235\tH6235 =\tH6235\tעֶשֶׂר\te.ser\tH:N\tten\t1) ten<br>1a) ten<br>1b) with other numbers<BR>Aramaic equivalent: <i>a.sar</i> (עֲשַׂר \"ten\" H6236)"
+                }
+              },
+              {
+                "text": "HNcfpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6235",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6235",
+                  "lemma": "עֶשֶׂר",
+                  "translit": "e.ser",
+                  "morph": "H:N",
+                  "gloss": "ten 1) ten<br>1a) ten<br>1b) with other numbers<BR>Aramaic equivalent: <i>a.sar</i> (עֲשַׂר \"ten\" H6236)",
+                  "raw": "H6235\tH6235 =\tH6235\tעֶשֶׂר\te.ser\tH:N\tten\t1) ten<br>1a) ten<br>1b) with other numbers<BR>Aramaic equivalent: <i>a.sar</i> (עֲשַׂר \"ten\" H6236)"
+                }
+              },
+              {
+                "text": "{H6235=עֶשֶׂר=ten}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6235",
+                  "lemma": "עֶשֶׂר",
+                  "translit": "e.ser",
+                  "morph": "H:N",
+                  "gloss": "ten 1) ten<br>1a) ten<br>1b) with other numbers<BR>Aramaic equivalent: <i>a.sar</i> (עֲשַׂר \"ten\" H6236)",
+                  "raw": "H6235\tH6235 =\tH6235\tעֶשֶׂר\te.ser\tH:N\tten\t1) ten<br>1a) ten<br>1b) with other numbers<BR>Aramaic equivalent: <i>a.sar</i> (עֲשַׂר \"ten\" H6236)"
+                }
+              }
+            ],
+            "originalVerseText": "#22=L עֲשָׂרֹֽת\\׃ 'a.sa.Rot tens {H6235}\\H9016 HNcfpa H6235 {H6235=עֶשֶׂר=ten}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 22,
           "text": "Let them serve the people as judges. But have them bring every hard case to you. They can decide the easy ones themselves. That will make your load lighter. They will share it with you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אִתָּֽ/ךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'i.Ta/kh",
+                "wordIndex": 2
+              },
+              {
+                "text": "with/",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0854}/H9031\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0854",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Prep",
+                  "gloss": "with 1) with, near, together with<br>1a) with, together with<br>1b) with (of relationship)<br>1c) near (of place)<br>1d) with (poss.)<br>1e) from...with, from (with other prep)",
+                  "raw": "H0854\tH0854 =\tH0854\tאֵת\tet\tH:Prep\twith\t1) with, near, together with<br>1a) with, together with<br>1b) with (of relationship)<br>1c) near (of place)<br>1d) with (poss.)<br>1e) from...with, from (with other prep)"
+                }
+              },
+              {
+                "text": "HR/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0854",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0854",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Prep",
+                  "gloss": "with 1) with, near, together with<br>1a) with, together with<br>1b) with (of relationship)<br>1c) near (of place)<br>1d) with (poss.)<br>1e) from...with, from (with other prep)",
+                  "raw": "H0854\tH0854 =\tH0854\tאֵת\tet\tH:Prep\twith\t1) with, near, together with<br>1a) with, together with<br>1b) with (of relationship)<br>1c) near (of place)<br>1d) with (poss.)<br>1e) from...with, from (with other prep)"
+                }
+              },
+              {
+                "text": "{H0854=אֵת=with}/H9031=Os2m=you\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0854",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Prep",
+                  "gloss": "with 1) with, near, together with<br>1a) with, together with<br>1b) with (of relationship)<br>1c) near (of place)<br>1d) with (poss.)<br>1e) from...with, from (with other prep)",
+                  "raw": "H0854\tH0854 =\tH0854\tאֵת\tet\tH:Prep\twith\t1) with, near, together with<br>1a) with, together with<br>1b) with (of relationship)<br>1c) near (of place)<br>1d) with (poss.)<br>1e) from...with, from (with other prep)"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L אִתָּֽ/ךְ\\׃ 'i.Ta/kh with/ you {H0854}/H9031\\H9016 HR/Sp2ms H0854 {H0854=אֵת=with}/H9031=Os2m=you\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 18,
           "verse": 23,
           "text": "“If this is what God wants and if you do it, then you will be able to carry the load. And all of these people will go home satisfied.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְ/שָׁלֽוֹם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./sha.Lom",
+                "wordIndex": 2
+              },
+              {
+                "text": "in/",
+                "wordIndex": 3
+              },
+              {
+                "text": "peace",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9003/{H7965G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7965G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7965",
+                  "lemma": "שָׁלוֹם",
+                  "translit": "sha.lom",
+                  "morph": "H:N-M",
+                  "gloss": "peace: completely : completely<br>1) completeness, soundness, welfare, peace<br>1a) completeness (in number)<br>1b) safety, soundness (in body)<br>1c) welfare, health, prosperity<br>1d) peace, quiet, tranquillity, contentment<br>1e) peace, friendship<br>1e1) of human relationships<br>1e2) with God especially in covenant relationship<br>1f) peace (from war)<br>1g) peace (as adjective)",
+                  "raw": "H7965\tH7965L = a Meaning of\tH7965G\tשָׁלוֹם\tsha.lom\tH:N-M\tpeace: completely\t: completely<br>1) completeness, soundness, welfare, peace<br>1a) completeness (in number)<br>1b) safety, soundness (in body)<br>1c) welfare, health, prosperity<br>1d) peace, quiet, tranquillity, contentment<br>1e) peace, friendship<br>1e1) of human relationships<br>1e2) with God especially in covenant relationship<br>1f) peace (from war)<br>1g) peace (as adjective)"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H7965G=שָׁלוֹם=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "peace»peace:1_peace}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L בְ/שָׁלֽוֹם\\׃ ve./sha.Lom in/ peace H9003/{H7965G}\\H9016 HR/Ncmsa H7965G H9003=ב=in/{H7965G=שָׁלוֹם=: peace»peace:1_peace}\\H9016=׃=verseEnd"
+          }
         }
       ]
     }

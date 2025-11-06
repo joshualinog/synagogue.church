@@ -7,91 +7,1194 @@
           "chapter": 1,
           "verse": 18,
           "text": "And the king of Egypt summoned the midwives, and he said to them, “Why have you done this thing and let the boys live?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יְלָדִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha/y.la.Dim",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "[male]",
+                "wordIndex": 4
+              },
+              {
+                "text": "children",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H3206}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3206",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3206",
+                  "lemma": "יֶ֫לֶד",
+                  "translit": "ye.led",
+                  "morph": "H:N-M",
+                  "gloss": "youth 1) child, son, boy, offspring, youth<br>1a) child, son, boy<br>1b) child, children<br>1c) descendants<br>1d) youth<br>1e) apostate Israelites (fig.)",
+                  "raw": "H3206\tH3206 =\tH3206\tיֶ֫לֶד\tye.led\tH:N-M\tyouth\t1) child, son, boy, offspring, youth<br>1a) child, son, boy<br>1b) child, children<br>1c) descendants<br>1d) youth<br>1e) apostate Israelites (fig.)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3206=יֶ֫לֶד=youth}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L הַ/יְלָדִֽים\\׃ ha/y.la.Dim the/ [male] children H9009/{H3206}\\H9016 HTd/Ncmpa H3206 H9009=ה=the/{H3206=יֶ֫לֶד=youth}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 19,
           "text": "And the midwives said to Pharaoh, “Because the Hebrew women are not like the Egyptian women, because they are vigorous; before the midwife comes to them, they have given birth.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/יָלָֽדוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./ya.La.du",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "they",
+                "wordIndex": 4
+              },
+              {
+                "text": "give",
+                "wordIndex": 5
+              },
+              {
+                "text": "birth",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H3205}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqq3cp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H3205_C",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3205",
+                  "lemma": "יָלַד",
+                  "translit": "ya.lad",
+                  "morph": "H:V",
+                  "gloss": "to beget 1) to bear, bringforth, beget, gender, travail<br>1a) (Qal)<br>1a1) to bear, bring forth<br>1a1a) of child birth<br>1a1b) of distress (simile)<br>1a1c) of wicked (behaviour)<br>1a2) to beget<br>1b) (Niphal) to be born<br>1c) (Piel)<br>1c1) to cause or help to bring forth<br>1c2) to assist or tend as a midwife<br>1c3) midwife (participle)<br>1d) (Pual) to be born<br>1e) (Hiphil)<br>1e1) to beget (a child)<br>1e2) to bear (fig. -of wicked bringing forth iniquity)<br>1f) (Hophal) day of birth, birthday (infinitive)<br>1g) (Hithpael) to declare one's birth (pedigree)",
+                  "raw": "H3205\tH3205 =\tH3205\tיָלַד\tya.lad\tH:V\tto beget\t1) to bear, bringforth, beget, gender, travail<br>1a) (Qal)<br>1a1) to bear, bring forth<br>1a1a) of child birth<br>1a1b) of distress (simile)<br>1a1c) of wicked (behaviour)<br>1a2) to beget<br>1b) (Niphal) to be born<br>1c) (Piel)<br>1c1) to cause or help to bring forth<br>1c2) to assist or tend as a midwife<br>1c3) midwife (participle)<br>1d) (Pual) to be born<br>1e) (Hiphil)<br>1e1) to beget (a child)<br>1e2) to bear (fig. -of wicked bringing forth iniquity)<br>1f) (Hophal) day of birth, birthday (infinitive)<br>1g) (Hithpael) to declare one's birth (pedigree)"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H3205=יָלַד=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "beget}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L וְ/יָלָֽדוּ\\׃ ve./ya.La.du and/ they give birth H9001/{H3205}\\H9016 Hc/Vqq3cp H3205_C H9001=ו=&/{H3205=יָלַד=to beget}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 20,
           "text": "And God did the midwives good, and the Israelite people became many and were very numerous.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מְאֹֽד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "me.'Od",
+                "wordIndex": 2
+              },
+              {
+                "text": "exceedingly",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3966}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3966",
+                  "lemma": "מְאֹד",
+                  "translit": "me.od",
+                  "morph": "H:A",
+                  "gloss": "much adv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness",
+                  "raw": "H3966\tH3966 =\tH3966\tמְאֹד\tme.od\tH:A\tmuch\tadv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness"
+                }
+              },
+              {
+                "text": "HAcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3966",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3966",
+                  "lemma": "מְאֹד",
+                  "translit": "me.od",
+                  "morph": "H:A",
+                  "gloss": "much adv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness",
+                  "raw": "H3966\tH3966 =\tH3966\tמְאֹד\tme.od\tH:A\tmuch\tadv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness"
+                }
+              },
+              {
+                "text": "{H3966=מְאֹד=much}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3966",
+                  "lemma": "מְאֹד",
+                  "translit": "me.od",
+                  "morph": "H:A",
+                  "gloss": "much adv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness",
+                  "raw": "H3966\tH3966 =\tH3966\tמְאֹד\tme.od\tH:A\tmuch\tadv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L מְאֹֽד\\׃ me.'Od exceedingly {H3966}\\H9016 HAcmsa H3966 {H3966=מְאֹד=much}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 21,
           "text": "And so because the midwives feared God, he gave them families.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּתִּֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba.Tim",
+                "wordIndex": 2
+              },
+              {
+                "text": "households",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1004M}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1004M",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H1004M=בַּ֫יִת=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "home»house:2_household}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L בָּתִּֽים\\׃ ba.Tim households {H1004M}\\H9016 HNcmpa H1004M {H1004M=בַּ֫יִת=: home»house:2_household}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 22,
           "text": "And Pharaoh commanded all his people, saying, “Every son who is born you will throw into the Nile, and every daughter you will let live.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תְּחַיּֽוּ/ן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "te.chai.Yu/n",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "let",
+                "wordIndex": 6
+              },
+              {
+                "text": "live/",
+                "wordIndex": 7
+              },
+              {
+                "text": "!",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H2421}/H9013\\H9016\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2421",
+                  "lemma": "חָיָה",
+                  "translit": "cha.yah",
+                  "morph": "H:V",
+                  "gloss": "to live 1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life",
+                  "raw": "H2421\tH2421 =\tH2421\tחָיָה\tcha.yah\tH:V\tto live\t1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HVpi2mp/Sn",
+                "wordIndex": 11
+              },
+              {
+                "text": "H2421",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H2421",
+                  "lemma": "חָיָה",
+                  "translit": "cha.yah",
+                  "morph": "H:V",
+                  "gloss": "to live 1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life",
+                  "raw": "H2421\tH2421 =\tH2421\tחָיָה\tcha.yah\tH:V\tto live\t1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life"
+                }
+              },
+              {
+                "text": "{H2421=חָיָה=to",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H2421",
+                  "lemma": "חָיָה",
+                  "translit": "cha.yah",
+                  "morph": "H:V",
+                  "gloss": "to live 1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life",
+                  "raw": "H2421\tH2421 =\tH2421\tחָיָה\tcha.yah\tH:V\tto live\t1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life"
+                }
+              },
+              {
+                "text": "live}/H9013=נ=emph.\\H9016=׃=verseEnd\\",
+                "wordIndex": 14,
+                "lex": {
+                  "code": "H9013",
+                  "lemma": "ן/",
+                  "translit": "n",
+                  "morph": "Suffix",
+                  "gloss": "[emph.?] Punctuation  nun – paragogic: adds emphasis",
+                  "raw": "H9013\tH9013 =\tH9013\tן/\tn\tSuffix\t[emph.?]\tPunctuation  nun – paragogic: adds emphasis"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 15,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L תְּחַיּֽוּ/ן\\׃\\ \\ס te.chai.Yu/n you will let live/ ! {H2421}/H9013\\H9016\\ \\H9018 HVpi2mp/Sn H2421 {H2421=חָיָה=to live}/H9013=נ=emph.\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 2,
           "verse": 1,
           "text": "And a man from the family of Levi went, and he took a descendent of Levi.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵוִֽי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le.Vi",
+                "wordIndex": 2
+              },
+              {
+                "text": "Levi",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3878}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3878",
+                  "lemma": "לֵוִי",
+                  "translit": "le.vi",
+                  "morph": "N:N-M-P",
+                  "gloss": "Levi A man of the tribe of Levi  living at the time of the Patriarchs, first mentioned at Gen.29.34; <br> son of: Israel (H3478) and Leah (H3812); <br> brother of: Reuben (H7205), Simeon (H8095), Judah (H3063), Issachar (H3485), Zebulun (H2074) and Dinah (H1783); <br> half-brother of: Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Joseph (H3130) and Benjamin (H1144); <br> father of: Gershon (H1648), Kohath (H6955), Merari (H4847) and Jochebed (H3115) <BR> § Levi = \"joined to\"<br> the 3rd son of Jacob by Leah and progenitor of tribe of Levites<br>",
+                  "raw": "H3878\tH3878 =\tH3878\tלֵוִי\tle.vi\tN:N-M-P\tLevi\tA man of the tribe of Levi  living at the time of the Patriarchs, first mentioned at Gen.29.34; <br> son of: Israel (H3478) and Leah (H3812); <br> brother of: Reuben (H7205), Simeon (H8095), Judah (H3063), Issachar (H3485), Zebulun (H2074) and Dinah (H1783); <br> half-brother of: Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Joseph (H3130) and Benjamin (H1144); <br> father of: Gershon (H1648), Kohath (H6955), Merari (H4847) and Jochebed (H3115) <BR> § Levi = \"joined to\"<br> the 3rd son of Jacob by Leah and progenitor of tribe of Levites<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3878_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3878",
+                  "lemma": "לֵוִי",
+                  "translit": "le.vi",
+                  "morph": "N:N-M-P",
+                  "gloss": "Levi A man of the tribe of Levi  living at the time of the Patriarchs, first mentioned at Gen.29.34; <br> son of: Israel (H3478) and Leah (H3812); <br> brother of: Reuben (H7205), Simeon (H8095), Judah (H3063), Issachar (H3485), Zebulun (H2074) and Dinah (H1783); <br> half-brother of: Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Joseph (H3130) and Benjamin (H1144); <br> father of: Gershon (H1648), Kohath (H6955), Merari (H4847) and Jochebed (H3115) <BR> § Levi = \"joined to\"<br> the 3rd son of Jacob by Leah and progenitor of tribe of Levites<br>",
+                  "raw": "H3878\tH3878 =\tH3878\tלֵוִי\tle.vi\tN:N-M-P\tLevi\tA man of the tribe of Levi  living at the time of the Patriarchs, first mentioned at Gen.29.34; <br> son of: Israel (H3478) and Leah (H3812); <br> brother of: Reuben (H7205), Simeon (H8095), Judah (H3063), Issachar (H3485), Zebulun (H2074) and Dinah (H1783); <br> half-brother of: Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Joseph (H3130) and Benjamin (H1144); <br> father of: Gershon (H1648), Kohath (H6955), Merari (H4847) and Jochebed (H3115) <BR> § Levi = \"joined to\"<br> the 3rd son of Jacob by Leah and progenitor of tribe of Levites<br>"
+                }
+              },
+              {
+                "text": "{H3878=לֵוִי=Levi»Levi@Gen.29.34-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3878",
+                  "lemma": "לֵוִי",
+                  "translit": "le.vi",
+                  "morph": "N:N-M-P",
+                  "gloss": "Levi A man of the tribe of Levi  living at the time of the Patriarchs, first mentioned at Gen.29.34; <br> son of: Israel (H3478) and Leah (H3812); <br> brother of: Reuben (H7205), Simeon (H8095), Judah (H3063), Issachar (H3485), Zebulun (H2074) and Dinah (H1783); <br> half-brother of: Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Joseph (H3130) and Benjamin (H1144); <br> father of: Gershon (H1648), Kohath (H6955), Merari (H4847) and Jochebed (H3115) <BR> § Levi = \"joined to\"<br> the 3rd son of Jacob by Leah and progenitor of tribe of Levites<br>",
+                  "raw": "H3878\tH3878 =\tH3878\tלֵוִי\tle.vi\tN:N-M-P\tLevi\tA man of the tribe of Levi  living at the time of the Patriarchs, first mentioned at Gen.29.34; <br> son of: Israel (H3478) and Leah (H3812); <br> brother of: Reuben (H7205), Simeon (H8095), Judah (H3063), Issachar (H3485), Zebulun (H2074) and Dinah (H1783); <br> half-brother of: Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Joseph (H3130) and Benjamin (H1144); <br> father of: Gershon (H1648), Kohath (H6955), Merari (H4847) and Jochebed (H3115) <BR> § Levi = \"joined to\"<br> the 3rd son of Jacob by Leah and progenitor of tribe of Levites<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L לֵוִֽי\\׃ le.Vi Levi {H3878}\\H9016 HNpm H3878_B {H3878=לֵוִי=Levi»Levi@Gen.29.34-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 2,
           "verse": 2,
           "text": "And the woman conceived, and she gave birth to a son, and she saw him, that he was a fine baby, and she hid him three months.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יְרָחִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ye.ra.Chim",
+                "wordIndex": 2
+              },
+              {
+                "text": "months",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3391}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3391",
+                  "lemma": "יֶ֫רַח",
+                  "translit": "ye.rach",
+                  "morph": "H:N-M",
+                  "gloss": "month 1) month (lunar cycle), moon<br>1a) month<br>1b) calendar month<BR>Aramaic equivalent: <i>ye.rach</i> (יְרַח \"month\" H3393)",
+                  "raw": "H3391\tH3391 =\tH3391\tיֶ֫רַח\tye.rach\tH:N-M\tmonth\t1) month (lunar cycle), moon<br>1a) month<br>1b) calendar month<BR>Aramaic equivalent: <i>ye.rach</i> (יְרַח \"month\" H3393)"
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3391",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3391",
+                  "lemma": "יֶ֫רַח",
+                  "translit": "ye.rach",
+                  "morph": "H:N-M",
+                  "gloss": "month 1) month (lunar cycle), moon<br>1a) month<br>1b) calendar month<BR>Aramaic equivalent: <i>ye.rach</i> (יְרַח \"month\" H3393)",
+                  "raw": "H3391\tH3391 =\tH3391\tיֶ֫רַח\tye.rach\tH:N-M\tmonth\t1) month (lunar cycle), moon<br>1a) month<br>1b) calendar month<BR>Aramaic equivalent: <i>ye.rach</i> (יְרַח \"month\" H3393)"
+                }
+              },
+              {
+                "text": "{H3391=יֶ֫רַח=month}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3391",
+                  "lemma": "יֶ֫רַח",
+                  "translit": "ye.rach",
+                  "morph": "H:N-M",
+                  "gloss": "month 1) month (lunar cycle), moon<br>1a) month<br>1b) calendar month<BR>Aramaic equivalent: <i>ye.rach</i> (יְרַח \"month\" H3393)",
+                  "raw": "H3391\tH3391 =\tH3391\tיֶ֫רַח\tye.rach\tH:N-M\tmonth\t1) month (lunar cycle), moon<br>1a) month<br>1b) calendar month<BR>Aramaic equivalent: <i>ye.rach</i> (יְרַח \"month\" H3393)"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L יְרָחִֽים\\׃ ye.ra.Chim months {H3391}\\H9016 HNcmpa H3391 {H3391=יֶ֫רַח=month}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 2,
           "verse": 3,
           "text": "But when she could no longer hide him, she got a papyrus basket for him, and she coated it with tar and with pitch, and she placed the boy in it, and she placed it among the reeds on the bank of the Nile.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יְאֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha/y.'Or",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "River",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2975G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2975G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2975",
+                  "lemma": "יְאֹר",
+                  "translit": "ye.or",
+                  "morph": "N:N--L",
+                  "gloss": "stream 1) river, stream, canal, Nile, Nile-canal<br>1a) stream, river (Nile)<br>1b) Nile-arms, Nile-canals<br>1c) watercourses<br>1d) shafts (mining)<br>1e) river (in general)",
+                  "raw": "H2975\tH2975H =\tH2975H\tיְאֹר\tye.or\tN:N--L\tstream\t1) river, stream, canal, Nile, Nile-canal<br>1a) stream, river (Nile)<br>1b) Nile-arms, Nile-canals<br>1c) watercourses<br>1d) shafts (mining)<br>1e) river (in general)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2975G=יְאֹר=Nile»Nile@Gen.41.1-Zec}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L הַ/יְאֹֽר\\׃ ha/y.'Or the/ River H9009/{H2975G}\\H9016 HTd/Npl H2975G H9009=ה=the/{H2975G=יְאֹר=Nile»Nile@Gen.41.1-Zec}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 2,
           "verse": 4,
           "text": "And his sister stood at a distance to know what would be done to him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "l/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "him",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9033}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9033",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9033=Os3m=him}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#07=L לֽ/וֹ\\׃ l/o to <the>/ him H9005/{H9033}\\H9016 HRd/Sp3ms H9033 H9005=ל=to/{H9033=Os3m=him}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 2,
           "verse": 5,
           "text": "And the daughter of Pharaoh went down to wash at the Nile, while her maidservants were walking alongside the Nile, and she saw the basket in the midst of the reeds, and she sent her slave woman for it and took it",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L(abh)",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/תִּקָּחֶֽ/הָ",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./ti.ka.Che./ha",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "fetched",
+                "wordIndex": 4
+              },
+              {
+                "text": "it/",
+                "wordIndex": 5
+              },
+              {
+                "text": "she",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H3947G}/H9034",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqw3fs/Sp3fs",
+                "wordIndex": 8
+              },
+              {
+                "text": "ABH=",
+                "wordIndex": 9
+              },
+              {
+                "text": "וַ/תִּקָּחֶֽ/הָ\\׃",
+                "wordIndex": 10
+              },
+              {
+                "text": "H3947G",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H3947",
+                  "lemma": "לָקַח",
+                  "translit": "la.qach",
+                  "morph": "H:V",
+                  "gloss": "to take: fire : fire<br>1) to take, get, fetch, lay hold of, seize, receive, acquire, buy, bring, marry, take a wife, snatch, take away<br>1a) (Qal)<br>1a1) to take, take in the hand<br>1a2) to take and carry along<br>1a3) to take from, take out of, take, carry away, take away<br>1a4) to take to or for a person, procure, get, take possession of, select, choose, take in marriage, receive, accept<br>1a5) to take up or upon, put upon<br>1a6) to fetch<br>1a7) to take, lead, conduct<br>1a8) to take, capture, seize<br>1a9) to take, carry off 1a10) to take (vengeance)<br>1b) (Niphal)<br>1b1) to be captured<br>1b2) to be taken away, be removed<br>1b3) to be taken, brought unto<br>1c) (Pual)<br>1c1) to be taken from or out of<br>1c2) to be stolen from<br>1c3) to be taken captive<br>1c4) to be taken away, be removed<br>1d) (Hophal)<br>1d1) to be taken unto, be brought unto<br>1d2) to be taken out of<br>1d3) to be taken away<br>1e) (Hithpael)<br>1e1) to take hold of oneself<br>1e2) to flash about (of lightning)",
+                  "raw": "H3947\tH3947L = a Meaning of\tH3947G\tלָקַח\tla.qach\tH:V\tto take: fire\t: fire<br>1) to take, get, fetch, lay hold of, seize, receive, acquire, buy, bring, marry, take a wife, snatch, take away<br>1a) (Qal)<br>1a1) to take, take in the hand<br>1a2) to take and carry along<br>1a3) to take from, take out of, take, carry away, take away<br>1a4) to take to or for a person, procure, get, take possession of, select, choose, take in marriage, receive, accept<br>1a5) to take up or upon, put upon<br>1a6) to fetch<br>1a7) to take, lead, conduct<br>1a8) to take, capture, seize<br>1a9) to take, carry off 1a10) to take (vengeance)<br>1b) (Niphal)<br>1b1) to be captured<br>1b2) to be taken away, be removed<br>1b3) to be taken, brought unto<br>1c) (Pual)<br>1c1) to be taken from or out of<br>1c2) to be stolen from<br>1c3) to be taken captive<br>1c4) to be taken away, be removed<br>1d) (Hophal)<br>1d1) to be taken unto, be brought unto<br>1d2) to be taken out of<br>1d3) to be taken away<br>1e) (Hithpael)<br>1e1) to take hold of oneself<br>1e2) to flash about (of lightning)"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H3947G=לָקַח=:",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "take»to",
+                "wordIndex": 13
+              },
+              {
+                "text": "take:1_take}/H9034=Os3f=her",
+                "wordIndex": 14,
+                "lex": {
+                  "code": "H9034",
+                  "lemma": "הָ",
+                  "translit": "ha",
+                  "morph": "Os3f",
+                  "gloss": "her Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular",
+                  "raw": "H9034\tH9034 =\tH9034\tהָ\tha\tOs3f\ther\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L(abh) וַ/תִּקָּחֶֽ/הָ va./ti.ka.Che./ha and/ fetched it/ she H9001/{H3947G}/H9034 Hc/Vqw3fs/Sp3fs ABH= וַ/תִּקָּחֶֽ/הָ\\׃ H3947G H9001=ו=&/{H3947G=לָקַח=: take»to take:1_take}/H9034=Os3f=her"
+          }
         },
         {
           "chapter": 2,
           "verse": 6,
           "text": "and opened it and saw him—the boy—and it was a lad weeping, and she had compassion for him and said, “This must be from the boys of the Hebrews.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "זֶֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Zeh",
+                "wordIndex": 2
+              },
+              {
+                "text": "this",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H2088}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H2088",
+                  "lemma": "זֶה",
+                  "translit": "zeh",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2088\tH2088 =\tH2088\tזֶה\tzeh\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              },
+              {
+                "text": "HTm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H2088",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H2088",
+                  "lemma": "זֶה",
+                  "translit": "zeh",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2088\tH2088 =\tH2088\tזֶה\tzeh\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              },
+              {
+                "text": "{H2088=זֶה=this}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2088",
+                  "lemma": "זֶה",
+                  "translit": "zeh",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2088\tH2088 =\tH2088\tזֶה\tzeh\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L זֶֽה\\׃ Zeh this {H2088}\\H9016 HTm H2088 {H2088=זֶה=this}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 2,
           "verse": 7,
           "text": "And his sister said to the daughter of Pharaoh, “Shall I go and call for you a woman from the Hebrews who is nursing so that she will nurse the boy for you?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יָּֽלֶד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hai./Ya.led",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "child",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H3206}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3206",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3206",
+                  "lemma": "יֶ֫לֶד",
+                  "translit": "ye.led",
+                  "morph": "H:N-M",
+                  "gloss": "youth 1) child, son, boy, offspring, youth<br>1a) child, son, boy<br>1b) child, children<br>1c) descendants<br>1d) youth<br>1e) apostate Israelites (fig.)",
+                  "raw": "H3206\tH3206 =\tH3206\tיֶ֫לֶד\tye.led\tH:N-M\tyouth\t1) child, son, boy, offspring, youth<br>1a) child, son, boy<br>1b) child, children<br>1c) descendants<br>1d) youth<br>1e) apostate Israelites (fig.)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3206=יֶ֫לֶד=youth}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L הַ/יָּֽלֶד\\׃ hai./Ya.led the/ child H9009/{H3206}\\H9016 HTd/Ncmsa H3206 H9009=ה=the/{H3206=יֶ֫לֶד=youth}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 2,
           "verse": 8,
           "text": "And the daughter of Pharaoh said to her, “Go.” And the girl went, and she called the mother of the boy.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יָּֽלֶד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hai./Ya.led",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "child",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H3206}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3206",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3206",
+                  "lemma": "יֶ֫לֶד",
+                  "translit": "ye.led",
+                  "morph": "H:N-M",
+                  "gloss": "youth 1) child, son, boy, offspring, youth<br>1a) child, son, boy<br>1b) child, children<br>1c) descendants<br>1d) youth<br>1e) apostate Israelites (fig.)",
+                  "raw": "H3206\tH3206 =\tH3206\tיֶ֫לֶד\tye.led\tH:N-M\tyouth\t1) child, son, boy, offspring, youth<br>1a) child, son, boy<br>1b) child, children<br>1c) descendants<br>1d) youth<br>1e) apostate Israelites (fig.)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3206=יֶ֫לֶד=youth}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L הַ/יָּֽלֶד\\׃ hai./Ya.led the/ child H9009/{H3206}\\H9016 HTd/Ncmsa H3206 H9009=ה=the/{H3206=יֶ֫לֶד=youth}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 2,
           "verse": 9,
           "text": "And the daughter of Pharaoh said, “Take this boy and nurse him for me, and I myself will give you wages, and the woman took the boy, and she nursed him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/תְּנִיקֵֽ/הוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./te.ni.Ke./hu",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "she",
+                "wordIndex": 4
+              },
+              {
+                "text": "suckled/",
+                "wordIndex": 5
+              },
+              {
+                "text": "him",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H3243H}/H9033\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vhw3fs/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H3243H",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3243",
+                  "lemma": "יָנַק",
+                  "translit": "ya.naq",
+                  "morph": "H:V",
+                  "gloss": "to suckle 1) to suckle, nurse, suck<br>1a) (Qal)<br>1a1) to suck<br>1a2) suckling, babe (subst)<br>1b) (Hiphil)<br>1b1) to give suck to, nurse<br>1b2) nursing, nursing woman, nurse (participle)",
+                  "raw": "H3243\tH3243 =\tH3243\tיָנַק\tya.naq\tH:V\tto suckle\t1) to suckle, nurse, suck<br>1a) (Qal)<br>1a1) to suck<br>1a2) suckling, babe (subst)<br>1b) (Hiphil)<br>1b1) to give suck to, nurse<br>1b2) nursing, nursing woman, nurse (participle)"
+                }
+              },
+              {
+                "text": "H5134",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H5134",
+                  "lemma": "נוּק",
+                  "translit": "nuq",
+                  "morph": "H:V",
+                  "gloss": "to suckle (Hiphil) to suckle, nurse",
+                  "raw": "H5134\tH5134 =\tH5134\tנוּק\tnuq\tH:V\tto suckle\t(Hiphil) to suckle, nurse"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H3243H=יָנַק=to",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "suck}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L וַ/תְּנִיקֵֽ/הוּ\\׃ va./te.ni.Ke./hu and/ she suckled/ him H9001/{H3243H}/H9033\\H9016 Hc/Vhw3fs/Sp3ms H3243H H5134 H9001=ו=&/{H3243H=יָנַק=to suck}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 2,
           "verse": 10,
           "text": "And the boy grew, and she brought him to the daughter of Pharaoh, and he became her son, and she called his name Moses, and she said, “Because I drew him out from the water.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מְשִׁיתִֽ/הוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "me.shi.Ti./hu",
+                "wordIndex": 2
+              },
+              {
+                "text": "I",
+                "wordIndex": 3
+              },
+              {
+                "text": "drew/",
+                "wordIndex": 4
+              },
+              {
+                "text": "him",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H4871}/H9033\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4871",
+                  "lemma": "מָשָׁה",
+                  "translit": "ma.shah",
+                  "morph": "H:V",
+                  "gloss": "to draw 1) to draw<br>1a) (Qal) to draw<br>1b) (Hiphil) to draw",
+                  "raw": "H4871\tH4871 =\tH4871\tמָשָׁה\tma.shah\tH:V\tto draw\t1) to draw<br>1a) (Qal) to draw<br>1b) (Hiphil) to draw"
+                }
+              },
+              {
+                "text": "HVqp1cs/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4871",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4871",
+                  "lemma": "מָשָׁה",
+                  "translit": "ma.shah",
+                  "morph": "H:V",
+                  "gloss": "to draw 1) to draw<br>1a) (Qal) to draw<br>1b) (Hiphil) to draw",
+                  "raw": "H4871\tH4871 =\tH4871\tמָשָׁה\tma.shah\tH:V\tto draw\t1) to draw<br>1a) (Qal) to draw<br>1b) (Hiphil) to draw"
+                }
+              },
+              {
+                "text": "{H4871=מָשָׁה=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4871",
+                  "lemma": "מָשָׁה",
+                  "translit": "ma.shah",
+                  "morph": "H:V",
+                  "gloss": "to draw 1) to draw<br>1a) (Qal) to draw<br>1b) (Hiphil) to draw",
+                  "raw": "H4871\tH4871 =\tH4871\tמָשָׁה\tma.shah\tH:V\tto draw\t1) to draw<br>1a) (Qal) to draw<br>1b) (Hiphil) to draw"
+                }
+              },
+              {
+                "text": "draw}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L מְשִׁיתִֽ/הוּ\\׃ me.shi.Ti./hu I drew/ him {H4871}/H9033\\H9016 HVqp1cs/Sp3ms H4871 {H4871=מָשָׁה=to draw}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         }
       ],
       "nirv": [
@@ -99,91 +1202,1194 @@
           "chapter": 1,
           "verse": 18,
           "text": "Then the king of Egypt sent for the women. He asked them, “Why have you done this? Why have you let the boys live?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יְלָדִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha/y.la.Dim",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "[male]",
+                "wordIndex": 4
+              },
+              {
+                "text": "children",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H3206}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3206",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3206",
+                  "lemma": "יֶ֫לֶד",
+                  "translit": "ye.led",
+                  "morph": "H:N-M",
+                  "gloss": "youth 1) child, son, boy, offspring, youth<br>1a) child, son, boy<br>1b) child, children<br>1c) descendants<br>1d) youth<br>1e) apostate Israelites (fig.)",
+                  "raw": "H3206\tH3206 =\tH3206\tיֶ֫לֶד\tye.led\tH:N-M\tyouth\t1) child, son, boy, offspring, youth<br>1a) child, son, boy<br>1b) child, children<br>1c) descendants<br>1d) youth<br>1e) apostate Israelites (fig.)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3206=יֶ֫לֶד=youth}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L הַ/יְלָדִֽים\\׃ ha/y.la.Dim the/ [male] children H9009/{H3206}\\H9016 HTd/Ncmpa H3206 H9009=ה=the/{H3206=יֶ֫לֶד=youth}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 19,
           "text": "The women answered Pharaoh, “Hebrew women are not like the women of Egypt. They are strong. They have their babies before we get there.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/יָלָֽדוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./ya.La.du",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "they",
+                "wordIndex": 4
+              },
+              {
+                "text": "give",
+                "wordIndex": 5
+              },
+              {
+                "text": "birth",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H3205}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqq3cp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H3205_C",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3205",
+                  "lemma": "יָלַד",
+                  "translit": "ya.lad",
+                  "morph": "H:V",
+                  "gloss": "to beget 1) to bear, bringforth, beget, gender, travail<br>1a) (Qal)<br>1a1) to bear, bring forth<br>1a1a) of child birth<br>1a1b) of distress (simile)<br>1a1c) of wicked (behaviour)<br>1a2) to beget<br>1b) (Niphal) to be born<br>1c) (Piel)<br>1c1) to cause or help to bring forth<br>1c2) to assist or tend as a midwife<br>1c3) midwife (participle)<br>1d) (Pual) to be born<br>1e) (Hiphil)<br>1e1) to beget (a child)<br>1e2) to bear (fig. -of wicked bringing forth iniquity)<br>1f) (Hophal) day of birth, birthday (infinitive)<br>1g) (Hithpael) to declare one's birth (pedigree)",
+                  "raw": "H3205\tH3205 =\tH3205\tיָלַד\tya.lad\tH:V\tto beget\t1) to bear, bringforth, beget, gender, travail<br>1a) (Qal)<br>1a1) to bear, bring forth<br>1a1a) of child birth<br>1a1b) of distress (simile)<br>1a1c) of wicked (behaviour)<br>1a2) to beget<br>1b) (Niphal) to be born<br>1c) (Piel)<br>1c1) to cause or help to bring forth<br>1c2) to assist or tend as a midwife<br>1c3) midwife (participle)<br>1d) (Pual) to be born<br>1e) (Hiphil)<br>1e1) to beget (a child)<br>1e2) to bear (fig. -of wicked bringing forth iniquity)<br>1f) (Hophal) day of birth, birthday (infinitive)<br>1g) (Hithpael) to declare one's birth (pedigree)"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H3205=יָלַד=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "beget}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L וְ/יָלָֽדוּ\\׃ ve./ya.La.du and/ they give birth H9001/{H3205}\\H9016 Hc/Vqq3cp H3205_C H9001=ו=&/{H3205=יָלַד=to beget}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 20,
           "text": "So God was kind to Shiphrah and Puah. And the people of Israel increased their numbers more and more.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מְאֹֽד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "me.'Od",
+                "wordIndex": 2
+              },
+              {
+                "text": "exceedingly",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3966}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3966",
+                  "lemma": "מְאֹד",
+                  "translit": "me.od",
+                  "morph": "H:A",
+                  "gloss": "much adv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness",
+                  "raw": "H3966\tH3966 =\tH3966\tמְאֹד\tme.od\tH:A\tmuch\tadv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness"
+                }
+              },
+              {
+                "text": "HAcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3966",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3966",
+                  "lemma": "מְאֹד",
+                  "translit": "me.od",
+                  "morph": "H:A",
+                  "gloss": "much adv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness",
+                  "raw": "H3966\tH3966 =\tH3966\tמְאֹד\tme.od\tH:A\tmuch\tadv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness"
+                }
+              },
+              {
+                "text": "{H3966=מְאֹד=much}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3966",
+                  "lemma": "מְאֹד",
+                  "translit": "me.od",
+                  "morph": "H:A",
+                  "gloss": "much adv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness",
+                  "raw": "H3966\tH3966 =\tH3966\tמְאֹד\tme.od\tH:A\tmuch\tadv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L מְאֹֽד\\׃ me.'Od exceedingly {H3966}\\H9016 HAcmsa H3966 {H3966=מְאֹד=much}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 21,
           "text": "Shiphrah and Puah had respect for God. So he gave them families of their own.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּתִּֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba.Tim",
+                "wordIndex": 2
+              },
+              {
+                "text": "households",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1004M}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1004M",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H1004M=בַּ֫יִת=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "home»house:2_household}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L בָּתִּֽים\\׃ ba.Tim households {H1004M}\\H9016 HNcmpa H1004M {H1004M=בַּ֫יִת=: home»house:2_household}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 22,
           "text": "Then Pharaoh gave an order to all of his people. He said, “You must throw every baby boy into the Nile River. But let every baby girl live.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תְּחַיּֽוּ/ן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "te.chai.Yu/n",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "let",
+                "wordIndex": 6
+              },
+              {
+                "text": "live/",
+                "wordIndex": 7
+              },
+              {
+                "text": "!",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H2421}/H9013\\H9016\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2421",
+                  "lemma": "חָיָה",
+                  "translit": "cha.yah",
+                  "morph": "H:V",
+                  "gloss": "to live 1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life",
+                  "raw": "H2421\tH2421 =\tH2421\tחָיָה\tcha.yah\tH:V\tto live\t1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HVpi2mp/Sn",
+                "wordIndex": 11
+              },
+              {
+                "text": "H2421",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H2421",
+                  "lemma": "חָיָה",
+                  "translit": "cha.yah",
+                  "morph": "H:V",
+                  "gloss": "to live 1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life",
+                  "raw": "H2421\tH2421 =\tH2421\tחָיָה\tcha.yah\tH:V\tto live\t1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life"
+                }
+              },
+              {
+                "text": "{H2421=חָיָה=to",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H2421",
+                  "lemma": "חָיָה",
+                  "translit": "cha.yah",
+                  "morph": "H:V",
+                  "gloss": "to live 1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life",
+                  "raw": "H2421\tH2421 =\tH2421\tחָיָה\tcha.yah\tH:V\tto live\t1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life"
+                }
+              },
+              {
+                "text": "live}/H9013=נ=emph.\\H9016=׃=verseEnd\\",
+                "wordIndex": 14,
+                "lex": {
+                  "code": "H9013",
+                  "lemma": "ן/",
+                  "translit": "n",
+                  "morph": "Suffix",
+                  "gloss": "[emph.?] Punctuation  nun – paragogic: adds emphasis",
+                  "raw": "H9013\tH9013 =\tH9013\tן/\tn\tSuffix\t[emph.?]\tPunctuation  nun – paragogic: adds emphasis"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 15,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L תְּחַיּֽוּ/ן\\׃\\ \\ס te.chai.Yu/n you will let live/ ! {H2421}/H9013\\H9016\\ \\H9018 HVpi2mp/Sn H2421 {H2421=חָיָה=to live}/H9013=נ=emph.\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 2,
           "verse": 1,
           "text": "A man and a woman from the tribe of Levi got married.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵוִֽי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le.Vi",
+                "wordIndex": 2
+              },
+              {
+                "text": "Levi",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3878}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3878",
+                  "lemma": "לֵוִי",
+                  "translit": "le.vi",
+                  "morph": "N:N-M-P",
+                  "gloss": "Levi A man of the tribe of Levi  living at the time of the Patriarchs, first mentioned at Gen.29.34; <br> son of: Israel (H3478) and Leah (H3812); <br> brother of: Reuben (H7205), Simeon (H8095), Judah (H3063), Issachar (H3485), Zebulun (H2074) and Dinah (H1783); <br> half-brother of: Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Joseph (H3130) and Benjamin (H1144); <br> father of: Gershon (H1648), Kohath (H6955), Merari (H4847) and Jochebed (H3115) <BR> § Levi = \"joined to\"<br> the 3rd son of Jacob by Leah and progenitor of tribe of Levites<br>",
+                  "raw": "H3878\tH3878 =\tH3878\tלֵוִי\tle.vi\tN:N-M-P\tLevi\tA man of the tribe of Levi  living at the time of the Patriarchs, first mentioned at Gen.29.34; <br> son of: Israel (H3478) and Leah (H3812); <br> brother of: Reuben (H7205), Simeon (H8095), Judah (H3063), Issachar (H3485), Zebulun (H2074) and Dinah (H1783); <br> half-brother of: Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Joseph (H3130) and Benjamin (H1144); <br> father of: Gershon (H1648), Kohath (H6955), Merari (H4847) and Jochebed (H3115) <BR> § Levi = \"joined to\"<br> the 3rd son of Jacob by Leah and progenitor of tribe of Levites<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3878_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3878",
+                  "lemma": "לֵוִי",
+                  "translit": "le.vi",
+                  "morph": "N:N-M-P",
+                  "gloss": "Levi A man of the tribe of Levi  living at the time of the Patriarchs, first mentioned at Gen.29.34; <br> son of: Israel (H3478) and Leah (H3812); <br> brother of: Reuben (H7205), Simeon (H8095), Judah (H3063), Issachar (H3485), Zebulun (H2074) and Dinah (H1783); <br> half-brother of: Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Joseph (H3130) and Benjamin (H1144); <br> father of: Gershon (H1648), Kohath (H6955), Merari (H4847) and Jochebed (H3115) <BR> § Levi = \"joined to\"<br> the 3rd son of Jacob by Leah and progenitor of tribe of Levites<br>",
+                  "raw": "H3878\tH3878 =\tH3878\tלֵוִי\tle.vi\tN:N-M-P\tLevi\tA man of the tribe of Levi  living at the time of the Patriarchs, first mentioned at Gen.29.34; <br> son of: Israel (H3478) and Leah (H3812); <br> brother of: Reuben (H7205), Simeon (H8095), Judah (H3063), Issachar (H3485), Zebulun (H2074) and Dinah (H1783); <br> half-brother of: Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Joseph (H3130) and Benjamin (H1144); <br> father of: Gershon (H1648), Kohath (H6955), Merari (H4847) and Jochebed (H3115) <BR> § Levi = \"joined to\"<br> the 3rd son of Jacob by Leah and progenitor of tribe of Levites<br>"
+                }
+              },
+              {
+                "text": "{H3878=לֵוִי=Levi»Levi@Gen.29.34-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3878",
+                  "lemma": "לֵוִי",
+                  "translit": "le.vi",
+                  "morph": "N:N-M-P",
+                  "gloss": "Levi A man of the tribe of Levi  living at the time of the Patriarchs, first mentioned at Gen.29.34; <br> son of: Israel (H3478) and Leah (H3812); <br> brother of: Reuben (H7205), Simeon (H8095), Judah (H3063), Issachar (H3485), Zebulun (H2074) and Dinah (H1783); <br> half-brother of: Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Joseph (H3130) and Benjamin (H1144); <br> father of: Gershon (H1648), Kohath (H6955), Merari (H4847) and Jochebed (H3115) <BR> § Levi = \"joined to\"<br> the 3rd son of Jacob by Leah and progenitor of tribe of Levites<br>",
+                  "raw": "H3878\tH3878 =\tH3878\tלֵוִי\tle.vi\tN:N-M-P\tLevi\tA man of the tribe of Levi  living at the time of the Patriarchs, first mentioned at Gen.29.34; <br> son of: Israel (H3478) and Leah (H3812); <br> brother of: Reuben (H7205), Simeon (H8095), Judah (H3063), Issachar (H3485), Zebulun (H2074) and Dinah (H1783); <br> half-brother of: Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Joseph (H3130) and Benjamin (H1144); <br> father of: Gershon (H1648), Kohath (H6955), Merari (H4847) and Jochebed (H3115) <BR> § Levi = \"joined to\"<br> the 3rd son of Jacob by Leah and progenitor of tribe of Levites<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L לֵוִֽי\\׃ le.Vi Levi {H3878}\\H9016 HNpm H3878_B {H3878=לֵוִי=Levi»Levi@Gen.29.34-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 2,
           "verse": 2,
           "text": "She became pregnant and had a son by him. She saw that her baby was a fine child. So she hid him for three months.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יְרָחִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ye.ra.Chim",
+                "wordIndex": 2
+              },
+              {
+                "text": "months",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3391}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3391",
+                  "lemma": "יֶ֫רַח",
+                  "translit": "ye.rach",
+                  "morph": "H:N-M",
+                  "gloss": "month 1) month (lunar cycle), moon<br>1a) month<br>1b) calendar month<BR>Aramaic equivalent: <i>ye.rach</i> (יְרַח \"month\" H3393)",
+                  "raw": "H3391\tH3391 =\tH3391\tיֶ֫רַח\tye.rach\tH:N-M\tmonth\t1) month (lunar cycle), moon<br>1a) month<br>1b) calendar month<BR>Aramaic equivalent: <i>ye.rach</i> (יְרַח \"month\" H3393)"
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3391",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3391",
+                  "lemma": "יֶ֫רַח",
+                  "translit": "ye.rach",
+                  "morph": "H:N-M",
+                  "gloss": "month 1) month (lunar cycle), moon<br>1a) month<br>1b) calendar month<BR>Aramaic equivalent: <i>ye.rach</i> (יְרַח \"month\" H3393)",
+                  "raw": "H3391\tH3391 =\tH3391\tיֶ֫רַח\tye.rach\tH:N-M\tmonth\t1) month (lunar cycle), moon<br>1a) month<br>1b) calendar month<BR>Aramaic equivalent: <i>ye.rach</i> (יְרַח \"month\" H3393)"
+                }
+              },
+              {
+                "text": "{H3391=יֶ֫רַח=month}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3391",
+                  "lemma": "יֶ֫רַח",
+                  "translit": "ye.rach",
+                  "morph": "H:N-M",
+                  "gloss": "month 1) month (lunar cycle), moon<br>1a) month<br>1b) calendar month<BR>Aramaic equivalent: <i>ye.rach</i> (יְרַח \"month\" H3393)",
+                  "raw": "H3391\tH3391 =\tH3391\tיֶ֫רַח\tye.rach\tH:N-M\tmonth\t1) month (lunar cycle), moon<br>1a) month<br>1b) calendar month<BR>Aramaic equivalent: <i>ye.rach</i> (יְרַח \"month\" H3393)"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L יְרָחִֽים\\׃ ye.ra.Chim months {H3391}\\H9016 HNcmpa H3391 {H3391=יֶ֫רַח=month}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 2,
           "verse": 3,
           "text": "After that, she couldn’t hide him any longer. So she got a basket that was made out of the stems of tall grass. She coated it with tar. Then she placed the child in it. She put the basket in the tall grass that grew along the bank of the Nile River.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יְאֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha/y.'Or",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "River",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2975G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2975G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2975",
+                  "lemma": "יְאֹר",
+                  "translit": "ye.or",
+                  "morph": "N:N--L",
+                  "gloss": "stream 1) river, stream, canal, Nile, Nile-canal<br>1a) stream, river (Nile)<br>1b) Nile-arms, Nile-canals<br>1c) watercourses<br>1d) shafts (mining)<br>1e) river (in general)",
+                  "raw": "H2975\tH2975H =\tH2975H\tיְאֹר\tye.or\tN:N--L\tstream\t1) river, stream, canal, Nile, Nile-canal<br>1a) stream, river (Nile)<br>1b) Nile-arms, Nile-canals<br>1c) watercourses<br>1d) shafts (mining)<br>1e) river (in general)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2975G=יְאֹר=Nile»Nile@Gen.41.1-Zec}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L הַ/יְאֹֽר\\׃ ha/y.'Or the/ River H9009/{H2975G}\\H9016 HTd/Npl H2975G H9009=ה=the/{H2975G=יְאֹר=Nile»Nile@Gen.41.1-Zec}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 2,
           "verse": 4,
           "text": "The child’s sister wasn’t very far away. She wanted to see what would happen to him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "l/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "him",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9033}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9033",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9033=Os3m=him}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#07=L לֽ/וֹ\\׃ l/o to <the>/ him H9005/{H9033}\\H9016 HRd/Sp3ms H9033 H9005=ל=to/{H9033=Os3m=him}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 2,
           "verse": 5,
           "text": "Pharaoh’s daughter went down to the Nile River to take a bath. Her attendants were walking along the bank of the river. She saw the basket in the tall grass. So she sent her female slave to get it.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L(abh)",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/תִּקָּחֶֽ/הָ",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./ti.ka.Che./ha",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "fetched",
+                "wordIndex": 4
+              },
+              {
+                "text": "it/",
+                "wordIndex": 5
+              },
+              {
+                "text": "she",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H3947G}/H9034",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqw3fs/Sp3fs",
+                "wordIndex": 8
+              },
+              {
+                "text": "ABH=",
+                "wordIndex": 9
+              },
+              {
+                "text": "וַ/תִּקָּחֶֽ/הָ\\׃",
+                "wordIndex": 10
+              },
+              {
+                "text": "H3947G",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H3947",
+                  "lemma": "לָקַח",
+                  "translit": "la.qach",
+                  "morph": "H:V",
+                  "gloss": "to take: fire : fire<br>1) to take, get, fetch, lay hold of, seize, receive, acquire, buy, bring, marry, take a wife, snatch, take away<br>1a) (Qal)<br>1a1) to take, take in the hand<br>1a2) to take and carry along<br>1a3) to take from, take out of, take, carry away, take away<br>1a4) to take to or for a person, procure, get, take possession of, select, choose, take in marriage, receive, accept<br>1a5) to take up or upon, put upon<br>1a6) to fetch<br>1a7) to take, lead, conduct<br>1a8) to take, capture, seize<br>1a9) to take, carry off 1a10) to take (vengeance)<br>1b) (Niphal)<br>1b1) to be captured<br>1b2) to be taken away, be removed<br>1b3) to be taken, brought unto<br>1c) (Pual)<br>1c1) to be taken from or out of<br>1c2) to be stolen from<br>1c3) to be taken captive<br>1c4) to be taken away, be removed<br>1d) (Hophal)<br>1d1) to be taken unto, be brought unto<br>1d2) to be taken out of<br>1d3) to be taken away<br>1e) (Hithpael)<br>1e1) to take hold of oneself<br>1e2) to flash about (of lightning)",
+                  "raw": "H3947\tH3947L = a Meaning of\tH3947G\tלָקַח\tla.qach\tH:V\tto take: fire\t: fire<br>1) to take, get, fetch, lay hold of, seize, receive, acquire, buy, bring, marry, take a wife, snatch, take away<br>1a) (Qal)<br>1a1) to take, take in the hand<br>1a2) to take and carry along<br>1a3) to take from, take out of, take, carry away, take away<br>1a4) to take to or for a person, procure, get, take possession of, select, choose, take in marriage, receive, accept<br>1a5) to take up or upon, put upon<br>1a6) to fetch<br>1a7) to take, lead, conduct<br>1a8) to take, capture, seize<br>1a9) to take, carry off 1a10) to take (vengeance)<br>1b) (Niphal)<br>1b1) to be captured<br>1b2) to be taken away, be removed<br>1b3) to be taken, brought unto<br>1c) (Pual)<br>1c1) to be taken from or out of<br>1c2) to be stolen from<br>1c3) to be taken captive<br>1c4) to be taken away, be removed<br>1d) (Hophal)<br>1d1) to be taken unto, be brought unto<br>1d2) to be taken out of<br>1d3) to be taken away<br>1e) (Hithpael)<br>1e1) to take hold of oneself<br>1e2) to flash about (of lightning)"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H3947G=לָקַח=:",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "take»to",
+                "wordIndex": 13
+              },
+              {
+                "text": "take:1_take}/H9034=Os3f=her",
+                "wordIndex": 14,
+                "lex": {
+                  "code": "H9034",
+                  "lemma": "הָ",
+                  "translit": "ha",
+                  "morph": "Os3f",
+                  "gloss": "her Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular",
+                  "raw": "H9034\tH9034 =\tH9034\tהָ\tha\tOs3f\ther\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L(abh) וַ/תִּקָּחֶֽ/הָ va./ti.ka.Che./ha and/ fetched it/ she H9001/{H3947G}/H9034 Hc/Vqw3fs/Sp3fs ABH= וַ/תִּקָּחֶֽ/הָ\\׃ H3947G H9001=ו=&/{H3947G=לָקַח=: take»to take:1_take}/H9034=Os3f=her"
+          }
         },
         {
           "chapter": 2,
           "verse": 6,
           "text": "When she opened it, she saw the baby. He was crying. She felt sorry for him. “This is one of the Hebrew babies,” she said.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "זֶֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Zeh",
+                "wordIndex": 2
+              },
+              {
+                "text": "this",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H2088}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H2088",
+                  "lemma": "זֶה",
+                  "translit": "zeh",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2088\tH2088 =\tH2088\tזֶה\tzeh\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              },
+              {
+                "text": "HTm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H2088",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H2088",
+                  "lemma": "זֶה",
+                  "translit": "zeh",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2088\tH2088 =\tH2088\tזֶה\tzeh\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              },
+              {
+                "text": "{H2088=זֶה=this}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2088",
+                  "lemma": "זֶה",
+                  "translit": "zeh",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2088\tH2088 =\tH2088\tזֶה\tzeh\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L זֶֽה\\׃ Zeh this {H2088}\\H9016 HTm H2088 {H2088=זֶה=this}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 2,
           "verse": 7,
           "text": "Then his sister spoke to Pharaoh’s daughter. She asked, “Do you want me to go and get one of the Hebrew women? She could nurse the baby for you.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יָּֽלֶד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hai./Ya.led",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "child",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H3206}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3206",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3206",
+                  "lemma": "יֶ֫לֶד",
+                  "translit": "ye.led",
+                  "morph": "H:N-M",
+                  "gloss": "youth 1) child, son, boy, offspring, youth<br>1a) child, son, boy<br>1b) child, children<br>1c) descendants<br>1d) youth<br>1e) apostate Israelites (fig.)",
+                  "raw": "H3206\tH3206 =\tH3206\tיֶ֫לֶד\tye.led\tH:N-M\tyouth\t1) child, son, boy, offspring, youth<br>1a) child, son, boy<br>1b) child, children<br>1c) descendants<br>1d) youth<br>1e) apostate Israelites (fig.)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3206=יֶ֫לֶד=youth}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L הַ/יָּֽלֶד\\׃ hai./Ya.led the/ child H9009/{H3206}\\H9016 HTd/Ncmsa H3206 H9009=ה=the/{H3206=יֶ֫לֶד=youth}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 2,
           "verse": 8,
           "text": "“Yes. Go,” she answered. So the girl went and got the baby’s mother.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יָּֽלֶד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hai./Ya.led",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "child",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H3206}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3206",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3206",
+                  "lemma": "יֶ֫לֶד",
+                  "translit": "ye.led",
+                  "morph": "H:N-M",
+                  "gloss": "youth 1) child, son, boy, offspring, youth<br>1a) child, son, boy<br>1b) child, children<br>1c) descendants<br>1d) youth<br>1e) apostate Israelites (fig.)",
+                  "raw": "H3206\tH3206 =\tH3206\tיֶ֫לֶד\tye.led\tH:N-M\tyouth\t1) child, son, boy, offspring, youth<br>1a) child, son, boy<br>1b) child, children<br>1c) descendants<br>1d) youth<br>1e) apostate Israelites (fig.)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3206=יֶ֫לֶד=youth}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L הַ/יָּֽלֶד\\׃ hai./Ya.led the/ child H9009/{H3206}\\H9016 HTd/Ncmsa H3206 H9009=ה=the/{H3206=יֶ֫לֶד=youth}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 2,
           "verse": 9,
           "text": "Pharaoh’s daughter said to her, “Take this baby. Nurse him for me. I’ll pay you.” So the woman took the baby and nursed him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/תְּנִיקֵֽ/הוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./te.ni.Ke./hu",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "she",
+                "wordIndex": 4
+              },
+              {
+                "text": "suckled/",
+                "wordIndex": 5
+              },
+              {
+                "text": "him",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H3243H}/H9033\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vhw3fs/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H3243H",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3243",
+                  "lemma": "יָנַק",
+                  "translit": "ya.naq",
+                  "morph": "H:V",
+                  "gloss": "to suckle 1) to suckle, nurse, suck<br>1a) (Qal)<br>1a1) to suck<br>1a2) suckling, babe (subst)<br>1b) (Hiphil)<br>1b1) to give suck to, nurse<br>1b2) nursing, nursing woman, nurse (participle)",
+                  "raw": "H3243\tH3243 =\tH3243\tיָנַק\tya.naq\tH:V\tto suckle\t1) to suckle, nurse, suck<br>1a) (Qal)<br>1a1) to suck<br>1a2) suckling, babe (subst)<br>1b) (Hiphil)<br>1b1) to give suck to, nurse<br>1b2) nursing, nursing woman, nurse (participle)"
+                }
+              },
+              {
+                "text": "H5134",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H5134",
+                  "lemma": "נוּק",
+                  "translit": "nuq",
+                  "morph": "H:V",
+                  "gloss": "to suckle (Hiphil) to suckle, nurse",
+                  "raw": "H5134\tH5134 =\tH5134\tנוּק\tnuq\tH:V\tto suckle\t(Hiphil) to suckle, nurse"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H3243H=יָנַק=to",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "suck}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L וַ/תְּנִיקֵֽ/הוּ\\׃ va./te.ni.Ke./hu and/ she suckled/ him H9001/{H3243H}/H9033\\H9016 Hc/Vhw3fs/Sp3ms H3243H H5134 H9001=ו=&/{H3243H=יָנַק=to suck}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 2,
           "verse": 10,
           "text": "When the child grew older, she took him to Pharaoh’s daughter. And he became her son. She named him Moses. She said, “I pulled him out of the water.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מְשִׁיתִֽ/הוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "me.shi.Ti./hu",
+                "wordIndex": 2
+              },
+              {
+                "text": "I",
+                "wordIndex": 3
+              },
+              {
+                "text": "drew/",
+                "wordIndex": 4
+              },
+              {
+                "text": "him",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H4871}/H9033\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4871",
+                  "lemma": "מָשָׁה",
+                  "translit": "ma.shah",
+                  "morph": "H:V",
+                  "gloss": "to draw 1) to draw<br>1a) (Qal) to draw<br>1b) (Hiphil) to draw",
+                  "raw": "H4871\tH4871 =\tH4871\tמָשָׁה\tma.shah\tH:V\tto draw\t1) to draw<br>1a) (Qal) to draw<br>1b) (Hiphil) to draw"
+                }
+              },
+              {
+                "text": "HVqp1cs/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4871",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4871",
+                  "lemma": "מָשָׁה",
+                  "translit": "ma.shah",
+                  "morph": "H:V",
+                  "gloss": "to draw 1) to draw<br>1a) (Qal) to draw<br>1b) (Hiphil) to draw",
+                  "raw": "H4871\tH4871 =\tH4871\tמָשָׁה\tma.shah\tH:V\tto draw\t1) to draw<br>1a) (Qal) to draw<br>1b) (Hiphil) to draw"
+                }
+              },
+              {
+                "text": "{H4871=מָשָׁה=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4871",
+                  "lemma": "מָשָׁה",
+                  "translit": "ma.shah",
+                  "morph": "H:V",
+                  "gloss": "to draw 1) to draw<br>1a) (Qal) to draw<br>1b) (Hiphil) to draw",
+                  "raw": "H4871\tH4871 =\tH4871\tמָשָׁה\tma.shah\tH:V\tto draw\t1) to draw<br>1a) (Qal) to draw<br>1b) (Hiphil) to draw"
+                }
+              },
+              {
+                "text": "draw}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L מְשִׁיתִֽ/הוּ\\׃ me.shi.Ti./hu I drew/ him {H4871}/H9033\\H9016 HVqp1cs/Sp3ms H4871 {H4871=מָשָׁה=to draw}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         }
       ]
     }

@@ -7,133 +7,1935 @@
           "chapter": 27,
           "verse": 11,
           "text": "And Moses charged the people on that day, saying,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L לֵ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 12,
           "text": "“These tribes shall stand on Mount Gerizim to bless the people when you cross the Jordan: Simeon and Levi and Judah and Issachar and Joseph and Benjamin.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/בִנְיָמִֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./vin.ya.Min",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Benjamin",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9002/{H1144G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Npm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1144G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1144",
+                  "lemma": "בִּנְיָמִין",
+                  "translit": "bin.ya.min",
+                  "morph": "N:N-M-P",
+                  "gloss": "(Gate of) Benjamin <BR> § Benjamin = \"son of the right hand\"<br> a gate in Jerusalem",
+                  "raw": "H1144\tH1144M =\tH1144M\tבִּנְיָמִין\tbin.ya.min\tN:N-M-P\t(Gate of) Benjamin\t<BR> § Benjamin = \"son of the right hand\"<br> a gate in Jerusalem"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H1144G=בִּנְיָמִין=Benjamin»Benjamin@Gen.35.18-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L וּ/בִנְיָמִֽן\\׃ u./vin.ya.Min and/ Benjamin H9002/{H1144G}\\H9016 HC/Npm H1144G H9002=ו=and/{H1144G=בִּנְיָמִין=Benjamin»Benjamin@Gen.35.18-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 13,
           "text": "And these shall stand on Mount Ebal for delivering the curse: Reuben, Gad and Asher and Zebulun, Dan and Naphtali.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/נַפְתָּלִֽי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./naf.ta.Li",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Naphtali",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9002/{H5321G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Npm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5321G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5321",
+                  "lemma": "נַפְתָּלִי",
+                  "translit": "naph.ta.li",
+                  "morph": "N:N-M-P",
+                  "gloss": "(Kedesh)-naphtali <BR>Combined with <i>qe.desh</i> (קֶ֫דֶשׁ \"Kedesh\" H6943)<BR> § Naphtali = \"wrestling\"<br> the territory assigned to the tribe of Naphtali",
+                  "raw": "H5321\tH5321H = a Part of\tH6943G\tנַפְתָּלִי\tnaph.ta.li\tN:N-M-P\t(Kedesh)-naphtali\t<BR>Combined with <i>qe.desh</i> (קֶ֫דֶשׁ \"Kedesh\" H6943)<BR> § Naphtali = \"wrestling\"<br> the territory assigned to the tribe of Naphtali"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H5321G=נַפְתָּלִי=Naphtali»Naphtali@Gen.30.8-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L וְ/נַפְתָּלִֽי\\׃ ve./naf.ta.Li and/ Naphtali H9002/{H5321G}\\H9016 HC/Npm H5321G H9002=ו=and/{H5321G=נַפְתָּלִי=Naphtali»Naphtali@Gen.30.8-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 14,
           "text": "And the Levites shall declare, and they shall say to each man of Israel with a loud voice,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "רָֽם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "Ram",
+                "wordIndex": 3
+              },
+              {
+                "text": "high",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7311A}\\H9016\\",
+                "wordIndex": 5
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HVqrmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7311A",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H7311A=רוּם=to",
+                "wordIndex": 9
+              },
+              {
+                "text": "exalt}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L רָֽם\\׃\\ \\ס Ram high {H7311A}\\H9016\\ \\H9018 HVqrmsa H7311A {H7311A=רוּם=to exalt}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 15,
           "text": "‘Cursed be the man that makes a divine image or a cast image, which is a detestable thing for Yahweh, the work of the hand of a skilled craftsman, and then sets it in a hiding place.’ And all the people shall respond, ‘Amen.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 16,
           "text": "‘Cursed be the one who dishonors his father or his mother.’ And all of the people shall say, ‘Amen.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 17,
           "text": "‘Cursed be the one who moves the boundary marker of his neighbor.’ And all the people shall say, ‘Amen.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 18,
           "text": "‘Cursed be the one who misleads a blind person on the road.’ And all the people shall say, ‘Amen.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 19,
           "text": "‘Cursed be the one who deprives the alien, the orphan, and the widow of justice.’ And all the people shall say, ‘Amen.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 20,
           "text": "‘Cursed be the one who lies with the wife of his father, because he has dishonored his father’s bed.’ And all the people shall say, ‘Amen.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 21,
           "text": "‘Cursed be the one who lies with any kind of animal.’ And all the people shall say, ‘Amen.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 22,
           "text": "‘Cursed be the one who lies with his sister, the daughter of his father or the daughter of his mother.’ And all the people shall say, ‘Amen.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 23,
           "text": "‘Cursed be the one who lies with his mother-in-law.’ And all the people shall say, ‘Amen.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 24,
           "text": "‘Cursed be the one who strikes down his neighbor in secret.’ And all the people shall say, ‘Amen.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 25,
           "text": "‘Cursed be the one who takes a bribe to murder an innocent person.’ And all the people shall say, ‘Amen.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 26,
           "text": "‘Cursed be the one who does not keep the words of this law, to observe them.’ And all the people shall say, ‘Amen.’”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L אָמֵֽן\\׃\\ \\פ 'a.Men amen {H0543}\\H9016\\ \\H9017 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 28,
           "verse": 1,
           "text": "“And it will happen that if you indeed listen to the voice of Yahweh your God, to diligently observe all his commandments that I am commanding you today, then Yahweh your God will set you above all the nations of the earth.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#24=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אָֽרֶץ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'A.retz",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "earth",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0776G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#24=L הָ/אָֽרֶץ\\׃ ha./'A.retz the/ earth H9009/{H0776G}\\H9016 HTd/Ncfsa H0776G H9009=ה=the/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 2,
           "text": "And all of these blessings shall come upon you, and they shall have an effect on you if you listen to the voice of Yahweh your God:",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֱלֹהֶֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.lo.Hei./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "God/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0430G}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0430G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L אֱלֹהֶֽי/ךָ\\׃ 'e.lo.Hei./kha God/ your {H0430G}/H9021\\H9016 HNcmpc/Sp2ms H0430G {H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 3,
           "text": "“You will be blessed in the city, and you will be blessed in the field.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בַּ/שָּׂדֶֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba./sa.Deh",
+                "wordIndex": 2
+              },
+              {
+                "text": "in",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "open",
+                "wordIndex": 5
+              },
+              {
+                "text": "country",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9003/{H7704G}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Ncmsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H7704G",
+                "wordIndex": 9
+              },
+              {
+                "text": "H9003=ב=in/{H7704G=שָׂדֶה=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L בַּ/שָּׂדֶֽה\\׃ ba./sa.Deh in the/ open country H9003/{H7704G}\\H9016 HRd/Ncmsa H7704G H9003=ב=in/{H7704G=שָׂדֶה=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 4,
           "text": "“Blessed will be the fruit of your womb and the fruit of your ground and the fruit of your livestock, the calf of your cattle and the lambs of your flock.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צֹאנֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tzo.Ne./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "sheep/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6629G}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H6629",
+                  "lemma": "צֹאן",
+                  "translit": "tson",
+                  "morph": "H:N-F",
+                  "gloss": "Sheep (Gate) This name means  sheep and goats<BR>Also named: <i>probatikos</i> (προβατικός \"Sheep Gate\" G4262)",
+                  "raw": "H6629\tH6629H =\tH6629H\tצֹאן\ttson\tH:N-F\tSheep (Gate)\tThis name means  sheep and goats<BR>Also named: <i>probatikos</i> (προβατικός \"Sheep Gate\" G4262)"
+                }
+              },
+              {
+                "text": "HNcbsc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6629G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6629",
+                  "lemma": "צֹאן",
+                  "translit": "tson",
+                  "morph": "H:N-F",
+                  "gloss": "Sheep (Gate) This name means  sheep and goats<BR>Also named: <i>probatikos</i> (προβατικός \"Sheep Gate\" G4262)",
+                  "raw": "H6629\tH6629H =\tH6629H\tצֹאן\ttson\tH:N-F\tSheep (Gate)\tThis name means  sheep and goats<BR>Also named: <i>probatikos</i> (προβατικός \"Sheep Gate\" G4262)"
+                }
+              },
+              {
+                "text": "{H6629G=צֹאן=flock}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6629",
+                  "lemma": "צֹאן",
+                  "translit": "tson",
+                  "morph": "H:N-F",
+                  "gloss": "Sheep (Gate) This name means  sheep and goats<BR>Also named: <i>probatikos</i> (προβατικός \"Sheep Gate\" G4262)",
+                  "raw": "H6629\tH6629H =\tH6629H\tצֹאן\ttson\tH:N-F\tSheep (Gate)\tThis name means  sheep and goats<BR>Also named: <i>probatikos</i> (προβατικός \"Sheep Gate\" G4262)"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L צֹאנֶֽ/ךָ\\׃ tzo.Ne./kha sheep/ your {H6629G}/H9021\\H9016 HNcbsc/Sp2ms H6629G {H6629G=צֹאן=flock}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 5,
           "text": "“Blessed will be your basket and your kneading trough.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#03=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/מִשְׁאַרְתֶּֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./mish.'ar.Te./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "kneading",
+                "wordIndex": 4
+              },
+              {
+                "text": "trough/",
+                "wordIndex": 5
+              },
+              {
+                "text": "your",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/{H4863}/H9021\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Ncfsc/Sp2ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H4863",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4863",
+                  "lemma": "מִשְׁאֶ֫רֶת",
+                  "translit": "mish.e.ret",
+                  "morph": "H:N-F",
+                  "gloss": "kneading kneading trough or bowl",
+                  "raw": "H4863\tH4863 =\tH4863\tמִשְׁאֶ֫רֶת\tmish.e.ret\tH:N-F\tkneading\tkneading trough or bowl"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H4863=מִשְׁאֶ֫רֶת=kneading}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#03=L וּ/מִשְׁאַרְתֶּֽ/ךָ\\׃ u./mish.'ar.Te./kha and/ kneading trough/ your H9002/{H4863}/H9021\\H9016 HC/Ncfsc/Sp2ms H4863 H9002=ו=and/{H4863=מִשְׁאֶ֫רֶת=kneading}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 6,
           "text": "“Blessed will you be when you come in and blessed will you be when you go out.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/צֵאתֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./tze.Te./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "when/",
+                "wordIndex": 3
+              },
+              {
+                "text": "going",
+                "wordIndex": 4
+              },
+              {
+                "text": "out/",
+                "wordIndex": 5
+              },
+              {
+                "text": "you",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9003/{H3318G}/H9041\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Vqcc/Sp2ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H3318G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3318",
+                  "lemma": "יָצָא",
+                  "translit": "ya.tsa",
+                  "morph": "H:V",
+                  "gloss": "to come out: surrender : surrender/failed(heart)<br>1) to go out, come out, exit, go forth<br>1a) (Qal)<br>1a1) to go or come out or forth, depart<br>1a2) to go forth (to a place)<br>1a3) to go forward, proceed to (to or toward something)<br>1a4) to come or go forth (with purpose or for result)<br>1a5) to come out of<br>1b) (Hiphil)<br>1b1) to cause to go or come out, bring out, lead out<br>1b2) to bring out of<br>1b3) to lead out<br>1b4) to deliver<br>1c) (Hophal) to be brought out or forth",
+                  "raw": "H3318\tH3318P = a Meaning of\tH3318G\tיָצָא\tya.tsa\tH:V\tto come out: surrender\t: surrender/failed(heart)<br>1) to go out, come out, exit, go forth<br>1a) (Qal)<br>1a1) to go or come out or forth, depart<br>1a2) to go forth (to a place)<br>1a3) to go forward, proceed to (to or toward something)<br>1a4) to come or go forth (with purpose or for result)<br>1a5) to come out of<br>1b) (Hiphil)<br>1b1) to cause to go or come out, bring out, lead out<br>1b2) to bring out of<br>1b3) to lead out<br>1b4) to deliver<br>1c) (Hophal) to be brought out or forth"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H3318G=יָצָא=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "come»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "come",
+                "wordIndex": 12
+              },
+              {
+                "text": "out:1_come;_go_out;_escape}/H9041=Ss2m=you\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9041",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ss2m",
+                  "gloss": "you Personal subject pronoun -  suffix for some adverbs and infinitives:  2nd person masculine singular",
+                  "raw": "H9041\tH9041 =\tH9041\tךָ\tkha\tSs2m\tyou\tPersonal subject pronoun -  suffix for some adverbs and infinitives:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L בְּ/צֵאתֶֽ/ךָ\\׃ be./tze.Te./kha when/ going out/ you H9003/{H3318G}/H9041\\H9016 HR/Vqcc/Sp2ms H3318G H9003=ב=in/{H3318G=יָצָא=: come»to come out:1_come;_go_out;_escape}/H9041=Ss2m=you\\H9016=׃=verseEnd"
+          }
         }
       ],
       "nirv": [
@@ -141,133 +1943,1935 @@
           "chapter": 27,
           "verse": 11,
           "text": "Here are the commands I gave the people that very day.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L לֵ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 12,
           "text": "You will go across the Jordan River. When you do, I want six tribes to stand on Mount Gerizim to bless the people. Those tribes are Simeon, Levi, Judah, Issachar, Joseph and Benjamin.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/בִנְיָמִֽן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./vin.ya.Min",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Benjamin",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9002/{H1144G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Npm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1144G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1144",
+                  "lemma": "בִּנְיָמִין",
+                  "translit": "bin.ya.min",
+                  "morph": "N:N-M-P",
+                  "gloss": "(Gate of) Benjamin <BR> § Benjamin = \"son of the right hand\"<br> a gate in Jerusalem",
+                  "raw": "H1144\tH1144M =\tH1144M\tבִּנְיָמִין\tbin.ya.min\tN:N-M-P\t(Gate of) Benjamin\t<BR> § Benjamin = \"son of the right hand\"<br> a gate in Jerusalem"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H1144G=בִּנְיָמִין=Benjamin»Benjamin@Gen.35.18-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L וּ/בִנְיָמִֽן\\׃ u./vin.ya.Min and/ Benjamin H9002/{H1144G}\\H9016 HC/Npm H1144G H9002=ו=and/{H1144G=בִּנְיָמִין=Benjamin»Benjamin@Gen.35.18-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 13,
           "text": "I want the other six tribes to stand on Mount Ebal to announce some curses. Those tribes are Reuben, Gad, Asher, Zebulun, Dan and Naphtali.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/נַפְתָּלִֽי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./naf.ta.Li",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Naphtali",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9002/{H5321G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Npm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5321G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5321",
+                  "lemma": "נַפְתָּלִי",
+                  "translit": "naph.ta.li",
+                  "morph": "N:N-M-P",
+                  "gloss": "(Kedesh)-naphtali <BR>Combined with <i>qe.desh</i> (קֶ֫דֶשׁ \"Kedesh\" H6943)<BR> § Naphtali = \"wrestling\"<br> the territory assigned to the tribe of Naphtali",
+                  "raw": "H5321\tH5321H = a Part of\tH6943G\tנַפְתָּלִי\tnaph.ta.li\tN:N-M-P\t(Kedesh)-naphtali\t<BR>Combined with <i>qe.desh</i> (קֶ֫דֶשׁ \"Kedesh\" H6943)<BR> § Naphtali = \"wrestling\"<br> the territory assigned to the tribe of Naphtali"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H5321G=נַפְתָּלִי=Naphtali»Naphtali@Gen.30.8-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L וְ/נַפְתָּלִֽי\\׃ ve./naf.ta.Li and/ Naphtali H9002/{H5321G}\\H9016 HC/Npm H5321G H9002=ו=and/{H5321G=נַפְתָּלִי=Naphtali»Naphtali@Gen.30.8-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 27,
           "verse": 14,
           "text": "The Levites will speak to all of the people of Israel in a loud voice. They will say,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "רָֽם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "Ram",
+                "wordIndex": 3
+              },
+              {
+                "text": "high",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7311A}\\H9016\\",
+                "wordIndex": 5
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HVqrmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7311A",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H7311A=רוּם=to",
+                "wordIndex": 9
+              },
+              {
+                "text": "exalt}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L רָֽם\\׃\\ \\ס Ram high {H7311A}\\H9016\\ \\H9018 HVqrmsa H7311A {H7311A=רוּם=to exalt}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 15,
           "text": "“May any man who makes a wooden or metal statue of a god and sets it up in secret be under the Lord’s curse. That statue is made by a skilled worker. And the Lord hates it.”\nThen all of the people will say, “Amen!”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 16,
           "text": "Then all of the people will say, “Amen!”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 17,
           "text": "Then all of the people will say, “Amen!”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 18,
           "text": "Then all of the people will say, “Amen!”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 19,
           "text": "“May anyone who isn’t fair in the way he treats outsiders, widows, and children whose fathers have died be under the Lord’s curse.”\nThen all of the people will say, “Amen!”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 20,
           "text": "“May any man who has sex with his stepmother be under the Lord’s curse. That man brings shame on his father by doing that.”\nThen all of the people will say, “Amen!”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 21,
           "text": "Then all of the people will say, “Amen!”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 22,
           "text": "“May any man who has sex with his sister be under the Lord’s curse. It doesn’t matter whether she is his full sister or his half sister.”\nThen all of the people will say, “Amen!”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 23,
           "text": "Then all of the people will say, “Amen!”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 24,
           "text": "Then all of the people will say, “Amen!”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 25,
           "text": "Then all of the people will say, “Amen!”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L אָמֵֽן\\׃\\ \\ס 'a.Men amen {H0543}\\H9016\\ \\H9018 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 27,
           "verse": 26,
           "text": "Then all of the people will say, “Amen!”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָמֵֽן\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Men",
+                "wordIndex": 3
+              },
+              {
+                "text": "amen",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0543}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HTj",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0543",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "{H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0543",
+                  "lemma": "אָמֵן",
+                  "translit": "a.men",
+                  "morph": "H:Adv",
+                  "gloss": "amen verily, truly, amen, so be it",
+                  "raw": "H0543\tH0543 =\tH0543\tאָמֵן\ta.men\tH:Adv\tamen\tverily, truly, amen, so be it"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L אָמֵֽן\\׃\\ \\פ 'a.Men amen {H0543}\\H9016\\ \\H9017 HTj H0543 {H0543=אָמֵן=amen}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 28,
           "verse": 1,
           "text": "Make sure you obey the Lord your God completely. Be careful to follow all of his commands. I’m giving them to you today. If you do those things, the Lord will honor you more than all of the other nations on earth.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#24=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אָֽרֶץ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'A.retz",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "earth",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0776G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#24=L הָ/אָֽרֶץ\\׃ ha./'A.retz the/ earth H9009/{H0776G}\\H9016 HTd/Ncfsa H0776G H9009=ה=the/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 2,
           "text": "If you obey the Lord your God, here are the blessings that will come to you and remain with you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֱלֹהֶֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.lo.Hei./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "God/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0430G}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0430G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L אֱלֹהֶֽי/ךָ\\׃ 'e.lo.Hei./kha God/ your {H0430G}/H9021\\H9016 HNcmpc/Sp2ms H0430G {H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 3,
           "text": "You will be blessed in the cities. You will be blessed out in the country.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בַּ/שָּׂדֶֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba./sa.Deh",
+                "wordIndex": 2
+              },
+              {
+                "text": "in",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "open",
+                "wordIndex": 5
+              },
+              {
+                "text": "country",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9003/{H7704G}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Ncmsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H7704G",
+                "wordIndex": 9
+              },
+              {
+                "text": "H9003=ב=in/{H7704G=שָׂדֶה=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L בַּ/שָּׂדֶֽה\\׃ ba./sa.Deh in the/ open country H9003/{H7704G}\\H9016 HRd/Ncmsa H7704G H9003=ב=in/{H7704G=שָׂדֶה=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 4,
           "text": "Your children will be blessed. Your crops will be blessed. The young animals among your livestock will be blessed. That includes your calves and lambs.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צֹאנֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tzo.Ne./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "sheep/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6629G}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H6629",
+                  "lemma": "צֹאן",
+                  "translit": "tson",
+                  "morph": "H:N-F",
+                  "gloss": "Sheep (Gate) This name means  sheep and goats<BR>Also named: <i>probatikos</i> (προβατικός \"Sheep Gate\" G4262)",
+                  "raw": "H6629\tH6629H =\tH6629H\tצֹאן\ttson\tH:N-F\tSheep (Gate)\tThis name means  sheep and goats<BR>Also named: <i>probatikos</i> (προβατικός \"Sheep Gate\" G4262)"
+                }
+              },
+              {
+                "text": "HNcbsc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6629G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6629",
+                  "lemma": "צֹאן",
+                  "translit": "tson",
+                  "morph": "H:N-F",
+                  "gloss": "Sheep (Gate) This name means  sheep and goats<BR>Also named: <i>probatikos</i> (προβατικός \"Sheep Gate\" G4262)",
+                  "raw": "H6629\tH6629H =\tH6629H\tצֹאן\ttson\tH:N-F\tSheep (Gate)\tThis name means  sheep and goats<BR>Also named: <i>probatikos</i> (προβατικός \"Sheep Gate\" G4262)"
+                }
+              },
+              {
+                "text": "{H6629G=צֹאן=flock}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6629",
+                  "lemma": "צֹאן",
+                  "translit": "tson",
+                  "morph": "H:N-F",
+                  "gloss": "Sheep (Gate) This name means  sheep and goats<BR>Also named: <i>probatikos</i> (προβατικός \"Sheep Gate\" G4262)",
+                  "raw": "H6629\tH6629H =\tH6629H\tצֹאן\ttson\tH:N-F\tSheep (Gate)\tThis name means  sheep and goats<BR>Also named: <i>probatikos</i> (προβατικός \"Sheep Gate\" G4262)"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L צֹאנֶֽ/ךָ\\׃ tzo.Ne./kha sheep/ your {H6629G}/H9021\\H9016 HNcbsc/Sp2ms H6629G {H6629G=צֹאן=flock}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 5,
           "text": "Your baskets and bread pans will be blessed.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#03=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/מִשְׁאַרְתֶּֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./mish.'ar.Te./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "kneading",
+                "wordIndex": 4
+              },
+              {
+                "text": "trough/",
+                "wordIndex": 5
+              },
+              {
+                "text": "your",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/{H4863}/H9021\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Ncfsc/Sp2ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H4863",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4863",
+                  "lemma": "מִשְׁאֶ֫רֶת",
+                  "translit": "mish.e.ret",
+                  "morph": "H:N-F",
+                  "gloss": "kneading kneading trough or bowl",
+                  "raw": "H4863\tH4863 =\tH4863\tמִשְׁאֶ֫רֶת\tmish.e.ret\tH:N-F\tkneading\tkneading trough or bowl"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H4863=מִשְׁאֶ֫רֶת=kneading}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#03=L וּ/מִשְׁאַרְתֶּֽ/ךָ\\׃ u./mish.'ar.Te./kha and/ kneading trough/ your H9002/{H4863}/H9021\\H9016 HC/Ncfsc/Sp2ms H4863 H9002=ו=and/{H4863=מִשְׁאֶ֫רֶת=kneading}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 6,
           "text": "You will be blessed no matter where you go.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/צֵאתֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./tze.Te./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "when/",
+                "wordIndex": 3
+              },
+              {
+                "text": "going",
+                "wordIndex": 4
+              },
+              {
+                "text": "out/",
+                "wordIndex": 5
+              },
+              {
+                "text": "you",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9003/{H3318G}/H9041\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Vqcc/Sp2ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H3318G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3318",
+                  "lemma": "יָצָא",
+                  "translit": "ya.tsa",
+                  "morph": "H:V",
+                  "gloss": "to come out: surrender : surrender/failed(heart)<br>1) to go out, come out, exit, go forth<br>1a) (Qal)<br>1a1) to go or come out or forth, depart<br>1a2) to go forth (to a place)<br>1a3) to go forward, proceed to (to or toward something)<br>1a4) to come or go forth (with purpose or for result)<br>1a5) to come out of<br>1b) (Hiphil)<br>1b1) to cause to go or come out, bring out, lead out<br>1b2) to bring out of<br>1b3) to lead out<br>1b4) to deliver<br>1c) (Hophal) to be brought out or forth",
+                  "raw": "H3318\tH3318P = a Meaning of\tH3318G\tיָצָא\tya.tsa\tH:V\tto come out: surrender\t: surrender/failed(heart)<br>1) to go out, come out, exit, go forth<br>1a) (Qal)<br>1a1) to go or come out or forth, depart<br>1a2) to go forth (to a place)<br>1a3) to go forward, proceed to (to or toward something)<br>1a4) to come or go forth (with purpose or for result)<br>1a5) to come out of<br>1b) (Hiphil)<br>1b1) to cause to go or come out, bring out, lead out<br>1b2) to bring out of<br>1b3) to lead out<br>1b4) to deliver<br>1c) (Hophal) to be brought out or forth"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H3318G=יָצָא=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "come»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "come",
+                "wordIndex": 12
+              },
+              {
+                "text": "out:1_come;_go_out;_escape}/H9041=Ss2m=you\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9041",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ss2m",
+                  "gloss": "you Personal subject pronoun -  suffix for some adverbs and infinitives:  2nd person masculine singular",
+                  "raw": "H9041\tH9041 =\tH9041\tךָ\tkha\tSs2m\tyou\tPersonal subject pronoun -  suffix for some adverbs and infinitives:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L בְּ/צֵאתֶֽ/ךָ\\׃ be./tze.Te./kha when/ going out/ you H9003/{H3318G}/H9041\\H9016 HR/Vqcc/Sp2ms H3318G H9003=ב=in/{H3318G=יָצָא=: come»to come out:1_come;_go_out;_escape}/H9041=Ss2m=you\\H9016=׃=verseEnd"
+          }
         }
       ]
     }

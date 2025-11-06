@@ -7,109 +7,1683 @@
           "chapter": 5,
           "verse": 19,
           "text": "‘And you shall not steal.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#02=L(p)",
+                "wordIndex": 0
+              },
+              {
+                "text": "תִּֿגְנֹֽ֔ב\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "tge.No",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "must",
+                "wordIndex": 5
+              },
+              {
+                "text": "steal",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H1589}\\H9016\\",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1589",
+                  "lemma": "גָּנַב",
+                  "translit": "ga.nav",
+                  "morph": "H:V",
+                  "gloss": "to steal 1) to steal, steal away, carry away<br>1a) (Qal) to steal<br>1b) (Niphal) to be stolen<br>1c) (Piel) to steal away<br>1d)(Pual) to be stolen away, be brought by stealth<br>1e) (Hithpael) to go by stealth, steal away",
+                  "raw": "H1589\tH1589 =\tH1589\tגָּנַב\tga.nav\tH:V\tto steal\t1) to steal, steal away, carry away<br>1a) (Qal) to steal<br>1b) (Niphal) to be stolen<br>1c) (Piel) to steal away<br>1d)(Pual) to be stolen away, be brought by stealth<br>1e) (Hithpael) to go by stealth, steal away"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HVqi2ms",
+                "wordIndex": 9
+              },
+              {
+                "text": "P=",
+                "wordIndex": 10
+              },
+              {
+                "text": "תִֿגְנֹ֔ב\\׃\\",
+                "wordIndex": 11
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 12
+              },
+              {
+                "text": "H1589",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H1589",
+                  "lemma": "גָּנַב",
+                  "translit": "ga.nav",
+                  "morph": "H:V",
+                  "gloss": "to steal 1) to steal, steal away, carry away<br>1a) (Qal) to steal<br>1b) (Niphal) to be stolen<br>1c) (Piel) to steal away<br>1d)(Pual) to be stolen away, be brought by stealth<br>1e) (Hithpael) to go by stealth, steal away",
+                  "raw": "H1589\tH1589 =\tH1589\tגָּנַב\tga.nav\tH:V\tto steal\t1) to steal, steal away, carry away<br>1a) (Qal) to steal<br>1b) (Niphal) to be stolen<br>1c) (Piel) to steal away<br>1d)(Pual) to be stolen away, be brought by stealth<br>1e) (Hithpael) to go by stealth, steal away"
+                }
+              },
+              {
+                "text": "{H1589=גָּנַב=to",
+                "wordIndex": 14,
+                "lex": {
+                  "code": "H1589",
+                  "lemma": "גָּנַב",
+                  "translit": "ga.nav",
+                  "morph": "H:V",
+                  "gloss": "to steal 1) to steal, steal away, carry away<br>1a) (Qal) to steal<br>1b) (Niphal) to be stolen<br>1c) (Piel) to steal away<br>1d)(Pual) to be stolen away, be brought by stealth<br>1e) (Hithpael) to go by stealth, steal away",
+                  "raw": "H1589\tH1589 =\tH1589\tגָּנַב\tga.nav\tH:V\tto steal\t1) to steal, steal away, carry away<br>1a) (Qal) to steal<br>1b) (Niphal) to be stolen<br>1c) (Piel) to steal away<br>1d)(Pual) to be stolen away, be brought by stealth<br>1e) (Hithpael) to go by stealth, steal away"
+                }
+              },
+              {
+                "text": "steal}\\H9016=׃=verseEnd\\",
+                "wordIndex": 15,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 16,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#02=L(p) תִּֿגְנֹֽ֔ב\\׃\\ \\ס tge.No you must steal {H1589}\\H9016\\ \\H9018 HVqi2ms P= תִֿגְנֹ֔ב\\׃\\ \\ס H1589 {H1589=גָּנַב=to steal}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 5,
           "verse": 20,
           "text": "‘And you shall not falsely bear evidence against your neighbor.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שָֽׁוְא\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "Shav'",
+                "wordIndex": 3
+              },
+              {
+                "text": "falsehood",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7723G}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H7723",
+                  "lemma": "שָׁוְא",
+                  "translit": "shav",
+                  "morph": "H:N-M",
+                  "gloss": "vanity: vain : vain/empty/worthless<br>1) emptiness, vanity, falsehood<br>1a) emptiness, nothingness, vanity<br>1b) emptiness of speech, lying<br>1c) worthlessness (of conduct)",
+                  "raw": "H7723\tH7723H = a Meaning of\tH7723G\tשָׁוְא\tshav\tH:N-M\tvanity: vain\t: vain/empty/worthless<br>1) emptiness, vanity, falsehood<br>1a) emptiness, nothingness, vanity<br>1b) emptiness of speech, lying<br>1c) worthlessness (of conduct)"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7723G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7723",
+                  "lemma": "שָׁוְא",
+                  "translit": "shav",
+                  "morph": "H:N-M",
+                  "gloss": "vanity: vain : vain/empty/worthless<br>1) emptiness, vanity, falsehood<br>1a) emptiness, nothingness, vanity<br>1b) emptiness of speech, lying<br>1c) worthlessness (of conduct)",
+                  "raw": "H7723\tH7723H = a Meaning of\tH7723G\tשָׁוְא\tshav\tH:N-M\tvanity: vain\t: vain/empty/worthless<br>1) emptiness, vanity, falsehood<br>1a) emptiness, nothingness, vanity<br>1b) emptiness of speech, lying<br>1c) worthlessness (of conduct)"
+                }
+              },
+              {
+                "text": "{H7723G=שָׁוְא=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H7723",
+                  "lemma": "שָׁוְא",
+                  "translit": "shav",
+                  "morph": "H:N-M",
+                  "gloss": "vanity: vain : vain/empty/worthless<br>1) emptiness, vanity, falsehood<br>1a) emptiness, nothingness, vanity<br>1b) emptiness of speech, lying<br>1c) worthlessness (of conduct)",
+                  "raw": "H7723\tH7723H = a Meaning of\tH7723G\tשָׁוְא\tshav\tH:N-M\tvanity: vain\t: vain/empty/worthless<br>1) emptiness, vanity, falsehood<br>1a) emptiness, nothingness, vanity<br>1b) emptiness of speech, lying<br>1c) worthlessness (of conduct)"
+                }
+              },
+              {
+                "text": "false»vanity:1_false}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L שָֽׁוְא\\׃\\ \\ס Shav' falsehood {H7723G}\\H9016\\ \\H9018 HNcmsa H7723G {H7723G=שָׁוְא=: false»vanity:1_false}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 5,
           "verse": 21,
           "text": "‘And you shall not covet the wife of your neighbor, and you shall not crave the house of your neighbor, his field or his slave or his slave woman or his ox and his donkey or anything that belongs to your neighbor.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/רֵעֶֽ/ךָ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "le./re.'E./kha",
+                "wordIndex": 3
+              },
+              {
+                "text": "[belongs]",
+                "wordIndex": 4
+              },
+              {
+                "text": "to/",
+                "wordIndex": 5
+              },
+              {
+                "text": "neighbor/",
+                "wordIndex": 6
+              },
+              {
+                "text": "your",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9005/{H7453}/H9021\\H9016\\",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp2ms",
+                "wordIndex": 10
+              },
+              {
+                "text": "H7453_C",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H7453",
+                  "lemma": "רֵעַ",
+                  "translit": "re.a",
+                  "morph": "H:N-M",
+                  "gloss": "neighbor 1) friend, companion, fellow, another person<br>1a) friend, intimate<br>1b) fellow, fellow-citizen, another person (weaker sense)<br>1c) other, another (reciprocal phrase)",
+                  "raw": "H7453\tH7453 =\tH7453\tרֵעַ\tre.a\tH:N-M\tneighbor\t1) friend, companion, fellow, another person<br>1a) friend, intimate<br>1b) fellow, fellow-citizen, another person (weaker sense)<br>1c) other, another (reciprocal phrase)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H7453=רֵעַ=neighbor}/H9021=Ps2m=your\\H9016=׃=verseEnd\\",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L לְ/רֵעֶֽ/ךָ\\׃\\ \\ס le./re.'E./kha [belongs] to/ neighbor/ your H9005/{H7453}/H9021\\H9016\\ \\H9018 HR/Ncmsc/Sp2ms H7453_C H9005=ל=to/{H7453=רֵעַ=neighbor}/H9021=Ps2m=your\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 5,
           "verse": 22,
           "text": "“These words Yahweh spoke to your whole assembly at the mountain from the midst of the fire and the very thick cloud with a loud voice, and he did not add anything, and then he wrote them on two tablets of stone and gave them to me.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#24=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֵלָֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.La/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "me",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0413}/H9030\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0413",
+                  "lemma": "אֶל",
+                  "translit": "el",
+                  "morph": "H:Prep",
+                  "gloss": "to(wards) 1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)",
+                  "raw": "H0413\tH0413 =\tH0413\tאֶל\tel\tH:Prep\tto(wards)\t1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)"
+                }
+              },
+              {
+                "text": "HR/Sp1bs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0413_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0413",
+                  "lemma": "אֶל",
+                  "translit": "el",
+                  "morph": "H:Prep",
+                  "gloss": "to(wards) 1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)",
+                  "raw": "H0413\tH0413 =\tH0413\tאֶל\tel\tH:Prep\tto(wards)\t1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)"
+                }
+              },
+              {
+                "text": "{H0413=אֶל=to(wards)}/H9030=Os1c=me\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0413",
+                  "lemma": "אֶל",
+                  "translit": "el",
+                  "morph": "H:Prep",
+                  "gloss": "to(wards) 1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)",
+                  "raw": "H0413\tH0413 =\tH0413\tאֶל\tel\tH:Prep\tto(wards)\t1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)"
+                }
+              }
+            ],
+            "originalVerseText": "#24=L אֵלָֽ/י\\׃ 'e.La/i to/ me {H0413}/H9030\\H9016 HR/Sp1bs H0413_B {H0413=אֶל=to(wards)}/H9030=Os1c=me\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 23,
           "text": "And then when you heard the voice from the midst of the darkness, and as the mountain was burning with fire, and and all the heads of your tribes and your elders approached me,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/זִקְנֵי/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./zik.nei./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "elders/",
+                "wordIndex": 4
+              },
+              {
+                "text": "your",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9002/{H2205G}/H9026\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Aampc/Sp2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H2205G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H2205",
+                  "lemma": "זָקֵן",
+                  "translit": "za.qen",
+                  "morph": "H:A",
+                  "gloss": "old : old<br>1) old<br>1a) old (of humans)<br>1b) elder (of those having authority)<BR>Also means: <i>za.qen</i> (זָקֵן \": elder\" H2205)",
+                  "raw": "H2205\tH2205H =\tH2205H\tזָקֵן\tza.qen\tH:A\told\t: old<br>1) old<br>1a) old (of humans)<br>1b) elder (of those having authority)<BR>Also means: <i>za.qen</i> (זָקֵן \": elder\" H2205)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H2205G=זָקֵן=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "elder»old:2_elder;_leader}/H9026=Pp2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9026",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Pp2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural",
+                  "raw": "H9026\tH9026 =\tH9026\tכֶם\tkhem\tPp2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L וְ/זִקְנֵי/כֶֽם\\׃ ve./zik.nei./Khem and/ elders/ your H9002/{H2205G}/H9026\\H9016 HC/Aampc/Sp2mp H2205G H9002=ו=and/{H2205G=זָקֵן=: elder»old:2_elder;_leader}/H9026=Pp2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 24,
           "text": "you said, ‘Look, Yahweh our God has shown us his glory and his greatness, and we have heard his voice from the midst of the fire; this day we have seen that God can speak with a human being, yet he remains alive.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וָ/חָֽי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./Chai",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "he",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "live",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H2421}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqq3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2421",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2421",
+                  "lemma": "חָיָה",
+                  "translit": "cha.yah",
+                  "morph": "H:V",
+                  "gloss": "to live 1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life",
+                  "raw": "H2421\tH2421 =\tH2421\tחָיָה\tcha.yah\tH:V\tto live\t1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H2421=חָיָה=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "live}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#23=L וָ/חָֽי\\׃ va./Chai and/ he will live H9001/{H2421}\\H9016 Hc/Vqq3ms H2421 H9001=ו=&/{H2421=חָיָה=to live}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 25,
           "text": "And so then why shall we die, for this great fire will consume us if we continue to hear the voice of Yahweh our God any longer, and so we shall die?",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וָ/מָֽתְנוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./Ma.te.nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "we",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "die",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H4191}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqq1cp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H4191_B",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4191",
+                  "lemma": "מוּת",
+                  "translit": "mut",
+                  "morph": "H:V",
+                  "gloss": "to die 1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely",
+                  "raw": "H4191\tH4191 =\tH4191\tמוּת\tmut\tH:V\tto die\t1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H4191=מוּת=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "die}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L וָ/מָֽתְנוּ\\׃ va./Ma.te.nu and/ we will die H9001/{H4191}\\H9016 Hc/Vqq1cp H4191_B H9001=ו=&/{H4191=מוּת=to die}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 26,
           "text": "For who is there of all flesh who has heard the voice of the living God speaking from the midst of the fire as we have heard it and remained alive?",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/יֶּֽחִי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va/i.Ye.chi",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "he",
+                "wordIndex": 4
+              },
+              {
+                "text": "has",
+                "wordIndex": 5
+              },
+              {
+                "text": "lived",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H2421}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqw3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2421",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2421",
+                  "lemma": "חָיָה",
+                  "translit": "cha.yah",
+                  "morph": "H:V",
+                  "gloss": "to live 1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life",
+                  "raw": "H2421\tH2421 =\tH2421\tחָיָה\tcha.yah\tH:V\tto live\t1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H2421=חָיָה=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "live}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L וַ/יֶּֽחִי\\׃ va/i.Ye.chi and/ he has lived H9001/{H2421}\\H9016 Hc/Vqw3ms H2421 H9001=ו=&/{H2421=חָיָה=to live}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 27,
           "text": "You go near and hear everything that Yahweh our God will say; and then you tell us all that Yahweh our God tells you, and we will listen, and we will do it.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/עָשִֽׂינוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./'a.Si.nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "we",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "do",
+                "wordIndex": 6
+              },
+              {
+                "text": "[it]",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9001/{H6213A}\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqq1cp",
+                "wordIndex": 9
+              },
+              {
+                "text": "H6213A",
+                "wordIndex": 10
+              },
+              {
+                "text": "H9001=ו=&/{H6213A=עָשָׂה=:",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "do»to",
+                "wordIndex": 12
+              },
+              {
+                "text": "make:2_do;_perform}\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L וְ/עָשִֽׂינוּ\\׃ ve./'a.Si.nu and/ we will do [it] H9001/{H6213A}\\H9016 Hc/Vqq1cp H6213A H9001=ו=&/{H6213A=עָשָׂה=: do»to make:2_do;_perform}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 28,
           "text": "“And Yahweh heard the sound of your words when you spoke to me, and Yahweh said to me, ‘I have heard the sound of the words of this people that they have spoken to you; they are right with respect to all that they have spoken.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "דִּבֵּֽרוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "di.Be.ru",
+                "wordIndex": 2
+              },
+              {
+                "text": "they",
+                "wordIndex": 3
+              },
+              {
+                "text": "have",
+                "wordIndex": 4
+              },
+              {
+                "text": "spoken",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H1696G}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1696",
+                  "lemma": "דָבַר",
+                  "translit": "da.var",
+                  "morph": "H:V",
+                  "gloss": "to speak: promise : promise/declare<br>1) to speak, declare, converse, command, promise, warn, threaten, sing<br>1a) (Qal) to speak<br>1b) (Niphal) to speak with one another, talk<br>1c) (Piel)<br>1c1) to speak<br>1c2) to promise<br>1d) (Pual) to be spoken<br>1e) (Hithpael) to speak<br>1f) (Hiphil) to lead away, put to flight",
+                  "raw": "H1696\tH1696I = a Meaning of\tH1696G\tדָבַר\tda.var\tH:V\tto speak: promise\t: promise/declare<br>1) to speak, declare, converse, command, promise, warn, threaten, sing<br>1a) (Qal) to speak<br>1b) (Niphal) to speak with one another, talk<br>1c) (Piel)<br>1c1) to speak<br>1c2) to promise<br>1d) (Pual) to be spoken<br>1e) (Hithpael) to speak<br>1f) (Hiphil) to lead away, put to flight "
+                }
+              },
+              {
+                "text": "HVpp3cp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1696G_C",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1696",
+                  "lemma": "דָבַר",
+                  "translit": "da.var",
+                  "morph": "H:V",
+                  "gloss": "to speak: promise : promise/declare<br>1) to speak, declare, converse, command, promise, warn, threaten, sing<br>1a) (Qal) to speak<br>1b) (Niphal) to speak with one another, talk<br>1c) (Piel)<br>1c1) to speak<br>1c2) to promise<br>1d) (Pual) to be spoken<br>1e) (Hithpael) to speak<br>1f) (Hiphil) to lead away, put to flight",
+                  "raw": "H1696\tH1696I = a Meaning of\tH1696G\tדָבַר\tda.var\tH:V\tto speak: promise\t: promise/declare<br>1) to speak, declare, converse, command, promise, warn, threaten, sing<br>1a) (Qal) to speak<br>1b) (Niphal) to speak with one another, talk<br>1c) (Piel)<br>1c1) to speak<br>1c2) to promise<br>1d) (Pual) to be spoken<br>1e) (Hithpael) to speak<br>1f) (Hiphil) to lead away, put to flight "
+                }
+              },
+              {
+                "text": "{H1696G=דָבַר=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H1696",
+                  "lemma": "דָבַר",
+                  "translit": "da.var",
+                  "morph": "H:V",
+                  "gloss": "to speak: promise : promise/declare<br>1) to speak, declare, converse, command, promise, warn, threaten, sing<br>1a) (Qal) to speak<br>1b) (Niphal) to speak with one another, talk<br>1c) (Piel)<br>1c1) to speak<br>1c2) to promise<br>1d) (Pual) to be spoken<br>1e) (Hithpael) to speak<br>1f) (Hiphil) to lead away, put to flight",
+                  "raw": "H1696\tH1696I = a Meaning of\tH1696G\tדָבַר\tda.var\tH:V\tto speak: promise\t: promise/declare<br>1) to speak, declare, converse, command, promise, warn, threaten, sing<br>1a) (Qal) to speak<br>1b) (Niphal) to speak with one another, talk<br>1c) (Piel)<br>1c1) to speak<br>1c2) to promise<br>1d) (Pual) to be spoken<br>1e) (Hithpael) to speak<br>1f) (Hiphil) to lead away, put to flight "
+                }
+              },
+              {
+                "text": "speak»to",
+                "wordIndex": 10
+              },
+              {
+                "text": "speak:1_speak;_tell;_command}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#23=L דִּבֵּֽרוּ\\׃ di.Be.ru they have spoken {H1696G}\\H9016 HVpp3cp H1696G_C {H1696G=דָבַר=: speak»to speak:1_speak;_tell;_command}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 29,
           "text": "If only they had such a mind’; that is, to fear me and to keep all my commandments at all times, so that it will go well for them and for their children forever.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/עֹלָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./'o.Lam",
+                "wordIndex": 2
+              },
+              {
+                "text": "for/",
+                "wordIndex": 3
+              },
+              {
+                "text": "ever",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H5769G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5769G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H5769G=עוֹלָם=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L לְ/עֹלָֽם\\׃ le./'o.Lam for/ ever H9005/{H5769G}\\H9016 HR/Ncmsa H5769G H9005=ל=to/{H5769G=עוֹלָם=: enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 30,
           "text": "Go! Say to them, “Return to your tents.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/אָהֳלֵי/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./'o.ho.lei./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "tents/",
+                "wordIndex": 4
+              },
+              {
+                "text": "your",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H0168G}/H9026\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmpc/Sp2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0168G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0168",
+                  "lemma": "אֹ֫הֶל",
+                  "translit": "o.hel",
+                  "morph": "H:N-M",
+                  "gloss": "tent: home : home<br>1) tent<br>1a) nomad's tent, and thus symbolic of wilderness life, transience<br>1b) dwelling, home, habitation<br>1c) the sacred tent of Jehovah (the tabernacle)",
+                  "raw": "H0168\tH0168H = a Meaning of\tH0168G\tאֹ֫הֶל\to.hel\tH:N-M\ttent: home\t: home<br>1) tent<br>1a) nomad's tent, and thus symbolic of wilderness life, transience<br>1b) dwelling, home, habitation<br>1c) the sacred tent of Jehovah (the tabernacle)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0168G=אֹ֫הֶל=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "tent»tent:1_tent}/H9026=Pp2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9026",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Pp2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural",
+                  "raw": "H9026\tH9026 =\tH9026\tכֶם\tkhem\tPp2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L לְ/אָהֳלֵי/כֶֽם\\׃ le./'o.ho.lei./Khem to/ tents/ your H9005/{H0168G}/H9026\\H9016 HR/Ncmpc/Sp2mp H0168G H9005=ל=to/{H0168G=אֹ֫הֶל=: tent»tent:1_tent}/H9026=Pp2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 31,
           "text": "But you stand here with me, and let me tell you all of the commandments and the rules and the regulations that you shall teach them, so that they may do them in the land that I am giving to them to take possession of it.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/רִשְׁתָּֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./rish.Ta/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "take",
+                "wordIndex": 4
+              },
+              {
+                "text": "possession",
+                "wordIndex": 5
+              },
+              {
+                "text": "of/",
+                "wordIndex": 6
+              },
+              {
+                "text": "it",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9005/{H3423H}/H9034\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc/Sp3fs",
+                "wordIndex": 9
+              },
+              {
+                "text": "H3423H",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H3423",
+                  "lemma": "יָרַשׁ",
+                  "translit": "ya.rash",
+                  "morph": "H:V",
+                  "gloss": "to possess: poor : poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit",
+                  "raw": "H3423\tH3423I = a Meaning of\tH3423G\tיָרַשׁ\tya.rash\tH:V\tto possess: poor\t: poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H3423H=יָרַשׁ=:",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "take»to",
+                "wordIndex": 12
+              },
+              {
+                "text": "possess:2_take;_conquer;_drive_out}/H9034=Os3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9034",
+                  "lemma": "הָ",
+                  "translit": "ha",
+                  "morph": "Os3f",
+                  "gloss": "her Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular",
+                  "raw": "H9034\tH9034 =\tH9034\tהָ\tha\tOs3f\ther\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L לְ/רִשְׁתָּֽ/הּ\\׃ le./rish.Ta/h to/ take possession of/ it H9005/{H3423H}/H9034\\H9016 HR/Vqcc/Sp3fs H3423H H9005=ל=to/{H3423H=יָרַשׁ=: take»to possess:2_take;_conquer;_drive_out}/H9034=Os3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 32,
           "text": "“So you must be careful to do just as Yahweh your God commanded you; you shall not turn to the right or to the left.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/שְׂמֹֽאל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./se.Mol",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "left",
+                "wordIndex": 4
+              },
+              {
+                "text": "[hand]",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9002/{H8040G}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Ncmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H8040G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H8040",
+                  "lemma": "שְׂמֹאל",
+                  "translit": "se.mo.l",
+                  "morph": "H:N-M",
+                  "gloss": "left: north 1) the left, the left hand, the left side<br>1a) left<br>1b) left hand<br>1c) north (as one faces east)",
+                  "raw": "H8040\tH8040H = a Meaning of\tH8040G\tשְׂמֹאל\tse.mo.l\tH:N-M\tleft: north\t1) the left, the left hand, the left side<br>1a) left<br>1b) left hand<br>1c) north (as one faces east)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H8040G=שְׂמֹאל=:left»left:1_left}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L וּ/שְׂמֹֽאל\\׃ u./se.Mol and/ left [hand] H9002/{H8040G}\\H9016 HC/Ncmsa H8040G H9002=ו=and/{H8040G=שְׂמֹאל=:left»left:1_left}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 33,
           "text": "In exactly the path that Yahweh your God has commanded, you must go, so that you may live and it will go well for you and you may live long in the land that you will take possession of.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תִּֽירָשֽׁוּ/ן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ti.ra.Shu/n",
+                "wordIndex": 2
+              },
+              {
+                "text": "you",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "take",
+                "wordIndex": 5
+              },
+              {
+                "text": "possession",
+                "wordIndex": 6
+              },
+              {
+                "text": "of/",
+                "wordIndex": 7
+              },
+              {
+                "text": "!",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H3423H}/H9013\\H9016",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3423",
+                  "lemma": "יָרַשׁ",
+                  "translit": "ya.rash",
+                  "morph": "H:V",
+                  "gloss": "to possess: poor : poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit",
+                  "raw": "H3423\tH3423I = a Meaning of\tH3423G\tיָרַשׁ\tya.rash\tH:V\tto possess: poor\t: poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit"
+                }
+              },
+              {
+                "text": "HVqi2mp/Sn",
+                "wordIndex": 10
+              },
+              {
+                "text": "H3423H",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H3423",
+                  "lemma": "יָרַשׁ",
+                  "translit": "ya.rash",
+                  "morph": "H:V",
+                  "gloss": "to possess: poor : poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit",
+                  "raw": "H3423\tH3423I = a Meaning of\tH3423G\tיָרַשׁ\tya.rash\tH:V\tto possess: poor\t: poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit"
+                }
+              },
+              {
+                "text": "{H3423H=יָרַשׁ=:",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H3423",
+                  "lemma": "יָרַשׁ",
+                  "translit": "ya.rash",
+                  "morph": "H:V",
+                  "gloss": "to possess: poor : poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit",
+                  "raw": "H3423\tH3423I = a Meaning of\tH3423G\tיָרַשׁ\tya.rash\tH:V\tto possess: poor\t: poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit"
+                }
+              },
+              {
+                "text": "take»to",
+                "wordIndex": 13
+              },
+              {
+                "text": "possess:2_take;_conquer;_drive_out}/H9013=נ=emph.\\H9016=׃=verseEnd",
+                "wordIndex": 14,
+                "lex": {
+                  "code": "H9013",
+                  "lemma": "ן/",
+                  "translit": "n",
+                  "morph": "Suffix",
+                  "gloss": "[emph.?] Punctuation  nun – paragogic: adds emphasis",
+                  "raw": "H9013\tH9013 =\tH9013\tן/\tn\tSuffix\t[emph.?]\tPunctuation  nun – paragogic: adds emphasis"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L תִּֽירָשֽׁוּ/ן\\׃ Ti.ra.Shu/n you will take possession of/ ! {H3423H}/H9013\\H9016 HVqi2mp/Sn H3423H {H3423H=יָרַשׁ=: take»to possess:2_take;_conquer;_drive_out}/H9013=נ=emph.\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 1,
           "text": "“Now this is the commandment, the rules and the regulations, that Yahweh your God charged to teach to you for you to observe in the land that you are about to cross over into to take possession of it,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/רִשְׁתָּֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./rish.Ta/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "take",
+                "wordIndex": 4
+              },
+              {
+                "text": "possession",
+                "wordIndex": 5
+              },
+              {
+                "text": "of/",
+                "wordIndex": 6
+              },
+              {
+                "text": "it",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9005/{H3423H}/H9034\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc/Sp3fs",
+                "wordIndex": 9
+              },
+              {
+                "text": "H3423H",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H3423",
+                  "lemma": "יָרַשׁ",
+                  "translit": "ya.rash",
+                  "morph": "H:V",
+                  "gloss": "to possess: poor : poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit",
+                  "raw": "H3423\tH3423I = a Meaning of\tH3423G\tיָרַשׁ\tya.rash\tH:V\tto possess: poor\t: poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H3423H=יָרַשׁ=:",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "take»to",
+                "wordIndex": 12
+              },
+              {
+                "text": "possess:2_take;_conquer;_drive_out}/H9034=Os3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9034",
+                  "lemma": "הָ",
+                  "translit": "ha",
+                  "morph": "Os3f",
+                  "gloss": "her Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular",
+                  "raw": "H9034\tH9034 =\tH9034\tהָ\tha\tOs3f\ther\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L לְ/רִשְׁתָּֽ/הּ\\׃ le./rish.Ta/h to/ take possession of/ it H9005/{H3423H}/H9034\\H9016 HR/Vqcc/Sp3fs H3423H H9005=ל=to/{H3423H=יָרַשׁ=: take»to possess:2_take;_conquer;_drive_out}/H9034=Os3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 2,
           "text": "so that you may revere Yahweh your God by keeping all his statutes and his commandments that I am commanding you, you and your children and grandchildren, all the days of your life and so you may live long lives.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יָמֶֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ya.Mei./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "days/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3117G}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "HNcmpc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3117G_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "{H3117G=יוֹם=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "day»day;_when:1_day;_when;_period}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#23=L יָמֶֽי/ךָ\\׃ ya.Mei./kha days/ your {H3117G}/H9021\\H9016 HNcmpc/Sp2ms H3117G_B {H3117G=יוֹם=: day»day;_when:1_day;_when;_period}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 3,
           "text": "And you shall hear, Israel, and be careful to observe these instructions, so that it may go well for you and that you may multiply greatly, just as Yahweh, the God of your ancestors, promised you, in a land with milk and honey.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/דְבָֽשׁ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "u./de.Vash",
+                "wordIndex": 3
+              },
+              {
+                "text": "and/",
+                "wordIndex": 4
+              },
+              {
+                "text": "honey",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9002/{H1706}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HC/Ncmsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H1706",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H1706",
+                  "lemma": "דְּבַשׁ",
+                  "translit": "de.vash",
+                  "morph": "H:N-M",
+                  "gloss": "honey honey",
+                  "raw": "H1706\tH1706 =\tH1706\tדְּבַשׁ\tde.vash\tH:N-M\thoney\thoney"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H1706=דְּבַשׁ=honey}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L וּ/דְבָֽשׁ\\׃\\ \\פ u./de.Vash and/ honey H9002/{H1706}\\H9016\\ \\H9017 HC/Ncmsa H1706 H9002=ו=and/{H1706=דְּבַשׁ=honey}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ],
       "nirv": [
@@ -117,109 +1691,1683 @@
           "chapter": 5,
           "verse": 19,
           "text": "“Do not steal.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#02=L(p)",
+                "wordIndex": 0
+              },
+              {
+                "text": "תִּֿגְנֹֽ֔ב\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "tge.No",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "must",
+                "wordIndex": 5
+              },
+              {
+                "text": "steal",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H1589}\\H9016\\",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1589",
+                  "lemma": "גָּנַב",
+                  "translit": "ga.nav",
+                  "morph": "H:V",
+                  "gloss": "to steal 1) to steal, steal away, carry away<br>1a) (Qal) to steal<br>1b) (Niphal) to be stolen<br>1c) (Piel) to steal away<br>1d)(Pual) to be stolen away, be brought by stealth<br>1e) (Hithpael) to go by stealth, steal away",
+                  "raw": "H1589\tH1589 =\tH1589\tגָּנַב\tga.nav\tH:V\tto steal\t1) to steal, steal away, carry away<br>1a) (Qal) to steal<br>1b) (Niphal) to be stolen<br>1c) (Piel) to steal away<br>1d)(Pual) to be stolen away, be brought by stealth<br>1e) (Hithpael) to go by stealth, steal away"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HVqi2ms",
+                "wordIndex": 9
+              },
+              {
+                "text": "P=",
+                "wordIndex": 10
+              },
+              {
+                "text": "תִֿגְנֹ֔ב\\׃\\",
+                "wordIndex": 11
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 12
+              },
+              {
+                "text": "H1589",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H1589",
+                  "lemma": "גָּנַב",
+                  "translit": "ga.nav",
+                  "morph": "H:V",
+                  "gloss": "to steal 1) to steal, steal away, carry away<br>1a) (Qal) to steal<br>1b) (Niphal) to be stolen<br>1c) (Piel) to steal away<br>1d)(Pual) to be stolen away, be brought by stealth<br>1e) (Hithpael) to go by stealth, steal away",
+                  "raw": "H1589\tH1589 =\tH1589\tגָּנַב\tga.nav\tH:V\tto steal\t1) to steal, steal away, carry away<br>1a) (Qal) to steal<br>1b) (Niphal) to be stolen<br>1c) (Piel) to steal away<br>1d)(Pual) to be stolen away, be brought by stealth<br>1e) (Hithpael) to go by stealth, steal away"
+                }
+              },
+              {
+                "text": "{H1589=גָּנַב=to",
+                "wordIndex": 14,
+                "lex": {
+                  "code": "H1589",
+                  "lemma": "גָּנַב",
+                  "translit": "ga.nav",
+                  "morph": "H:V",
+                  "gloss": "to steal 1) to steal, steal away, carry away<br>1a) (Qal) to steal<br>1b) (Niphal) to be stolen<br>1c) (Piel) to steal away<br>1d)(Pual) to be stolen away, be brought by stealth<br>1e) (Hithpael) to go by stealth, steal away",
+                  "raw": "H1589\tH1589 =\tH1589\tגָּנַב\tga.nav\tH:V\tto steal\t1) to steal, steal away, carry away<br>1a) (Qal) to steal<br>1b) (Niphal) to be stolen<br>1c) (Piel) to steal away<br>1d)(Pual) to be stolen away, be brought by stealth<br>1e) (Hithpael) to go by stealth, steal away"
+                }
+              },
+              {
+                "text": "steal}\\H9016=׃=verseEnd\\",
+                "wordIndex": 15,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 16,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#02=L(p) תִּֿגְנֹֽ֔ב\\׃\\ \\ס tge.No you must steal {H1589}\\H9016\\ \\H9018 HVqi2ms P= תִֿגְנֹ֔ב\\׃\\ \\ס H1589 {H1589=גָּנַב=to steal}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 5,
           "verse": 20,
           "text": "“Do not give false witness against your neighbor.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שָֽׁוְא\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "Shav'",
+                "wordIndex": 3
+              },
+              {
+                "text": "falsehood",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7723G}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H7723",
+                  "lemma": "שָׁוְא",
+                  "translit": "shav",
+                  "morph": "H:N-M",
+                  "gloss": "vanity: vain : vain/empty/worthless<br>1) emptiness, vanity, falsehood<br>1a) emptiness, nothingness, vanity<br>1b) emptiness of speech, lying<br>1c) worthlessness (of conduct)",
+                  "raw": "H7723\tH7723H = a Meaning of\tH7723G\tשָׁוְא\tshav\tH:N-M\tvanity: vain\t: vain/empty/worthless<br>1) emptiness, vanity, falsehood<br>1a) emptiness, nothingness, vanity<br>1b) emptiness of speech, lying<br>1c) worthlessness (of conduct)"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7723G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7723",
+                  "lemma": "שָׁוְא",
+                  "translit": "shav",
+                  "morph": "H:N-M",
+                  "gloss": "vanity: vain : vain/empty/worthless<br>1) emptiness, vanity, falsehood<br>1a) emptiness, nothingness, vanity<br>1b) emptiness of speech, lying<br>1c) worthlessness (of conduct)",
+                  "raw": "H7723\tH7723H = a Meaning of\tH7723G\tשָׁוְא\tshav\tH:N-M\tvanity: vain\t: vain/empty/worthless<br>1) emptiness, vanity, falsehood<br>1a) emptiness, nothingness, vanity<br>1b) emptiness of speech, lying<br>1c) worthlessness (of conduct)"
+                }
+              },
+              {
+                "text": "{H7723G=שָׁוְא=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H7723",
+                  "lemma": "שָׁוְא",
+                  "translit": "shav",
+                  "morph": "H:N-M",
+                  "gloss": "vanity: vain : vain/empty/worthless<br>1) emptiness, vanity, falsehood<br>1a) emptiness, nothingness, vanity<br>1b) emptiness of speech, lying<br>1c) worthlessness (of conduct)",
+                  "raw": "H7723\tH7723H = a Meaning of\tH7723G\tשָׁוְא\tshav\tH:N-M\tvanity: vain\t: vain/empty/worthless<br>1) emptiness, vanity, falsehood<br>1a) emptiness, nothingness, vanity<br>1b) emptiness of speech, lying<br>1c) worthlessness (of conduct)"
+                }
+              },
+              {
+                "text": "false»vanity:1_false}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L שָֽׁוְא\\׃\\ \\ס Shav' falsehood {H7723G}\\H9016\\ \\H9018 HNcmsa H7723G {H7723G=שָׁוְא=: false»vanity:1_false}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 5,
           "verse": 21,
           "text": "“Do not long for your neighbor’s wife. Do not long to have anything that belongs to your neighbor. Do not long to have your neighbor’s house or land, male or female servant, ox or donkey.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/רֵעֶֽ/ךָ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "le./re.'E./kha",
+                "wordIndex": 3
+              },
+              {
+                "text": "[belongs]",
+                "wordIndex": 4
+              },
+              {
+                "text": "to/",
+                "wordIndex": 5
+              },
+              {
+                "text": "neighbor/",
+                "wordIndex": 6
+              },
+              {
+                "text": "your",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9005/{H7453}/H9021\\H9016\\",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp2ms",
+                "wordIndex": 10
+              },
+              {
+                "text": "H7453_C",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H7453",
+                  "lemma": "רֵעַ",
+                  "translit": "re.a",
+                  "morph": "H:N-M",
+                  "gloss": "neighbor 1) friend, companion, fellow, another person<br>1a) friend, intimate<br>1b) fellow, fellow-citizen, another person (weaker sense)<br>1c) other, another (reciprocal phrase)",
+                  "raw": "H7453\tH7453 =\tH7453\tרֵעַ\tre.a\tH:N-M\tneighbor\t1) friend, companion, fellow, another person<br>1a) friend, intimate<br>1b) fellow, fellow-citizen, another person (weaker sense)<br>1c) other, another (reciprocal phrase)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H7453=רֵעַ=neighbor}/H9021=Ps2m=your\\H9016=׃=verseEnd\\",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L לְ/רֵעֶֽ/ךָ\\׃\\ \\ס le./re.'E./kha [belongs] to/ neighbor/ your H9005/{H7453}/H9021\\H9016\\ \\H9018 HR/Ncmsc/Sp2ms H7453_C H9005=ל=to/{H7453=רֵעַ=neighbor}/H9021=Ps2m=your\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 5,
           "verse": 22,
           "text": "Those are the commandments the Lord announced in a loud voice to your whole community. He gave them to you there on the mountain. He spoke out of the fire, cloud and deep darkness. He didn’t add anything else. Then he wrote the commandments on two stone tablets. And he gave them to me.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#24=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֵלָֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.La/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "me",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0413}/H9030\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0413",
+                  "lemma": "אֶל",
+                  "translit": "el",
+                  "morph": "H:Prep",
+                  "gloss": "to(wards) 1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)",
+                  "raw": "H0413\tH0413 =\tH0413\tאֶל\tel\tH:Prep\tto(wards)\t1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)"
+                }
+              },
+              {
+                "text": "HR/Sp1bs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0413_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0413",
+                  "lemma": "אֶל",
+                  "translit": "el",
+                  "morph": "H:Prep",
+                  "gloss": "to(wards) 1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)",
+                  "raw": "H0413\tH0413 =\tH0413\tאֶל\tel\tH:Prep\tto(wards)\t1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)"
+                }
+              },
+              {
+                "text": "{H0413=אֶל=to(wards)}/H9030=Os1c=me\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0413",
+                  "lemma": "אֶל",
+                  "translit": "el",
+                  "morph": "H:Prep",
+                  "gloss": "to(wards) 1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)",
+                  "raw": "H0413\tH0413 =\tH0413\tאֶל\tel\tH:Prep\tto(wards)\t1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)"
+                }
+              }
+            ],
+            "originalVerseText": "#24=L אֵלָֽ/י\\׃ 'e.La/i to/ me {H0413}/H9030\\H9016 HR/Sp1bs H0413_B {H0413=אֶל=to(wards)}/H9030=Os1c=me\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 23,
           "text": "The mountain was blazing with fire. You heard the voice coming out of the darkness. So your elders and all of the leaders of your tribes came to me.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/זִקְנֵי/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./zik.nei./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "elders/",
+                "wordIndex": 4
+              },
+              {
+                "text": "your",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9002/{H2205G}/H9026\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Aampc/Sp2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H2205G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H2205",
+                  "lemma": "זָקֵן",
+                  "translit": "za.qen",
+                  "morph": "H:A",
+                  "gloss": "old : old<br>1) old<br>1a) old (of humans)<br>1b) elder (of those having authority)<BR>Also means: <i>za.qen</i> (זָקֵן \": elder\" H2205)",
+                  "raw": "H2205\tH2205H =\tH2205H\tזָקֵן\tza.qen\tH:A\told\t: old<br>1) old<br>1a) old (of humans)<br>1b) elder (of those having authority)<BR>Also means: <i>za.qen</i> (זָקֵן \": elder\" H2205)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H2205G=זָקֵן=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "elder»old:2_elder;_leader}/H9026=Pp2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9026",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Pp2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural",
+                  "raw": "H9026\tH9026 =\tH9026\tכֶם\tkhem\tPp2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L וְ/זִקְנֵי/כֶֽם\\׃ ve./zik.nei./Khem and/ elders/ your H9002/{H2205G}/H9026\\H9016 HC/Aampc/Sp2mp H2205G H9002=ו=and/{H2205G=זָקֵן=: elder»old:2_elder;_leader}/H9026=Pp2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 24,
           "text": "You said, “The Lord our God has shown us his glory and majesty. We have heard his voice coming out of the fire. Today we have seen that a man can still stay alive even if God speaks with him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וָ/חָֽי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./Chai",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "he",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "live",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H2421}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqq3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2421",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2421",
+                  "lemma": "חָיָה",
+                  "translit": "cha.yah",
+                  "morph": "H:V",
+                  "gloss": "to live 1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life",
+                  "raw": "H2421\tH2421 =\tH2421\tחָיָה\tcha.yah\tH:V\tto live\t1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H2421=חָיָה=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "live}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#23=L וָ/חָֽי\\׃ va./Chai and/ he will live H9001/{H2421}\\H9016 Hc/Vqq3ms H2421 H9001=ו=&/{H2421=חָיָה=to live}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 25,
           "text": "But why should we die? This great fire will burn us up. We’ll die if we hear the voice of the Lord our God again.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וָ/מָֽתְנוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./Ma.te.nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "we",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "die",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H4191}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqq1cp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H4191_B",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4191",
+                  "lemma": "מוּת",
+                  "translit": "mut",
+                  "morph": "H:V",
+                  "gloss": "to die 1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely",
+                  "raw": "H4191\tH4191 =\tH4191\tמוּת\tmut\tH:V\tto die\t1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H4191=מוּת=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "die}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L וָ/מָֽתְנוּ\\׃ va./Ma.te.nu and/ we will die H9001/{H4191}\\H9016 Hc/Vqq1cp H4191_B H9001=ו=&/{H4191=מוּת=to die}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 26,
           "text": "“We have heard the voice of the living God. We’ve heard him speaking out of the fire. Has any other human being ever heard him speak like that and stayed alive?",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/יֶּֽחִי\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va/i.Ye.chi",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "he",
+                "wordIndex": 4
+              },
+              {
+                "text": "has",
+                "wordIndex": 5
+              },
+              {
+                "text": "lived",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H2421}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqw3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2421",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2421",
+                  "lemma": "חָיָה",
+                  "translit": "cha.yah",
+                  "morph": "H:V",
+                  "gloss": "to live 1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life",
+                  "raw": "H2421\tH2421 =\tH2421\tחָיָה\tcha.yah\tH:V\tto live\t1) to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health<br>1a) (Qal)<br>1a1) to live<br>1a1a) to have life<br>1a1b) to continue in life, remain alive<br>1a1c) to sustain life, to live on or upon<br>1a1d) to live (prosperously)<br>1a2) to revive, be quickened<br>1a2a) from sickness<br>1a2b) from discouragement<br>1a2c) from faintness<br>1a2d) from death<br>1b) (Piel)<br>1b1) to preserve alive, let live<br>1b2) to give life<br>1b3) to quicken, revive, refresh<br>1b3a) to restore to life<br>1b3b) to cause to grow<br>1b3c) to restore<br>1b3d) to revive<br>1c) (Hiphil)<br>1c1) to preserve alive, let live<br>1c2) to quicken, revive<br>1c2a) to restore (to health)<br>1c2b) to revive<br>1c2c) to restore to life"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H2421=חָיָה=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "live}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L וַ/יֶּֽחִי\\׃ va/i.Ye.chi and/ he has lived H9001/{H2421}\\H9016 Hc/Vqw3ms H2421 H9001=ו=&/{H2421=חָיָה=to live}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 27,
           "text": "Go near and listen to everything the Lord our God says. Then tell us what he tells you. We will listen and obey.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/עָשִֽׂינוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./'a.Si.nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "we",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "do",
+                "wordIndex": 6
+              },
+              {
+                "text": "[it]",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9001/{H6213A}\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqq1cp",
+                "wordIndex": 9
+              },
+              {
+                "text": "H6213A",
+                "wordIndex": 10
+              },
+              {
+                "text": "H9001=ו=&/{H6213A=עָשָׂה=:",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "do»to",
+                "wordIndex": 12
+              },
+              {
+                "text": "make:2_do;_perform}\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L וְ/עָשִֽׂינוּ\\׃ ve./'a.Si.nu and/ we will do [it] H9001/{H6213A}\\H9016 Hc/Vqq1cp H6213A H9001=ו=&/{H6213A=עָשָׂה=: do»to make:2_do;_perform}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 28,
           "text": "The Lord heard you when you spoke to me. He said to me, “I have heard what these people said to you. Everything they said was good.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "דִּבֵּֽרוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "di.Be.ru",
+                "wordIndex": 2
+              },
+              {
+                "text": "they",
+                "wordIndex": 3
+              },
+              {
+                "text": "have",
+                "wordIndex": 4
+              },
+              {
+                "text": "spoken",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H1696G}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1696",
+                  "lemma": "דָבַר",
+                  "translit": "da.var",
+                  "morph": "H:V",
+                  "gloss": "to speak: promise : promise/declare<br>1) to speak, declare, converse, command, promise, warn, threaten, sing<br>1a) (Qal) to speak<br>1b) (Niphal) to speak with one another, talk<br>1c) (Piel)<br>1c1) to speak<br>1c2) to promise<br>1d) (Pual) to be spoken<br>1e) (Hithpael) to speak<br>1f) (Hiphil) to lead away, put to flight",
+                  "raw": "H1696\tH1696I = a Meaning of\tH1696G\tדָבַר\tda.var\tH:V\tto speak: promise\t: promise/declare<br>1) to speak, declare, converse, command, promise, warn, threaten, sing<br>1a) (Qal) to speak<br>1b) (Niphal) to speak with one another, talk<br>1c) (Piel)<br>1c1) to speak<br>1c2) to promise<br>1d) (Pual) to be spoken<br>1e) (Hithpael) to speak<br>1f) (Hiphil) to lead away, put to flight "
+                }
+              },
+              {
+                "text": "HVpp3cp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1696G_C",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1696",
+                  "lemma": "דָבַר",
+                  "translit": "da.var",
+                  "morph": "H:V",
+                  "gloss": "to speak: promise : promise/declare<br>1) to speak, declare, converse, command, promise, warn, threaten, sing<br>1a) (Qal) to speak<br>1b) (Niphal) to speak with one another, talk<br>1c) (Piel)<br>1c1) to speak<br>1c2) to promise<br>1d) (Pual) to be spoken<br>1e) (Hithpael) to speak<br>1f) (Hiphil) to lead away, put to flight",
+                  "raw": "H1696\tH1696I = a Meaning of\tH1696G\tדָבַר\tda.var\tH:V\tto speak: promise\t: promise/declare<br>1) to speak, declare, converse, command, promise, warn, threaten, sing<br>1a) (Qal) to speak<br>1b) (Niphal) to speak with one another, talk<br>1c) (Piel)<br>1c1) to speak<br>1c2) to promise<br>1d) (Pual) to be spoken<br>1e) (Hithpael) to speak<br>1f) (Hiphil) to lead away, put to flight "
+                }
+              },
+              {
+                "text": "{H1696G=דָבַר=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H1696",
+                  "lemma": "דָבַר",
+                  "translit": "da.var",
+                  "morph": "H:V",
+                  "gloss": "to speak: promise : promise/declare<br>1) to speak, declare, converse, command, promise, warn, threaten, sing<br>1a) (Qal) to speak<br>1b) (Niphal) to speak with one another, talk<br>1c) (Piel)<br>1c1) to speak<br>1c2) to promise<br>1d) (Pual) to be spoken<br>1e) (Hithpael) to speak<br>1f) (Hiphil) to lead away, put to flight",
+                  "raw": "H1696\tH1696I = a Meaning of\tH1696G\tדָבַר\tda.var\tH:V\tto speak: promise\t: promise/declare<br>1) to speak, declare, converse, command, promise, warn, threaten, sing<br>1a) (Qal) to speak<br>1b) (Niphal) to speak with one another, talk<br>1c) (Piel)<br>1c1) to speak<br>1c2) to promise<br>1d) (Pual) to be spoken<br>1e) (Hithpael) to speak<br>1f) (Hiphil) to lead away, put to flight "
+                }
+              },
+              {
+                "text": "speak»to",
+                "wordIndex": 10
+              },
+              {
+                "text": "speak:1_speak;_tell;_command}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#23=L דִּבֵּֽרוּ\\׃ di.Be.ru they have spoken {H1696G}\\H9016 HVpp3cp H1696G_C {H1696G=דָבַר=: speak»to speak:1_speak;_tell;_command}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 29,
           "text": "But I wish they would always have respect for me in their hearts. I wish they would always obey all of my commands. Then things would go well with them and their children forever.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/עֹלָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./'o.Lam",
+                "wordIndex": 2
+              },
+              {
+                "text": "for/",
+                "wordIndex": 3
+              },
+              {
+                "text": "ever",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H5769G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5769G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H5769G=עוֹלָם=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L לְ/עֹלָֽם\\׃ le./'o.Lam for/ ever H9005/{H5769G}\\H9016 HR/Ncmsa H5769G H9005=ל=to/{H5769G=עוֹלָם=: enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 30,
           "text": "“Go and tell them to return to their tents.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/אָהֳלֵי/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./'o.ho.lei./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "tents/",
+                "wordIndex": 4
+              },
+              {
+                "text": "your",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H0168G}/H9026\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmpc/Sp2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0168G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0168",
+                  "lemma": "אֹ֫הֶל",
+                  "translit": "o.hel",
+                  "morph": "H:N-M",
+                  "gloss": "tent: home : home<br>1) tent<br>1a) nomad's tent, and thus symbolic of wilderness life, transience<br>1b) dwelling, home, habitation<br>1c) the sacred tent of Jehovah (the tabernacle)",
+                  "raw": "H0168\tH0168H = a Meaning of\tH0168G\tאֹ֫הֶל\to.hel\tH:N-M\ttent: home\t: home<br>1) tent<br>1a) nomad's tent, and thus symbolic of wilderness life, transience<br>1b) dwelling, home, habitation<br>1c) the sacred tent of Jehovah (the tabernacle)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0168G=אֹ֫הֶל=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "tent»tent:1_tent}/H9026=Pp2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9026",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Pp2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural",
+                  "raw": "H9026\tH9026 =\tH9026\tכֶם\tkhem\tPp2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L לְ/אָהֳלֵי/כֶֽם\\׃ le./'o.ho.lei./Khem to/ tents/ your H9005/{H0168G}/H9026\\H9016 HR/Ncmpc/Sp2mp H0168G H9005=ל=to/{H0168G=אֹ֫הֶל=: tent»tent:1_tent}/H9026=Pp2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 31,
           "text": "But you stay here with me. Then I will give you all of my commands, rules and laws. You must teach the people to follow them in the land I am giving them as their very own.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/רִשְׁתָּֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./rish.Ta/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "take",
+                "wordIndex": 4
+              },
+              {
+                "text": "possession",
+                "wordIndex": 5
+              },
+              {
+                "text": "of/",
+                "wordIndex": 6
+              },
+              {
+                "text": "it",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9005/{H3423H}/H9034\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc/Sp3fs",
+                "wordIndex": 9
+              },
+              {
+                "text": "H3423H",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H3423",
+                  "lemma": "יָרַשׁ",
+                  "translit": "ya.rash",
+                  "morph": "H:V",
+                  "gloss": "to possess: poor : poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit",
+                  "raw": "H3423\tH3423I = a Meaning of\tH3423G\tיָרַשׁ\tya.rash\tH:V\tto possess: poor\t: poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H3423H=יָרַשׁ=:",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "take»to",
+                "wordIndex": 12
+              },
+              {
+                "text": "possess:2_take;_conquer;_drive_out}/H9034=Os3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9034",
+                  "lemma": "הָ",
+                  "translit": "ha",
+                  "morph": "Os3f",
+                  "gloss": "her Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular",
+                  "raw": "H9034\tH9034 =\tH9034\tהָ\tha\tOs3f\ther\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L לְ/רִשְׁתָּֽ/הּ\\׃ le./rish.Ta/h to/ take possession of/ it H9005/{H3423H}/H9034\\H9016 HR/Vqcc/Sp3fs H3423H H9005=ל=to/{H3423H=יָרַשׁ=: take»to possess:2_take;_conquer;_drive_out}/H9034=Os3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 32,
           "text": "So be careful to do what the Lord your God has commanded you. Don’t turn away from his commands to the right or the left.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/שְׂמֹֽאל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./se.Mol",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "left",
+                "wordIndex": 4
+              },
+              {
+                "text": "[hand]",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9002/{H8040G}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Ncmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H8040G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H8040",
+                  "lemma": "שְׂמֹאל",
+                  "translit": "se.mo.l",
+                  "morph": "H:N-M",
+                  "gloss": "left: north 1) the left, the left hand, the left side<br>1a) left<br>1b) left hand<br>1c) north (as one faces east)",
+                  "raw": "H8040\tH8040H = a Meaning of\tH8040G\tשְׂמֹאל\tse.mo.l\tH:N-M\tleft: north\t1) the left, the left hand, the left side<br>1a) left<br>1b) left hand<br>1c) north (as one faces east)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H8040G=שְׂמֹאל=:left»left:1_left}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L וּ/שְׂמֹֽאל\\׃ u./se.Mol and/ left [hand] H9002/{H8040G}\\H9016 HC/Ncmsa H8040G H9002=ו=and/{H8040G=שְׂמֹאל=:left»left:1_left}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 33,
           "text": "Live exactly as the Lord your God has commanded you to live. Then you will enjoy life in the land you will soon own. Things will go well with you there. You will live there for a long time.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תִּֽירָשֽׁוּ/ן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ti.ra.Shu/n",
+                "wordIndex": 2
+              },
+              {
+                "text": "you",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "take",
+                "wordIndex": 5
+              },
+              {
+                "text": "possession",
+                "wordIndex": 6
+              },
+              {
+                "text": "of/",
+                "wordIndex": 7
+              },
+              {
+                "text": "!",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H3423H}/H9013\\H9016",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3423",
+                  "lemma": "יָרַשׁ",
+                  "translit": "ya.rash",
+                  "morph": "H:V",
+                  "gloss": "to possess: poor : poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit",
+                  "raw": "H3423\tH3423I = a Meaning of\tH3423G\tיָרַשׁ\tya.rash\tH:V\tto possess: poor\t: poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit"
+                }
+              },
+              {
+                "text": "HVqi2mp/Sn",
+                "wordIndex": 10
+              },
+              {
+                "text": "H3423H",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H3423",
+                  "lemma": "יָרַשׁ",
+                  "translit": "ya.rash",
+                  "morph": "H:V",
+                  "gloss": "to possess: poor : poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit",
+                  "raw": "H3423\tH3423I = a Meaning of\tH3423G\tיָרַשׁ\tya.rash\tH:V\tto possess: poor\t: poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit"
+                }
+              },
+              {
+                "text": "{H3423H=יָרַשׁ=:",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H3423",
+                  "lemma": "יָרַשׁ",
+                  "translit": "ya.rash",
+                  "morph": "H:V",
+                  "gloss": "to possess: poor : poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit",
+                  "raw": "H3423\tH3423I = a Meaning of\tH3423G\tיָרַשׁ\tya.rash\tH:V\tto possess: poor\t: poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit"
+                }
+              },
+              {
+                "text": "take»to",
+                "wordIndex": 13
+              },
+              {
+                "text": "possess:2_take;_conquer;_drive_out}/H9013=נ=emph.\\H9016=׃=verseEnd",
+                "wordIndex": 14,
+                "lex": {
+                  "code": "H9013",
+                  "lemma": "ן/",
+                  "translit": "n",
+                  "morph": "Suffix",
+                  "gloss": "[emph.?] Punctuation  nun – paragogic: adds emphasis",
+                  "raw": "H9013\tH9013 =\tH9013\tן/\tn\tSuffix\t[emph.?]\tPunctuation  nun – paragogic: adds emphasis"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L תִּֽירָשֽׁוּ/ן\\׃ Ti.ra.Shu/n you will take possession of/ ! {H3423H}/H9013\\H9016 HVqi2mp/Sn H3423H {H3423H=יָרַשׁ=: take»to possess:2_take;_conquer;_drive_out}/H9013=נ=emph.\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 1,
           "text": "The Lord your God has directed me to teach you his commands, rules and laws. Obey them in the land you will take over when you go across the Jordan River.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/רִשְׁתָּֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./rish.Ta/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "take",
+                "wordIndex": 4
+              },
+              {
+                "text": "possession",
+                "wordIndex": 5
+              },
+              {
+                "text": "of/",
+                "wordIndex": 6
+              },
+              {
+                "text": "it",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9005/{H3423H}/H9034\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc/Sp3fs",
+                "wordIndex": 9
+              },
+              {
+                "text": "H3423H",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H3423",
+                  "lemma": "יָרַשׁ",
+                  "translit": "ya.rash",
+                  "morph": "H:V",
+                  "gloss": "to possess: poor : poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit",
+                  "raw": "H3423\tH3423I = a Meaning of\tH3423G\tיָרַשׁ\tya.rash\tH:V\tto possess: poor\t: poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H3423H=יָרַשׁ=:",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "take»to",
+                "wordIndex": 12
+              },
+              {
+                "text": "possess:2_take;_conquer;_drive_out}/H9034=Os3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9034",
+                  "lemma": "הָ",
+                  "translit": "ha",
+                  "morph": "Os3f",
+                  "gloss": "her Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular",
+                  "raw": "H9034\tH9034 =\tH9034\tהָ\tha\tOs3f\ther\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L לְ/רִשְׁתָּֽ/הּ\\׃ le./rish.Ta/h to/ take possession of/ it H9005/{H3423H}/H9034\\H9016 HR/Vqcc/Sp3fs H3423H H9005=ל=to/{H3423H=יָרַשׁ=: take»to possess:2_take;_conquer;_drive_out}/H9034=Os3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 2,
           "text": "Then you, your children and their children after them will have respect for the Lord your God as long as you live. Keep all of his rules and commands I’m giving you. If you do, you will enjoy long life.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יָמֶֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ya.Mei./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "days/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3117G}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "HNcmpc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3117G_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "{H3117G=יוֹם=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "day»day;_when:1_day;_when;_period}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#23=L יָמֶֽי/ךָ\\׃ ya.Mei./kha days/ your {H3117G}/H9021\\H9016 HNcmpc/Sp2ms H3117G_B {H3117G=יוֹם=: day»day;_when:1_day;_when;_period}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 6,
           "verse": 3,
           "text": "Israel, listen to me. Make sure you obey me. Then things will go well with you. Your numbers will increase greatly in a land that has plenty of milk and honey. That’s what the Lord, the God of your parents, promised you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/דְבָֽשׁ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "u./de.Vash",
+                "wordIndex": 3
+              },
+              {
+                "text": "and/",
+                "wordIndex": 4
+              },
+              {
+                "text": "honey",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9002/{H1706}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HC/Ncmsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H1706",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H1706",
+                  "lemma": "דְּבַשׁ",
+                  "translit": "de.vash",
+                  "morph": "H:N-M",
+                  "gloss": "honey honey",
+                  "raw": "H1706\tH1706 =\tH1706\tדְּבַשׁ\tde.vash\tH:N-M\thoney\thoney"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H1706=דְּבַשׁ=honey}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L וּ/דְבָֽשׁ\\׃\\ \\פ u./de.Vash and/ honey H9002/{H1706}\\H9016\\ \\H9017 HC/Ncmsa H1706 H9002=ו=and/{H1706=דְּבַשׁ=honey}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ]
     }

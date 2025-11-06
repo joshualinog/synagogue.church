@@ -7,49 +7,689 @@
           "chapter": 1,
           "verse": 47,
           "text": "The Levites from their ancestors’ tribe were not mustered in their midst.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/תוֹכָֽ/ם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "be./to.Kha/m",
+                "wordIndex": 3
+              },
+              {
+                "text": "in/",
+                "wordIndex": 4
+              },
+              {
+                "text": "midst",
+                "wordIndex": 5
+              },
+              {
+                "text": "of/",
+                "wordIndex": 6
+              },
+              {
+                "text": "them",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9003/{H8432}/H9028\\H9016\\",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3mp",
+                "wordIndex": 10
+              },
+              {
+                "text": "H8432",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H8432",
+                  "lemma": "תָּ֫וֶךְ",
+                  "translit": "ta.vekh",
+                  "morph": "H:N-M",
+                  "gloss": "midst 1) midst, middle<br>1a) midst, middle<br>1b) into, through (after verbs of motion)<br>1c) among (of a number of persons)<br>1d) between (of things arranged by twos)<br>1e) from among (as to take or separate etc)",
+                  "raw": "H8432\tH8432 =\tH8432\tתָּ֫וֶךְ\tta.vekh\tH:N-M\tmidst\t1) midst, middle<br>1a) midst, middle<br>1b) into, through (after verbs of motion)<br>1c) among (of a number of persons)<br>1d) between (of things arranged by twos)<br>1e) from among (as to take or separate etc)"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H8432=תָּ֫וֶךְ=midst}/H9028=Pp3m=their\\H9016=׃=verseEnd\\",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L בְּ/תוֹכָֽ/ם\\׃\\ \\פ be./to.Kha/m in/ midst of/ them H9003/{H8432}/H9028\\H9016\\ \\H9017 HR/Ncmsc/Sp3mp H8432 H9003=ב=in/{H8432=תָּ֫וֶךְ=midst}/H9028=Pp3m=their\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 48,
           "text": "And Yahweh spoke to Moses, saying,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵּ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L לֵּ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 49,
           "text": "“You will not muster the tribe of Levi, and you will not take a census of them in the midst of the Israelites.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִשְׂרָאֵֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yis.ra.'El",
+                "wordIndex": 2
+              },
+              {
+                "text": "Israel",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3478}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3478",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L יִשְׂרָאֵֽל\\׃ Yis.ra.'El Israel {H3478}\\H9016 HNpl H3478 {H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 50,
           "text": "You will appoint them over the tabernacle of the testimony, over all its vessels, and over all that belongs to it. They will carry the tabernacle and all its vessels, and they will care for it; and they will camp around the tabernacle.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#26=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יַחֲנֽוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ya.cha.Nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "they",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "encamp",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H2583}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H2583",
+                  "lemma": "חָנָה",
+                  "translit": "cha.nah",
+                  "morph": "H:V",
+                  "gloss": "to camp 1) to decline, incline, encamp, bend down, lay siege against<br>1a) (Qal)<br>1a1) to decline<br>1a2) to encamp",
+                  "raw": "H2583\tH2583 =\tH2583\tחָנָה\tcha.nah\tH:V\tto camp\t1) to decline, incline, encamp, bend down, lay siege against<br>1a) (Qal)<br>1a1) to decline<br>1a2) to encamp"
+                }
+              },
+              {
+                "text": "HVqi3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H2583",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H2583",
+                  "lemma": "חָנָה",
+                  "translit": "cha.nah",
+                  "morph": "H:V",
+                  "gloss": "to camp 1) to decline, incline, encamp, bend down, lay siege against<br>1a) (Qal)<br>1a1) to decline<br>1a2) to encamp",
+                  "raw": "H2583\tH2583 =\tH2583\tחָנָה\tcha.nah\tH:V\tto camp\t1) to decline, incline, encamp, bend down, lay siege against<br>1a) (Qal)<br>1a1) to decline<br>1a2) to encamp"
+                }
+              },
+              {
+                "text": "{H2583=חָנָה=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2583",
+                  "lemma": "חָנָה",
+                  "translit": "cha.nah",
+                  "morph": "H:V",
+                  "gloss": "to camp 1) to decline, incline, encamp, bend down, lay siege against<br>1a) (Qal)<br>1a1) to decline<br>1a2) to encamp",
+                  "raw": "H2583\tH2583 =\tH2583\tחָנָה\tcha.nah\tH:V\tto camp\t1) to decline, incline, encamp, bend down, lay siege against<br>1a) (Qal)<br>1a1) to decline<br>1a2) to encamp"
+                }
+              },
+              {
+                "text": "camp}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#26=L יַחֲנֽוּ\\׃ ya.cha.Nu they will encamp {H2583}\\H9016 HVqi3mp H2583 {H2583=חָנָה=to camp}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 51,
           "text": "And when the tabernacle is set out, the Levites will take it down, and when encamping the tabernacle the Levites will set it up; the stranger that approaches it will be put to death.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יוּמָֽת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "yu.Mat",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "be",
+                "wordIndex": 5
+              },
+              {
+                "text": "put",
+                "wordIndex": 6
+              },
+              {
+                "text": "to",
+                "wordIndex": 7
+              },
+              {
+                "text": "death",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H4191}\\H9016",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4191",
+                  "lemma": "מוּת",
+                  "translit": "mut",
+                  "morph": "H:V",
+                  "gloss": "to die 1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely",
+                  "raw": "H4191\tH4191 =\tH4191\tמוּת\tmut\tH:V\tto die\t1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely"
+                }
+              },
+              {
+                "text": "HVHi3ms",
+                "wordIndex": 10
+              },
+              {
+                "text": "H4191",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H4191",
+                  "lemma": "מוּת",
+                  "translit": "mut",
+                  "morph": "H:V",
+                  "gloss": "to die 1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely",
+                  "raw": "H4191\tH4191 =\tH4191\tמוּת\tmut\tH:V\tto die\t1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely"
+                }
+              },
+              {
+                "text": "{H4191=מוּת=to",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H4191",
+                  "lemma": "מוּת",
+                  "translit": "mut",
+                  "morph": "H:V",
+                  "gloss": "to die 1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely",
+                  "raw": "H4191\tH4191 =\tH4191\tמוּת\tmut\tH:V\tto die\t1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely"
+                }
+              },
+              {
+                "text": "die}\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L יוּמָֽת\\׃ yu.Mat he will be put to death {H4191}\\H9016 HVHi3ms H4191 {H4191=מוּת=to die}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 52,
           "text": "The Israelites will encamp, each in their own camp, and each by their own banner according to their divisions.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/צִבְאֹתָֽ/ם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./tziv.'o.Ta/m",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "military",
+                "wordIndex": 4
+              },
+              {
+                "text": "groups/",
+                "wordIndex": 5
+              },
+              {
+                "text": "their",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9005/{H6635A}/H9028\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncfpc/Sp3mp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H6635A",
+                "wordIndex": 9
+              },
+              {
+                "text": "H9005=ל=to/{H6635A=צָבָא=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "army»army:1_army}/H9028=Pp3m=their\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9028",
+                  "lemma": "הֶם",
+                  "translit": "hem",
+                  "morph": "Pp3m",
+                  "gloss": "their Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine plural",
+                  "raw": "H9028\tH9028 =\tH9028\tהֶם\them\tPp3m\ttheir\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L לְ/צִבְאֹתָֽ/ם\\׃ le./tziv.'o.Ta/m to/ military groups/ their H9005/{H6635A}/H9028\\H9016 HR/Ncfpc/Sp3mp H6635A H9005=ל=to/{H6635A=צָבָא=: army»army:1_army}/H9028=Pp3m=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 53,
           "text": "But the Levites will encamp around the tabernacle of the testimony, and there will not be wrath on the community of the Israelites; and the Levites will keep the requirements of the tabernacle of the testimony.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/עֵדֽוּת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'e.Dut",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "testimony",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H5715}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5715_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5715",
+                  "lemma": "עֵדוּת",
+                  "translit": "e.dut",
+                  "morph": "H:N-F",
+                  "gloss": "testimony testimony",
+                  "raw": "H5715\tH5715 =\tH5715\tעֵדוּת\te.dut\tH:N-F\ttestimony\ttestimony"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H5715=עֵדוּת=testimony}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L הָ/עֵדֽוּת\\׃ ha./'e.Dut the/ testimony H9009/{H5715}\\H9016 HTd/Ncfsa H5715_B H9009=ה=the/{H5715=עֵדוּת=testimony}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 54,
           "text": "And the Israelites did thus; they did everything that Yahweh commanded Moses.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עָשֽׂוּ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Su",
+                "wordIndex": 3
+              },
+              {
+                "text": "they",
+                "wordIndex": 4
+              },
+              {
+                "text": "did",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H6213A}\\H9016\\",
+                "wordIndex": 6
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HVqp3cp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H6213A_B",
+                "wordIndex": 9
+              },
+              {
+                "text": "{H6213A=עָשָׂה=:",
+                "wordIndex": 10
+              },
+              {
+                "text": "do»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "make:2_do;_perform}\\H9016=׃=verseEnd\\",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L עָשֽׂוּ\\׃\\ \\פ 'a.Su they did {H6213A}\\H9016\\ \\H9017 HVqp3cp H6213A_B {H6213A=עָשָׂה=: do»to make:2_do;_perform}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ],
       "nirv": [
@@ -57,49 +697,689 @@
           "chapter": 1,
           "verse": 47,
           "text": "But the families of the tribe of Levi were not counted along with the others.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/תוֹכָֽ/ם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "be./to.Kha/m",
+                "wordIndex": 3
+              },
+              {
+                "text": "in/",
+                "wordIndex": 4
+              },
+              {
+                "text": "midst",
+                "wordIndex": 5
+              },
+              {
+                "text": "of/",
+                "wordIndex": 6
+              },
+              {
+                "text": "them",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9003/{H8432}/H9028\\H9016\\",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3mp",
+                "wordIndex": 10
+              },
+              {
+                "text": "H8432",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H8432",
+                  "lemma": "תָּ֫וֶךְ",
+                  "translit": "ta.vekh",
+                  "morph": "H:N-M",
+                  "gloss": "midst 1) midst, middle<br>1a) midst, middle<br>1b) into, through (after verbs of motion)<br>1c) among (of a number of persons)<br>1d) between (of things arranged by twos)<br>1e) from among (as to take or separate etc)",
+                  "raw": "H8432\tH8432 =\tH8432\tתָּ֫וֶךְ\tta.vekh\tH:N-M\tmidst\t1) midst, middle<br>1a) midst, middle<br>1b) into, through (after verbs of motion)<br>1c) among (of a number of persons)<br>1d) between (of things arranged by twos)<br>1e) from among (as to take or separate etc)"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H8432=תָּ֫וֶךְ=midst}/H9028=Pp3m=their\\H9016=׃=verseEnd\\",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L בְּ/תוֹכָֽ/ם\\׃\\ \\פ be./to.Kha/m in/ midst of/ them H9003/{H8432}/H9028\\H9016\\ \\H9017 HR/Ncmsc/Sp3mp H8432 H9003=ב=in/{H8432=תָּ֫וֶךְ=midst}/H9028=Pp3m=their\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 48,
           "text": "The Lord had spoken to Moses. He had said,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵּ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L לֵּ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 49,
           "text": "“You must not count the men from the tribe of Levi. Do not include them when you list the other men of Israel.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִשְׂרָאֵֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yis.ra.'El",
+                "wordIndex": 2
+              },
+              {
+                "text": "Israel",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3478}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3478",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L יִשְׂרָאֵֽל\\׃ Yis.ra.'El Israel {H3478}\\H9016 HNpl H3478 {H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 50,
           "text": "“Instead, put the Levites in charge of the holy tent. That is where the tablets of the covenant are kept. The Levites will be in charge of everything that belongs to the holy tent. They must carry the tent and everything that belongs to it. They must take care of it. They must set up camp around it.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#26=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יַחֲנֽוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ya.cha.Nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "they",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "encamp",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H2583}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H2583",
+                  "lemma": "חָנָה",
+                  "translit": "cha.nah",
+                  "morph": "H:V",
+                  "gloss": "to camp 1) to decline, incline, encamp, bend down, lay siege against<br>1a) (Qal)<br>1a1) to decline<br>1a2) to encamp",
+                  "raw": "H2583\tH2583 =\tH2583\tחָנָה\tcha.nah\tH:V\tto camp\t1) to decline, incline, encamp, bend down, lay siege against<br>1a) (Qal)<br>1a1) to decline<br>1a2) to encamp"
+                }
+              },
+              {
+                "text": "HVqi3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H2583",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H2583",
+                  "lemma": "חָנָה",
+                  "translit": "cha.nah",
+                  "morph": "H:V",
+                  "gloss": "to camp 1) to decline, incline, encamp, bend down, lay siege against<br>1a) (Qal)<br>1a1) to decline<br>1a2) to encamp",
+                  "raw": "H2583\tH2583 =\tH2583\tחָנָה\tcha.nah\tH:V\tto camp\t1) to decline, incline, encamp, bend down, lay siege against<br>1a) (Qal)<br>1a1) to decline<br>1a2) to encamp"
+                }
+              },
+              {
+                "text": "{H2583=חָנָה=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2583",
+                  "lemma": "חָנָה",
+                  "translit": "cha.nah",
+                  "morph": "H:V",
+                  "gloss": "to camp 1) to decline, incline, encamp, bend down, lay siege against<br>1a) (Qal)<br>1a1) to decline<br>1a2) to encamp",
+                  "raw": "H2583\tH2583 =\tH2583\tחָנָה\tcha.nah\tH:V\tto camp\t1) to decline, incline, encamp, bend down, lay siege against<br>1a) (Qal)<br>1a1) to decline<br>1a2) to encamp"
+                }
+              },
+              {
+                "text": "camp}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#26=L יַחֲנֽוּ\\׃ ya.cha.Nu they will encamp {H2583}\\H9016 HVqi3mp H2583 {H2583=חָנָה=to camp}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 51,
           "text": "“When the holy tent must be moved, the Levites must take it down. And when the tent must be set up, the Levites must do it. Anyone else who goes near it will be put to death.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יוּמָֽת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "yu.Mat",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "be",
+                "wordIndex": 5
+              },
+              {
+                "text": "put",
+                "wordIndex": 6
+              },
+              {
+                "text": "to",
+                "wordIndex": 7
+              },
+              {
+                "text": "death",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H4191}\\H9016",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4191",
+                  "lemma": "מוּת",
+                  "translit": "mut",
+                  "morph": "H:V",
+                  "gloss": "to die 1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely",
+                  "raw": "H4191\tH4191 =\tH4191\tמוּת\tmut\tH:V\tto die\t1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely"
+                }
+              },
+              {
+                "text": "HVHi3ms",
+                "wordIndex": 10
+              },
+              {
+                "text": "H4191",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H4191",
+                  "lemma": "מוּת",
+                  "translit": "mut",
+                  "morph": "H:V",
+                  "gloss": "to die 1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely",
+                  "raw": "H4191\tH4191 =\tH4191\tמוּת\tmut\tH:V\tto die\t1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely"
+                }
+              },
+              {
+                "text": "{H4191=מוּת=to",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H4191",
+                  "lemma": "מוּת",
+                  "translit": "mut",
+                  "morph": "H:V",
+                  "gloss": "to die 1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely",
+                  "raw": "H4191\tH4191 =\tH4191\tמוּת\tmut\tH:V\tto die\t1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely"
+                }
+              },
+              {
+                "text": "die}\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L יוּמָֽת\\׃ yu.Mat he will be put to death {H4191}\\H9016 HVHi3ms H4191 {H4191=מוּת=to die}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 52,
           "text": "“The people of Israel must set up their tents by companies. All of them must be in their own camps under their own flags.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/צִבְאֹתָֽ/ם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./tziv.'o.Ta/m",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "military",
+                "wordIndex": 4
+              },
+              {
+                "text": "groups/",
+                "wordIndex": 5
+              },
+              {
+                "text": "their",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9005/{H6635A}/H9028\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncfpc/Sp3mp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H6635A",
+                "wordIndex": 9
+              },
+              {
+                "text": "H9005=ל=to/{H6635A=צָבָא=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "army»army:1_army}/H9028=Pp3m=their\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9028",
+                  "lemma": "הֶם",
+                  "translit": "hem",
+                  "morph": "Pp3m",
+                  "gloss": "their Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine plural",
+                  "raw": "H9028\tH9028 =\tH9028\tהֶם\them\tPp3m\ttheir\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L לְ/צִבְאֹתָֽ/ם\\׃ le./tziv.'o.Ta/m to/ military groups/ their H9005/{H6635A}/H9028\\H9016 HR/Ncfpc/Sp3mp H6635A H9005=ל=to/{H6635A=צָבָא=: army»army:1_army}/H9028=Pp3m=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 53,
           "text": "“But the Levites must set up their tents around the holy tent where the tablets of the covenant are kept. Then my anger will not fall on the community of Israel. The Levites will be held accountable for taking care of the tent.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/עֵדֽוּת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'e.Dut",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "testimony",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H5715}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5715_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5715",
+                  "lemma": "עֵדוּת",
+                  "translit": "e.dut",
+                  "morph": "H:N-F",
+                  "gloss": "testimony testimony",
+                  "raw": "H5715\tH5715 =\tH5715\tעֵדוּת\te.dut\tH:N-F\ttestimony\ttestimony"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H5715=עֵדוּת=testimony}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L הָ/עֵדֽוּת\\׃ ha./'e.Dut the/ testimony H9009/{H5715}\\H9016 HTd/Ncfsa H5715_B H9009=ה=the/{H5715=עֵדוּת=testimony}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 54,
           "text": "The people of Israel did everything just as the Lord had commanded Moses.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עָשֽׂוּ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Su",
+                "wordIndex": 3
+              },
+              {
+                "text": "they",
+                "wordIndex": 4
+              },
+              {
+                "text": "did",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H6213A}\\H9016\\",
+                "wordIndex": 6
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HVqp3cp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H6213A_B",
+                "wordIndex": 9
+              },
+              {
+                "text": "{H6213A=עָשָׂה=:",
+                "wordIndex": 10
+              },
+              {
+                "text": "do»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "make:2_do;_perform}\\H9016=׃=verseEnd\\",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L עָשֽׂוּ\\׃\\ \\פ 'a.Su they did {H6213A}\\H9016\\ \\H9017 HVqp3cp H6213A_B {H6213A=עָשָׂה=: do»to make:2_do;_perform}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ]
     }

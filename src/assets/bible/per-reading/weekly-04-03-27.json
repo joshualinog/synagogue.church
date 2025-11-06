@@ -7,49 +7,601 @@
           "chapter": 3,
           "verse": 15,
           "text": "And also I gave Gilead to Makir.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/גִּלְעָֽד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./gil.'Ad",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Gilead",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H1568G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1568G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1568",
+                  "lemma": "גִּלְעָד",
+                  "translit": "gil.ad",
+                  "morph": "N:N--L",
+                  "gloss": "(Ramoth)-gilead Gilead = \"rocky region\"<br>  a mountainous region bounded on the west by the Jordan, on the north by Bashan, on the east by the Arabian plateau, and on the south by Moab and Ammon; sometimes called 'Mount Gilead' or the 'land of Gilead' or just 'Gilead'. <BR>Combined with <i>ra.mot gi.l.ad</i> (רָמֹת  \"Ramoth\" H7433)",
+                  "raw": "H1568\tH1568M = a Part of\tH7433\tגִּלְעָד\tgil.ad\tN:N--L\t(Ramoth)-gilead\tGilead = \"rocky region\"<br>  a mountainous region bounded on the west by the Jordan, on the north by Bashan, on the east by the Arabian plateau, and on the south by Moab and Ammon; sometimes called 'Mount Gilead' or the 'land of Gilead' or just 'Gilead'. <BR>Combined with <i>ra.mot gi.l.ad</i> (רָמֹת  \"Ramoth\" H7433)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H1568G=גִּלְעָד=Gilead»Gilead@Gen.31.21-Zec}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L הַ/גִּלְעָֽד\\׃ ha./gil.'Ad <the>/ Gilead H9009/{H1568G}\\H9016 HTd/Npl H1568G H9009=ה=the/{H1568G=גִּלְעָד=Gilead»Gilead@Gen.31.21-Zec}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 3,
           "verse": 16,
           "text": "And to the Reubenites and to the Gadites I gave, from Gilead up to the wadi of Arnon, the middle of the wadi as a boundary and up to the Jabbok River, the boundary of the Ammonites.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עַמּֽוֹן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "a.Mon",
+                "wordIndex": 2
+              },
+              {
+                "text": "Ammon",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5983}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5983",
+                  "lemma": "עַמּוֹן",
+                  "translit": "am.mon",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ammon <BR> § Ammon = \"tribal\"<br> a people dwelling in Transjordan descended from Lot through Ben-ammi<br>",
+                  "raw": "H5983\tH5983 =\tH5983\tעַמּוֹן\tam.mon\tN:N-M-P\tAmmon\t <BR> § Ammon = \"tribal\"<br> a people dwelling in Transjordan descended from Lot through Ben-ammi<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5983",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5983",
+                  "lemma": "עַמּוֹן",
+                  "translit": "am.mon",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ammon <BR> § Ammon = \"tribal\"<br> a people dwelling in Transjordan descended from Lot through Ben-ammi<br>",
+                  "raw": "H5983\tH5983 =\tH5983\tעַמּוֹן\tam.mon\tN:N-M-P\tAmmon\t <BR> § Ammon = \"tribal\"<br> a people dwelling in Transjordan descended from Lot through Ben-ammi<br>"
+                }
+              },
+              {
+                "text": "{H5983=עַמּוֹן=Ammon»Ammon@Gen.19.38-Zep}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5983",
+                  "lemma": "עַמּוֹן",
+                  "translit": "am.mon",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ammon <BR> § Ammon = \"tribal\"<br> a people dwelling in Transjordan descended from Lot through Ben-ammi<br>",
+                  "raw": "H5983\tH5983 =\tH5983\tעַמּוֹן\tam.mon\tN:N-M-P\tAmmon\t <BR> § Ammon = \"tribal\"<br> a people dwelling in Transjordan descended from Lot through Ben-ammi<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L עַמּֽוֹן\\׃ a.Mon Ammon {H5983}\\H9016 HNpm H5983 {H5983=עַמּוֹן=Ammon»Ammon@Gen.19.38-Zep}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 3,
           "verse": 17,
           "text": "And the Jordan Valley with the Jordan River as its boundary, from Kinnereth up to the Sea of the Arabah, the Salt Sea, with the slopes of Pisgah toward the east.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִזְרָֽחָ/ה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "miz.Ra.cha/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "east/",
+                "wordIndex": 3
+              },
+              {
+                "text": "-ward",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4217H}/H9011\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4217",
+                  "lemma": "מִזְרָח",
+                  "translit": "miz.rach",
+                  "morph": "H:N-M",
+                  "gloss": "east 1) place of sunrise, east<br>1a) sunrise, east (with 'sun')<br>1b) the east (without 'sun')<br>1b1) to or toward the place of sunrise<br>1b2) to the east, eastward",
+                  "raw": "H4217\tH4217H =\tH4217H\tמִזְרָח\tmiz.rach\tH:N-M\teast\t1) place of sunrise, east<br>1a) sunrise, east (with 'sun')<br>1b) the east (without 'sun')<br>1b1) to or toward the place of sunrise<br>1b2) to the east, eastward"
+                }
+              },
+              {
+                "text": "HNcmsa/Sd",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4217H",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4217",
+                  "lemma": "מִזְרָח",
+                  "translit": "miz.rach",
+                  "morph": "H:N-M",
+                  "gloss": "east 1) place of sunrise, east<br>1a) sunrise, east (with 'sun')<br>1b) the east (without 'sun')<br>1b1) to or toward the place of sunrise<br>1b2) to the east, eastward",
+                  "raw": "H4217\tH4217H =\tH4217H\tמִזְרָח\tmiz.rach\tH:N-M\teast\t1) place of sunrise, east<br>1a) sunrise, east (with 'sun')<br>1b) the east (without 'sun')<br>1b1) to or toward the place of sunrise<br>1b2) to the east, eastward"
+                }
+              },
+              {
+                "text": "{H4217H=מִזְרָח=east}/H9011=ה=to\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4217",
+                  "lemma": "מִזְרָח",
+                  "translit": "miz.rach",
+                  "morph": "H:N-M",
+                  "gloss": "east 1) place of sunrise, east<br>1a) sunrise, east (with 'sun')<br>1b) the east (without 'sun')<br>1b1) to or toward the place of sunrise<br>1b2) to the east, eastward",
+                  "raw": "H4217\tH4217H =\tH4217H\tמִזְרָח\tmiz.rach\tH:N-M\teast\t1) place of sunrise, east<br>1a) sunrise, east (with 'sun')<br>1b) the east (without 'sun')<br>1b1) to or toward the place of sunrise<br>1b2) to the east, eastward"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L מִזְרָֽחָ/ה\\׃ miz.Ra.cha/h east/ -ward {H4217H}/H9011\\H9016 HNcmsa/Sd H4217H {H4217H=מִזְרָח=east}/H9011=ה=to\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 3,
           "verse": 18,
           "text": "“And I charged you all at that time when I said, “Yahweh has given you—to all of you—this land to possess. All the warriors shall cross over, ready to fight, before your brothers, the Israelites.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "חָֽיִל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Cha.yil",
+                "wordIndex": 2
+              },
+              {
+                "text": "strength",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H2428G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H2428",
+                  "lemma": "חַ֫יִל",
+                  "translit": "cha.yil",
+                  "morph": "H:N-M",
+                  "gloss": "strength: worthy : worthy<br>1) strength, might, efficiency, wealth, army<br>1a) strength<br>1b) ability, efficiency<br>1c) wealth<br>1d) force, army",
+                  "raw": "H2428\tH2428I = a Meaning of\tH2428G\tחַ֫יִל\tcha.yil\tH:N-M\tstrength: worthy\t: worthy<br>1) strength, might, efficiency, wealth, army<br>1a) strength<br>1b) ability, efficiency<br>1c) wealth<br>1d) force, army "
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H2428G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H2428",
+                  "lemma": "חַ֫יִל",
+                  "translit": "cha.yil",
+                  "morph": "H:N-M",
+                  "gloss": "strength: worthy : worthy<br>1) strength, might, efficiency, wealth, army<br>1a) strength<br>1b) ability, efficiency<br>1c) wealth<br>1d) force, army",
+                  "raw": "H2428\tH2428I = a Meaning of\tH2428G\tחַ֫יִל\tcha.yil\tH:N-M\tstrength: worthy\t: worthy<br>1) strength, might, efficiency, wealth, army<br>1a) strength<br>1b) ability, efficiency<br>1c) wealth<br>1d) force, army "
+                }
+              },
+              {
+                "text": "{H2428G=חַ֫יִל=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2428",
+                  "lemma": "חַ֫יִל",
+                  "translit": "cha.yil",
+                  "morph": "H:N-M",
+                  "gloss": "strength: worthy : worthy<br>1) strength, might, efficiency, wealth, army<br>1a) strength<br>1b) ability, efficiency<br>1c) wealth<br>1d) force, army",
+                  "raw": "H2428\tH2428I = a Meaning of\tH2428G\tחַ֫יִל\tcha.yil\tH:N-M\tstrength: worthy\t: worthy<br>1) strength, might, efficiency, wealth, army<br>1a) strength<br>1b) ability, efficiency<br>1c) wealth<br>1d) force, army "
+                }
+              },
+              {
+                "text": "strong»strength:1_strong}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#22=L חָֽיִל\\׃ Cha.yil strength {H2428G}\\H9016 HNcmsa H2428G {H2428G=חַ֫יִל=: strong»strength:1_strong}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 3,
           "verse": 19,
           "text": "Only your wives and your little children and your livestock (I know that you have much livestock) must stay in your towns that I have given you,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H9036}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Sp2mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9036_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9036",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Op2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural",
+                  "raw": "H9036\tH9036 =\tH9036\tכֶם\tkhem\tOp2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#14=L לָ/כֶֽם\\׃ la./Khem to/ you H9005/{H9036}\\H9016 HR/Sp2mp H9036_B H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 3,
           "verse": 20,
           "text": "until Yahweh shall give rest to your brothers as he did to you, and also they take possession of the land that Yahweh your God is giving to them beyond the Jordan; then they may return, each one to his possession that I have given to them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#24=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H9036}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Sp2mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9036_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9036",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Op2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural",
+                  "raw": "H9036\tH9036 =\tH9036\tכֶם\tkhem\tOp2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#24=L לָ/כֶֽם\\׃ la./Khem to/ you H9005/{H9036}\\H9016 HR/Sp2mp H9036_B H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 3,
           "verse": 21,
           "text": "And I commanded Joshua at that time, saying, ‘Your eyes see all that Yahweh your God has done to these two kings; so Yahweh will do to all of the kingdoms where you are about to cross over to.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#26=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שָֽׁמָּ/ה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Sha.ma/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "there/",
+                "wordIndex": 3
+              },
+              {
+                "text": "<towards>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H8033G}/H9011\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H8033",
+                  "lemma": "שָׁם",
+                  "translit": "sham",
+                  "morph": "H:Adv",
+                  "gloss": "(Jerusalem) Is There <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither",
+                  "raw": "H8033\tH8033H = a Part of\tH3389\tשָׁם\tsham\tH:Adv\t(Jerusalem) Is There\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither"
+                }
+              },
+              {
+                "text": "HD/Sd",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8033G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8033",
+                  "lemma": "שָׁם",
+                  "translit": "sham",
+                  "morph": "H:Adv",
+                  "gloss": "(Jerusalem) Is There <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither",
+                  "raw": "H8033\tH8033H = a Part of\tH3389\tשָׁם\tsham\tH:Adv\t(Jerusalem) Is There\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither"
+                }
+              },
+              {
+                "text": "{H8033G=שָׁם=there}/H9011=ה=to\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H8033",
+                  "lemma": "שָׁם",
+                  "translit": "sham",
+                  "morph": "H:Adv",
+                  "gloss": "(Jerusalem) Is There <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither",
+                  "raw": "H8033\tH8033H = a Part of\tH3389\tשָׁם\tsham\tH:Adv\t(Jerusalem) Is There\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither"
+                }
+              }
+            ],
+            "originalVerseText": "#26=L שָֽׁמָּ/ה\\׃ Sha.ma/h there/ <towards> {H8033G}/H9011\\H9016 HD/Sd H8033G {H8033G=שָׁם=there}/H9011=ה=to\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 3,
           "verse": 22,
           "text": "You shall not fear them, for Yahweh your God is the one fighting for you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/כֶֽם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "la./Khem",
+                "wordIndex": 3
+              },
+              {
+                "text": "for/",
+                "wordIndex": 4
+              },
+              {
+                "text": "you",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9036}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HR/Sp2mp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H9036",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9036",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Op2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural",
+                  "raw": "H9036\tH9036 =\tH9036\tכֶם\tkhem\tOp2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L לָ/כֶֽם\\׃\\ \\ס la./Khem for/ you H9005/{H9036}\\H9016\\ \\H9018 HR/Sp2mp H9036 H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         }
       ],
       "nirv": [
@@ -57,49 +609,601 @@
           "chapter": 3,
           "verse": 15,
           "text": "I gave Gilead to Makir.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/גִּלְעָֽד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./gil.'Ad",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Gilead",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H1568G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1568G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1568",
+                  "lemma": "גִּלְעָד",
+                  "translit": "gil.ad",
+                  "morph": "N:N--L",
+                  "gloss": "(Ramoth)-gilead Gilead = \"rocky region\"<br>  a mountainous region bounded on the west by the Jordan, on the north by Bashan, on the east by the Arabian plateau, and on the south by Moab and Ammon; sometimes called 'Mount Gilead' or the 'land of Gilead' or just 'Gilead'. <BR>Combined with <i>ra.mot gi.l.ad</i> (רָמֹת  \"Ramoth\" H7433)",
+                  "raw": "H1568\tH1568M = a Part of\tH7433\tגִּלְעָד\tgil.ad\tN:N--L\t(Ramoth)-gilead\tGilead = \"rocky region\"<br>  a mountainous region bounded on the west by the Jordan, on the north by Bashan, on the east by the Arabian plateau, and on the south by Moab and Ammon; sometimes called 'Mount Gilead' or the 'land of Gilead' or just 'Gilead'. <BR>Combined with <i>ra.mot gi.l.ad</i> (רָמֹת  \"Ramoth\" H7433)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H1568G=גִּלְעָד=Gilead»Gilead@Gen.31.21-Zec}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L הַ/גִּלְעָֽד\\׃ ha./gil.'Ad <the>/ Gilead H9009/{H1568G}\\H9016 HTd/Npl H1568G H9009=ה=the/{H1568G=גִּלְעָד=Gilead»Gilead@Gen.31.21-Zec}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 3,
           "verse": 16,
           "text": "But I gave to the tribes of Reuben and Gad the territory that reaches from Gilead down to the Arnon River valley. It reaches all the way to the Jabbok River. The Jabbok is the northern border of Ammon. The middle of the Arnon River valley is its southern border.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עַמּֽוֹן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "a.Mon",
+                "wordIndex": 2
+              },
+              {
+                "text": "Ammon",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5983}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5983",
+                  "lemma": "עַמּוֹן",
+                  "translit": "am.mon",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ammon <BR> § Ammon = \"tribal\"<br> a people dwelling in Transjordan descended from Lot through Ben-ammi<br>",
+                  "raw": "H5983\tH5983 =\tH5983\tעַמּוֹן\tam.mon\tN:N-M-P\tAmmon\t <BR> § Ammon = \"tribal\"<br> a people dwelling in Transjordan descended from Lot through Ben-ammi<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5983",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5983",
+                  "lemma": "עַמּוֹן",
+                  "translit": "am.mon",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ammon <BR> § Ammon = \"tribal\"<br> a people dwelling in Transjordan descended from Lot through Ben-ammi<br>",
+                  "raw": "H5983\tH5983 =\tH5983\tעַמּוֹן\tam.mon\tN:N-M-P\tAmmon\t <BR> § Ammon = \"tribal\"<br> a people dwelling in Transjordan descended from Lot through Ben-ammi<br>"
+                }
+              },
+              {
+                "text": "{H5983=עַמּוֹן=Ammon»Ammon@Gen.19.38-Zep}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5983",
+                  "lemma": "עַמּוֹן",
+                  "translit": "am.mon",
+                  "morph": "N:N-M-P",
+                  "gloss": "Ammon <BR> § Ammon = \"tribal\"<br> a people dwelling in Transjordan descended from Lot through Ben-ammi<br>",
+                  "raw": "H5983\tH5983 =\tH5983\tעַמּוֹן\tam.mon\tN:N-M-P\tAmmon\t <BR> § Ammon = \"tribal\"<br> a people dwelling in Transjordan descended from Lot through Ben-ammi<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L עַמּֽוֹן\\׃ a.Mon Ammon {H5983}\\H9016 HNpm H5983 {H5983=עַמּוֹן=Ammon»Ammon@Gen.19.38-Zep}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 3,
           "verse": 17,
           "text": "The western border of Reuben and Gad is the Jordan River in the Arabah Valley. It reaches from the Sea of Galilee to the Dead Sea. It runs below the slopes of Pisgah.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִזְרָֽחָ/ה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "miz.Ra.cha/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "east/",
+                "wordIndex": 3
+              },
+              {
+                "text": "-ward",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4217H}/H9011\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4217",
+                  "lemma": "מִזְרָח",
+                  "translit": "miz.rach",
+                  "morph": "H:N-M",
+                  "gloss": "east 1) place of sunrise, east<br>1a) sunrise, east (with 'sun')<br>1b) the east (without 'sun')<br>1b1) to or toward the place of sunrise<br>1b2) to the east, eastward",
+                  "raw": "H4217\tH4217H =\tH4217H\tמִזְרָח\tmiz.rach\tH:N-M\teast\t1) place of sunrise, east<br>1a) sunrise, east (with 'sun')<br>1b) the east (without 'sun')<br>1b1) to or toward the place of sunrise<br>1b2) to the east, eastward"
+                }
+              },
+              {
+                "text": "HNcmsa/Sd",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4217H",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4217",
+                  "lemma": "מִזְרָח",
+                  "translit": "miz.rach",
+                  "morph": "H:N-M",
+                  "gloss": "east 1) place of sunrise, east<br>1a) sunrise, east (with 'sun')<br>1b) the east (without 'sun')<br>1b1) to or toward the place of sunrise<br>1b2) to the east, eastward",
+                  "raw": "H4217\tH4217H =\tH4217H\tמִזְרָח\tmiz.rach\tH:N-M\teast\t1) place of sunrise, east<br>1a) sunrise, east (with 'sun')<br>1b) the east (without 'sun')<br>1b1) to or toward the place of sunrise<br>1b2) to the east, eastward"
+                }
+              },
+              {
+                "text": "{H4217H=מִזְרָח=east}/H9011=ה=to\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4217",
+                  "lemma": "מִזְרָח",
+                  "translit": "miz.rach",
+                  "morph": "H:N-M",
+                  "gloss": "east 1) place of sunrise, east<br>1a) sunrise, east (with 'sun')<br>1b) the east (without 'sun')<br>1b1) to or toward the place of sunrise<br>1b2) to the east, eastward",
+                  "raw": "H4217\tH4217H =\tH4217H\tמִזְרָח\tmiz.rach\tH:N-M\teast\t1) place of sunrise, east<br>1a) sunrise, east (with 'sun')<br>1b) the east (without 'sun')<br>1b1) to or toward the place of sunrise<br>1b2) to the east, eastward"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L מִזְרָֽחָ/ה\\׃ miz.Ra.cha/h east/ -ward {H4217H}/H9011\\H9016 HNcmsa/Sd H4217H {H4217H=מִזְרָח=east}/H9011=ה=to\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 3,
           "verse": 18,
           "text": "Here is the command I gave at that time to the tribes of Reuben and Gad and half of the tribe of Manasseh. I said, “The Lord your God has given you this land as your very own. But all of your strong men must be prepared for battle. They must cross over ahead of the rest of your fellow Israelites.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "חָֽיִל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Cha.yil",
+                "wordIndex": 2
+              },
+              {
+                "text": "strength",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H2428G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H2428",
+                  "lemma": "חַ֫יִל",
+                  "translit": "cha.yil",
+                  "morph": "H:N-M",
+                  "gloss": "strength: worthy : worthy<br>1) strength, might, efficiency, wealth, army<br>1a) strength<br>1b) ability, efficiency<br>1c) wealth<br>1d) force, army",
+                  "raw": "H2428\tH2428I = a Meaning of\tH2428G\tחַ֫יִל\tcha.yil\tH:N-M\tstrength: worthy\t: worthy<br>1) strength, might, efficiency, wealth, army<br>1a) strength<br>1b) ability, efficiency<br>1c) wealth<br>1d) force, army "
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H2428G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H2428",
+                  "lemma": "חַ֫יִל",
+                  "translit": "cha.yil",
+                  "morph": "H:N-M",
+                  "gloss": "strength: worthy : worthy<br>1) strength, might, efficiency, wealth, army<br>1a) strength<br>1b) ability, efficiency<br>1c) wealth<br>1d) force, army",
+                  "raw": "H2428\tH2428I = a Meaning of\tH2428G\tחַ֫יִל\tcha.yil\tH:N-M\tstrength: worthy\t: worthy<br>1) strength, might, efficiency, wealth, army<br>1a) strength<br>1b) ability, efficiency<br>1c) wealth<br>1d) force, army "
+                }
+              },
+              {
+                "text": "{H2428G=חַ֫יִל=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2428",
+                  "lemma": "חַ֫יִל",
+                  "translit": "cha.yil",
+                  "morph": "H:N-M",
+                  "gloss": "strength: worthy : worthy<br>1) strength, might, efficiency, wealth, army<br>1a) strength<br>1b) ability, efficiency<br>1c) wealth<br>1d) force, army",
+                  "raw": "H2428\tH2428I = a Meaning of\tH2428G\tחַ֫יִל\tcha.yil\tH:N-M\tstrength: worthy\t: worthy<br>1) strength, might, efficiency, wealth, army<br>1a) strength<br>1b) ability, efficiency<br>1c) wealth<br>1d) force, army "
+                }
+              },
+              {
+                "text": "strong»strength:1_strong}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#22=L חָֽיִל\\׃ Cha.yil strength {H2428G}\\H9016 HNcmsa H2428G {H2428G=חַ֫יִל=: strong»strength:1_strong}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 3,
           "verse": 19,
           "text": "“But your wives and children can stay in the towns I’ve given you. You can keep your livestock there too. I know you have a lot of livestock.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H9036}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Sp2mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9036_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9036",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Op2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural",
+                  "raw": "H9036\tH9036 =\tH9036\tכֶם\tkhem\tOp2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#14=L לָ/כֶֽם\\׃ la./Khem to/ you H9005/{H9036}\\H9016 HR/Sp2mp H9036_B H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 3,
           "verse": 20,
           "text": "Let your families and livestock stay in those towns until the Lord gives peace and rest to the other tribes, just as he has given you peace and rest. And let them stay until the other tribes have taken over the land the Lord your God is giving them. That land is across the Jordan River. After that, each of you may go back to the land I’ve given you as your very own.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#24=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H9036}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Sp2mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9036_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9036",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Op2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural",
+                  "raw": "H9036\tH9036 =\tH9036\tכֶם\tkhem\tOp2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#24=L לָ/כֶֽם\\׃ la./Khem to/ you H9005/{H9036}\\H9016 HR/Sp2mp H9036_B H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 3,
           "verse": 21,
           "text": "At that time I gave Joshua a command. I said, “Your own eyes have seen everything the Lord your God has done to Sihon and Og. He will do the same thing to all of the kingdoms in the land where you are going.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#26=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שָֽׁמָּ/ה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Sha.ma/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "there/",
+                "wordIndex": 3
+              },
+              {
+                "text": "<towards>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H8033G}/H9011\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H8033",
+                  "lemma": "שָׁם",
+                  "translit": "sham",
+                  "morph": "H:Adv",
+                  "gloss": "(Jerusalem) Is There <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither",
+                  "raw": "H8033\tH8033H = a Part of\tH3389\tשָׁם\tsham\tH:Adv\t(Jerusalem) Is There\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither"
+                }
+              },
+              {
+                "text": "HD/Sd",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8033G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8033",
+                  "lemma": "שָׁם",
+                  "translit": "sham",
+                  "morph": "H:Adv",
+                  "gloss": "(Jerusalem) Is There <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither",
+                  "raw": "H8033\tH8033H = a Part of\tH3389\tשָׁם\tsham\tH:Adv\t(Jerusalem) Is There\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither"
+                }
+              },
+              {
+                "text": "{H8033G=שָׁם=there}/H9011=ה=to\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H8033",
+                  "lemma": "שָׁם",
+                  "translit": "sham",
+                  "morph": "H:Adv",
+                  "gloss": "(Jerusalem) Is There <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither",
+                  "raw": "H8033\tH8033H = a Part of\tH3389\tשָׁם\tsham\tH:Adv\t(Jerusalem) Is There\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither"
+                }
+              }
+            ],
+            "originalVerseText": "#26=L שָֽׁמָּ/ה\\׃ Sha.ma/h there/ <towards> {H8033G}/H9011\\H9016 HD/Sd H8033G {H8033G=שָׁם=there}/H9011=ה=to\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 3,
           "verse": 22,
           "text": "Don’t be afraid of them. The Lord your God himself will fight for you.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/כֶֽם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "la./Khem",
+                "wordIndex": 3
+              },
+              {
+                "text": "for/",
+                "wordIndex": 4
+              },
+              {
+                "text": "you",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9036}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HR/Sp2mp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H9036",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9036",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Op2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural",
+                  "raw": "H9036\tH9036 =\tH9036\tכֶם\tkhem\tOp2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L לָ/כֶֽם\\׃\\ \\ס la./Khem for/ you H9005/{H9036}\\H9016\\ \\H9018 HR/Sp2mp H9036 H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         }
       ]
     }

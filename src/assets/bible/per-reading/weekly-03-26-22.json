@@ -7,103 +7,1272 @@
           "chapter": 21,
           "verse": 5,
           "text": "And Abraham was one hundred years old when Isaac his son was born to him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּנֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be.N/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "son/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H1121A}/H9023\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HNcmsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1121A_B",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H1121A=בֵּן=:",
+                "wordIndex": 8
+              },
+              {
+                "text": "child»son:1_child;_son}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L בְּנֽ/וֹ\\׃ be.N/o son/ his {H1121A}/H9023\\H9016 HNcmsc/Sp3ms H1121A_B {H1121A=בֵּן=: child»son:1_child;_son}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 6,
           "text": "And Sarah said, “God has made laughter for me; all who hear will laugh for me.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לִֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "L/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "me",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9030}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp1bs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9030_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9030",
+                  "lemma": "נִי",
+                  "translit": "ni",
+                  "morph": "Os1c",
+                  "gloss": "me Personal object pronoun -  suffix for propositions and verbs without an object: 1st person singular",
+                  "raw": "H9030\tH9030 =\tH9030\tנִי\tni\tOs1c\tme\tPersonal object pronoun -  suffix for propositions and verbs without an object: 1st person singular"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9030=Os1c=me}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#10=L לִֽ/י\\׃ L/i to <the>/ me H9005/{H9030}\\H9016 HRd/Sp1bs H9030_B H9005=ל=to/{H9030=Os1c=me}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 7,
           "text": "And she said, “Who would announce to Abraham that Sarah would nurse children? Yet I have borne a son to Abraham in his old age.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לִ/זְקֻנָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "li/z.ku.Na/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "of/",
+                "wordIndex": 3
+              },
+              {
+                "text": "old",
+                "wordIndex": 4
+              },
+              {
+                "text": "age<s>/",
+                "wordIndex": 5
+              },
+              {
+                "text": "his",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9005/{H2208}/H9023\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmpc/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2208",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2208",
+                  "lemma": "זְקֻנִים",
+                  "translit": "za.qun",
+                  "morph": "H:N-M",
+                  "gloss": "extreme age old age, extreme old age",
+                  "raw": "H2208\tH2208 =\tH2208\tזְקֻנִים\tza.qun\tH:N-M\textreme age\told age, extreme old age"
+                }
+              },
+              {
+                "text": "H2207",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H2207",
+                  "lemma": "זֹ֫קֶן",
+                  "translit": "zo.qen",
+                  "morph": "H:N-M",
+                  "gloss": "old age old age",
+                  "raw": "H2207\tH2207 =\tH2207\tזֹ֫קֶן\tzo.qen\tH:N-M\told age\told age"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H2208=זְקֻנִים=extreme",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "age}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L לִ/זְקֻנָֽי/ו\\׃ li/z.ku.Na/v of/ old age<s>/ his H9005/{H2208}/H9023\\H9016 HR/Ncmpc/Sp3ms H2208 H2207 H9005=ל=to/{H2208=זְקֻנִים=extreme age}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 8,
           "text": "And the child grew and was weaned. And Abraham made a great feast on the day Isaac was weaned.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִצְחָֽק\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "yitz.Chak",
+                "wordIndex": 2
+              },
+              {
+                "text": "Isaac",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3327}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3327",
+                  "lemma": "יִצְחָק",
+                  "translit": "yits.chaq",
+                  "morph": "N:N-M-P",
+                  "gloss": "Isaac A man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>",
+                  "raw": "H3327\tH3327 =\tH3327\tיִצְחָק\tyits.chaq\tN:N-M-P\tIsaac\tA man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3327",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3327",
+                  "lemma": "יִצְחָק",
+                  "translit": "yits.chaq",
+                  "morph": "N:N-M-P",
+                  "gloss": "Isaac A man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>",
+                  "raw": "H3327\tH3327 =\tH3327\tיִצְחָק\tyits.chaq\tN:N-M-P\tIsaac\tA man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>"
+                }
+              },
+              {
+                "text": "{H3327=יִצְחָק=Isaac»Isaac@Gen.17.19-Jas}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3327",
+                  "lemma": "יִצְחָק",
+                  "translit": "yits.chaq",
+                  "morph": "N:N-M-P",
+                  "gloss": "Isaac A man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>",
+                  "raw": "H3327\tH3327 =\tH3327\tיִצְחָק\tyits.chaq\tN:N-M-P\tIsaac\tA man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L יִצְחָֽק\\׃ yitz.Chak Isaac {H3327}\\H9016 HNpm H3327 {H3327=יִצְחָק=Isaac»Isaac@Gen.17.19-Jas}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 9,
           "text": "And Sarah saw the son of Hagar the Egyptian, whom she had borne Abraham, mocking.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מְצַחֵֽק\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "me.tza.Chek",
+                "wordIndex": 2
+              },
+              {
+                "text": "mocking",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6711}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6711",
+                  "lemma": "צָחַק",
+                  "translit": "tsa.chaq",
+                  "morph": "H:V",
+                  "gloss": "to laugh 1) to laugh, mock, play<br>1a) (Qal) to laugh<br>1b) (Piel)<br>1b1) to jest<br>1b2) to sport, play, make sport, toy with, make a toy of",
+                  "raw": "H6711\tH6711 =\tH6711\tצָחַק\ttsa.chaq\tH:V\tto laugh\t1) to laugh, mock, play<br>1a) (Qal) to laugh<br>1b) (Piel)<br>1b1) to jest<br>1b2) to sport, play, make sport, toy with, make a toy of"
+                }
+              },
+              {
+                "text": "HVprmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6711",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6711",
+                  "lemma": "צָחַק",
+                  "translit": "tsa.chaq",
+                  "morph": "H:V",
+                  "gloss": "to laugh 1) to laugh, mock, play<br>1a) (Qal) to laugh<br>1b) (Piel)<br>1b1) to jest<br>1b2) to sport, play, make sport, toy with, make a toy of",
+                  "raw": "H6711\tH6711 =\tH6711\tצָחַק\ttsa.chaq\tH:V\tto laugh\t1) to laugh, mock, play<br>1a) (Qal) to laugh<br>1b) (Piel)<br>1b1) to jest<br>1b2) to sport, play, make sport, toy with, make a toy of"
+                }
+              },
+              {
+                "text": "{H6711=צָחַק=to",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6711",
+                  "lemma": "צָחַק",
+                  "translit": "tsa.chaq",
+                  "morph": "H:V",
+                  "gloss": "to laugh 1) to laugh, mock, play<br>1a) (Qal) to laugh<br>1b) (Piel)<br>1b1) to jest<br>1b2) to sport, play, make sport, toy with, make a toy of",
+                  "raw": "H6711\tH6711 =\tH6711\tצָחַק\ttsa.chaq\tH:V\tto laugh\t1) to laugh, mock, play<br>1a) (Qal) to laugh<br>1b) (Piel)<br>1b1) to jest<br>1b2) to sport, play, make sport, toy with, make a toy of"
+                }
+              },
+              {
+                "text": "laugh}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L מְצַחֵֽק\\׃ me.tza.Chek mocking {H6711}\\H9016 HVprmsa H6711 {H6711=צָחַק=to laugh}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 10,
           "text": "Then she said to Abraham, “Drive out this slave woman and her son, for the son of this slave woman will not be heir with my son, with Isaac.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִצְחָֽק\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "yitz.Chak",
+                "wordIndex": 2
+              },
+              {
+                "text": "Isaac",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3327}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3327",
+                  "lemma": "יִצְחָק",
+                  "translit": "yits.chaq",
+                  "morph": "N:N-M-P",
+                  "gloss": "Isaac A man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>",
+                  "raw": "H3327\tH3327 =\tH3327\tיִצְחָק\tyits.chaq\tN:N-M-P\tIsaac\tA man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3327",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3327",
+                  "lemma": "יִצְחָק",
+                  "translit": "yits.chaq",
+                  "morph": "N:N-M-P",
+                  "gloss": "Isaac A man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>",
+                  "raw": "H3327\tH3327 =\tH3327\tיִצְחָק\tyits.chaq\tN:N-M-P\tIsaac\tA man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>"
+                }
+              },
+              {
+                "text": "{H3327=יִצְחָק=Isaac»Isaac@Gen.17.19-Jas}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3327",
+                  "lemma": "יִצְחָק",
+                  "translit": "yits.chaq",
+                  "morph": "N:N-M-P",
+                  "gloss": "Isaac A man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>",
+                  "raw": "H3327\tH3327 =\tH3327\tיִצְחָק\tyits.chaq\tN:N-M-P\tIsaac\tA man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L יִצְחָֽק\\׃ yitz.Chak Isaac {H3327}\\H9016 HNpm H3327 {H3327=יִצְחָק=Isaac»Isaac@Gen.17.19-Jas}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 11,
           "text": "And the matter displeased Abraham very much on account of his son.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּנֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be.N/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "son/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H1121A}/H9023\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HNcmsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1121A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H1121A=בֵּן=:",
+                "wordIndex": 8
+              },
+              {
+                "text": "child»son:1_child;_son}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L בְּנֽ/וֹ\\׃ be.N/o son/ his {H1121A}/H9023\\H9016 HNcmsc/Sp3ms H1121A {H1121A=בֵּן=: child»son:1_child;_son}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 12,
           "text": "Then God said to Abraham, “Do not be displeased on account of the boy and on account of the slave woman. Listen to everything that Sarah said to you, for through Isaac your offspring will be named.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "זָֽרַע\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Za.ra'",
+                "wordIndex": 2
+              },
+              {
+                "text": "offspring",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H2233H}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H2233",
+                  "lemma": "זֶ֫רַע",
+                  "translit": "ze.ra",
+                  "morph": "H:N-M",
+                  "gloss": "seed: semen : semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)",
+                  "raw": "H2233\tH2233I = a Meaning of\tH2233G\tזֶ֫רַע\tze.ra\tH:N-M\tseed: semen\t: semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H2233H",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H2233",
+                  "lemma": "זֶ֫רַע",
+                  "translit": "ze.ra",
+                  "morph": "H:N-M",
+                  "gloss": "seed: semen : semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)",
+                  "raw": "H2233\tH2233I = a Meaning of\tH2233G\tזֶ֫רַע\tze.ra\tH:N-M\tseed: semen\t: semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)"
+                }
+              },
+              {
+                "text": "{H2233H=זֶ֫רַע=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2233",
+                  "lemma": "זֶ֫רַע",
+                  "translit": "ze.ra",
+                  "morph": "H:N-M",
+                  "gloss": "seed: semen : semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)",
+                  "raw": "H2233\tH2233I = a Meaning of\tH2233G\tזֶ֫רַע\tze.ra\tH:N-M\tseed: semen\t: semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)"
+                }
+              },
+              {
+                "text": "children»seed:2_children;_descendants}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#23=L זָֽרַע\\׃ Za.ra' offspring {H2233H}\\H9016 HNcmsa H2233H {H2233H=זֶ֫רַע=: children»seed:2_children;_descendants}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 13,
           "text": "And I will also make the son of the slave woman into a nation, for he is your offspring.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הֽוּא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Hu'",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1931}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "HPp3ms",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1931",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L הֽוּא\\׃ Hu' he {H1931}\\H9016 HPp3ms H1931 {H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 14,
           "text": "Then Abraham rose up early in the morning and took bread and a skin of water and gave it to Hagar, putting it on her shoulder. And he sent her away with the child, and she went, wandering about in the wilderness, in Beersheba.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שָֽׁבַע\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Sha.va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "Sheba",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0884}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0884",
+                  "lemma": "בְּאֵר שֶׁ֫בַע",
+                  "translit": "be.er she.va",
+                  "morph": "N:N--L",
+                  "gloss": "Beersheba <BR> § Beer-sheba = \"well of the sevenfold oath\"<br> a city at the south edge of Israel<br>",
+                  "raw": "H0884\tH0884 =\tH0884\tבְּאֵר שֶׁ֫בַע\tbe.er she.va\tN:N--L\tBeersheba\t <BR> § Beer-sheba = \"well of the sevenfold oath\"<br> a city at the south edge of Israel<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0884_b",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0884",
+                  "lemma": "בְּאֵר שֶׁ֫בַע",
+                  "translit": "be.er she.va",
+                  "morph": "N:N--L",
+                  "gloss": "Beersheba <BR> § Beer-sheba = \"well of the sevenfold oath\"<br> a city at the south edge of Israel<br>",
+                  "raw": "H0884\tH0884 =\tH0884\tבְּאֵר שֶׁ֫בַע\tbe.er she.va\tN:N--L\tBeersheba\t <BR> § Beer-sheba = \"well of the sevenfold oath\"<br> a city at the south edge of Israel<br>"
+                }
+              },
+              {
+                "text": "{H0884=בְּאֵר",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0884",
+                  "lemma": "בְּאֵר שֶׁ֫בַע",
+                  "translit": "be.er she.va",
+                  "morph": "N:N--L",
+                  "gloss": "Beersheba <BR> § Beer-sheba = \"well of the sevenfold oath\"<br> a city at the south edge of Israel<br>",
+                  "raw": "H0884\tH0884 =\tH0884\tבְּאֵר שֶׁ֫בַע\tbe.er she.va\tN:N--L\tBeersheba\t <BR> § Beer-sheba = \"well of the sevenfold oath\"<br> a city at the south edge of Israel<br>"
+                }
+              },
+              {
+                "text": "שֶׁ֫בַע=Beersheba»Beersheba@Gen.21.14-Amo}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L שָֽׁבַע\\׃ Sha.va' Sheba {H0884}\\H9016 HNpl H0884_b {H0884=בְּאֵר שֶׁ֫בַע=Beersheba»Beersheba@Gen.21.14-Amo}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 15,
           "text": "And when the water was finished from the skin, she put the child under one of the bushes.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/שִּׂיחִֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./si.Chim",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "bushes",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H7880}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7880",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7880",
+                  "lemma": "שִׂיחַ",
+                  "translit": "si.ach",
+                  "morph": "H:N-M",
+                  "gloss": "bush bush, plant, shrub",
+                  "raw": "H7880\tH7880 =\tH7880\tשִׂיחַ\tsi.ach\tH:N-M\tbush\tbush, plant, shrub"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H7880=שִׂיחַ=bush}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הַ/שִּׂיחִֽם\\׃ ha./si.Chim the/ bushes H9009/{H7880}\\H9016 HTd/Ncmpa H7880 H9009=ה=the/{H7880=שִׂיחַ=bush}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 16,
           "text": "And she went and she sat a good distance away, for she said, “Let me not see the child’s death.” So she sat away from him and lifted up her voice and wept.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/תֵּֽבְךְּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./Te.vek",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "she",
+                "wordIndex": 4
+              },
+              {
+                "text": "wept",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9001/{H1058}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqw3fs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1058",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1058",
+                  "lemma": "בָּכָה",
+                  "translit": "ba.khah",
+                  "morph": "H:V",
+                  "gloss": "to weep 1) to weep, bewail, cry, shed tears<br>1a) (Qal)<br>1a1) to weep (in grief, humiliation, or joy)<br>1a2) to weep bitterly (with cognate acc.)<br>1a3) to weep upon (embrace and weep)<br>1a4) to bewail<br>1b) (Piel) participle<br>1b1) lamenting<br>1b2) bewailing",
+                  "raw": "H1058\tH1058 =\tH1058\tבָּכָה\tba.khah\tH:V\tto weep\t1) to weep, bewail, cry, shed tears<br>1a) (Qal)<br>1a1) to weep (in grief, humiliation, or joy)<br>1a2) to weep bitterly (with cognate acc.)<br>1a3) to weep upon (embrace and weep)<br>1a4) to bewail<br>1b) (Piel) participle<br>1b1) lamenting<br>1b2) bewailing"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H1058=בָּכָה=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "weep}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L וַ/תֵּֽבְךְּ\\׃ va./Te.vek and/ she wept H9001/{H1058}\\H9016 Hc/Vqw3fs H1058 H9001=ו=&/{H1058=בָּכָה=to weep}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 17,
           "text": "And God heard the cry of the boy and the angel of God called to Hagar from the heavens and said to her, “What is the matter Hagar? Do not be afraid, for God has heard the cry of the boy from where he is.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#28=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שָֽׁם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Sham",
+                "wordIndex": 2
+              },
+              {
+                "text": "[is]",
+                "wordIndex": 3
+              },
+              {
+                "text": "there",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H8033G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H8033",
+                  "lemma": "שָׁם",
+                  "translit": "sham",
+                  "morph": "H:Adv",
+                  "gloss": "(Jerusalem) Is There <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither",
+                  "raw": "H8033\tH8033H = a Part of\tH3389\tשָׁם\tsham\tH:Adv\t(Jerusalem) Is There\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither"
+                }
+              },
+              {
+                "text": "HD",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8033G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8033",
+                  "lemma": "שָׁם",
+                  "translit": "sham",
+                  "morph": "H:Adv",
+                  "gloss": "(Jerusalem) Is There <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither",
+                  "raw": "H8033\tH8033H = a Part of\tH3389\tשָׁם\tsham\tH:Adv\t(Jerusalem) Is There\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither"
+                }
+              },
+              {
+                "text": "{H8033G=שָׁם=there}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H8033",
+                  "lemma": "שָׁם",
+                  "translit": "sham",
+                  "morph": "H:Adv",
+                  "gloss": "(Jerusalem) Is There <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither",
+                  "raw": "H8033\tH8033H = a Part of\tH3389\tשָׁם\tsham\tH:Adv\t(Jerusalem) Is There\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither"
+                }
+              }
+            ],
+            "originalVerseText": "#28=L שָֽׁם\\׃ Sham [is] there {H8033G}\\H9016 HD H8033G {H8033G=שָׁם=there}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 18,
           "text": "Get up, take up the boy and take him with your hand, for I will make him a great nation.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֲשִׂימֶֽ/נּוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.si.Me./nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "I",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "make/",
+                "wordIndex": 5
+              },
+              {
+                "text": "him",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H7760A}/H9033\\H9016",
+                "wordIndex": 7
+              },
+              {
+                "text": "HVqi1cs/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H7760A",
+                "wordIndex": 9
+              },
+              {
+                "text": "{H7760A=שׂוּם=:",
+                "wordIndex": 10
+              },
+              {
+                "text": "make»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "set:1_make;_establish}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L אֲשִׂימֶֽ/נּוּ\\׃ 'a.si.Me./nu I will make/ him {H7760A}/H9033\\H9016 HVqi1cs/Sp3ms H7760A {H7760A=שׂוּם=: make»to set:1_make;_establish}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 19,
           "text": "And God opened her eyes, and she saw a well of water. And she went and filled the skin with water and gave a drink to the boy.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/נָּֽעַר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Na.'ar",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "lad",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H5288}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5288",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5288",
+                  "lemma": "נַ֫עַר",
+                  "translit": "na.ar",
+                  "morph": "H:N-M",
+                  "gloss": "youth 1) a boy, lad, servant, youth, retainer<br>1a) boy, lad, youth<br>1b) servant, retainer",
+                  "raw": "H5288\tH5288 =\tH5288\tנַ֫עַר\tna.ar\tH:N-M\tyouth\t1) a boy, lad, servant, youth, retainer<br>1a) boy, lad, youth<br>1b) servant, retainer"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H5288=נַ֫עַר=youth}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L הַ/נָּֽעַר\\׃ ha./Na.'ar the/ lad H9009/{H5288}\\H9016 HTd/Ncmsa H5288 H9009=ה=the/{H5288=נַ֫עַר=youth}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 20,
           "text": "And God was with the boy, and he grew and lived in the wilderness. And he became an expert with a bow.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "קַשָּֽׁת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ka.Shat",
+                "wordIndex": 2
+              },
+              {
+                "text": "a",
+                "wordIndex": 3
+              },
+              {
+                "text": "bowman",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7199}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H7199",
+                  "lemma": "קַשָּׁת",
+                  "translit": "qash.shat",
+                  "morph": "H:N-M",
+                  "gloss": "bowman bowman, archer",
+                  "raw": "H7199\tH7199 =\tH7199\tקַשָּׁת\tqash.shat\tH:N-M\tbowman\tbowman, archer"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7199",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7199",
+                  "lemma": "קַשָּׁת",
+                  "translit": "qash.shat",
+                  "morph": "H:N-M",
+                  "gloss": "bowman bowman, archer",
+                  "raw": "H7199\tH7199 =\tH7199\tקַשָּׁת\tqash.shat\tH:N-M\tbowman\tbowman, archer"
+                }
+              },
+              {
+                "text": "{H7199=קַשָּׁת=bowman}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7199",
+                  "lemma": "קַשָּׁת",
+                  "translit": "qash.shat",
+                  "morph": "H:N-M",
+                  "gloss": "bowman bowman, archer",
+                  "raw": "H7199\tH7199 =\tH7199\tקַשָּׁת\tqash.shat\tH:N-M\tbowman\tbowman, archer"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L קַשָּֽׁת\\׃ ka.Shat a bowman {H7199}\\H9016 HNcmsa H7199 {H7199=קַשָּׁת=bowman}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 21,
           "text": "And he lived in the wilderness of Paran. And his mother took a wife for him from the land of Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיִם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "mitz.Ra.yim",
+                "wordIndex": 3
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4714G}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L מִצְרָֽיִם\\׃\\ \\פ mitz.Ra.yim Egypt {H4714G}\\H9016\\ \\H9017 HNpl H4714G {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ],
       "nirv": [
@@ -111,103 +1280,1272 @@
           "chapter": 21,
           "verse": 5,
           "text": "Abraham was 100 years old when his son Isaac was born to him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּנֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be.N/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "son/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H1121A}/H9023\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HNcmsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1121A_B",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H1121A=בֵּן=:",
+                "wordIndex": 8
+              },
+              {
+                "text": "child»son:1_child;_son}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L בְּנֽ/וֹ\\׃ be.N/o son/ his {H1121A}/H9023\\H9016 HNcmsc/Sp3ms H1121A_B {H1121A=בֵּן=: child»son:1_child;_son}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 6,
           "text": "Sarah said, “God has given laughter to me. Everyone who hears about this will laugh with me.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לִֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "L/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "me",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9030}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp1bs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9030_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9030",
+                  "lemma": "נִי",
+                  "translit": "ni",
+                  "morph": "Os1c",
+                  "gloss": "me Personal object pronoun -  suffix for propositions and verbs without an object: 1st person singular",
+                  "raw": "H9030\tH9030 =\tH9030\tנִי\tni\tOs1c\tme\tPersonal object pronoun -  suffix for propositions and verbs without an object: 1st person singular"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9030=Os1c=me}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#10=L לִֽ/י\\׃ L/i to <the>/ me H9005/{H9030}\\H9016 HRd/Sp1bs H9030_B H9005=ל=to/{H9030=Os1c=me}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 7,
           "text": "She continued, “Who would have said to Abraham that Sarah would nurse children? But I’ve had a son by him when he is old.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לִ/זְקֻנָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "li/z.ku.Na/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "of/",
+                "wordIndex": 3
+              },
+              {
+                "text": "old",
+                "wordIndex": 4
+              },
+              {
+                "text": "age<s>/",
+                "wordIndex": 5
+              },
+              {
+                "text": "his",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9005/{H2208}/H9023\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmpc/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2208",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2208",
+                  "lemma": "זְקֻנִים",
+                  "translit": "za.qun",
+                  "morph": "H:N-M",
+                  "gloss": "extreme age old age, extreme old age",
+                  "raw": "H2208\tH2208 =\tH2208\tזְקֻנִים\tza.qun\tH:N-M\textreme age\told age, extreme old age"
+                }
+              },
+              {
+                "text": "H2207",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H2207",
+                  "lemma": "זֹ֫קֶן",
+                  "translit": "zo.qen",
+                  "morph": "H:N-M",
+                  "gloss": "old age old age",
+                  "raw": "H2207\tH2207 =\tH2207\tזֹ֫קֶן\tzo.qen\tH:N-M\told age\told age"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H2208=זְקֻנִים=extreme",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "age}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L לִ/זְקֻנָֽי/ו\\׃ li/z.ku.Na/v of/ old age<s>/ his H9005/{H2208}/H9023\\H9016 HR/Ncmpc/Sp3ms H2208 H2207 H9005=ל=to/{H2208=זְקֻנִים=extreme age}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 8,
           "text": "Isaac grew. The time came for his mother to stop nursing him. On that day Abraham had a big dinner prepared.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִצְחָֽק\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "yitz.Chak",
+                "wordIndex": 2
+              },
+              {
+                "text": "Isaac",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3327}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3327",
+                  "lemma": "יִצְחָק",
+                  "translit": "yits.chaq",
+                  "morph": "N:N-M-P",
+                  "gloss": "Isaac A man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>",
+                  "raw": "H3327\tH3327 =\tH3327\tיִצְחָק\tyits.chaq\tN:N-M-P\tIsaac\tA man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3327",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3327",
+                  "lemma": "יִצְחָק",
+                  "translit": "yits.chaq",
+                  "morph": "N:N-M-P",
+                  "gloss": "Isaac A man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>",
+                  "raw": "H3327\tH3327 =\tH3327\tיִצְחָק\tyits.chaq\tN:N-M-P\tIsaac\tA man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>"
+                }
+              },
+              {
+                "text": "{H3327=יִצְחָק=Isaac»Isaac@Gen.17.19-Jas}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3327",
+                  "lemma": "יִצְחָק",
+                  "translit": "yits.chaq",
+                  "morph": "N:N-M-P",
+                  "gloss": "Isaac A man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>",
+                  "raw": "H3327\tH3327 =\tH3327\tיִצְחָק\tyits.chaq\tN:N-M-P\tIsaac\tA man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L יִצְחָֽק\\׃ yitz.Chak Isaac {H3327}\\H9016 HNpm H3327 {H3327=יִצְחָק=Isaac»Isaac@Gen.17.19-Jas}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 9,
           "text": "But Sarah saw Ishmael making fun of Isaac. Ishmael was the son Hagar had by Abraham. Hagar was Sarah’s servant from Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מְצַחֵֽק\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "me.tza.Chek",
+                "wordIndex": 2
+              },
+              {
+                "text": "mocking",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6711}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6711",
+                  "lemma": "צָחַק",
+                  "translit": "tsa.chaq",
+                  "morph": "H:V",
+                  "gloss": "to laugh 1) to laugh, mock, play<br>1a) (Qal) to laugh<br>1b) (Piel)<br>1b1) to jest<br>1b2) to sport, play, make sport, toy with, make a toy of",
+                  "raw": "H6711\tH6711 =\tH6711\tצָחַק\ttsa.chaq\tH:V\tto laugh\t1) to laugh, mock, play<br>1a) (Qal) to laugh<br>1b) (Piel)<br>1b1) to jest<br>1b2) to sport, play, make sport, toy with, make a toy of"
+                }
+              },
+              {
+                "text": "HVprmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6711",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6711",
+                  "lemma": "צָחַק",
+                  "translit": "tsa.chaq",
+                  "morph": "H:V",
+                  "gloss": "to laugh 1) to laugh, mock, play<br>1a) (Qal) to laugh<br>1b) (Piel)<br>1b1) to jest<br>1b2) to sport, play, make sport, toy with, make a toy of",
+                  "raw": "H6711\tH6711 =\tH6711\tצָחַק\ttsa.chaq\tH:V\tto laugh\t1) to laugh, mock, play<br>1a) (Qal) to laugh<br>1b) (Piel)<br>1b1) to jest<br>1b2) to sport, play, make sport, toy with, make a toy of"
+                }
+              },
+              {
+                "text": "{H6711=צָחַק=to",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6711",
+                  "lemma": "צָחַק",
+                  "translit": "tsa.chaq",
+                  "morph": "H:V",
+                  "gloss": "to laugh 1) to laugh, mock, play<br>1a) (Qal) to laugh<br>1b) (Piel)<br>1b1) to jest<br>1b2) to sport, play, make sport, toy with, make a toy of",
+                  "raw": "H6711\tH6711 =\tH6711\tצָחַק\ttsa.chaq\tH:V\tto laugh\t1) to laugh, mock, play<br>1a) (Qal) to laugh<br>1b) (Piel)<br>1b1) to jest<br>1b2) to sport, play, make sport, toy with, make a toy of"
+                }
+              },
+              {
+                "text": "laugh}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L מְצַחֵֽק\\׃ me.tza.Chek mocking {H6711}\\H9016 HVprmsa H6711 {H6711=צָחַק=to laugh}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 10,
           "text": "Sarah said to Abraham, “Get rid of that slave woman. Get rid of her son. The slave woman’s son will never have a share of the family’s property with my son Isaac.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִצְחָֽק\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "yitz.Chak",
+                "wordIndex": 2
+              },
+              {
+                "text": "Isaac",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3327}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3327",
+                  "lemma": "יִצְחָק",
+                  "translit": "yits.chaq",
+                  "morph": "N:N-M-P",
+                  "gloss": "Isaac A man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>",
+                  "raw": "H3327\tH3327 =\tH3327\tיִצְחָק\tyits.chaq\tN:N-M-P\tIsaac\tA man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3327",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3327",
+                  "lemma": "יִצְחָק",
+                  "translit": "yits.chaq",
+                  "morph": "N:N-M-P",
+                  "gloss": "Isaac A man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>",
+                  "raw": "H3327\tH3327 =\tH3327\tיִצְחָק\tyits.chaq\tN:N-M-P\tIsaac\tA man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>"
+                }
+              },
+              {
+                "text": "{H3327=יִצְחָק=Isaac»Isaac@Gen.17.19-Jas}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3327",
+                  "lemma": "יִצְחָק",
+                  "translit": "yits.chaq",
+                  "morph": "N:N-M-P",
+                  "gloss": "Isaac A man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>",
+                  "raw": "H3327\tH3327 =\tH3327\tיִצְחָק\tyits.chaq\tN:N-M-P\tIsaac\tA man living at the time of the Patriarchs, first mentioned at Gen.17.19; <br> son of: Abraham (H0085) and Sarah (H8283); <br> half-brother of: Ishmael (H3458), Zimran (H2175), Jokshan (H3370), Medan (H4091), Midian (H4080), Ishbak (H3435) and Shuah (H7744); married to Rebekah (H7259); <br> father of: Esau (H6215) and Israel (H3478) <BR> § Isaac = \"he laughs\"<br> son of Abraham by Sarah his wife and father of Jacob and Esau<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L יִצְחָֽק\\׃ yitz.Chak Isaac {H3327}\\H9016 HNpm H3327 {H3327=יִצְחָק=Isaac»Isaac@Gen.17.19-Jas}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 11,
           "text": "What Sarah said upset Abraham very much. After all, Ishmael was his son.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּנֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be.N/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "son/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H1121A}/H9023\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HNcmsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1121A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H1121A=בֵּן=:",
+                "wordIndex": 8
+              },
+              {
+                "text": "child»son:1_child;_son}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L בְּנֽ/וֹ\\׃ be.N/o son/ his {H1121A}/H9023\\H9016 HNcmsc/Sp3ms H1121A {H1121A=בֵּן=: child»son:1_child;_son}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 12,
           "text": "But God said to him, “Do not be so upset about the boy and your servant Hagar. Listen to what Sarah tells you, because your family line will continue through Isaac.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "זָֽרַע\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Za.ra'",
+                "wordIndex": 2
+              },
+              {
+                "text": "offspring",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H2233H}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H2233",
+                  "lemma": "זֶ֫רַע",
+                  "translit": "ze.ra",
+                  "morph": "H:N-M",
+                  "gloss": "seed: semen : semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)",
+                  "raw": "H2233\tH2233I = a Meaning of\tH2233G\tזֶ֫רַע\tze.ra\tH:N-M\tseed: semen\t: semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H2233H",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H2233",
+                  "lemma": "זֶ֫רַע",
+                  "translit": "ze.ra",
+                  "morph": "H:N-M",
+                  "gloss": "seed: semen : semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)",
+                  "raw": "H2233\tH2233I = a Meaning of\tH2233G\tזֶ֫רַע\tze.ra\tH:N-M\tseed: semen\t: semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)"
+                }
+              },
+              {
+                "text": "{H2233H=זֶ֫רַע=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2233",
+                  "lemma": "זֶ֫רַע",
+                  "translit": "ze.ra",
+                  "morph": "H:N-M",
+                  "gloss": "seed: semen : semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)",
+                  "raw": "H2233\tH2233I = a Meaning of\tH2233G\tזֶ֫רַע\tze.ra\tH:N-M\tseed: semen\t: semen<br>1) seed, sowing, offspring<br>1a) a sowing<br>1b) seed<br>1c) semen virile<br>1d) offspring, descendants, posterity, children<br>1e) of moral quality<br>1e1) a practitioner of righteousness (fig.)<br>1f) sowing time (by meton)"
+                }
+              },
+              {
+                "text": "children»seed:2_children;_descendants}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#23=L זָֽרַע\\׃ Za.ra' offspring {H2233H}\\H9016 HNcmsa H2233H {H2233H=זֶ֫רַע=: children»seed:2_children;_descendants}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 13,
           "text": "I will make the son of your servant into a nation also. I will do it because he is your child.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הֽוּא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Hu'",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1931}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "HPp3ms",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1931",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L הֽוּא\\׃ Hu' he {H1931}\\H9016 HPp3ms H1931 {H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 14,
           "text": "Early the next morning Abraham got some food and a bottle of water. The bottle was made out of animal skin. He gave the food and water to Hagar. He placed them on her shoulders. Then he sent her away with the boy. She went on her way and wandered in the desert of Beersheba.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שָֽׁבַע\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Sha.va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "Sheba",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0884}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0884",
+                  "lemma": "בְּאֵר שֶׁ֫בַע",
+                  "translit": "be.er she.va",
+                  "morph": "N:N--L",
+                  "gloss": "Beersheba <BR> § Beer-sheba = \"well of the sevenfold oath\"<br> a city at the south edge of Israel<br>",
+                  "raw": "H0884\tH0884 =\tH0884\tבְּאֵר שֶׁ֫בַע\tbe.er she.va\tN:N--L\tBeersheba\t <BR> § Beer-sheba = \"well of the sevenfold oath\"<br> a city at the south edge of Israel<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0884_b",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0884",
+                  "lemma": "בְּאֵר שֶׁ֫בַע",
+                  "translit": "be.er she.va",
+                  "morph": "N:N--L",
+                  "gloss": "Beersheba <BR> § Beer-sheba = \"well of the sevenfold oath\"<br> a city at the south edge of Israel<br>",
+                  "raw": "H0884\tH0884 =\tH0884\tבְּאֵר שֶׁ֫בַע\tbe.er she.va\tN:N--L\tBeersheba\t <BR> § Beer-sheba = \"well of the sevenfold oath\"<br> a city at the south edge of Israel<br>"
+                }
+              },
+              {
+                "text": "{H0884=בְּאֵר",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0884",
+                  "lemma": "בְּאֵר שֶׁ֫בַע",
+                  "translit": "be.er she.va",
+                  "morph": "N:N--L",
+                  "gloss": "Beersheba <BR> § Beer-sheba = \"well of the sevenfold oath\"<br> a city at the south edge of Israel<br>",
+                  "raw": "H0884\tH0884 =\tH0884\tבְּאֵר שֶׁ֫בַע\tbe.er she.va\tN:N--L\tBeersheba\t <BR> § Beer-sheba = \"well of the sevenfold oath\"<br> a city at the south edge of Israel<br>"
+                }
+              },
+              {
+                "text": "שֶׁ֫בַע=Beersheba»Beersheba@Gen.21.14-Amo}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L שָֽׁבַע\\׃ Sha.va' Sheba {H0884}\\H9016 HNpl H0884_b {H0884=בְּאֵר שֶׁ֫בַע=Beersheba»Beersheba@Gen.21.14-Amo}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 15,
           "text": "When the water in the bottle was gone, she put the boy under a bush.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/שִּׂיחִֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./si.Chim",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "bushes",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H7880}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7880",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7880",
+                  "lemma": "שִׂיחַ",
+                  "translit": "si.ach",
+                  "morph": "H:N-M",
+                  "gloss": "bush bush, plant, shrub",
+                  "raw": "H7880\tH7880 =\tH7880\tשִׂיחַ\tsi.ach\tH:N-M\tbush\tbush, plant, shrub"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H7880=שִׂיחַ=bush}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הַ/שִּׂיחִֽם\\׃ ha./si.Chim the/ bushes H9009/{H7880}\\H9016 HTd/Ncmpa H7880 H9009=ה=the/{H7880=שִׂיחַ=bush}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 16,
           "text": "Then she went off and sat down nearby. She was about as far away as a person can shoot an arrow. She thought, “I can’t stand to watch the boy die.” As she sat nearby, she began to sob.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/תֵּֽבְךְּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./Te.vek",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "she",
+                "wordIndex": 4
+              },
+              {
+                "text": "wept",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9001/{H1058}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqw3fs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1058",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1058",
+                  "lemma": "בָּכָה",
+                  "translit": "ba.khah",
+                  "morph": "H:V",
+                  "gloss": "to weep 1) to weep, bewail, cry, shed tears<br>1a) (Qal)<br>1a1) to weep (in grief, humiliation, or joy)<br>1a2) to weep bitterly (with cognate acc.)<br>1a3) to weep upon (embrace and weep)<br>1a4) to bewail<br>1b) (Piel) participle<br>1b1) lamenting<br>1b2) bewailing",
+                  "raw": "H1058\tH1058 =\tH1058\tבָּכָה\tba.khah\tH:V\tto weep\t1) to weep, bewail, cry, shed tears<br>1a) (Qal)<br>1a1) to weep (in grief, humiliation, or joy)<br>1a2) to weep bitterly (with cognate acc.)<br>1a3) to weep upon (embrace and weep)<br>1a4) to bewail<br>1b) (Piel) participle<br>1b1) lamenting<br>1b2) bewailing"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H1058=בָּכָה=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "weep}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L וַ/תֵּֽבְךְּ\\׃ va./Te.vek and/ she wept H9001/{H1058}\\H9016 Hc/Vqw3fs H1058 H9001=ו=&/{H1058=בָּכָה=to weep}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 17,
           "text": "God heard the boy crying. Then the angel of God called out to Hagar from heaven. He said to her, “What is the matter, Hagar? Do not be afraid. God has heard the boy crying as he lies there.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#28=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שָֽׁם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Sham",
+                "wordIndex": 2
+              },
+              {
+                "text": "[is]",
+                "wordIndex": 3
+              },
+              {
+                "text": "there",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H8033G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H8033",
+                  "lemma": "שָׁם",
+                  "translit": "sham",
+                  "morph": "H:Adv",
+                  "gloss": "(Jerusalem) Is There <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither",
+                  "raw": "H8033\tH8033H = a Part of\tH3389\tשָׁם\tsham\tH:Adv\t(Jerusalem) Is There\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither"
+                }
+              },
+              {
+                "text": "HD",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8033G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8033",
+                  "lemma": "שָׁם",
+                  "translit": "sham",
+                  "morph": "H:Adv",
+                  "gloss": "(Jerusalem) Is There <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither",
+                  "raw": "H8033\tH8033H = a Part of\tH3389\tשָׁם\tsham\tH:Adv\t(Jerusalem) Is There\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither"
+                }
+              },
+              {
+                "text": "{H8033G=שָׁם=there}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H8033",
+                  "lemma": "שָׁם",
+                  "translit": "sham",
+                  "morph": "H:Adv",
+                  "gloss": "(Jerusalem) Is There <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither",
+                  "raw": "H8033\tH8033H = a Part of\tH3389\tשָׁם\tsham\tH:Adv\t(Jerusalem) Is There\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)<BR> This name means  there, thither"
+                }
+              }
+            ],
+            "originalVerseText": "#28=L שָֽׁם\\׃ Sham [is] there {H8033G}\\H9016 HD H8033G {H8033G=שָׁם=there}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 18,
           "text": "Lift the boy up. Take him by the hand. I will make him into a great nation.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֲשִׂימֶֽ/נּוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.si.Me./nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "I",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "make/",
+                "wordIndex": 5
+              },
+              {
+                "text": "him",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H7760A}/H9033\\H9016",
+                "wordIndex": 7
+              },
+              {
+                "text": "HVqi1cs/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H7760A",
+                "wordIndex": 9
+              },
+              {
+                "text": "{H7760A=שׂוּם=:",
+                "wordIndex": 10
+              },
+              {
+                "text": "make»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "set:1_make;_establish}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L אֲשִׂימֶֽ/נּוּ\\׃ 'a.si.Me./nu I will make/ him {H7760A}/H9033\\H9016 HVqi1cs/Sp3ms H7760A {H7760A=שׂוּם=: make»to set:1_make;_establish}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 19,
           "text": "Then God opened Hagar’s eyes. She saw a well of water. So she went and filled the bottle with water. And she gave the boy a drink.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/נָּֽעַר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Na.'ar",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "lad",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H5288}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5288",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5288",
+                  "lemma": "נַ֫עַר",
+                  "translit": "na.ar",
+                  "morph": "H:N-M",
+                  "gloss": "youth 1) a boy, lad, servant, youth, retainer<br>1a) boy, lad, youth<br>1b) servant, retainer",
+                  "raw": "H5288\tH5288 =\tH5288\tנַ֫עַר\tna.ar\tH:N-M\tyouth\t1) a boy, lad, servant, youth, retainer<br>1a) boy, lad, youth<br>1b) servant, retainer"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H5288=נַ֫עַר=youth}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L הַ/נָּֽעַר\\׃ ha./Na.'ar the/ lad H9009/{H5288}\\H9016 HTd/Ncmsa H5288 H9009=ה=the/{H5288=נַ֫עַר=youth}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 20,
           "text": "God was with the boy as he grew up. He lived in the desert and learned to shoot with a bow.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "קַשָּֽׁת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ka.Shat",
+                "wordIndex": 2
+              },
+              {
+                "text": "a",
+                "wordIndex": 3
+              },
+              {
+                "text": "bowman",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7199}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H7199",
+                  "lemma": "קַשָּׁת",
+                  "translit": "qash.shat",
+                  "morph": "H:N-M",
+                  "gloss": "bowman bowman, archer",
+                  "raw": "H7199\tH7199 =\tH7199\tקַשָּׁת\tqash.shat\tH:N-M\tbowman\tbowman, archer"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7199",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7199",
+                  "lemma": "קַשָּׁת",
+                  "translit": "qash.shat",
+                  "morph": "H:N-M",
+                  "gloss": "bowman bowman, archer",
+                  "raw": "H7199\tH7199 =\tH7199\tקַשָּׁת\tqash.shat\tH:N-M\tbowman\tbowman, archer"
+                }
+              },
+              {
+                "text": "{H7199=קַשָּׁת=bowman}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7199",
+                  "lemma": "קַשָּׁת",
+                  "translit": "qash.shat",
+                  "morph": "H:N-M",
+                  "gloss": "bowman bowman, archer",
+                  "raw": "H7199\tH7199 =\tH7199\tקַשָּׁת\tqash.shat\tH:N-M\tbowman\tbowman, archer"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L קַשָּֽׁת\\׃ ka.Shat a bowman {H7199}\\H9016 HNcmsa H7199 {H7199=קַשָּׁת=bowman}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 21,
           "verse": 21,
           "text": "While he was living in the Desert of Paran, his mother got him a wife from Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיִם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "mitz.Ra.yim",
+                "wordIndex": 3
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4714G}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L מִצְרָֽיִם\\׃\\ \\פ mitz.Ra.yim Egypt {H4714G}\\H9016\\ \\H9017 HNpl H4714G {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ]
     }

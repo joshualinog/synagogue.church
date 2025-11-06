@@ -7,61 +7,667 @@
           "chapter": 32,
           "verse": 4,
           "text": "And he instructed them, saying, “Thus you must say to my lord, to Esau, ‘Thus says your servant Jacob, I have dwelled as an alien with Laban, and I have remained there until now.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(32.5)#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עָֽתָּה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'A.tah",
+                "wordIndex": 2
+              },
+              {
+                "text": "now",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6258}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6258",
+                  "lemma": "עַתָּ֫ה",
+                  "translit": "at.tah",
+                  "morph": "H:Adv",
+                  "gloss": "now 1) now<br>1a) now<br>1b) in phrases",
+                  "raw": "H6258\tH6258 =\tH6258\tעַתָּ֫ה\tat.tah\tH:Adv\tnow\t1) now<br>1a) now<br>1b) in phrases"
+                }
+              },
+              {
+                "text": "HD",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6258",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6258",
+                  "lemma": "עַתָּ֫ה",
+                  "translit": "at.tah",
+                  "morph": "H:Adv",
+                  "gloss": "now 1) now<br>1a) now<br>1b) in phrases",
+                  "raw": "H6258\tH6258 =\tH6258\tעַתָּ֫ה\tat.tah\tH:Adv\tnow\t1) now<br>1a) now<br>1b) in phrases"
+                }
+              },
+              {
+                "text": "{H6258=עַתָּ֫ה=now}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6258",
+                  "lemma": "עַתָּ֫ה",
+                  "translit": "at.tah",
+                  "morph": "H:Adv",
+                  "gloss": "now 1) now<br>1a) now<br>1b) in phrases",
+                  "raw": "H6258\tH6258 =\tH6258\tעַתָּ֫ה\tat.tah\tH:Adv\tnow\t1) now<br>1a) now<br>1b) in phrases"
+                }
+              }
+            ],
+            "originalVerseText": "(32.5)#17=L עָֽתָּה\\׃ 'A.tah now {H6258}\\H9016 HD H6258 {H6258=עַתָּ֫ה=now}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 5,
           "text": "And I have acquired cattle, male donkeys, flocks, and male and female slaves, and I have sent to tell my lord, to find favor in your eyes.’”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(32.6)#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/עֵינֶֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./'ei.Nei./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "in/",
+                "wordIndex": 3
+              },
+              {
+                "text": "view/",
+                "wordIndex": 4
+              },
+              {
+                "text": "your",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H5869H}/H9021\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncfdc/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5869H",
+                "wordIndex": 8
+              },
+              {
+                "text": "H9003=ב=in/{H5869H=עַ֫יִן=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "seeing»eye:2_seeing}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "(32.6)#13=L בְּ/עֵינֶֽי/ךָ\\׃ be./'ei.Nei./kha in/ view/ your H9003/{H5869H}/H9021\\H9016 HR/Ncfdc/Sp2ms H5869H H9003=ב=in/{H5869H=עַ֫יִן=: seeing»eye:2_seeing}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 6,
           "text": "And the messengers returned to Jacob and said, “We came to your brother, to Esau, and he is coming to meet you, and four hundred men are with him.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(32.7)#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עִמּֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "i.M/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "[are]",
+                "wordIndex": 3
+              },
+              {
+                "text": "with/",
+                "wordIndex": 4
+              },
+              {
+                "text": "him",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H5973A}/H9033\\H9016",
+                "wordIndex": 6
+              },
+              {
+                "text": "HRd/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5973A",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H5973A=עִם=with}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 9
+              }
+            ],
+            "originalVerseText": "(32.7)#17=L עִמּֽ/וֹ\\׃ i.M/o [are] with/ him {H5973A}/H9033\\H9016 HRd/Sp3ms H5973A {H5973A=עִם=with}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 7,
           "text": "Then Jacob was very frightened and distressed. So he divided the people, flocks, cattle, and camels that were with him into two companies.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(32.8)#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מַחֲנֽוֹת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ma.cha.Not",
+                "wordIndex": 2
+              },
+              {
+                "text": "camps",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4264}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4264",
+                  "lemma": "מַחֲנֶה",
+                  "translit": "ma.cha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "camp 1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people",
+                  "raw": "H4264\tH4264 =\tH4264\tמַחֲנֶה\tma.cha.neh\tH:N-F\tcamp\t1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people"
+                }
+              },
+              {
+                "text": "HNcfpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4264",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4264",
+                  "lemma": "מַחֲנֶה",
+                  "translit": "ma.cha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "camp 1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people",
+                  "raw": "H4264\tH4264 =\tH4264\tמַחֲנֶה\tma.cha.neh\tH:N-F\tcamp\t1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people"
+                }
+              },
+              {
+                "text": "{H4264=מַחֲנֶה=camp}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4264",
+                  "lemma": "מַחֲנֶה",
+                  "translit": "ma.cha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "camp 1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people",
+                  "raw": "H4264\tH4264 =\tH4264\tמַחֲנֶה\tma.cha.neh\tH:N-F\tcamp\t1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people"
+                }
+              }
+            ],
+            "originalVerseText": "(32.8)#17=L מַחֲנֽוֹת\\׃ ma.cha.Not camps {H4264}\\H9016 HNcfpa H4264 {H4264=מַחֲנֶה=camp}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 8,
           "text": "And he thought, “If Esau comes to one company and destroys it, the remaining company will be able to escape.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(32.9)#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לִ/פְלֵיטָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "li/f.lei.Tah",
+                "wordIndex": 2
+              },
+              {
+                "text": "<into>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "an",
+                "wordIndex": 4
+              },
+              {
+                "text": "escaped",
+                "wordIndex": 5
+              },
+              {
+                "text": "remnant",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9005/{H6413}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncfsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H6413",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H6413",
+                  "lemma": "פְּלֵיטָה",
+                  "translit": "pe.le.tah",
+                  "morph": "H:N-F",
+                  "gloss": "survivor 1) escape, deliverance<br>1a) escape, deliverance<br>1b) escaped remnant",
+                  "raw": "H6413\tH6413 =\tH6413\tפְּלֵיטָה\tpe.le.tah\tH:N-F\tsurvivor\t1) escape, deliverance<br>1a) escape, deliverance<br>1b) escaped remnant"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H6413=פְּלֵיטָה=survivor}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "(32.9)#12=L לִ/פְלֵיטָֽה\\׃ li/f.lei.Tah <into>/ an escaped remnant H9005/{H6413}\\H9016 HR/Ncfsa H6413 H9005=ל=to/{H6413=פְּלֵיטָה=survivor}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 9,
           "text": "Then Jacob said, “O God of my father Abraham, and God of my father Isaac, O Yahweh, who said to me, ‘Return to your land and to your family, and I will deal well with you.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(32.10)#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עִמָּֽ/ךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'i.Ma/kh",
+                "wordIndex": 2
+              },
+              {
+                "text": "with/",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5973A}/H9032\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HRd/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5973A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H5973A=עִם=with}/H9032=Os2f=you\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "(32.10)#16=L עִמָּֽ/ךְ\\׃ 'i.Ma/kh with/ you {H5973A}/H9032\\H9016 HRd/Sp2ms H5973A {H5973A=עִם=with}/H9032=Os2f=you\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 10,
           "text": "I am not worthy of all the loyal love and all the faithfulness that you have shown your servant, for with only my staff I crossed this Jordan, and now I have become two camps.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(32.11)#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מַחֲנֽוֹת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ma.cha.Not",
+                "wordIndex": 2
+              },
+              {
+                "text": "camps",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4264}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4264",
+                  "lemma": "מַחֲנֶה",
+                  "translit": "ma.cha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "camp 1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people",
+                  "raw": "H4264\tH4264 =\tH4264\tמַחֲנֶה\tma.cha.neh\tH:N-F\tcamp\t1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people"
+                }
+              },
+              {
+                "text": "HNcfpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4264",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4264",
+                  "lemma": "מַחֲנֶה",
+                  "translit": "ma.cha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "camp 1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people",
+                  "raw": "H4264\tH4264 =\tH4264\tמַחֲנֶה\tma.cha.neh\tH:N-F\tcamp\t1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people"
+                }
+              },
+              {
+                "text": "{H4264=מַחֲנֶה=camp}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4264",
+                  "lemma": "מַחֲנֶה",
+                  "translit": "ma.cha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "camp 1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people",
+                  "raw": "H4264\tH4264 =\tH4264\tמַחֲנֶה\tma.cha.neh\tH:N-F\tcamp\t1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people"
+                }
+              }
+            ],
+            "originalVerseText": "(32.11)#19=L מַחֲנֽוֹת\\׃ ma.cha.Not camps {H4264}\\H9016 HNcfpa H4264 {H4264=מַחֲנֶה=camp}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 11,
           "text": "Please rescue me from the hand of my brother, from the hand of Esau, for I fear him, lest he come and attack mother and children alike.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(32.12)#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּנִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba.Nim",
+                "wordIndex": 2
+              },
+              {
+                "text": "children",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1121A}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1121A",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H1121A=בֵּן=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "child»son:1_child;_son}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "(32.12)#16=L בָּנִֽים\\׃ ba.Nim children {H1121A}\\H9016 HNcmpa H1121A {H1121A=בֵּן=: child»son:1_child;_son}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 12,
           "text": "Now you yourself said, ‘I will surely deal well with you and make your offspring as the sand of the sea that cannot be counted for abundance.’”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(32.13)#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵ/רֹֽב\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "me./Ro",
+                "wordIndex": 2
+              },
+              {
+                "text": "from/",
+                "wordIndex": 3
+              },
+              {
+                "text": "multitude",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9006/{H7230}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "HR/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7230",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7230",
+                  "lemma": "רֹב",
+                  "translit": "rov",
+                  "morph": "H:N-M",
+                  "gloss": "abundance 1) multitude, abundance, greatness<br>1a) multitude<br>1a1) abundance, abundantly<br>1a2) numerous<br>1b) greatness",
+                  "raw": "H7230\tH7230 =\tH7230\tרֹב\trov\tH:N-M\tabundance\t1) multitude, abundance, greatness<br>1a) multitude<br>1a1) abundance, abundantly<br>1a2) numerous<br>1b) greatness"
+                }
+              },
+              {
+                "text": "H9006=מ=from/{H7230=רֹב=abundance}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              }
+            ],
+            "originalVerseText": "(32.13)#14=L מֵ/רֹֽב\\׃ me./Ro from/ multitude H9006/{H7230}\\H9016 HR/Ncmsa H7230 H9006=מ=from/{H7230=רֹב=abundance}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 13,
           "text": "And he lodged there that night. Then he took from what he had with him a gift for Esau his brother:",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(32.14)#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָחִֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.Chi/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "brother/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0251G}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0251G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "{H0251G=אָח=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "male-sibling»brother:1_male-sibling}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "(32.14)#11=L אָחִֽי/ו\\׃ 'a.Chi/v brother/ his {H0251G}/H9023\\H9016 HNcmsc/Sp3ms H0251G {H0251G=אָח=: male-sibling»brother:1_male-sibling}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         }
       ],
       "nirv": [
@@ -69,61 +675,667 @@
           "chapter": 32,
           "verse": 4,
           "text": "Jacob told the messengers what to do. He said, “Here’s what you must tell my master Esau. ‘Your servant Jacob says, “I’ve been staying with Laban. I’ve remained there until now.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(32.5)#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עָֽתָּה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'A.tah",
+                "wordIndex": 2
+              },
+              {
+                "text": "now",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6258}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6258",
+                  "lemma": "עַתָּ֫ה",
+                  "translit": "at.tah",
+                  "morph": "H:Adv",
+                  "gloss": "now 1) now<br>1a) now<br>1b) in phrases",
+                  "raw": "H6258\tH6258 =\tH6258\tעַתָּ֫ה\tat.tah\tH:Adv\tnow\t1) now<br>1a) now<br>1b) in phrases"
+                }
+              },
+              {
+                "text": "HD",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6258",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6258",
+                  "lemma": "עַתָּ֫ה",
+                  "translit": "at.tah",
+                  "morph": "H:Adv",
+                  "gloss": "now 1) now<br>1a) now<br>1b) in phrases",
+                  "raw": "H6258\tH6258 =\tH6258\tעַתָּ֫ה\tat.tah\tH:Adv\tnow\t1) now<br>1a) now<br>1b) in phrases"
+                }
+              },
+              {
+                "text": "{H6258=עַתָּ֫ה=now}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6258",
+                  "lemma": "עַתָּ֫ה",
+                  "translit": "at.tah",
+                  "morph": "H:Adv",
+                  "gloss": "now 1) now<br>1a) now<br>1b) in phrases",
+                  "raw": "H6258\tH6258 =\tH6258\tעַתָּ֫ה\tat.tah\tH:Adv\tnow\t1) now<br>1a) now<br>1b) in phrases"
+                }
+              }
+            ],
+            "originalVerseText": "(32.5)#17=L עָֽתָּה\\׃ 'A.tah now {H6258}\\H9016 HD H6258 {H6258=עַתָּ֫ה=now}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 5,
           "text": "I have cattle and donkeys and sheep and goats. I also have male and female servants. Now I’m sending this message to you. I hope I can please you.”’”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(32.6)#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/עֵינֶֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./'ei.Nei./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "in/",
+                "wordIndex": 3
+              },
+              {
+                "text": "view/",
+                "wordIndex": 4
+              },
+              {
+                "text": "your",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H5869H}/H9021\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncfdc/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5869H",
+                "wordIndex": 8
+              },
+              {
+                "text": "H9003=ב=in/{H5869H=עַ֫יִן=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "seeing»eye:2_seeing}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "(32.6)#13=L בְּ/עֵינֶֽי/ךָ\\׃ be./'ei.Nei./kha in/ view/ your H9003/{H5869H}/H9021\\H9016 HR/Ncfdc/Sp2ms H5869H H9003=ב=in/{H5869H=עַ֫יִן=: seeing»eye:2_seeing}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 6,
           "text": "The messengers came back to Jacob. They said, “We went to your brother Esau. He’s coming now to meet you. He has 400 men with him.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(32.7)#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עִמּֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "i.M/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "[are]",
+                "wordIndex": 3
+              },
+              {
+                "text": "with/",
+                "wordIndex": 4
+              },
+              {
+                "text": "him",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H5973A}/H9033\\H9016",
+                "wordIndex": 6
+              },
+              {
+                "text": "HRd/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5973A",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H5973A=עִם=with}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 9
+              }
+            ],
+            "originalVerseText": "(32.7)#17=L עִמּֽ/וֹ\\׃ i.M/o [are] with/ him {H5973A}/H9033\\H9016 HRd/Sp3ms H5973A {H5973A=עִם=with}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 7,
           "text": "Jacob was very worried and afraid. So he separated the people who were with him into two groups. He also separated the flocks and herds and camels.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(32.8)#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מַחֲנֽוֹת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ma.cha.Not",
+                "wordIndex": 2
+              },
+              {
+                "text": "camps",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4264}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4264",
+                  "lemma": "מַחֲנֶה",
+                  "translit": "ma.cha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "camp 1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people",
+                  "raw": "H4264\tH4264 =\tH4264\tמַחֲנֶה\tma.cha.neh\tH:N-F\tcamp\t1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people"
+                }
+              },
+              {
+                "text": "HNcfpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4264",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4264",
+                  "lemma": "מַחֲנֶה",
+                  "translit": "ma.cha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "camp 1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people",
+                  "raw": "H4264\tH4264 =\tH4264\tמַחֲנֶה\tma.cha.neh\tH:N-F\tcamp\t1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people"
+                }
+              },
+              {
+                "text": "{H4264=מַחֲנֶה=camp}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4264",
+                  "lemma": "מַחֲנֶה",
+                  "translit": "ma.cha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "camp 1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people",
+                  "raw": "H4264\tH4264 =\tH4264\tמַחֲנֶה\tma.cha.neh\tH:N-F\tcamp\t1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people"
+                }
+              }
+            ],
+            "originalVerseText": "(32.8)#17=L מַחֲנֽוֹת\\׃ ma.cha.Not camps {H4264}\\H9016 HNcfpa H4264 {H4264=מַחֲנֶה=camp}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 8,
           "text": "He thought, “Esau may come and attack one group. If he does, the group that’s left can escape.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(32.9)#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לִ/פְלֵיטָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "li/f.lei.Tah",
+                "wordIndex": 2
+              },
+              {
+                "text": "<into>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "an",
+                "wordIndex": 4
+              },
+              {
+                "text": "escaped",
+                "wordIndex": 5
+              },
+              {
+                "text": "remnant",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9005/{H6413}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncfsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H6413",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H6413",
+                  "lemma": "פְּלֵיטָה",
+                  "translit": "pe.le.tah",
+                  "morph": "H:N-F",
+                  "gloss": "survivor 1) escape, deliverance<br>1a) escape, deliverance<br>1b) escaped remnant",
+                  "raw": "H6413\tH6413 =\tH6413\tפְּלֵיטָה\tpe.le.tah\tH:N-F\tsurvivor\t1) escape, deliverance<br>1a) escape, deliverance<br>1b) escaped remnant"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H6413=פְּלֵיטָה=survivor}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "(32.9)#12=L לִ/פְלֵיטָֽה\\׃ li/f.lei.Tah <into>/ an escaped remnant H9005/{H6413}\\H9016 HR/Ncfsa H6413 H9005=ל=to/{H6413=פְּלֵיטָה=survivor}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 9,
           "text": "Then Jacob prayed, “You are the God of my grandfather Abraham. You are the God of my father Isaac.\n“Lord, you are the one who said to me, ‘Go back to your country and your relatives. Then I will give you success.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(32.10)#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עִמָּֽ/ךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'i.Ma/kh",
+                "wordIndex": 2
+              },
+              {
+                "text": "with/",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5973A}/H9032\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HRd/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5973A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H5973A=עִם=with}/H9032=Os2f=you\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "(32.10)#16=L עִמָּֽ/ךְ\\׃ 'i.Ma/kh with/ you {H5973A}/H9032\\H9016 HRd/Sp2ms H5973A {H5973A=עִם=with}/H9032=Os2f=you\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 10,
           "text": "You have been very kind and faithful to me. But I’m not worthy of any of this. When I crossed this Jordan River, all I had was my walking stick. But now I’ve become two groups.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(32.11)#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מַחֲנֽוֹת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ma.cha.Not",
+                "wordIndex": 2
+              },
+              {
+                "text": "camps",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4264}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4264",
+                  "lemma": "מַחֲנֶה",
+                  "translit": "ma.cha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "camp 1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people",
+                  "raw": "H4264\tH4264 =\tH4264\tמַחֲנֶה\tma.cha.neh\tH:N-F\tcamp\t1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people"
+                }
+              },
+              {
+                "text": "HNcfpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4264",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4264",
+                  "lemma": "מַחֲנֶה",
+                  "translit": "ma.cha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "camp 1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people",
+                  "raw": "H4264\tH4264 =\tH4264\tמַחֲנֶה\tma.cha.neh\tH:N-F\tcamp\t1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people"
+                }
+              },
+              {
+                "text": "{H4264=מַחֲנֶה=camp}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4264",
+                  "lemma": "מַחֲנֶה",
+                  "translit": "ma.cha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "camp 1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people",
+                  "raw": "H4264\tH4264 =\tH4264\tמַחֲנֶה\tma.cha.neh\tH:N-F\tcamp\t1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of armed host, army camp<br>1c) those who encamp, company, body of people"
+                }
+              }
+            ],
+            "originalVerseText": "(32.11)#19=L מַחֲנֽוֹת\\׃ ma.cha.Not camps {H4264}\\H9016 HNcfpa H4264 {H4264=מַחֲנֶה=camp}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 11,
           "text": "“Please save me from the hand of my brother Esau. I’m afraid he’ll come and attack me and the mothers with their children.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(32.12)#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּנִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba.Nim",
+                "wordIndex": 2
+              },
+              {
+                "text": "children",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1121A}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1121A",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H1121A=בֵּן=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "child»son:1_child;_son}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "(32.12)#16=L בָּנִֽים\\׃ ba.Nim children {H1121A}\\H9016 HNcmpa H1121A {H1121A=בֵּן=: child»son:1_child;_son}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 12,
           "text": "But you have said, ‘I will certainly give you success. I will make your children as many as the grains of sand on the seashore. People will not be able to count them.’”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(32.13)#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵ/רֹֽב\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "me./Ro",
+                "wordIndex": 2
+              },
+              {
+                "text": "from/",
+                "wordIndex": 3
+              },
+              {
+                "text": "multitude",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9006/{H7230}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "HR/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7230",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7230",
+                  "lemma": "רֹב",
+                  "translit": "rov",
+                  "morph": "H:N-M",
+                  "gloss": "abundance 1) multitude, abundance, greatness<br>1a) multitude<br>1a1) abundance, abundantly<br>1a2) numerous<br>1b) greatness",
+                  "raw": "H7230\tH7230 =\tH7230\tרֹב\trov\tH:N-M\tabundance\t1) multitude, abundance, greatness<br>1a) multitude<br>1a1) abundance, abundantly<br>1a2) numerous<br>1b) greatness"
+                }
+              },
+              {
+                "text": "H9006=מ=from/{H7230=רֹב=abundance}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              }
+            ],
+            "originalVerseText": "(32.13)#14=L מֵ/רֹֽב\\׃ me./Ro from/ multitude H9006/{H7230}\\H9016 HR/Ncmsa H7230 H9006=מ=from/{H7230=רֹב=abundance}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 32,
           "verse": 13,
           "text": "Jacob spent the night there. He chose a gift for his brother Esau from what he had with him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "(32.14)#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָחִֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.Chi/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "brother/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0251G}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0251G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "{H0251G=אָח=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "male-sibling»brother:1_male-sibling}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "(32.14)#11=L אָחִֽי/ו\\׃ 'a.Chi/v brother/ his {H0251G}/H9023\\H9016 HNcmsc/Sp3ms H0251G {H0251G=אָח=: male-sibling»brother:1_male-sibling}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         }
       ]
     }

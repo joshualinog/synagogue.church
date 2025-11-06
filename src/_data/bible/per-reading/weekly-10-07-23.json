@@ -7,37 +7,511 @@
           "chapter": 34,
           "verse": 4,
           "text": "And Moses cut two stone tablets like the first ones, and he started early in the morning, and he went up to Mount Sinai, as Yahweh had commanded him, and he took in his hand the two stone tablets.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֲבָנִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.va.Nim",
+                "wordIndex": 2
+              },
+              {
+                "text": "stone<s>",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0068G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0068",
+                  "lemma": "אֶ֫בֶן",
+                  "translit": "e.ven",
+                  "morph": "H:N-F",
+                  "gloss": "(Zoheleth) Stone The sacred object, a memorial Samuel set up to mark where God helped Israel to defeat the Philistines<BR>Combined with <i>en ro.gel</i> (זֹחֶ֫לֶת \"Zoheleth\" H2120)<BR> This name means   stone (large or small), stone, as material",
+                  "raw": "H0068\tH0068I = a Part of\tH5883\tאֶ֫בֶן\te.ven\tH:N-F\t(Zoheleth) Stone\tThe sacred object, a memorial Samuel set up to mark where God helped Israel to defeat the Philistines<BR>Combined with <i>en ro.gel</i> (זֹחֶ֫לֶת \"Zoheleth\" H2120)<BR> This name means   stone (large or small), stone, as material "
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0068G_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0068",
+                  "lemma": "אֶ֫בֶן",
+                  "translit": "e.ven",
+                  "morph": "H:N-F",
+                  "gloss": "(Zoheleth) Stone The sacred object, a memorial Samuel set up to mark where God helped Israel to defeat the Philistines<BR>Combined with <i>en ro.gel</i> (זֹחֶ֫לֶת \"Zoheleth\" H2120)<BR> This name means   stone (large or small), stone, as material",
+                  "raw": "H0068\tH0068I = a Part of\tH5883\tאֶ֫בֶן\te.ven\tH:N-F\t(Zoheleth) Stone\tThe sacred object, a memorial Samuel set up to mark where God helped Israel to defeat the Philistines<BR>Combined with <i>en ro.gel</i> (זֹחֶ֫לֶת \"Zoheleth\" H2120)<BR> This name means   stone (large or small), stone, as material "
+                }
+              },
+              {
+                "text": "{H0068G=אֶ֫בֶן=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0068",
+                  "lemma": "אֶ֫בֶן",
+                  "translit": "e.ven",
+                  "morph": "H:N-F",
+                  "gloss": "(Zoheleth) Stone The sacred object, a memorial Samuel set up to mark where God helped Israel to defeat the Philistines<BR>Combined with <i>en ro.gel</i> (זֹחֶ֫לֶת \"Zoheleth\" H2120)<BR> This name means   stone (large or small), stone, as material",
+                  "raw": "H0068\tH0068I = a Part of\tH5883\tאֶ֫בֶן\te.ven\tH:N-F\t(Zoheleth) Stone\tThe sacred object, a memorial Samuel set up to mark where God helped Israel to defeat the Philistines<BR>Combined with <i>en ro.gel</i> (זֹחֶ֫לֶת \"Zoheleth\" H2120)<BR> This name means   stone (large or small), stone, as material "
+                }
+              },
+              {
+                "text": "stone»stone:2_stone}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L אֲבָנִֽים\\׃ 'a.va.Nim stone<s> {H0068G}\\H9016 HNcmpa H0068G_B {H0068G=אֶ֫בֶן=: stone»stone:2_stone}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 34,
           "verse": 5,
           "text": "And Yahweh descended in the cloud, and he stood with him there, and he proclaimed the name of Yahweh.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יְהוָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yah.weh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3068G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "HNpt",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3068G_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L יְהוָֽה\\׃ Yah.weh Yahweh {H3068G}\\H9016 HNpt H3068G_B {H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 34,
           "verse": 6,
           "text": "And Yahweh passed over before him, and he proclaimed, “Yahweh, Yahweh, God, who is compassionate and gracious, slow to anger, and abounding with loyal love and faithfulness,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L(abh)",
+                "wordIndex": 0
+              },
+              {
+                "text": "וֶ/אֱמֶֽת\\׀",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./'e.Met",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "faithfulness",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9002/{H0571G}\\H9015",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "ABH=",
+                "wordIndex": 7
+              },
+              {
+                "text": "וֶ/אֱמֶֽת\\׃",
+                "wordIndex": 8
+              },
+              {
+                "text": "H0571G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0571",
+                  "lemma": "אֱמֶת",
+                  "translit": "e.met",
+                  "morph": "H:N-F",
+                  "gloss": "truth: certain : certain/fixed<br>1) firmness, faithfulness, truth<br>1a) sureness, reliability<br>1b) stability, continuance<br>1c) faithfulness, reliableness<br>1d) truth<br>1d1) as spoken<br>1d2) of testimony and judgment<br>1d3) of divine instruction<br>1d4) truth as a body of ethical or religious knowledge<br>1d5) true doctrine<br>adv<br>2) in truth, truly",
+                  "raw": "H0571\tH0571I = a Meaning of\tH0571G\tאֱמֶת\te.met\tH:N-F\ttruth: certain\t: certain/fixed<br>1) firmness, faithfulness, truth<br>1a) sureness, reliability<br>1b) stability, continuance<br>1c) faithfulness, reliableness<br>1d) truth<br>1d1) as spoken<br>1d2) of testimony and judgment<br>1d3) of divine instruction<br>1d4) truth as a body of ethical or religious knowledge<br>1d5) true doctrine<br>adv<br>2) in truth, truly"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H0571G=אֱמֶת=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "faithful»truth:1_faithful}\\H9015=׀=separate",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9015",
+                  "lemma": "|",
+                  "translit": "1",
+                  "morph": "Punct.",
+                  "gloss": "[ ] Punctuation Paseq: separates words",
+                  "raw": "H9015\tH9015 =\tH9015\t|\t1\tPunct.\t[ ]\tPunctuation Paseq: separates words"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L(abh) וֶ/אֱמֶֽת\\׀ ve./'e.Met and/ faithfulness H9002/{H0571G}\\H9015 HC/Ncfsa ABH= וֶ/אֱמֶֽת\\׃ H0571G H9002=ו=and/{H0571G=אֱמֶת=: faithful»truth:1_faithful}\\H9015=׀=separate"
+          }
         },
         {
           "chapter": 34,
           "verse": 7,
           "text": "keeping loyal love to the thousands, forgiving iniquity and transgression and sin, and he does not leave utterly unpunished, punishing the guilt of fathers on sons and on sons of sons on third and fourth generations.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "רִבֵּעִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ri.be.'Im",
+                "wordIndex": 2
+              },
+              {
+                "text": "a",
+                "wordIndex": 3
+              },
+              {
+                "text": "fourth",
+                "wordIndex": 4
+              },
+              {
+                "text": "generation",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H7256}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H7256",
+                  "lemma": "רִבֵּעַ",
+                  "translit": "rib.be.a",
+                  "morph": "H:A",
+                  "gloss": "fourth pertaining to the fourth",
+                  "raw": "H7256\tH7256 =\tH7256\tרִבֵּעַ\trib.be.a\tH:A\tfourth\tpertaining to the fourth"
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7256",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7256",
+                  "lemma": "רִבֵּעַ",
+                  "translit": "rib.be.a",
+                  "morph": "H:A",
+                  "gloss": "fourth pertaining to the fourth",
+                  "raw": "H7256\tH7256 =\tH7256\tרִבֵּעַ\trib.be.a\tH:A\tfourth\tpertaining to the fourth"
+                }
+              },
+              {
+                "text": "{H7256=רִבֵּעַ=fourth}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H7256",
+                  "lemma": "רִבֵּעַ",
+                  "translit": "rib.be.a",
+                  "morph": "H:A",
+                  "gloss": "fourth pertaining to the fourth",
+                  "raw": "H7256\tH7256 =\tH7256\tרִבֵּעַ\trib.be.a\tH:A\tfourth\tpertaining to the fourth"
+                }
+              }
+            ],
+            "originalVerseText": "#22=L רִבֵּעִֽים\\׃ ri.be.'Im a fourth generation {H7256}\\H9016 HNcmpa H7256 {H7256=רִבֵּעַ=fourth}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 34,
           "verse": 8,
           "text": "And Moses hurried and knelt down to the earth and worshiped.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/יִּשְׁתָּֽחוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va/i.yish.Ta.chu",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "he",
+                "wordIndex": 4
+              },
+              {
+                "text": "bowed",
+                "wordIndex": 5
+              },
+              {
+                "text": "down",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H7812}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vvw3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H7812",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H7812",
+                  "lemma": "שָׁחָה",
+                  "translit": "sha.chah",
+                  "morph": "H:V",
+                  "gloss": "to bow 1) to bow down<br>1a) (Qal) to bow down<br>1b)(Hiphil) to depress (fig)<br>1c) (Hithpael)<br>1c1) to bow down, prostrate oneself<br>1c1a) before superior in homage<br>1c1b) before God in worship<br>1c1c) before false gods<br>1c1d) before angel",
+                  "raw": "H7812\tH7812 =\tH7812\tשָׁחָה\tsha.chah\tH:V\tto bow\t1) to bow down<br>1a) (Qal) to bow down<br>1b)(Hiphil) to depress (fig)<br>1c) (Hithpael)<br>1c1) to bow down, prostrate oneself<br>1c1a) before superior in homage<br>1c1b) before God in worship<br>1c1c) before false gods<br>1c1d) before angel"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H7812=שָׁחָה=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "bow}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L וַ/יִּשְׁתָּֽחוּ\\׃ va/i.yish.Ta.chu and/ he bowed down H9001/{H7812}\\H9016 Hc/Vvw3ms H7812 H9001=ו=&/{H7812=שָׁחָה=to bow}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 34,
           "verse": 9,
           "text": "And he said, “Please, if I have found favor in your eyes, Lord, let my Lord, please, go among us—indeed it is a stiff-necked people—and forgive our iniquity and our sin and take us as your possession.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/נְחַלְתָּֽ/נוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./ne.chal.Ta./nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "take",
+                "wordIndex": 6
+              },
+              {
+                "text": "as",
+                "wordIndex": 7
+              },
+              {
+                "text": "a",
+                "wordIndex": 8
+              },
+              {
+                "text": "possession/",
+                "wordIndex": 9
+              },
+              {
+                "text": "us",
+                "wordIndex": 10
+              },
+              {
+                "text": "H9001/{H5157}/H9035\\H9016",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqq2ms/Sp1bp",
+                "wordIndex": 12
+              },
+              {
+                "text": "H5157",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H5157",
+                  "lemma": "נָחַל",
+                  "translit": "na.chal",
+                  "morph": "H:V",
+                  "gloss": "to inherit 1) to get as a possession, acquire, inherit, possess<br>1a) (Qal)<br>1a1) to take possession, inherit<br>1a2) to have or get as a possession or property (fig.)<br>1a3) to divide the land for a possession<br>1a4) to acquire (testimonies) (fig.)<br>1b) (Piel) to divide for a possession<br>1c) (Hithpael) to possess oneself of<br>1d) (Hiphil)<br>1d1) to give as a possession<br>1d2) to cause to inherit, give as an inheritance<br>1e) (Hophal) to be allotted, be made to possess",
+                  "raw": "H5157\tH5157 =\tH5157\tנָחַל\tna.chal\tH:V\tto inherit\t1) to get as a possession, acquire, inherit, possess<br>1a) (Qal)<br>1a1) to take possession, inherit<br>1a2) to have or get as a possession or property (fig.)<br>1a3) to divide the land for a possession<br>1a4) to acquire (testimonies) (fig.)<br>1b) (Piel) to divide for a possession<br>1c) (Hithpael) to possess oneself of<br>1d) (Hiphil)<br>1d1) to give as a possession<br>1d2) to cause to inherit, give as an inheritance<br>1e) (Hophal) to be allotted, be made to possess"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H5157=נָחַל=to",
+                "wordIndex": 14,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "inherit}/H9035=Op1c=us\\H9016=׃=verseEnd",
+                "wordIndex": 15,
+                "lex": {
+                  "code": "H9035",
+                  "lemma": "נוּ",
+                  "translit": "nu",
+                  "morph": "Op1c",
+                  "gloss": "us Personal object pronoun -  suffix for propositions and verbs without an object: 1st person plural",
+                  "raw": "H9035\tH9035 =\tH9035\tנוּ\tnu\tOp1c\tus\tPersonal object pronoun -  suffix for propositions and verbs without an object: 1st person plural"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L וּ/נְחַלְתָּֽ/נוּ\\׃ u./ne.chal.Ta./nu and/ you will take as a possession/ us H9001/{H5157}/H9035\\H9016 Hc/Vqq2ms/Sp1bp H5157 H9001=ו=&/{H5157=נָחַל=to inherit}/H9035=Op1c=us\\H9016=׃=verseEnd"
+          }
         }
       ],
       "nirv": [
@@ -45,37 +519,511 @@
           "chapter": 34,
           "verse": 4,
           "text": "So Moses carved out two stone tablets that were just like the first ones. Early in the morning he went up Mount Sinai. He carried the two tablets in his hands. He did as the Lord had commanded him to do.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֲבָנִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.va.Nim",
+                "wordIndex": 2
+              },
+              {
+                "text": "stone<s>",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0068G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0068",
+                  "lemma": "אֶ֫בֶן",
+                  "translit": "e.ven",
+                  "morph": "H:N-F",
+                  "gloss": "(Zoheleth) Stone The sacred object, a memorial Samuel set up to mark where God helped Israel to defeat the Philistines<BR>Combined with <i>en ro.gel</i> (זֹחֶ֫לֶת \"Zoheleth\" H2120)<BR> This name means   stone (large or small), stone, as material",
+                  "raw": "H0068\tH0068I = a Part of\tH5883\tאֶ֫בֶן\te.ven\tH:N-F\t(Zoheleth) Stone\tThe sacred object, a memorial Samuel set up to mark where God helped Israel to defeat the Philistines<BR>Combined with <i>en ro.gel</i> (זֹחֶ֫לֶת \"Zoheleth\" H2120)<BR> This name means   stone (large or small), stone, as material "
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0068G_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0068",
+                  "lemma": "אֶ֫בֶן",
+                  "translit": "e.ven",
+                  "morph": "H:N-F",
+                  "gloss": "(Zoheleth) Stone The sacred object, a memorial Samuel set up to mark where God helped Israel to defeat the Philistines<BR>Combined with <i>en ro.gel</i> (זֹחֶ֫לֶת \"Zoheleth\" H2120)<BR> This name means   stone (large or small), stone, as material",
+                  "raw": "H0068\tH0068I = a Part of\tH5883\tאֶ֫בֶן\te.ven\tH:N-F\t(Zoheleth) Stone\tThe sacred object, a memorial Samuel set up to mark where God helped Israel to defeat the Philistines<BR>Combined with <i>en ro.gel</i> (זֹחֶ֫לֶת \"Zoheleth\" H2120)<BR> This name means   stone (large or small), stone, as material "
+                }
+              },
+              {
+                "text": "{H0068G=אֶ֫בֶן=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0068",
+                  "lemma": "אֶ֫בֶן",
+                  "translit": "e.ven",
+                  "morph": "H:N-F",
+                  "gloss": "(Zoheleth) Stone The sacred object, a memorial Samuel set up to mark where God helped Israel to defeat the Philistines<BR>Combined with <i>en ro.gel</i> (זֹחֶ֫לֶת \"Zoheleth\" H2120)<BR> This name means   stone (large or small), stone, as material",
+                  "raw": "H0068\tH0068I = a Part of\tH5883\tאֶ֫בֶן\te.ven\tH:N-F\t(Zoheleth) Stone\tThe sacred object, a memorial Samuel set up to mark where God helped Israel to defeat the Philistines<BR>Combined with <i>en ro.gel</i> (זֹחֶ֫לֶת \"Zoheleth\" H2120)<BR> This name means   stone (large or small), stone, as material "
+                }
+              },
+              {
+                "text": "stone»stone:2_stone}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L אֲבָנִֽים\\׃ 'a.va.Nim stone<s> {H0068G}\\H9016 HNcmpa H0068G_B {H0068G=אֶ֫בֶן=: stone»stone:2_stone}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 34,
           "verse": 5,
           "text": "Then the Lord came down in the cloud. He stood there with Moses and announced his name, The Lord.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יְהוָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yah.weh",
+                "wordIndex": 2
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3068G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "HNpt",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3068G_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L יְהוָֽה\\׃ Yah.weh Yahweh {H3068G}\\H9016 HNpt H3068G_B {H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 34,
           "verse": 6,
           "text": "As he passed in front of Moses, he called out. He said, “I am the Lord, the Lord. I am a God who is tender and kind. I am gracious. I am slow to get angry. I am faithful and full of love.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L(abh)",
+                "wordIndex": 0
+              },
+              {
+                "text": "וֶ/אֱמֶֽת\\׀",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./'e.Met",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "faithfulness",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9002/{H0571G}\\H9015",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "ABH=",
+                "wordIndex": 7
+              },
+              {
+                "text": "וֶ/אֱמֶֽת\\׃",
+                "wordIndex": 8
+              },
+              {
+                "text": "H0571G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0571",
+                  "lemma": "אֱמֶת",
+                  "translit": "e.met",
+                  "morph": "H:N-F",
+                  "gloss": "truth: certain : certain/fixed<br>1) firmness, faithfulness, truth<br>1a) sureness, reliability<br>1b) stability, continuance<br>1c) faithfulness, reliableness<br>1d) truth<br>1d1) as spoken<br>1d2) of testimony and judgment<br>1d3) of divine instruction<br>1d4) truth as a body of ethical or religious knowledge<br>1d5) true doctrine<br>adv<br>2) in truth, truly",
+                  "raw": "H0571\tH0571I = a Meaning of\tH0571G\tאֱמֶת\te.met\tH:N-F\ttruth: certain\t: certain/fixed<br>1) firmness, faithfulness, truth<br>1a) sureness, reliability<br>1b) stability, continuance<br>1c) faithfulness, reliableness<br>1d) truth<br>1d1) as spoken<br>1d2) of testimony and judgment<br>1d3) of divine instruction<br>1d4) truth as a body of ethical or religious knowledge<br>1d5) true doctrine<br>adv<br>2) in truth, truly"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H0571G=אֱמֶת=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "faithful»truth:1_faithful}\\H9015=׀=separate",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9015",
+                  "lemma": "|",
+                  "translit": "1",
+                  "morph": "Punct.",
+                  "gloss": "[ ] Punctuation Paseq: separates words",
+                  "raw": "H9015\tH9015 =\tH9015\t|\t1\tPunct.\t[ ]\tPunctuation Paseq: separates words"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L(abh) וֶ/אֱמֶֽת\\׀ ve./'e.Met and/ faithfulness H9002/{H0571G}\\H9015 HC/Ncfsa ABH= וֶ/אֱמֶֽת\\׃ H0571G H9002=ו=and/{H0571G=אֱמֶת=: faithful»truth:1_faithful}\\H9015=׀=separate"
+          }
         },
         {
           "chapter": 34,
           "verse": 7,
           "text": "I continue to show my love to thousands of people. I forgive those who do evil. I forgive those who refuse to obey. And I forgive those who sin. But I do not let guilty people go without punishing them. I punish the children, grandchildren and great-grandchildren for the sin of their parents.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "רִבֵּעִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ri.be.'Im",
+                "wordIndex": 2
+              },
+              {
+                "text": "a",
+                "wordIndex": 3
+              },
+              {
+                "text": "fourth",
+                "wordIndex": 4
+              },
+              {
+                "text": "generation",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H7256}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H7256",
+                  "lemma": "רִבֵּעַ",
+                  "translit": "rib.be.a",
+                  "morph": "H:A",
+                  "gloss": "fourth pertaining to the fourth",
+                  "raw": "H7256\tH7256 =\tH7256\tרִבֵּעַ\trib.be.a\tH:A\tfourth\tpertaining to the fourth"
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7256",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7256",
+                  "lemma": "רִבֵּעַ",
+                  "translit": "rib.be.a",
+                  "morph": "H:A",
+                  "gloss": "fourth pertaining to the fourth",
+                  "raw": "H7256\tH7256 =\tH7256\tרִבֵּעַ\trib.be.a\tH:A\tfourth\tpertaining to the fourth"
+                }
+              },
+              {
+                "text": "{H7256=רִבֵּעַ=fourth}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H7256",
+                  "lemma": "רִבֵּעַ",
+                  "translit": "rib.be.a",
+                  "morph": "H:A",
+                  "gloss": "fourth pertaining to the fourth",
+                  "raw": "H7256\tH7256 =\tH7256\tרִבֵּעַ\trib.be.a\tH:A\tfourth\tpertaining to the fourth"
+                }
+              }
+            ],
+            "originalVerseText": "#22=L רִבֵּעִֽים\\׃ ri.be.'Im a fourth generation {H7256}\\H9016 HNcmpa H7256 {H7256=רִבֵּעַ=fourth}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 34,
           "verse": 8,
           "text": "Moses bowed down to the ground at once and worshiped.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/יִּשְׁתָּֽחוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va/i.yish.Ta.chu",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "he",
+                "wordIndex": 4
+              },
+              {
+                "text": "bowed",
+                "wordIndex": 5
+              },
+              {
+                "text": "down",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H7812}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vvw3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H7812",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H7812",
+                  "lemma": "שָׁחָה",
+                  "translit": "sha.chah",
+                  "morph": "H:V",
+                  "gloss": "to bow 1) to bow down<br>1a) (Qal) to bow down<br>1b)(Hiphil) to depress (fig)<br>1c) (Hithpael)<br>1c1) to bow down, prostrate oneself<br>1c1a) before superior in homage<br>1c1b) before God in worship<br>1c1c) before false gods<br>1c1d) before angel",
+                  "raw": "H7812\tH7812 =\tH7812\tשָׁחָה\tsha.chah\tH:V\tto bow\t1) to bow down<br>1a) (Qal) to bow down<br>1b)(Hiphil) to depress (fig)<br>1c) (Hithpael)<br>1c1) to bow down, prostrate oneself<br>1c1a) before superior in homage<br>1c1b) before God in worship<br>1c1c) before false gods<br>1c1d) before angel"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H7812=שָׁחָה=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "bow}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L וַ/יִּשְׁתָּֽחוּ\\׃ va/i.yish.Ta.chu and/ he bowed down H9001/{H7812}\\H9016 Hc/Vvw3ms H7812 H9001=ו=&/{H7812=שָׁחָה=to bow}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 34,
           "verse": 9,
           "text": "“Lord,” he said, “if you are pleased with me, then go with us. Even though these people are stubborn, forgive the evil things we have done. Forgive our sin. And accept us as your people.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/נְחַלְתָּֽ/נוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./ne.chal.Ta./nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "take",
+                "wordIndex": 6
+              },
+              {
+                "text": "as",
+                "wordIndex": 7
+              },
+              {
+                "text": "a",
+                "wordIndex": 8
+              },
+              {
+                "text": "possession/",
+                "wordIndex": 9
+              },
+              {
+                "text": "us",
+                "wordIndex": 10
+              },
+              {
+                "text": "H9001/{H5157}/H9035\\H9016",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqq2ms/Sp1bp",
+                "wordIndex": 12
+              },
+              {
+                "text": "H5157",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H5157",
+                  "lemma": "נָחַל",
+                  "translit": "na.chal",
+                  "morph": "H:V",
+                  "gloss": "to inherit 1) to get as a possession, acquire, inherit, possess<br>1a) (Qal)<br>1a1) to take possession, inherit<br>1a2) to have or get as a possession or property (fig.)<br>1a3) to divide the land for a possession<br>1a4) to acquire (testimonies) (fig.)<br>1b) (Piel) to divide for a possession<br>1c) (Hithpael) to possess oneself of<br>1d) (Hiphil)<br>1d1) to give as a possession<br>1d2) to cause to inherit, give as an inheritance<br>1e) (Hophal) to be allotted, be made to possess",
+                  "raw": "H5157\tH5157 =\tH5157\tנָחַל\tna.chal\tH:V\tto inherit\t1) to get as a possession, acquire, inherit, possess<br>1a) (Qal)<br>1a1) to take possession, inherit<br>1a2) to have or get as a possession or property (fig.)<br>1a3) to divide the land for a possession<br>1a4) to acquire (testimonies) (fig.)<br>1b) (Piel) to divide for a possession<br>1c) (Hithpael) to possess oneself of<br>1d) (Hiphil)<br>1d1) to give as a possession<br>1d2) to cause to inherit, give as an inheritance<br>1e) (Hophal) to be allotted, be made to possess"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H5157=נָחַל=to",
+                "wordIndex": 14,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "inherit}/H9035=Op1c=us\\H9016=׃=verseEnd",
+                "wordIndex": 15,
+                "lex": {
+                  "code": "H9035",
+                  "lemma": "נוּ",
+                  "translit": "nu",
+                  "morph": "Op1c",
+                  "gloss": "us Personal object pronoun -  suffix for propositions and verbs without an object: 1st person plural",
+                  "raw": "H9035\tH9035 =\tH9035\tנוּ\tnu\tOp1c\tus\tPersonal object pronoun -  suffix for propositions and verbs without an object: 1st person plural"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L וּ/נְחַלְתָּֽ/נוּ\\׃ u./ne.chal.Ta./nu and/ you will take as a possession/ us H9001/{H5157}/H9035\\H9016 Hc/Vqq2ms/Sp1bp H5157 H9001=ו=&/{H5157=נָחַל=to inherit}/H9035=Op1c=us\\H9016=׃=verseEnd"
+          }
         }
       ]
     }

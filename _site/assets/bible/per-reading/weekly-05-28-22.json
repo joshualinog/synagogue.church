@@ -7,91 +7,1286 @@
           "chapter": 24,
           "verse": 53,
           "text": "And the servant brought out silver jewelry and gold jewelry, and garments, and he gave them to Rebekah. And he gave precious gifts to her brother and to her mother.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/לְ/אִמָּֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./le./'i.Ma/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "to/",
+                "wordIndex": 4
+              },
+              {
+                "text": "mother/",
+                "wordIndex": 5
+              },
+              {
+                "text": "her",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/H9005/{H0517}/H9024\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/R/Ncfsc/Sp3fs",
+                "wordIndex": 8
+              },
+              {
+                "text": "H0517",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0517",
+                  "lemma": "אֵם",
+                  "translit": "em",
+                  "morph": "H:N-F",
+                  "gloss": "mother 1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division",
+                  "raw": "H0517\tH0517 =\tH0517\tאֵם\tem\tH:N-F\tmother\t1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division"
+                }
+              },
+              {
+                "text": "H9002=ו=and/H9005=ל=to/{H0517=אֵם=mother}/H9024=Ps3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L וּ/לְ/אִמָּֽ/הּ\\׃ u./le./'i.Ma/h and/ to/ mother/ her H9002/H9005/{H0517}/H9024\\H9016 HC/R/Ncfsc/Sp3fs H0517 H9002=ו=and/H9005=ל=to/{H0517=אֵם=mother}/H9024=Ps3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 54,
           "text": "And he and the men who were with him ate and drank, and they spent the night. And they got up in the morning, and he said, “Let me go to my master.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לַֽ/אדֹנִֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La./do.N/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "master/",
+                "wordIndex": 4
+              },
+              {
+                "text": "my",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H0113}/H9020\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp1bs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0113",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0113",
+                  "lemma": "אָדוֹן",
+                  "translit": "a.don",
+                  "morph": "H:N-M",
+                  "gloss": "lord 1) firm, strong, lord, master<br>1a) lord, master<br>1a1) reference to men<br>1a1a) superintendent of household, of affairs<br>1a1b) master<br>1a1c) king<br>1a2) reference to God<br>1a2a) the Lord God<br>1a2b) Lord of the whole earth<br>1b) lords, kings<br>1b1) reference to men<br>1b1a) proprietor of hill of Samaria<br>1b1b) master<br>1b1c) husband<br>1b1d) prophet<br>1b1e) governor<br>1b1f) prince<br>1b1g) king<br>1b2) reference to God<br>1b2a) Lord of lords (probably = \"thy husband, Yahweh\")<br>1c) my lord, my master<br>1c1) reference to men<br>1c1a) master<br>1c1b) husband<br>1c1c) prophet<br>1c1d) prince<br>1c1e) king<br>1c1f) father<br>1c1g) Moses<br>1c1h) priest<br>1c1i) theophanic angel<br>1c1j) captain<br>1c1k) general recognition of superiority<br>1c2) reference to God<br>1c2a) my Lord, my Lord and my God<br>1c2b) Adonai (parallel with Yahweh)",
+                  "raw": "H0113\tH0113 =\tH0113\tאָדוֹן\ta.don\tH:N-M\tlord\t1) firm, strong, lord, master<br>1a) lord, master<br>1a1) reference to men<br>1a1a) superintendent of household, of affairs<br>1a1b) master<br>1a1c) king<br>1a2) reference to God<br>1a2a) the Lord God<br>1a2b) Lord of the whole earth<br>1b) lords, kings<br>1b1) reference to men<br>1b1a) proprietor of hill of Samaria<br>1b1b) master<br>1b1c) husband<br>1b1d) prophet<br>1b1e) governor<br>1b1f) prince<br>1b1g) king<br>1b2) reference to God<br>1b2a) Lord of lords (probably = \"thy husband, Yahweh\")<br>1c) my lord, my master<br>1c1) reference to men<br>1c1a) master<br>1c1b) husband<br>1c1c) prophet<br>1c1d) prince<br>1c1e) king<br>1c1f) father<br>1c1g) Moses<br>1c1h) priest<br>1c1i) theophanic angel<br>1c1j) captain<br>1c1k) general recognition of superiority<br>1c2) reference to God<br>1c2a) my Lord, my Lord and my God<br>1c2b) Adonai (parallel with Yahweh)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0113=אָדוֹן=lord}/H9020=Ps1c=my\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#12=L לַֽ/אדֹנִֽ/י\\׃ La./do.N/i to/ master/ my H9005/{H0113}/H9020\\H9016 HR/Ncmsc/Sp1bs H0113 H9005=ל=to/{H0113=אָדוֹן=lord}/H9020=Ps1c=my\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 55,
           "text": "And her brother and her mother said, “Let the girl remain with us ten days or so; after that she may go.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תֵּלֵֽךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "te.Lekh",
+                "wordIndex": 2
+              },
+              {
+                "text": "she",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "go",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H1980G}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1980",
+                  "lemma": "הָלַךְ",
+                  "translit": "ha.lakh",
+                  "morph": "H:V",
+                  "gloss": "to go: send : send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H1980\tH1980O = a Meaning of\tH1980I\tהָלַךְ\tha.lakh\tH:V\tto go: send\t: send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "HVqi2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1980G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1980",
+                  "lemma": "הָלַךְ",
+                  "translit": "ha.lakh",
+                  "morph": "H:V",
+                  "gloss": "to go: send : send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H1980\tH1980O = a Meaning of\tH1980I\tהָלַךְ\tha.lakh\tH:V\tto go: send\t: send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "H3212",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3212",
+                  "lemma": "יָלַךְ",
+                  "translit": "ya.lakh",
+                  "morph": "H:V",
+                  "gloss": "to walk 1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Hiphil) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H3212\tH3212 = a Spelling of\tH1980I\tיָלַךְ\tya.lakh\tH:V\tto walk\t1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Hiphil) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "{H1980G=הָלַךְ=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H1980",
+                  "lemma": "הָלַךְ",
+                  "translit": "ha.lakh",
+                  "morph": "H:V",
+                  "gloss": "to go: send : send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H1980\tH1980O = a Meaning of\tH1980I\tהָלַךְ\tha.lakh\tH:V\tto go: send\t: send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "went»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "go:3_went;_go[away]}\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L תֵּלֵֽךְ\\׃ te.Lekh she will go {H1980G}\\H9016 HVqi2ms H1980G H3212 {H1980G=הָלַךְ=: went»to go:3_went;_go[away]}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 56,
           "text": "And he said to them, “Do not delay me. Now, Yahweh has made my journey successful. Let me go. I must go to my master.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לַֽ/אדֹנִֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La./do.N/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "master/",
+                "wordIndex": 4
+              },
+              {
+                "text": "my",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H0113}/H9020\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp1bs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0113",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0113",
+                  "lemma": "אָדוֹן",
+                  "translit": "a.don",
+                  "morph": "H:N-M",
+                  "gloss": "lord 1) firm, strong, lord, master<br>1a) lord, master<br>1a1) reference to men<br>1a1a) superintendent of household, of affairs<br>1a1b) master<br>1a1c) king<br>1a2) reference to God<br>1a2a) the Lord God<br>1a2b) Lord of the whole earth<br>1b) lords, kings<br>1b1) reference to men<br>1b1a) proprietor of hill of Samaria<br>1b1b) master<br>1b1c) husband<br>1b1d) prophet<br>1b1e) governor<br>1b1f) prince<br>1b1g) king<br>1b2) reference to God<br>1b2a) Lord of lords (probably = \"thy husband, Yahweh\")<br>1c) my lord, my master<br>1c1) reference to men<br>1c1a) master<br>1c1b) husband<br>1c1c) prophet<br>1c1d) prince<br>1c1e) king<br>1c1f) father<br>1c1g) Moses<br>1c1h) priest<br>1c1i) theophanic angel<br>1c1j) captain<br>1c1k) general recognition of superiority<br>1c2) reference to God<br>1c2a) my Lord, my Lord and my God<br>1c2b) Adonai (parallel with Yahweh)",
+                  "raw": "H0113\tH0113 =\tH0113\tאָדוֹן\ta.don\tH:N-M\tlord\t1) firm, strong, lord, master<br>1a) lord, master<br>1a1) reference to men<br>1a1a) superintendent of household, of affairs<br>1a1b) master<br>1a1c) king<br>1a2) reference to God<br>1a2a) the Lord God<br>1a2b) Lord of the whole earth<br>1b) lords, kings<br>1b1) reference to men<br>1b1a) proprietor of hill of Samaria<br>1b1b) master<br>1b1c) husband<br>1b1d) prophet<br>1b1e) governor<br>1b1f) prince<br>1b1g) king<br>1b2) reference to God<br>1b2a) Lord of lords (probably = \"thy husband, Yahweh\")<br>1c) my lord, my master<br>1c1) reference to men<br>1c1a) master<br>1c1b) husband<br>1c1c) prophet<br>1c1d) prince<br>1c1e) king<br>1c1f) father<br>1c1g) Moses<br>1c1h) priest<br>1c1i) theophanic angel<br>1c1j) captain<br>1c1k) general recognition of superiority<br>1c2) reference to God<br>1c2a) my Lord, my Lord and my God<br>1c2b) Adonai (parallel with Yahweh)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0113=אָדוֹן=lord}/H9020=Ps1c=my\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#11=L לַֽ/אדֹנִֽ/י\\׃ La./do.N/i to/ master/ my H9005/{H0113}/H9020\\H9016 HR/Ncmsc/Sp1bs H0113 H9005=ל=to/{H0113=אָדוֹן=lord}/H9020=Ps1c=my\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 57,
           "text": "And they said, “Let us call the girl and ask her opinion.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פִּֽי/הָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Pi./ha",
+                "wordIndex": 2
+              },
+              {
+                "text": "mouth/",
+                "wordIndex": 3
+              },
+              {
+                "text": "her",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6310G}/H9024\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H6310",
+                  "lemma": "פֶּה",
+                  "translit": "peh",
+                  "morph": "H:N-M",
+                  "gloss": "lip: one third : one_third<br>peh<br>1) mouth<br>1a) mouth (of man)<br>1b) mouth (as organ of speech)<br>1c) mouth (of animals)<br>1d) mouth, opening, orifice (of a well, river, etc)<br>1e) extremity, end pim<br>2) a weight equal to one third of a shekel, occurs only in <ref=\"1Sa.13.21\">1Sa 13:21</ref>",
+                  "raw": "H6310\tH6310L = a Meaning of\tH6310G\tפֶּה\tpeh\tH:N-M\tlip: one third\t: one_third<br>peh<br>1) mouth<br>1a) mouth (of man)<br>1b) mouth (as organ of speech)<br>1c) mouth (of animals)<br>1d) mouth, opening, orifice (of a well, river, etc)<br>1e) extremity, end pim<br>2) a weight equal to one third of a shekel, occurs only in <ref=\"1Sa.13.21\">1Sa 13:21</ref>"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3fs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6310G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6310",
+                  "lemma": "פֶּה",
+                  "translit": "peh",
+                  "morph": "H:N-M",
+                  "gloss": "lip: one third : one_third<br>peh<br>1) mouth<br>1a) mouth (of man)<br>1b) mouth (as organ of speech)<br>1c) mouth (of animals)<br>1d) mouth, opening, orifice (of a well, river, etc)<br>1e) extremity, end pim<br>2) a weight equal to one third of a shekel, occurs only in <ref=\"1Sa.13.21\">1Sa 13:21</ref>",
+                  "raw": "H6310\tH6310L = a Meaning of\tH6310G\tפֶּה\tpeh\tH:N-M\tlip: one third\t: one_third<br>peh<br>1) mouth<br>1a) mouth (of man)<br>1b) mouth (as organ of speech)<br>1c) mouth (of animals)<br>1d) mouth, opening, orifice (of a well, river, etc)<br>1e) extremity, end pim<br>2) a weight equal to one third of a shekel, occurs only in <ref=\"1Sa.13.21\">1Sa 13:21</ref>"
+                }
+              },
+              {
+                "text": "{H6310G=פֶּה=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6310",
+                  "lemma": "פֶּה",
+                  "translit": "peh",
+                  "morph": "H:N-M",
+                  "gloss": "lip: one third : one_third<br>peh<br>1) mouth<br>1a) mouth (of man)<br>1b) mouth (as organ of speech)<br>1c) mouth (of animals)<br>1d) mouth, opening, orifice (of a well, river, etc)<br>1e) extremity, end pim<br>2) a weight equal to one third of a shekel, occurs only in <ref=\"1Sa.13.21\">1Sa 13:21</ref>",
+                  "raw": "H6310\tH6310L = a Meaning of\tH6310G\tפֶּה\tpeh\tH:N-M\tlip: one third\t: one_third<br>peh<br>1) mouth<br>1a) mouth (of man)<br>1b) mouth (as organ of speech)<br>1c) mouth (of animals)<br>1d) mouth, opening, orifice (of a well, river, etc)<br>1e) extremity, end pim<br>2) a weight equal to one third of a shekel, occurs only in <ref=\"1Sa.13.21\">1Sa 13:21</ref>"
+                }
+              },
+              {
+                "text": "lip»lip:1_lip;_mouth}/H9024=Ps3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9024",
+                  "lemma": "הּ",
+                  "translit": "h",
+                  "morph": "Ps3f",
+                  "gloss": "her Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person feminine singular",
+                  "raw": "H9024\tH9024 =\tH9024\tהּ\th\tPs3f\ther\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person feminine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L פִּֽי/הָ\\׃ Pi./ha mouth/ her {H6310G}/H9024\\H9016 HNcmsc/Sp3fs H6310G {H6310G=פֶּה=: lip»lip:1_lip;_mouth}/H9024=Ps3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 58,
           "text": "And they called Rebekah and said to her, “Will you go with this man?” And she said, “I will go.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֵלֵֽךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.Lekh",
+                "wordIndex": 2
+              },
+              {
+                "text": "I",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "go",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H1980G}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1980",
+                  "lemma": "הָלַךְ",
+                  "translit": "ha.lakh",
+                  "morph": "H:V",
+                  "gloss": "to go: send : send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H1980\tH1980O = a Meaning of\tH1980I\tהָלַךְ\tha.lakh\tH:V\tto go: send\t: send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "HVqi1cs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1980G_b",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1980",
+                  "lemma": "הָלַךְ",
+                  "translit": "ha.lakh",
+                  "morph": "H:V",
+                  "gloss": "to go: send : send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H1980\tH1980O = a Meaning of\tH1980I\tהָלַךְ\tha.lakh\tH:V\tto go: send\t: send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "H3212_b",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3212",
+                  "lemma": "יָלַךְ",
+                  "translit": "ya.lakh",
+                  "morph": "H:V",
+                  "gloss": "to walk 1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Hiphil) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H3212\tH3212 = a Spelling of\tH1980I\tיָלַךְ\tya.lakh\tH:V\tto walk\t1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Hiphil) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "{H1980G=הָלַךְ=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H1980",
+                  "lemma": "הָלַךְ",
+                  "translit": "ha.lakh",
+                  "morph": "H:V",
+                  "gloss": "to go: send : send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H1980\tH1980O = a Meaning of\tH1980I\tהָלַךְ\tha.lakh\tH:V\tto go: send\t: send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "went»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "go:3_went;_go[away]}\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L אֵלֵֽךְ\\׃ 'e.Lekh I will go {H1980G}\\H9016 HVqi1cs H1980G_b H3212_b {H1980G=הָלַךְ=: went»to go:3_went;_go[away]}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 59,
           "text": "So they sent away Rebekah their sister, and her nurse, and the servant of Abraham and his men.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֲנָשָֽׁי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.na.Sha/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "men/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0582}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0582",
+                  "lemma": "אֱנוֹשׁ",
+                  "translit": "e.nosh",
+                  "morph": "H:N-M",
+                  "gloss": "human 1) man, mortal man, person, mankind<br>1a) of an individual<br>1b) men (collective)<br>1c) man, mankind<BR>Aramaic equivalent: <i>e.nash</i> (אֱנָשׁ \"man\" H0606)",
+                  "raw": "H0582\tH0582 =\tH0582\tאֱנוֹשׁ\te.nosh\tH:N-M\thuman\t1) man, mortal man, person, mankind<br>1a) of an individual<br>1b) men (collective)<br>1c) man, mankind<BR>Aramaic equivalent: <i>e.nash</i> (אֱנָשׁ \"man\" H0606)"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0582",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0582",
+                  "lemma": "אֱנוֹשׁ",
+                  "translit": "e.nosh",
+                  "morph": "H:N-M",
+                  "gloss": "human 1) man, mortal man, person, mankind<br>1a) of an individual<br>1b) men (collective)<br>1c) man, mankind<BR>Aramaic equivalent: <i>e.nash</i> (אֱנָשׁ \"man\" H0606)",
+                  "raw": "H0582\tH0582 =\tH0582\tאֱנוֹשׁ\te.nosh\tH:N-M\thuman\t1) man, mortal man, person, mankind<br>1a) of an individual<br>1b) men (collective)<br>1c) man, mankind<BR>Aramaic equivalent: <i>e.nash</i> (אֱנָשׁ \"man\" H0606)"
+                }
+              },
+              {
+                "text": "H0376",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0376",
+                  "lemma": "אִישׁ",
+                  "translit": "ish",
+                  "morph": "H:N-M",
+                  "gloss": "man: anyone : anyone/someone<br>1) man<br>1a) man, male (in contrast to woman, female)<br>1b) husband<br>1c) human being, person (in contrast to God)<br>1d) servant<br>1e) mankind<br>1f) champion<br>1g) great man<br>2) whosoever<br>3) each (adjective)",
+                  "raw": "H0376\tH0376I = a Meaning of\tH0376G\tאִישׁ\tish\tH:N-M\tman: anyone\t: anyone/someone<br>1) man<br>1a) man, male (in contrast to woman, female)<br>1b) husband<br>1c) human being, person (in contrast to God)<br>1d) servant<br>1e) mankind<br>1f) champion<br>1g) great man<br>2) whosoever<br>3) each (adjective) "
+                }
+              },
+              {
+                "text": "{H0582=אֱנוֹשׁ=human}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0582",
+                  "lemma": "אֱנוֹשׁ",
+                  "translit": "e.nosh",
+                  "morph": "H:N-M",
+                  "gloss": "human 1) man, mortal man, person, mankind<br>1a) of an individual<br>1b) men (collective)<br>1c) man, mankind<BR>Aramaic equivalent: <i>e.nash</i> (אֱנָשׁ \"man\" H0606)",
+                  "raw": "H0582\tH0582 =\tH0582\tאֱנוֹשׁ\te.nosh\tH:N-M\thuman\t1) man, mortal man, person, mankind<br>1a) of an individual<br>1b) men (collective)<br>1c) man, mankind<BR>Aramaic equivalent: <i>e.nash</i> (אֱנָשׁ \"man\" H0606)"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L אֲנָשָֽׁי/ו\\׃ 'a.na.Sha/v men/ his {H0582}/H9023\\H9016 HNcmpc/Sp3ms H0582 H0376 {H0582=אֱנוֹשׁ=human}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 60,
           "text": "And they blessed Rebekah and said to her, “You are our sister; may you become countless thousands; and may your offspring take possession of the gate of his enemies.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שֹׂנְאָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "so.ne.'A/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "[those",
+                "wordIndex": 3
+              },
+              {
+                "text": "who]",
+                "wordIndex": 4
+              },
+              {
+                "text": "hate/",
+                "wordIndex": 5
+              },
+              {
+                "text": "it",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H8130}/H9033\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8130",
+                  "lemma": "שָׂנֵא",
+                  "translit": "sa.ne",
+                  "morph": "H:V",
+                  "gloss": "to hate 1) to hate, be hateful<br>1a) (Qal) to hate<br>1a1) of man<br>1a2) of God<br>1a3) hater, one hating, enemy (participle) (subst)<br>1b) (Niphal) to be hated<br>1c) (Piel) hater (participle)<br>1c1) of persons, nations, God, wisdom<BR>Aramaic equivalent: <i>se.ne</i> (שְׂנָא \"to hate\" H8131)",
+                  "raw": "H8130\tH8130 =\tH8130\tשָׂנֵא\tsa.ne\tH:V\tto hate\t1) to hate, be hateful<br>1a) (Qal) to hate<br>1a1) of man<br>1a2) of God<br>1a3) hater, one hating, enemy (participle) (subst)<br>1b) (Niphal) to be hated<br>1c) (Piel) hater (participle)<br>1c1) of persons, nations, God, wisdom<BR>Aramaic equivalent: <i>se.ne</i> (שְׂנָא \"to hate\" H8131)"
+                }
+              },
+              {
+                "text": "HVqrmpc/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H8130",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H8130",
+                  "lemma": "שָׂנֵא",
+                  "translit": "sa.ne",
+                  "morph": "H:V",
+                  "gloss": "to hate 1) to hate, be hateful<br>1a) (Qal) to hate<br>1a1) of man<br>1a2) of God<br>1a3) hater, one hating, enemy (participle) (subst)<br>1b) (Niphal) to be hated<br>1c) (Piel) hater (participle)<br>1c1) of persons, nations, God, wisdom<BR>Aramaic equivalent: <i>se.ne</i> (שְׂנָא \"to hate\" H8131)",
+                  "raw": "H8130\tH8130 =\tH8130\tשָׂנֵא\tsa.ne\tH:V\tto hate\t1) to hate, be hateful<br>1a) (Qal) to hate<br>1a1) of man<br>1a2) of God<br>1a3) hater, one hating, enemy (participle) (subst)<br>1b) (Niphal) to be hated<br>1c) (Piel) hater (participle)<br>1c1) of persons, nations, God, wisdom<BR>Aramaic equivalent: <i>se.ne</i> (שְׂנָא \"to hate\" H8131)"
+                }
+              },
+              {
+                "text": "{H8130=שָׂנֵא=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H8130",
+                  "lemma": "שָׂנֵא",
+                  "translit": "sa.ne",
+                  "morph": "H:V",
+                  "gloss": "to hate 1) to hate, be hateful<br>1a) (Qal) to hate<br>1a1) of man<br>1a2) of God<br>1a3) hater, one hating, enemy (participle) (subst)<br>1b) (Niphal) to be hated<br>1c) (Piel) hater (participle)<br>1c1) of persons, nations, God, wisdom<BR>Aramaic equivalent: <i>se.ne</i> (שְׂנָא \"to hate\" H8131)",
+                  "raw": "H8130\tH8130 =\tH8130\tשָׂנֵא\tsa.ne\tH:V\tto hate\t1) to hate, be hateful<br>1a) (Qal) to hate<br>1a1) of man<br>1a2) of God<br>1a3) hater, one hating, enemy (participle) (subst)<br>1b) (Niphal) to be hated<br>1c) (Piel) hater (participle)<br>1c1) of persons, nations, God, wisdom<BR>Aramaic equivalent: <i>se.ne</i> (שְׂנָא \"to hate\" H8131)"
+                }
+              },
+              {
+                "text": "hate}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L שֹׂנְאָֽי/ו\\׃ so.ne.'A/v [those who] hate/ it {H8130}/H9033\\H9016 HVqrmpc/Sp3ms H8130 {H8130=שָׂנֵא=to hate}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 61,
           "text": "And Rebekah and her maidservants arose, and they mounted the camels and followed the man. And the servant took Rebekah and left.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/יֵּלַֽךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va/i.ye.Lakh",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "he",
+                "wordIndex": 4
+              },
+              {
+                "text": "went",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9001/{H1980M}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqw3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1980M_b",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1980",
+                  "lemma": "הָלַךְ",
+                  "translit": "ha.lakh",
+                  "morph": "H:V",
+                  "gloss": "to go: send : send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H1980\tH1980O = a Meaning of\tH1980I\tהָלַךְ\tha.lakh\tH:V\tto go: send\t: send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "H3212_b",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3212",
+                  "lemma": "יָלַךְ",
+                  "translit": "ya.lakh",
+                  "morph": "H:V",
+                  "gloss": "to walk 1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Hiphil) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H3212\tH3212 = a Spelling of\tH1980I\tיָלַךְ\tya.lakh\tH:V\tto walk\t1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Hiphil) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H1980M=הָלַךְ=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "journey»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "go:7_journey}\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L וַ/יֵּלַֽךְ\\׃ va/i.ye.Lakh and/ he went H9001/{H1980M}\\H9016 Hc/Vqw3ms H1980M_b H3212_b H9001=ו=&/{H1980M=הָלַךְ=: journey»to go:7_journey}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 62,
           "text": "Now Isaac was coming from the direction of Beer-Lahai-Roi. And he was living in the land of the Negev.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/נֶּֽגֶב\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Ne.gev",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Negev",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H5045G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5045G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5045",
+                  "lemma": "נֶ֫גֶב",
+                  "translit": "ne.gev",
+                  "morph": "N:N--L",
+                  "gloss": "south <BR>A sub-meaning of <i>ne.gev</i> (נֶ֫גֶב \"Negeb\" H5045)<BR> § 1) south-country, Nekeb, south<br>1a) south-country<br>1a1) region of southern Judah, boundaries not specific<br>1b) south",
+                  "raw": "H5045\tH5045H = a Meaning of\tH5045G\tנֶ֫גֶב\tne.gev\tN:N--L\tsouth\t<BR>A sub-meaning of <i>ne.gev</i> (נֶ֫גֶב \"Negeb\" H5045)<BR> § 1) south-country, Nekeb, south<br>1a) south-country<br>1a1) region of southern Judah, boundaries not specific<br>1b) south"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H5045G=נֶ֫גֶב=Negeb»Negeb@Gen.12.9-Zec}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הַ/נֶּֽגֶב\\׃ ha./Ne.gev the/ Negev H9009/{H5045G}\\H9016 HTd/Npl H5045G H9009=ה=the/{H5045G=נֶ֫גֶב=Negeb»Negeb@Gen.12.9-Zec}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 63,
           "text": "And Isaac went out to meditate in the field early in the evening, and he lifted up his eyes and saw—behold, camels were coming.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּאִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba.'Im",
+                "wordIndex": 2
+              },
+              {
+                "text": "[were]",
+                "wordIndex": 3
+              },
+              {
+                "text": "coming",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0935G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0935",
+                  "lemma": "בּוֹא",
+                  "translit": "bo",
+                  "morph": "H:V",
+                  "gloss": "to come (in): bring : bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put",
+                  "raw": "H0935\tH0935P = a Meaning of\tH0935G\tבּוֹא\tbo\tH:V\tto come (in): bring\t: bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put"
+                }
+              },
+              {
+                "text": "HVqrmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0935G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0935",
+                  "lemma": "בּוֹא",
+                  "translit": "bo",
+                  "morph": "H:V",
+                  "gloss": "to come (in): bring : bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put",
+                  "raw": "H0935\tH0935P = a Meaning of\tH0935G\tבּוֹא\tbo\tH:V\tto come (in): bring\t: bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put"
+                }
+              },
+              {
+                "text": "{H0935G=בּוֹא=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0935",
+                  "lemma": "בּוֹא",
+                  "translit": "bo",
+                  "morph": "H:V",
+                  "gloss": "to come (in): bring : bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put",
+                  "raw": "H0935\tH0935P = a Meaning of\tH0935G\tבּוֹא\tbo\tH:V\tto come (in): bring\t: bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put"
+                }
+              },
+              {
+                "text": "come»to",
+                "wordIndex": 9
+              },
+              {
+                "text": "come",
+                "wordIndex": 10
+              },
+              {
+                "text": "(in):1_come;_go_in}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L בָּאִֽים\\׃ ba.'Im [were] coming {H0935G}\\H9016 HVqrmpa H0935G {H0935G=בּוֹא=: come»to come (in):1_come;_go_in}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 64,
           "text": "And Rebekah lifted up her eyes and saw Isaac. And she got down from the camel.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/גָּמָֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./ga.Mal",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "camel",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H1581}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncbsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1581",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1581",
+                  "lemma": "גָּמָל",
+                  "translit": "ga.mal",
+                  "morph": "H:N",
+                  "gloss": "camel 1) camel<br>1a) as property, as beast of burden, for riding, forbidden for food",
+                  "raw": "H1581\tH1581 =\tH1581\tגָּמָל\tga.mal\tH:N\tcamel\t1) camel<br>1a) as property, as beast of burden, for riding, forbidden for food"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H1581=גָּמָל=camel}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הַ/גָּמָֽל\\׃ ha./ga.Mal the/ camel H9009/{H1581}\\H9016 HTd/Ncbsa H1581 H9009=ה=the/{H1581=גָּמָל=camel}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 65,
           "text": "And she said to the servant, “Who is this man walking around in the field to meet us?” And the servant said, “That is my master.” And she took her veil and covered herself.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/תִּתְכָּֽס\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./tit.Kas",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "she",
+                "wordIndex": 4
+              },
+              {
+                "text": "covered",
+                "wordIndex": 5
+              },
+              {
+                "text": "herself",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H3680}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vtw3fs",
+                "wordIndex": 8
+              },
+              {
+                "text": "H3680",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3680",
+                  "lemma": "כָּסָה",
+                  "translit": "ka.sah",
+                  "morph": "H:V",
+                  "gloss": "to cover 1) to cover, conceal, hide<br>1a) (Qal) conceal, covered (participle)<br>1b) (Niphal) to be covered<br>1c) (Piel)<br>1c1) to cover, clothe<br>1c2) to cover, conceal<br>1c3) to cover (for protection)<br>1c4) to cover over, spread over<br>1c5) to cover, overwhelm<br>1d) (Pual)<br>1d1) to be covered<br>1d2) to be clothed<br>1e) (Hithpael) to cover oneself, clothe oneself",
+                  "raw": "H3680\tH3680 =\tH3680\tכָּסָה\tka.sah\tH:V\tto cover\t1) to cover, conceal, hide<br>1a) (Qal) conceal, covered (participle)<br>1b) (Niphal) to be covered<br>1c) (Piel)<br>1c1) to cover, clothe<br>1c2) to cover, conceal<br>1c3) to cover (for protection)<br>1c4) to cover over, spread over<br>1c5) to cover, overwhelm<br>1d) (Pual)<br>1d1) to be covered<br>1d2) to be clothed<br>1e) (Hithpael) to cover oneself, clothe oneself"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H3680=כָּסָה=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "cover}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L וַ/תִּתְכָּֽס\\׃ va./tit.Kas and/ she covered herself H9001/{H3680}\\H9016 Hc/Vtw3fs H3680 H9001=ו=&/{H3680=כָּסָה=to cover}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 66,
           "text": "And the servant told Isaac all the things that he had done.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עָשָֽׂה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.Sah",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "had",
+                "wordIndex": 4
+              },
+              {
+                "text": "done",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H6213A}\\H9016",
+                "wordIndex": 6
+              },
+              {
+                "text": "HVqp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H6213A",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H6213A=עָשָׂה=:",
+                "wordIndex": 9
+              },
+              {
+                "text": "do»to",
+                "wordIndex": 10
+              },
+              {
+                "text": "make:2_do;_perform}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L עָשָֽׂה\\׃ 'a.Sah he had done {H6213A}\\H9016 HVqp3ms H6213A {H6213A=עָשָׂה=: do»to make:2_do;_perform}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 67,
           "text": "And Isaac brought her to the tent of Sarah his mother. And he took Rebekah, and she became his wife. And Isaac loved her and was comforted after the death of his mother.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אִמּֽ/וֹ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "'i.M/o",
+                "wordIndex": 3
+              },
+              {
+                "text": "mother/",
+                "wordIndex": 4
+              },
+              {
+                "text": "his",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H0517}/H9023\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0517",
+                  "lemma": "אֵם",
+                  "translit": "em",
+                  "morph": "H:N-F",
+                  "gloss": "mother 1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division",
+                  "raw": "H0517\tH0517 =\tH0517\tאֵם\tem\tH:N-F\tmother\t1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNcfsc/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H0517_B",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0517",
+                  "lemma": "אֵם",
+                  "translit": "em",
+                  "morph": "H:N-F",
+                  "gloss": "mother 1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division",
+                  "raw": "H0517\tH0517 =\tH0517\tאֵם\tem\tH:N-F\tmother\t1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division"
+                }
+              },
+              {
+                "text": "{H0517=אֵם=mother}/H9023=Ps3m=his\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H0517",
+                  "lemma": "אֵם",
+                  "translit": "em",
+                  "morph": "H:N-F",
+                  "gloss": "mother 1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division",
+                  "raw": "H0517\tH0517 =\tH0517\tאֵם\tem\tH:N-F\tmother\t1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L אִמּֽ/וֹ\\׃\\ \\פ 'i.M/o mother/ his {H0517}/H9023\\H9016\\ \\H9017 HNcfsc/Sp3ms H0517_B {H0517=אֵם=mother}/H9023=Ps3m=his\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ],
       "nirv": [
@@ -99,91 +1294,1286 @@
           "chapter": 24,
           "verse": 53,
           "text": "He brought out gold and silver jewelry. He brought out articles of clothing. He gave all of it to Rebekah. He also gave expensive gifts to her brother and her mother.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/לְ/אִמָּֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./le./'i.Ma/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "to/",
+                "wordIndex": 4
+              },
+              {
+                "text": "mother/",
+                "wordIndex": 5
+              },
+              {
+                "text": "her",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/H9005/{H0517}/H9024\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/R/Ncfsc/Sp3fs",
+                "wordIndex": 8
+              },
+              {
+                "text": "H0517",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0517",
+                  "lemma": "אֵם",
+                  "translit": "em",
+                  "morph": "H:N-F",
+                  "gloss": "mother 1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division",
+                  "raw": "H0517\tH0517 =\tH0517\tאֵם\tem\tH:N-F\tmother\t1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division"
+                }
+              },
+              {
+                "text": "H9002=ו=and/H9005=ל=to/{H0517=אֵם=mother}/H9024=Ps3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L וּ/לְ/אִמָּֽ/הּ\\׃ u./le./'i.Ma/h and/ to/ mother/ her H9002/H9005/{H0517}/H9024\\H9016 HC/R/Ncfsc/Sp3fs H0517 H9002=ו=and/H9005=ל=to/{H0517=אֵם=mother}/H9024=Ps3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 54,
           "text": "Then Abraham’s servant and the men who were with him ate and drank. They spent the night there.\nThey got up the next morning. Abraham’s servant said, “Send me back to my master.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לַֽ/אדֹנִֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La./do.N/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "master/",
+                "wordIndex": 4
+              },
+              {
+                "text": "my",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H0113}/H9020\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp1bs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0113",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0113",
+                  "lemma": "אָדוֹן",
+                  "translit": "a.don",
+                  "morph": "H:N-M",
+                  "gloss": "lord 1) firm, strong, lord, master<br>1a) lord, master<br>1a1) reference to men<br>1a1a) superintendent of household, of affairs<br>1a1b) master<br>1a1c) king<br>1a2) reference to God<br>1a2a) the Lord God<br>1a2b) Lord of the whole earth<br>1b) lords, kings<br>1b1) reference to men<br>1b1a) proprietor of hill of Samaria<br>1b1b) master<br>1b1c) husband<br>1b1d) prophet<br>1b1e) governor<br>1b1f) prince<br>1b1g) king<br>1b2) reference to God<br>1b2a) Lord of lords (probably = \"thy husband, Yahweh\")<br>1c) my lord, my master<br>1c1) reference to men<br>1c1a) master<br>1c1b) husband<br>1c1c) prophet<br>1c1d) prince<br>1c1e) king<br>1c1f) father<br>1c1g) Moses<br>1c1h) priest<br>1c1i) theophanic angel<br>1c1j) captain<br>1c1k) general recognition of superiority<br>1c2) reference to God<br>1c2a) my Lord, my Lord and my God<br>1c2b) Adonai (parallel with Yahweh)",
+                  "raw": "H0113\tH0113 =\tH0113\tאָדוֹן\ta.don\tH:N-M\tlord\t1) firm, strong, lord, master<br>1a) lord, master<br>1a1) reference to men<br>1a1a) superintendent of household, of affairs<br>1a1b) master<br>1a1c) king<br>1a2) reference to God<br>1a2a) the Lord God<br>1a2b) Lord of the whole earth<br>1b) lords, kings<br>1b1) reference to men<br>1b1a) proprietor of hill of Samaria<br>1b1b) master<br>1b1c) husband<br>1b1d) prophet<br>1b1e) governor<br>1b1f) prince<br>1b1g) king<br>1b2) reference to God<br>1b2a) Lord of lords (probably = \"thy husband, Yahweh\")<br>1c) my lord, my master<br>1c1) reference to men<br>1c1a) master<br>1c1b) husband<br>1c1c) prophet<br>1c1d) prince<br>1c1e) king<br>1c1f) father<br>1c1g) Moses<br>1c1h) priest<br>1c1i) theophanic angel<br>1c1j) captain<br>1c1k) general recognition of superiority<br>1c2) reference to God<br>1c2a) my Lord, my Lord and my God<br>1c2b) Adonai (parallel with Yahweh)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0113=אָדוֹן=lord}/H9020=Ps1c=my\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#12=L לַֽ/אדֹנִֽ/י\\׃ La./do.N/i to/ master/ my H9005/{H0113}/H9020\\H9016 HR/Ncmsc/Sp1bs H0113 H9005=ל=to/{H0113=אָדוֹן=lord}/H9020=Ps1c=my\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 55,
           "text": "But her brother and her mother replied, “Let the young woman stay with us ten days or so. Then you can go.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תֵּלֵֽךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "te.Lekh",
+                "wordIndex": 2
+              },
+              {
+                "text": "she",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "go",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H1980G}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1980",
+                  "lemma": "הָלַךְ",
+                  "translit": "ha.lakh",
+                  "morph": "H:V",
+                  "gloss": "to go: send : send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H1980\tH1980O = a Meaning of\tH1980I\tהָלַךְ\tha.lakh\tH:V\tto go: send\t: send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "HVqi2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1980G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1980",
+                  "lemma": "הָלַךְ",
+                  "translit": "ha.lakh",
+                  "morph": "H:V",
+                  "gloss": "to go: send : send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H1980\tH1980O = a Meaning of\tH1980I\tהָלַךְ\tha.lakh\tH:V\tto go: send\t: send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "H3212",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3212",
+                  "lemma": "יָלַךְ",
+                  "translit": "ya.lakh",
+                  "morph": "H:V",
+                  "gloss": "to walk 1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Hiphil) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H3212\tH3212 = a Spelling of\tH1980I\tיָלַךְ\tya.lakh\tH:V\tto walk\t1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Hiphil) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "{H1980G=הָלַךְ=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H1980",
+                  "lemma": "הָלַךְ",
+                  "translit": "ha.lakh",
+                  "morph": "H:V",
+                  "gloss": "to go: send : send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H1980\tH1980O = a Meaning of\tH1980I\tהָלַךְ\tha.lakh\tH:V\tto go: send\t: send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "went»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "go:3_went;_go[away]}\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L תֵּלֵֽךְ\\׃ te.Lekh she will go {H1980G}\\H9016 HVqi2ms H1980G H3212 {H1980G=הָלַךְ=: went»to go:3_went;_go[away]}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 56,
           "text": "But he said to them, “Don’t make me wait. The Lord has given me success on my journey. Send me on my way so I can go to my master.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לַֽ/אדֹנִֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La./do.N/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "master/",
+                "wordIndex": 4
+              },
+              {
+                "text": "my",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H0113}/H9020\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp1bs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0113",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0113",
+                  "lemma": "אָדוֹן",
+                  "translit": "a.don",
+                  "morph": "H:N-M",
+                  "gloss": "lord 1) firm, strong, lord, master<br>1a) lord, master<br>1a1) reference to men<br>1a1a) superintendent of household, of affairs<br>1a1b) master<br>1a1c) king<br>1a2) reference to God<br>1a2a) the Lord God<br>1a2b) Lord of the whole earth<br>1b) lords, kings<br>1b1) reference to men<br>1b1a) proprietor of hill of Samaria<br>1b1b) master<br>1b1c) husband<br>1b1d) prophet<br>1b1e) governor<br>1b1f) prince<br>1b1g) king<br>1b2) reference to God<br>1b2a) Lord of lords (probably = \"thy husband, Yahweh\")<br>1c) my lord, my master<br>1c1) reference to men<br>1c1a) master<br>1c1b) husband<br>1c1c) prophet<br>1c1d) prince<br>1c1e) king<br>1c1f) father<br>1c1g) Moses<br>1c1h) priest<br>1c1i) theophanic angel<br>1c1j) captain<br>1c1k) general recognition of superiority<br>1c2) reference to God<br>1c2a) my Lord, my Lord and my God<br>1c2b) Adonai (parallel with Yahweh)",
+                  "raw": "H0113\tH0113 =\tH0113\tאָדוֹן\ta.don\tH:N-M\tlord\t1) firm, strong, lord, master<br>1a) lord, master<br>1a1) reference to men<br>1a1a) superintendent of household, of affairs<br>1a1b) master<br>1a1c) king<br>1a2) reference to God<br>1a2a) the Lord God<br>1a2b) Lord of the whole earth<br>1b) lords, kings<br>1b1) reference to men<br>1b1a) proprietor of hill of Samaria<br>1b1b) master<br>1b1c) husband<br>1b1d) prophet<br>1b1e) governor<br>1b1f) prince<br>1b1g) king<br>1b2) reference to God<br>1b2a) Lord of lords (probably = \"thy husband, Yahweh\")<br>1c) my lord, my master<br>1c1) reference to men<br>1c1a) master<br>1c1b) husband<br>1c1c) prophet<br>1c1d) prince<br>1c1e) king<br>1c1f) father<br>1c1g) Moses<br>1c1h) priest<br>1c1i) theophanic angel<br>1c1j) captain<br>1c1k) general recognition of superiority<br>1c2) reference to God<br>1c2a) my Lord, my Lord and my God<br>1c2b) Adonai (parallel with Yahweh)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0113=אָדוֹן=lord}/H9020=Ps1c=my\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#11=L לַֽ/אדֹנִֽ/י\\׃ La./do.N/i to/ master/ my H9005/{H0113}/H9020\\H9016 HR/Ncmsc/Sp1bs H0113 H9005=ל=to/{H0113=אָדוֹן=lord}/H9020=Ps1c=my\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 57,
           "text": "Then they said, “Let’s get Rebekah. We’ll ask her about it.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "פִּֽי/הָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Pi./ha",
+                "wordIndex": 2
+              },
+              {
+                "text": "mouth/",
+                "wordIndex": 3
+              },
+              {
+                "text": "her",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6310G}/H9024\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H6310",
+                  "lemma": "פֶּה",
+                  "translit": "peh",
+                  "morph": "H:N-M",
+                  "gloss": "lip: one third : one_third<br>peh<br>1) mouth<br>1a) mouth (of man)<br>1b) mouth (as organ of speech)<br>1c) mouth (of animals)<br>1d) mouth, opening, orifice (of a well, river, etc)<br>1e) extremity, end pim<br>2) a weight equal to one third of a shekel, occurs only in <ref=\"1Sa.13.21\">1Sa 13:21</ref>",
+                  "raw": "H6310\tH6310L = a Meaning of\tH6310G\tפֶּה\tpeh\tH:N-M\tlip: one third\t: one_third<br>peh<br>1) mouth<br>1a) mouth (of man)<br>1b) mouth (as organ of speech)<br>1c) mouth (of animals)<br>1d) mouth, opening, orifice (of a well, river, etc)<br>1e) extremity, end pim<br>2) a weight equal to one third of a shekel, occurs only in <ref=\"1Sa.13.21\">1Sa 13:21</ref>"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3fs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6310G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6310",
+                  "lemma": "פֶּה",
+                  "translit": "peh",
+                  "morph": "H:N-M",
+                  "gloss": "lip: one third : one_third<br>peh<br>1) mouth<br>1a) mouth (of man)<br>1b) mouth (as organ of speech)<br>1c) mouth (of animals)<br>1d) mouth, opening, orifice (of a well, river, etc)<br>1e) extremity, end pim<br>2) a weight equal to one third of a shekel, occurs only in <ref=\"1Sa.13.21\">1Sa 13:21</ref>",
+                  "raw": "H6310\tH6310L = a Meaning of\tH6310G\tפֶּה\tpeh\tH:N-M\tlip: one third\t: one_third<br>peh<br>1) mouth<br>1a) mouth (of man)<br>1b) mouth (as organ of speech)<br>1c) mouth (of animals)<br>1d) mouth, opening, orifice (of a well, river, etc)<br>1e) extremity, end pim<br>2) a weight equal to one third of a shekel, occurs only in <ref=\"1Sa.13.21\">1Sa 13:21</ref>"
+                }
+              },
+              {
+                "text": "{H6310G=פֶּה=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H6310",
+                  "lemma": "פֶּה",
+                  "translit": "peh",
+                  "morph": "H:N-M",
+                  "gloss": "lip: one third : one_third<br>peh<br>1) mouth<br>1a) mouth (of man)<br>1b) mouth (as organ of speech)<br>1c) mouth (of animals)<br>1d) mouth, opening, orifice (of a well, river, etc)<br>1e) extremity, end pim<br>2) a weight equal to one third of a shekel, occurs only in <ref=\"1Sa.13.21\">1Sa 13:21</ref>",
+                  "raw": "H6310\tH6310L = a Meaning of\tH6310G\tפֶּה\tpeh\tH:N-M\tlip: one third\t: one_third<br>peh<br>1) mouth<br>1a) mouth (of man)<br>1b) mouth (as organ of speech)<br>1c) mouth (of animals)<br>1d) mouth, opening, orifice (of a well, river, etc)<br>1e) extremity, end pim<br>2) a weight equal to one third of a shekel, occurs only in <ref=\"1Sa.13.21\">1Sa 13:21</ref>"
+                }
+              },
+              {
+                "text": "lip»lip:1_lip;_mouth}/H9024=Ps3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9024",
+                  "lemma": "הּ",
+                  "translit": "h",
+                  "morph": "Ps3f",
+                  "gloss": "her Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person feminine singular",
+                  "raw": "H9024\tH9024 =\tH9024\tהּ\th\tPs3f\ther\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person feminine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L פִּֽי/הָ\\׃ Pi./ha mouth/ her {H6310G}/H9024\\H9016 HNcmsc/Sp3fs H6310G {H6310G=פֶּה=: lip»lip:1_lip;_mouth}/H9024=Ps3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 58,
           "text": "So they sent for her. They asked her, “Will you go with this man?”\n“Yes,” she said.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֵלֵֽךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.Lekh",
+                "wordIndex": 2
+              },
+              {
+                "text": "I",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "go",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H1980G}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1980",
+                  "lemma": "הָלַךְ",
+                  "translit": "ha.lakh",
+                  "morph": "H:V",
+                  "gloss": "to go: send : send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H1980\tH1980O = a Meaning of\tH1980I\tהָלַךְ\tha.lakh\tH:V\tto go: send\t: send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "HVqi1cs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1980G_b",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1980",
+                  "lemma": "הָלַךְ",
+                  "translit": "ha.lakh",
+                  "morph": "H:V",
+                  "gloss": "to go: send : send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H1980\tH1980O = a Meaning of\tH1980I\tהָלַךְ\tha.lakh\tH:V\tto go: send\t: send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "H3212_b",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3212",
+                  "lemma": "יָלַךְ",
+                  "translit": "ya.lakh",
+                  "morph": "H:V",
+                  "gloss": "to walk 1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Hiphil) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H3212\tH3212 = a Spelling of\tH1980I\tיָלַךְ\tya.lakh\tH:V\tto walk\t1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Hiphil) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "{H1980G=הָלַךְ=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H1980",
+                  "lemma": "הָלַךְ",
+                  "translit": "ha.lakh",
+                  "morph": "H:V",
+                  "gloss": "to go: send : send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H1980\tH1980O = a Meaning of\tH1980I\tהָלַךְ\tha.lakh\tH:V\tto go: send\t: send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "went»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "go:3_went;_go[away]}\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L אֵלֵֽךְ\\׃ 'e.Lekh I will go {H1980G}\\H9016 HVqi1cs H1980G_b H3212_b {H1980G=הָלַךְ=: went»to go:3_went;_go[away]}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 59,
           "text": "So they sent their sister Rebekah on her way with Abraham’s servant and his men. They also sent Rebekah’s attendant with her.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֲנָשָֽׁי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.na.Sha/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "men/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0582}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0582",
+                  "lemma": "אֱנוֹשׁ",
+                  "translit": "e.nosh",
+                  "morph": "H:N-M",
+                  "gloss": "human 1) man, mortal man, person, mankind<br>1a) of an individual<br>1b) men (collective)<br>1c) man, mankind<BR>Aramaic equivalent: <i>e.nash</i> (אֱנָשׁ \"man\" H0606)",
+                  "raw": "H0582\tH0582 =\tH0582\tאֱנוֹשׁ\te.nosh\tH:N-M\thuman\t1) man, mortal man, person, mankind<br>1a) of an individual<br>1b) men (collective)<br>1c) man, mankind<BR>Aramaic equivalent: <i>e.nash</i> (אֱנָשׁ \"man\" H0606)"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0582",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0582",
+                  "lemma": "אֱנוֹשׁ",
+                  "translit": "e.nosh",
+                  "morph": "H:N-M",
+                  "gloss": "human 1) man, mortal man, person, mankind<br>1a) of an individual<br>1b) men (collective)<br>1c) man, mankind<BR>Aramaic equivalent: <i>e.nash</i> (אֱנָשׁ \"man\" H0606)",
+                  "raw": "H0582\tH0582 =\tH0582\tאֱנוֹשׁ\te.nosh\tH:N-M\thuman\t1) man, mortal man, person, mankind<br>1a) of an individual<br>1b) men (collective)<br>1c) man, mankind<BR>Aramaic equivalent: <i>e.nash</i> (אֱנָשׁ \"man\" H0606)"
+                }
+              },
+              {
+                "text": "H0376",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0376",
+                  "lemma": "אִישׁ",
+                  "translit": "ish",
+                  "morph": "H:N-M",
+                  "gloss": "man: anyone : anyone/someone<br>1) man<br>1a) man, male (in contrast to woman, female)<br>1b) husband<br>1c) human being, person (in contrast to God)<br>1d) servant<br>1e) mankind<br>1f) champion<br>1g) great man<br>2) whosoever<br>3) each (adjective)",
+                  "raw": "H0376\tH0376I = a Meaning of\tH0376G\tאִישׁ\tish\tH:N-M\tman: anyone\t: anyone/someone<br>1) man<br>1a) man, male (in contrast to woman, female)<br>1b) husband<br>1c) human being, person (in contrast to God)<br>1d) servant<br>1e) mankind<br>1f) champion<br>1g) great man<br>2) whosoever<br>3) each (adjective) "
+                }
+              },
+              {
+                "text": "{H0582=אֱנוֹשׁ=human}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0582",
+                  "lemma": "אֱנוֹשׁ",
+                  "translit": "e.nosh",
+                  "morph": "H:N-M",
+                  "gloss": "human 1) man, mortal man, person, mankind<br>1a) of an individual<br>1b) men (collective)<br>1c) man, mankind<BR>Aramaic equivalent: <i>e.nash</i> (אֱנָשׁ \"man\" H0606)",
+                  "raw": "H0582\tH0582 =\tH0582\tאֱנוֹשׁ\te.nosh\tH:N-M\thuman\t1) man, mortal man, person, mankind<br>1a) of an individual<br>1b) men (collective)<br>1c) man, mankind<BR>Aramaic equivalent: <i>e.nash</i> (אֱנָשׁ \"man\" H0606)"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L אֲנָשָֽׁי/ו\\׃ 'a.na.Sha/v men/ his {H0582}/H9023\\H9016 HNcmpc/Sp3ms H0582 H0376 {H0582=אֱנוֹשׁ=human}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 60,
           "text": "And they gave Rebekah their blessing. They said to her,\n“Dear sister, may your family grow\nby thousands and thousands.\nMay your children after you take over\nthe cities of their enemies.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שֹׂנְאָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "so.ne.'A/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "[those",
+                "wordIndex": 3
+              },
+              {
+                "text": "who]",
+                "wordIndex": 4
+              },
+              {
+                "text": "hate/",
+                "wordIndex": 5
+              },
+              {
+                "text": "it",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H8130}/H9033\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8130",
+                  "lemma": "שָׂנֵא",
+                  "translit": "sa.ne",
+                  "morph": "H:V",
+                  "gloss": "to hate 1) to hate, be hateful<br>1a) (Qal) to hate<br>1a1) of man<br>1a2) of God<br>1a3) hater, one hating, enemy (participle) (subst)<br>1b) (Niphal) to be hated<br>1c) (Piel) hater (participle)<br>1c1) of persons, nations, God, wisdom<BR>Aramaic equivalent: <i>se.ne</i> (שְׂנָא \"to hate\" H8131)",
+                  "raw": "H8130\tH8130 =\tH8130\tשָׂנֵא\tsa.ne\tH:V\tto hate\t1) to hate, be hateful<br>1a) (Qal) to hate<br>1a1) of man<br>1a2) of God<br>1a3) hater, one hating, enemy (participle) (subst)<br>1b) (Niphal) to be hated<br>1c) (Piel) hater (participle)<br>1c1) of persons, nations, God, wisdom<BR>Aramaic equivalent: <i>se.ne</i> (שְׂנָא \"to hate\" H8131)"
+                }
+              },
+              {
+                "text": "HVqrmpc/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H8130",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H8130",
+                  "lemma": "שָׂנֵא",
+                  "translit": "sa.ne",
+                  "morph": "H:V",
+                  "gloss": "to hate 1) to hate, be hateful<br>1a) (Qal) to hate<br>1a1) of man<br>1a2) of God<br>1a3) hater, one hating, enemy (participle) (subst)<br>1b) (Niphal) to be hated<br>1c) (Piel) hater (participle)<br>1c1) of persons, nations, God, wisdom<BR>Aramaic equivalent: <i>se.ne</i> (שְׂנָא \"to hate\" H8131)",
+                  "raw": "H8130\tH8130 =\tH8130\tשָׂנֵא\tsa.ne\tH:V\tto hate\t1) to hate, be hateful<br>1a) (Qal) to hate<br>1a1) of man<br>1a2) of God<br>1a3) hater, one hating, enemy (participle) (subst)<br>1b) (Niphal) to be hated<br>1c) (Piel) hater (participle)<br>1c1) of persons, nations, God, wisdom<BR>Aramaic equivalent: <i>se.ne</i> (שְׂנָא \"to hate\" H8131)"
+                }
+              },
+              {
+                "text": "{H8130=שָׂנֵא=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H8130",
+                  "lemma": "שָׂנֵא",
+                  "translit": "sa.ne",
+                  "morph": "H:V",
+                  "gloss": "to hate 1) to hate, be hateful<br>1a) (Qal) to hate<br>1a1) of man<br>1a2) of God<br>1a3) hater, one hating, enemy (participle) (subst)<br>1b) (Niphal) to be hated<br>1c) (Piel) hater (participle)<br>1c1) of persons, nations, God, wisdom<BR>Aramaic equivalent: <i>se.ne</i> (שְׂנָא \"to hate\" H8131)",
+                  "raw": "H8130\tH8130 =\tH8130\tשָׂנֵא\tsa.ne\tH:V\tto hate\t1) to hate, be hateful<br>1a) (Qal) to hate<br>1a1) of man<br>1a2) of God<br>1a3) hater, one hating, enemy (participle) (subst)<br>1b) (Niphal) to be hated<br>1c) (Piel) hater (participle)<br>1c1) of persons, nations, God, wisdom<BR>Aramaic equivalent: <i>se.ne</i> (שְׂנָא \"to hate\" H8131)"
+                }
+              },
+              {
+                "text": "hate}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L שֹׂנְאָֽי/ו\\׃ so.ne.'A/v [those who] hate/ it {H8130}/H9033\\H9016 HVqrmpc/Sp3ms H8130 {H8130=שָׂנֵא=to hate}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 61,
           "text": "Then Rebekah and her female servants got ready. They got on their camels to go with the man. So the servant took Rebekah and left.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/יֵּלַֽךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va/i.ye.Lakh",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "he",
+                "wordIndex": 4
+              },
+              {
+                "text": "went",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9001/{H1980M}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqw3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1980M_b",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1980",
+                  "lemma": "הָלַךְ",
+                  "translit": "ha.lakh",
+                  "morph": "H:V",
+                  "gloss": "to go: send : send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H1980\tH1980O = a Meaning of\tH1980I\tהָלַךְ\tha.lakh\tH:V\tto go: send\t: send/drive(OBJECT)<br>1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Piel)<br>1b1) to walk<br>1b2) to walk (fig.)<br>1c) (Hithpael)<br>1c1) to traverse<br>1c2) to walk about<br>1d) (Niphal) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "H3212_b",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3212",
+                  "lemma": "יָלַךְ",
+                  "translit": "ya.lakh",
+                  "morph": "H:V",
+                  "gloss": "to walk 1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Hiphil) to lead, bring, lead away, carry, cause to walk",
+                  "raw": "H3212\tH3212 = a Spelling of\tH1980I\tיָלַךְ\tya.lakh\tH:V\tto walk\t1) to go, walk, come<br>1a) (Qal)<br>1a1) to go, walk, come, depart, proceed, move, go away<br>1a2) to die, live, manner of life (fig.)<br>1b) (Hiphil) to lead, bring, lead away, carry, cause to walk"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H1980M=הָלַךְ=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "journey»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "go:7_journey}\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L וַ/יֵּלַֽךְ\\׃ va/i.ye.Lakh and/ he went H9001/{H1980M}\\H9016 Hc/Vqw3ms H1980M_b H3212_b H9001=ו=&/{H1980M=הָלַךְ=: journey»to go:7_journey}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 62,
           "text": "By that time Isaac had come from Beer Lahai Roi. He was living in the Negev Desert.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/נֶּֽגֶב\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Ne.gev",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Negev",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H5045G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5045G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5045",
+                  "lemma": "נֶ֫גֶב",
+                  "translit": "ne.gev",
+                  "morph": "N:N--L",
+                  "gloss": "south <BR>A sub-meaning of <i>ne.gev</i> (נֶ֫גֶב \"Negeb\" H5045)<BR> § 1) south-country, Nekeb, south<br>1a) south-country<br>1a1) region of southern Judah, boundaries not specific<br>1b) south",
+                  "raw": "H5045\tH5045H = a Meaning of\tH5045G\tנֶ֫גֶב\tne.gev\tN:N--L\tsouth\t<BR>A sub-meaning of <i>ne.gev</i> (נֶ֫גֶב \"Negeb\" H5045)<BR> § 1) south-country, Nekeb, south<br>1a) south-country<br>1a1) region of southern Judah, boundaries not specific<br>1b) south"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H5045G=נֶ֫גֶב=Negeb»Negeb@Gen.12.9-Zec}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הַ/נֶּֽגֶב\\׃ ha./Ne.gev the/ Negev H9009/{H5045G}\\H9016 HTd/Npl H5045G H9009=ה=the/{H5045G=נֶ֫גֶב=Negeb»Negeb@Gen.12.9-Zec}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 63,
           "text": "One evening he went out to the field. He wanted to spend some time thinking. When he looked up, he saw camels approaching.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּאִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba.'Im",
+                "wordIndex": 2
+              },
+              {
+                "text": "[were]",
+                "wordIndex": 3
+              },
+              {
+                "text": "coming",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0935G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0935",
+                  "lemma": "בּוֹא",
+                  "translit": "bo",
+                  "morph": "H:V",
+                  "gloss": "to come (in): bring : bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put",
+                  "raw": "H0935\tH0935P = a Meaning of\tH0935G\tבּוֹא\tbo\tH:V\tto come (in): bring\t: bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put"
+                }
+              },
+              {
+                "text": "HVqrmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0935G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0935",
+                  "lemma": "בּוֹא",
+                  "translit": "bo",
+                  "morph": "H:V",
+                  "gloss": "to come (in): bring : bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put",
+                  "raw": "H0935\tH0935P = a Meaning of\tH0935G\tבּוֹא\tbo\tH:V\tto come (in): bring\t: bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put"
+                }
+              },
+              {
+                "text": "{H0935G=בּוֹא=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0935",
+                  "lemma": "בּוֹא",
+                  "translit": "bo",
+                  "morph": "H:V",
+                  "gloss": "to come (in): bring : bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put",
+                  "raw": "H0935\tH0935P = a Meaning of\tH0935G\tבּוֹא\tbo\tH:V\tto come (in): bring\t: bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put"
+                }
+              },
+              {
+                "text": "come»to",
+                "wordIndex": 9
+              },
+              {
+                "text": "come",
+                "wordIndex": 10
+              },
+              {
+                "text": "(in):1_come;_go_in}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L בָּאִֽים\\׃ ba.'Im [were] coming {H0935G}\\H9016 HVqrmpa H0935G {H0935G=בּוֹא=: come»to come (in):1_come;_go_in}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 64,
           "text": "Rebekah also looked up and saw Isaac. She got down from her camel.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/גָּמָֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./ga.Mal",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "camel",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H1581}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncbsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1581",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1581",
+                  "lemma": "גָּמָל",
+                  "translit": "ga.mal",
+                  "morph": "H:N",
+                  "gloss": "camel 1) camel<br>1a) as property, as beast of burden, for riding, forbidden for food",
+                  "raw": "H1581\tH1581 =\tH1581\tגָּמָל\tga.mal\tH:N\tcamel\t1) camel<br>1a) as property, as beast of burden, for riding, forbidden for food"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H1581=גָּמָל=camel}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הַ/גָּמָֽל\\׃ ha./ga.Mal the/ camel H9009/{H1581}\\H9016 HTd/Ncbsa H1581 H9009=ה=the/{H1581=גָּמָל=camel}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 65,
           "text": "She asked the servant, “Who is that man in the field coming to meet us?”\n“He’s my master,” the servant answered. So she took her veil and covered her face.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/תִּתְכָּֽס\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./tit.Kas",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "she",
+                "wordIndex": 4
+              },
+              {
+                "text": "covered",
+                "wordIndex": 5
+              },
+              {
+                "text": "herself",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H3680}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vtw3fs",
+                "wordIndex": 8
+              },
+              {
+                "text": "H3680",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3680",
+                  "lemma": "כָּסָה",
+                  "translit": "ka.sah",
+                  "morph": "H:V",
+                  "gloss": "to cover 1) to cover, conceal, hide<br>1a) (Qal) conceal, covered (participle)<br>1b) (Niphal) to be covered<br>1c) (Piel)<br>1c1) to cover, clothe<br>1c2) to cover, conceal<br>1c3) to cover (for protection)<br>1c4) to cover over, spread over<br>1c5) to cover, overwhelm<br>1d) (Pual)<br>1d1) to be covered<br>1d2) to be clothed<br>1e) (Hithpael) to cover oneself, clothe oneself",
+                  "raw": "H3680\tH3680 =\tH3680\tכָּסָה\tka.sah\tH:V\tto cover\t1) to cover, conceal, hide<br>1a) (Qal) conceal, covered (participle)<br>1b) (Niphal) to be covered<br>1c) (Piel)<br>1c1) to cover, clothe<br>1c2) to cover, conceal<br>1c3) to cover (for protection)<br>1c4) to cover over, spread over<br>1c5) to cover, overwhelm<br>1d) (Pual)<br>1d1) to be covered<br>1d2) to be clothed<br>1e) (Hithpael) to cover oneself, clothe oneself"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H3680=כָּסָה=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "cover}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L וַ/תִּתְכָּֽס\\׃ va./tit.Kas and/ she covered herself H9001/{H3680}\\H9016 Hc/Vtw3fs H3680 H9001=ו=&/{H3680=כָּסָה=to cover}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 66,
           "text": "Then the servant told Isaac everything he had done.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עָשָֽׂה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.Sah",
+                "wordIndex": 2
+              },
+              {
+                "text": "he",
+                "wordIndex": 3
+              },
+              {
+                "text": "had",
+                "wordIndex": 4
+              },
+              {
+                "text": "done",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H6213A}\\H9016",
+                "wordIndex": 6
+              },
+              {
+                "text": "HVqp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H6213A",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H6213A=עָשָׂה=:",
+                "wordIndex": 9
+              },
+              {
+                "text": "do»to",
+                "wordIndex": 10
+              },
+              {
+                "text": "make:2_do;_perform}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L עָשָֽׂה\\׃ 'a.Sah he had done {H6213A}\\H9016 HVqp3ms H6213A {H6213A=עָשָׂה=: do»to make:2_do;_perform}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 24,
           "verse": 67,
           "text": "Isaac brought Rebekah into the tent that had belonged to his mother Sarah. And he married Rebekah. She became his wife, and he loved her. So Isaac was comforted after his mother died.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אִמּֽ/וֹ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "'i.M/o",
+                "wordIndex": 3
+              },
+              {
+                "text": "mother/",
+                "wordIndex": 4
+              },
+              {
+                "text": "his",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H0517}/H9023\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0517",
+                  "lemma": "אֵם",
+                  "translit": "em",
+                  "morph": "H:N-F",
+                  "gloss": "mother 1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division",
+                  "raw": "H0517\tH0517 =\tH0517\tאֵם\tem\tH:N-F\tmother\t1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNcfsc/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H0517_B",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0517",
+                  "lemma": "אֵם",
+                  "translit": "em",
+                  "morph": "H:N-F",
+                  "gloss": "mother 1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division",
+                  "raw": "H0517\tH0517 =\tH0517\tאֵם\tem\tH:N-F\tmother\t1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division"
+                }
+              },
+              {
+                "text": "{H0517=אֵם=mother}/H9023=Ps3m=his\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H0517",
+                  "lemma": "אֵם",
+                  "translit": "em",
+                  "morph": "H:N-F",
+                  "gloss": "mother 1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division",
+                  "raw": "H0517\tH0517 =\tH0517\tאֵם\tem\tH:N-F\tmother\t1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L אִמּֽ/וֹ\\׃\\ \\פ 'i.M/o mother/ his {H0517}/H9023\\H9016\\ \\H9017 HNcfsc/Sp3ms H0517_B {H0517=אֵם=mother}/H9023=Ps3m=his\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ]
     }

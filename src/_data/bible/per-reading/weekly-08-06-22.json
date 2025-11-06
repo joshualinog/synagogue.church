@@ -7,103 +7,1236 @@
           "chapter": 29,
           "verse": 1,
           "text": "And Jacob continued his journey and went to the land of the Easterners.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "קֶֽדֶם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ke.dem",
+                "wordIndex": 2
+              },
+              {
+                "text": "[the]",
+                "wordIndex": 3
+              },
+              {
+                "text": "east",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6924G}\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6924G",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H6924G=קֶ֫דֶם=:",
+                "wordIndex": 8
+              },
+              {
+                "text": "east»front:1_east}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L קֶֽדֶם\\׃ Ke.dem [the] east {H6924G}\\H9016 HNcmsa H6924G {H6924G=קֶ֫דֶם=: east»front:1_east}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 2,
           "text": "And he looked, and behold, there was a well in the field, and behold, there were three flocks of sheep lying beside it, for out of that well the flocks were watered. And the stone on the mouth of the well was large.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/בְּאֵֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./be.'Er",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "well",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0875}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0875_C",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0875",
+                  "lemma": "בְּאֵר",
+                  "translit": "be.er",
+                  "morph": "H:N-F",
+                  "gloss": "well well, pit, spring",
+                  "raw": "H0875\tH0875 =\tH0875\tבְּאֵר\tbe.er\tH:N-F\twell\twell, pit, spring"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0875=בְּאֵר=well}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#22=L הַ/בְּאֵֽר\\׃ ha./be.'Er the/ well H9009/{H0875}\\H9016 HTd/Ncfsa H0875_C H9009=ה=the/{H0875=בְּאֵר=well}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 3,
           "text": "And when all the flocks were gathered there, they rolled away the stone from the mouth of the well. And they watered the sheep and returned the stone upon the mouth of the well to its place.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לִ/מְקֹמָֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "li/m.ko.Ma/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "place/",
+                "wordIndex": 4
+              },
+              {
+                "text": "its",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H4725}/H9024\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3fs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4725",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4725",
+                  "lemma": "מָקוֹם",
+                  "translit": "ma.qom",
+                  "morph": "H:N-M",
+                  "gloss": "place 1) standing place, place<br>1a) standing place, station, post, office<br>1b) place, place of human abode<br>1c) city, land, region<br>1d) place, locality, spot<br>1e) space, room, distance<br>1f) region, quarter, direction<br>1g) give place to, instead of",
+                  "raw": "H4725\tH4725 =\tH4725\tמָקוֹם\tma.qom\tH:N-M\tplace\t1) standing place, place<br>1a) standing place, station, post, office<br>1b) place, place of human abode<br>1c) city, land, region<br>1d) place, locality, spot<br>1e) space, room, distance<br>1f) region, quarter, direction<br>1g) give place to, instead of"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H4725=מָקוֹם=standing",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "place}/H9024=Ps3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9024",
+                  "lemma": "הּ",
+                  "translit": "h",
+                  "morph": "Ps3f",
+                  "gloss": "her Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person feminine singular",
+                  "raw": "H9024\tH9024 =\tH9024\tהּ\th\tPs3f\ther\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person feminine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L לִ/מְקֹמָֽ/הּ\\׃ li/m.ko.Ma/h to/ place/ its H9005/{H4725}/H9024\\H9016 HR/Ncmsc/Sp3fs H4725 H9005=ל=to/{H4725=מָקוֹם=standing place}/H9024=Ps3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 4,
           "text": "And Jacob said to them, “My brothers, where are you from?” And they said, “We are from Haran.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֲנָֽחְנוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.Na.che.nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "we",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0587}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0587",
+                  "lemma": "אֲנַ֫חְנוּ",
+                  "translit": "a.nach.nu",
+                  "morph": "H:PerP-CP",
+                  "gloss": "we we (first pers. pl. -usually used for emphasis)",
+                  "raw": "H0587\tH0587 =\tH0587\tאֲנַ֫חְנוּ\ta.nach.nu\tH:PerP-CP\twe\twe (first pers. pl. -usually used for emphasis)"
+                }
+              },
+              {
+                "text": "HPp1bp",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0587",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0587",
+                  "lemma": "אֲנַ֫חְנוּ",
+                  "translit": "a.nach.nu",
+                  "morph": "H:PerP-CP",
+                  "gloss": "we we (first pers. pl. -usually used for emphasis)",
+                  "raw": "H0587\tH0587 =\tH0587\tאֲנַ֫חְנוּ\ta.nach.nu\tH:PerP-CP\twe\twe (first pers. pl. -usually used for emphasis)"
+                }
+              },
+              {
+                "text": "{H0587=אֲנַ֫חְנוּ=we}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0587",
+                  "lemma": "אֲנַ֫חְנוּ",
+                  "translit": "a.nach.nu",
+                  "morph": "H:PerP-CP",
+                  "gloss": "we we (first pers. pl. -usually used for emphasis)",
+                  "raw": "H0587\tH0587 =\tH0587\tאֲנַ֫חְנוּ\ta.nach.nu\tH:PerP-CP\twe\twe (first pers. pl. -usually used for emphasis)"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L אֲנָֽחְנוּ\\׃ 'a.Na.che.nu we {H0587}\\H9016 HPp1bp H0587 {H0587=אֲנַ֫חְנוּ=we}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 5,
           "text": "And he said to them, “Do you know Laban, son of Nahor?” And they said, “We know him.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יָדָֽעְנוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ya.Da.'e.nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "we",
+                "wordIndex": 3
+              },
+              {
+                "text": "know",
+                "wordIndex": 4
+              },
+              {
+                "text": "[him]",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H3045}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3045",
+                  "lemma": "יָדַע",
+                  "translit": "ya.da",
+                  "morph": "H:V",
+                  "gloss": "to know 1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)",
+                  "raw": "H3045\tH3045 =\tH3045\tיָדַע\tya.da\tH:V\tto know\t1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)"
+                }
+              },
+              {
+                "text": "HVqp1cp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3045_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3045",
+                  "lemma": "יָדַע",
+                  "translit": "ya.da",
+                  "morph": "H:V",
+                  "gloss": "to know 1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)",
+                  "raw": "H3045\tH3045 =\tH3045\tיָדַע\tya.da\tH:V\tto know\t1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)"
+                }
+              },
+              {
+                "text": "{H3045=יָדַע=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3045",
+                  "lemma": "יָדַע",
+                  "translit": "ya.da",
+                  "morph": "H:V",
+                  "gloss": "to know 1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)",
+                  "raw": "H3045\tH3045 =\tH3045\tיָדַע\tya.da\tH:V\tto know\t1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)"
+                }
+              },
+              {
+                "text": "know}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L יָדָֽעְנוּ\\׃ ya.Da.'e.nu we know [him] {H3045}\\H9016 HVqp1cp H3045_B {H3045=יָדַע=to know}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 6,
           "text": "And he said to them, “Is he well?” And they said, “He is well. Now look, Rachel his daughter is coming with the sheep.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/צֹּֽאן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Tzon",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "sheep",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H6629G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncbsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6629G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6629",
+                  "lemma": "צֹאן",
+                  "translit": "tson",
+                  "morph": "H:N-F",
+                  "gloss": "Sheep (Gate) This name means  sheep and goats<BR>Also named: <i>probatikos</i> (προβατικός \"Sheep Gate\" G4262)",
+                  "raw": "H6629\tH6629H =\tH6629H\tצֹאן\ttson\tH:N-F\tSheep (Gate)\tThis name means  sheep and goats<BR>Also named: <i>probatikos</i> (προβατικός \"Sheep Gate\" G4262)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H6629G=צֹאן=flock}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L הַ/צֹּֽאן\\׃ ha./Tzon the/ sheep H9009/{H6629G}\\H9016 HTd/Ncbsa H6629G H9009=ה=the/{H6629G=צֹאן=flock}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 7,
           "text": "And he said, “Look, it is still broad daylight; it is not the time for the livestock to be gathered. Give water to the sheep and go, pasture them.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "רְעֽוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "re.'U",
+                "wordIndex": 2
+              },
+              {
+                "text": "pasture",
+                "wordIndex": 3
+              },
+              {
+                "text": "[them]",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7462B}\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HVqv2mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7462B",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H7462B=רָעָה=to",
+                "wordIndex": 8
+              },
+              {
+                "text": "pasture}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L רְעֽוּ\\׃ re.'U pasture [them] {H7462B}\\H9016 HVqv2mp H7462B {H7462B=רָעָה=to pasture}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 8,
           "text": "And they said, “We are not able, until all the flocks are gathered. Then the stone is rolled away from the mouth of the well, and we water the sheep.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/צֹּֽאן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Tzon",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "sheep",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H6629G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncbsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6629G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6629",
+                  "lemma": "צֹאן",
+                  "translit": "tson",
+                  "morph": "H:N-F",
+                  "gloss": "Sheep (Gate) This name means  sheep and goats<BR>Also named: <i>probatikos</i> (προβατικός \"Sheep Gate\" G4262)",
+                  "raw": "H6629\tH6629H =\tH6629H\tצֹאן\ttson\tH:N-F\tSheep (Gate)\tThis name means  sheep and goats<BR>Also named: <i>probatikos</i> (προβατικός \"Sheep Gate\" G4262)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H6629G=צֹאן=flock}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L הַ/צֹּֽאן\\׃ ha./Tzon the/ sheep H9009/{H6629G}\\H9016 HTd/Ncbsa H6629G H9009=ה=the/{H6629G=צֹאן=flock}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 9,
           "text": "While he was speaking with them, Rachel came with the sheep which belonged to her father, for she was pasturing them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הִֽוא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hi'",
+                "wordIndex": 2
+              },
+              {
+                "text": "she",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1931}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "HPp3fs",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1931",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L הִֽוא\\׃ hi' she {H1931}\\H9016 HPp3fs H1931 {H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 10,
           "text": "And it happened that, when Jacob saw Rachel, the daughter of Laban, his mother’s brother, and the sheep of Laban, his mother’s brother, Jacob drew near and rolled away the stone from the mouth of the well and watered the sheep of Laban, his mother’s brother.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#29=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אִמּֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'i.M/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "mother/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0517}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0517",
+                  "lemma": "אֵם",
+                  "translit": "em",
+                  "morph": "H:N-F",
+                  "gloss": "mother 1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division",
+                  "raw": "H0517\tH0517 =\tH0517\tאֵם\tem\tH:N-F\tmother\t1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division"
+                }
+              },
+              {
+                "text": "HNcfsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0517_C",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0517",
+                  "lemma": "אֵם",
+                  "translit": "em",
+                  "morph": "H:N-F",
+                  "gloss": "mother 1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division",
+                  "raw": "H0517\tH0517 =\tH0517\tאֵם\tem\tH:N-F\tmother\t1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division"
+                }
+              },
+              {
+                "text": "{H0517=אֵם=mother}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0517",
+                  "lemma": "אֵם",
+                  "translit": "em",
+                  "morph": "H:N-F",
+                  "gloss": "mother 1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division",
+                  "raw": "H0517\tH0517 =\tH0517\tאֵם\tem\tH:N-F\tmother\t1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division"
+                }
+              }
+            ],
+            "originalVerseText": "#29=L אִמּֽ/וֹ\\׃ 'i.M/o mother/ his {H0517}/H9023\\H9016 HNcfsc/Sp3ms H0517_C {H0517=אֵם=mother}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 11,
           "text": "And Jacob kissed Rachel, and lifted up his voice and wept.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/יֵּֽבְךְּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va/i.Ye.vek",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "he",
+                "wordIndex": 4
+              },
+              {
+                "text": "wept",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9001/{H1058}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqw3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1058",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1058",
+                  "lemma": "בָּכָה",
+                  "translit": "ba.khah",
+                  "morph": "H:V",
+                  "gloss": "to weep 1) to weep, bewail, cry, shed tears<br>1a) (Qal)<br>1a1) to weep (in grief, humiliation, or joy)<br>1a2) to weep bitterly (with cognate acc.)<br>1a3) to weep upon (embrace and weep)<br>1a4) to bewail<br>1b) (Piel) participle<br>1b1) lamenting<br>1b2) bewailing",
+                  "raw": "H1058\tH1058 =\tH1058\tבָּכָה\tba.khah\tH:V\tto weep\t1) to weep, bewail, cry, shed tears<br>1a) (Qal)<br>1a1) to weep (in grief, humiliation, or joy)<br>1a2) to weep bitterly (with cognate acc.)<br>1a3) to weep upon (embrace and weep)<br>1a4) to bewail<br>1b) (Piel) participle<br>1b1) lamenting<br>1b2) bewailing"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H1058=בָּכָה=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "weep}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L וַ/יֵּֽבְךְּ\\׃ va/i.Ye.vek and/ he wept H9001/{H1058}\\H9016 Hc/Vqw3ms H1058 H9001=ו=&/{H1058=בָּכָה=to weep}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 12,
           "text": "And Jacob told Rachel that he was the relative of her father, and that he was the son of Rebekah. And she ran and told her father.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/אָבִֽי/הָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./'a.Vi./ha",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "father/",
+                "wordIndex": 4
+              },
+              {
+                "text": "her",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H0001G}/H9024\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3fs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0001G_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0001",
+                  "lemma": "אָב",
+                  "translit": "av",
+                  "morph": "N:N-M-P",
+                  "gloss": "father of The father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;",
+                  "raw": "H0001\tH0001I = a Part of\tH0022G\tאָב\tav\tN:N-M-P\tfather of\tThe father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0001G=אָב=father}/H9024=Ps3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#14=L לְ/אָבִֽי/הָ\\׃ le./'a.Vi./ha to/ father/ her H9005/{H0001G}/H9024\\H9016 HR/Ncmsc/Sp3fs H0001G_B H9005=ל=to/{H0001G=אָב=father}/H9024=Ps3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 13,
           "text": "And it happened that when Laban heard the message about Jacob, the son of his sister, he ran to meet him. And he embraced him and kissed him, and brought him to his house. And he told Laban all these things.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אֵֽלֶּה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'E.leh",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "these",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0428}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Tm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0428",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0428",
+                  "lemma": "אֵ֫לֶּה",
+                  "translit": "el.leh",
+                  "morph": "H:DemP",
+                  "gloss": "these 1) these<br>1a) used before antecedent<br>1b) used following antecedent<BR>Aramaic equivalent: <i>el.leh</i> (אֵלֶּה \"these\" H0429)",
+                  "raw": "H0428\tH0428 =\tH0428\tאֵ֫לֶּה\tel.leh\tH:DemP\tthese\t1) these<br>1a) used before antecedent<br>1b) used following antecedent<BR>Aramaic equivalent: <i>el.leh</i> (אֵלֶּה \"these\" H0429)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0428=אֵ֫לֶּה=these}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#23=L הָ/אֵֽלֶּה\\׃ ha./'E.leh <the>/ these H9009/{H0428}\\H9016 HTd/Tm H0428 H9009=ה=the/{H0428=אֵ֫לֶּה=these}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 14,
           "text": "And Laban said to him, “Surely you are my flesh and my bone!” And he stayed with him a month.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יָמִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ya.Mim",
+                "wordIndex": 2
+              },
+              {
+                "text": "days",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3117G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3117G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "{H3117G=יוֹם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L יָמִֽים\\׃ ya.Mim days {H3117G}\\H9016 HNcmpa H3117G {H3117G=יוֹם=: day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 15,
           "text": "Then Laban said to Jacob, “Just because you are my brother should you work for me for nothing? Tell me what your wage should be.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מַּשְׂכֻּרְתֶּֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mas.kur.Te./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "[is]",
+                "wordIndex": 3
+              },
+              {
+                "text": "wage[s]/",
+                "wordIndex": 4
+              },
+              {
+                "text": "your",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H4909}/H9021\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4909",
+                  "lemma": "מַשְׂכֹּ֫רֶת",
+                  "translit": "mas.ko.ret",
+                  "morph": "H:N-F",
+                  "gloss": "wage wages",
+                  "raw": "H4909\tH4909 =\tH4909\tמַשְׂכֹּ֫רֶת\tmas.ko.ret\tH:N-F\twage\twages"
+                }
+              },
+              {
+                "text": "HNcfsc/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4909",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4909",
+                  "lemma": "מַשְׂכֹּ֫רֶת",
+                  "translit": "mas.ko.ret",
+                  "morph": "H:N-F",
+                  "gloss": "wage wages",
+                  "raw": "H4909\tH4909 =\tH4909\tמַשְׂכֹּ֫רֶת\tmas.ko.ret\tH:N-F\twage\twages"
+                }
+              },
+              {
+                "text": "{H4909=מַשְׂכֹּ֫רֶת=wage}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4909",
+                  "lemma": "מַשְׂכֹּ֫רֶת",
+                  "translit": "mas.ko.ret",
+                  "morph": "H:N-F",
+                  "gloss": "wage wages",
+                  "raw": "H4909\tH4909 =\tH4909\tמַשְׂכֹּ֫רֶת\tmas.ko.ret\tH:N-F\twage\twages"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L מַּשְׂכֻּרְתֶּֽ/ךָ\\׃ mas.kur.Te./kha [is] wage[s]/ your {H4909}/H9021\\H9016 HNcfsc/Sp2ms H4909 {H4909=מַשְׂכֹּ֫רֶת=wage}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 16,
           "text": "Now Laban had two daughters. The name of the older was Leah, and the name of the younger was Rachel.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "רָחֵֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ra.Chel",
+                "wordIndex": 2
+              },
+              {
+                "text": "[was]",
+                "wordIndex": 3
+              },
+              {
+                "text": "Rachel",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7354}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H7354",
+                  "lemma": "רָחֵל",
+                  "translit": "ra.chel",
+                  "morph": "N:N-F-P",
+                  "gloss": "Rachel A woman living at the time of the Patriarchs, first mentioned at Gen.29.6; <br> daughter of: Laban (H3837A); <br> sister of: Leah (H3812); married to Israel (H3478); <br> mother of: Joseph (H3130) and Benjamin (H1144)<BR>Also named: <i>Rhachēl</i> (Ῥαχήλ \"Rachel\" G4478) <BR> § Rachel = \"ewe\"<br> daughter of Laban, wife of Jacob, and mother of Joseph and Benjamin<br>",
+                  "raw": "H7354\tH7354 =\tH7354\tרָחֵל\tra.chel\tN:N-F-P\tRachel\tA woman living at the time of the Patriarchs, first mentioned at Gen.29.6; <br> daughter of: Laban (H3837A); <br> sister of: Leah (H3812); married to Israel (H3478); <br> mother of: Joseph (H3130) and Benjamin (H1144)<BR>Also named: <i>Rhachēl</i> (Ῥαχήλ \"Rachel\" G4478) <BR> § Rachel = \"ewe\"<br> daughter of Laban, wife of Jacob, and mother of Joseph and Benjamin<br>"
+                }
+              },
+              {
+                "text": "HNpf",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7354",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7354",
+                  "lemma": "רָחֵל",
+                  "translit": "ra.chel",
+                  "morph": "N:N-F-P",
+                  "gloss": "Rachel A woman living at the time of the Patriarchs, first mentioned at Gen.29.6; <br> daughter of: Laban (H3837A); <br> sister of: Leah (H3812); married to Israel (H3478); <br> mother of: Joseph (H3130) and Benjamin (H1144)<BR>Also named: <i>Rhachēl</i> (Ῥαχήλ \"Rachel\" G4478) <BR> § Rachel = \"ewe\"<br> daughter of Laban, wife of Jacob, and mother of Joseph and Benjamin<br>",
+                  "raw": "H7354\tH7354 =\tH7354\tרָחֵל\tra.chel\tN:N-F-P\tRachel\tA woman living at the time of the Patriarchs, first mentioned at Gen.29.6; <br> daughter of: Laban (H3837A); <br> sister of: Leah (H3812); married to Israel (H3478); <br> mother of: Joseph (H3130) and Benjamin (H1144)<BR>Also named: <i>Rhachēl</i> (Ῥαχήλ \"Rachel\" G4478) <BR> § Rachel = \"ewe\"<br> daughter of Laban, wife of Jacob, and mother of Joseph and Benjamin<br>"
+                }
+              },
+              {
+                "text": "{H7354=רָחֵל=Rachel»Rachel@Gen.29.6-Mat}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7354",
+                  "lemma": "רָחֵל",
+                  "translit": "ra.chel",
+                  "morph": "N:N-F-P",
+                  "gloss": "Rachel A woman living at the time of the Patriarchs, first mentioned at Gen.29.6; <br> daughter of: Laban (H3837A); <br> sister of: Leah (H3812); married to Israel (H3478); <br> mother of: Joseph (H3130) and Benjamin (H1144)<BR>Also named: <i>Rhachēl</i> (Ῥαχήλ \"Rachel\" G4478) <BR> § Rachel = \"ewe\"<br> daughter of Laban, wife of Jacob, and mother of Joseph and Benjamin<br>",
+                  "raw": "H7354\tH7354 =\tH7354\tרָחֵל\tra.chel\tN:N-F-P\tRachel\tA woman living at the time of the Patriarchs, first mentioned at Gen.29.6; <br> daughter of: Laban (H3837A); <br> sister of: Leah (H3812); married to Israel (H3478); <br> mother of: Joseph (H3130) and Benjamin (H1144)<BR>Also named: <i>Rhachēl</i> (Ῥαχήλ \"Rachel\" G4478) <BR> § Rachel = \"ewe\"<br> daughter of Laban, wife of Jacob, and mother of Joseph and Benjamin<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L רָחֵֽל\\׃ ra.Chel [was] Rachel {H7354}\\H9016 HNpf H7354 {H7354=רָחֵל=Rachel»Rachel@Gen.29.6-Mat}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 17,
           "text": "Now the eyes of Leah were dull, but Rachel was beautiful in form and appearance.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מַרְאֶֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mar.'Eh",
+                "wordIndex": 2
+              },
+              {
+                "text": "appearance",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4758}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4758",
+                  "lemma": "מַרְאֶה",
+                  "translit": "mar.eh",
+                  "morph": "H:N-M",
+                  "gloss": "appearance 1) sight, appearance, vision<br>1a) sight, phenomenon, spectacle, appearance, vision<br>1b) what is seen<br>1c) a vision (supernatural)<br>1d) sight, vision (power of seeing)",
+                  "raw": "H4758\tH4758 =\tH4758\tמַרְאֶה\tmar.eh\tH:N-M\tappearance\t1) sight, appearance, vision<br>1a) sight, phenomenon, spectacle, appearance, vision<br>1b) what is seen<br>1c) a vision (supernatural)<br>1d) sight, vision (power of seeing)"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4758",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4758",
+                  "lemma": "מַרְאֶה",
+                  "translit": "mar.eh",
+                  "morph": "H:N-M",
+                  "gloss": "appearance 1) sight, appearance, vision<br>1a) sight, phenomenon, spectacle, appearance, vision<br>1b) what is seen<br>1c) a vision (supernatural)<br>1d) sight, vision (power of seeing)",
+                  "raw": "H4758\tH4758 =\tH4758\tמַרְאֶה\tmar.eh\tH:N-M\tappearance\t1) sight, appearance, vision<br>1a) sight, phenomenon, spectacle, appearance, vision<br>1b) what is seen<br>1c) a vision (supernatural)<br>1d) sight, vision (power of seeing)"
+                }
+              },
+              {
+                "text": "{H4758=מַרְאֶה=appearance}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4758",
+                  "lemma": "מַרְאֶה",
+                  "translit": "mar.eh",
+                  "morph": "H:N-M",
+                  "gloss": "appearance 1) sight, appearance, vision<br>1a) sight, phenomenon, spectacle, appearance, vision<br>1b) what is seen<br>1c) a vision (supernatural)<br>1d) sight, vision (power of seeing)",
+                  "raw": "H4758\tH4758 =\tH4758\tמַרְאֶה\tmar.eh\tH:N-M\tappearance\t1) sight, appearance, vision<br>1a) sight, phenomenon, spectacle, appearance, vision<br>1b) what is seen<br>1c) a vision (supernatural)<br>1d) sight, vision (power of seeing)"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L מַרְאֶֽה\\׃ mar.'Eh appearance {H4758}\\H9016 HNcmsa H4758 {H4758=מַרְאֶה=appearance}\\H9016=׃=verseEnd"
+          }
         }
       ],
       "nirv": [
@@ -111,103 +1244,1236 @@
           "chapter": 29,
           "verse": 1,
           "text": "Then Jacob continued on his journey. He came to the land where the eastern tribes lived.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "קֶֽדֶם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ke.dem",
+                "wordIndex": 2
+              },
+              {
+                "text": "[the]",
+                "wordIndex": 3
+              },
+              {
+                "text": "east",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H6924G}\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6924G",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H6924G=קֶ֫דֶם=:",
+                "wordIndex": 8
+              },
+              {
+                "text": "east»front:1_east}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L קֶֽדֶם\\׃ Ke.dem [the] east {H6924G}\\H9016 HNcmsa H6924G {H6924G=קֶ֫דֶם=: east»front:1_east}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 2,
           "text": "There he saw a well in the field. Three flocks of sheep were lying near it. The flocks were given water from the well. The stone over the opening of the well was large.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/בְּאֵֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./be.'Er",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "well",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0875}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0875_C",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0875",
+                  "lemma": "בְּאֵר",
+                  "translit": "be.er",
+                  "morph": "H:N-F",
+                  "gloss": "well well, pit, spring",
+                  "raw": "H0875\tH0875 =\tH0875\tבְּאֵר\tbe.er\tH:N-F\twell\twell, pit, spring"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0875=בְּאֵר=well}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#22=L הַ/בְּאֵֽר\\׃ ha./be.'Er the/ well H9009/{H0875}\\H9016 HTd/Ncfsa H0875_C H9009=ה=the/{H0875=בְּאֵר=well}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 3,
           "text": "All of the flocks would gather there. The shepherds would roll the stone away from the well’s opening. They would give water to the sheep. Then they would put the stone back in its place over the opening of the well.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לִ/מְקֹמָֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "li/m.ko.Ma/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "place/",
+                "wordIndex": 4
+              },
+              {
+                "text": "its",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H4725}/H9024\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3fs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4725",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4725",
+                  "lemma": "מָקוֹם",
+                  "translit": "ma.qom",
+                  "morph": "H:N-M",
+                  "gloss": "place 1) standing place, place<br>1a) standing place, station, post, office<br>1b) place, place of human abode<br>1c) city, land, region<br>1d) place, locality, spot<br>1e) space, room, distance<br>1f) region, quarter, direction<br>1g) give place to, instead of",
+                  "raw": "H4725\tH4725 =\tH4725\tמָקוֹם\tma.qom\tH:N-M\tplace\t1) standing place, place<br>1a) standing place, station, post, office<br>1b) place, place of human abode<br>1c) city, land, region<br>1d) place, locality, spot<br>1e) space, room, distance<br>1f) region, quarter, direction<br>1g) give place to, instead of"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H4725=מָקוֹם=standing",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "place}/H9024=Ps3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9024",
+                  "lemma": "הּ",
+                  "translit": "h",
+                  "morph": "Ps3f",
+                  "gloss": "her Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person feminine singular",
+                  "raw": "H9024\tH9024 =\tH9024\tהּ\th\tPs3f\ther\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person feminine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L לִ/מְקֹמָֽ/הּ\\׃ li/m.ko.Ma/h to/ place/ its H9005/{H4725}/H9024\\H9016 HR/Ncmsc/Sp3fs H4725 H9005=ל=to/{H4725=מָקוֹם=standing place}/H9024=Ps3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 4,
           "text": "Jacob asked the shepherds, “My friends, where are you from?”\n“We’re from Haran,” they replied.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֲנָֽחְנוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.Na.che.nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "we",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0587}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0587",
+                  "lemma": "אֲנַ֫חְנוּ",
+                  "translit": "a.nach.nu",
+                  "morph": "H:PerP-CP",
+                  "gloss": "we we (first pers. pl. -usually used for emphasis)",
+                  "raw": "H0587\tH0587 =\tH0587\tאֲנַ֫חְנוּ\ta.nach.nu\tH:PerP-CP\twe\twe (first pers. pl. -usually used for emphasis)"
+                }
+              },
+              {
+                "text": "HPp1bp",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0587",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0587",
+                  "lemma": "אֲנַ֫חְנוּ",
+                  "translit": "a.nach.nu",
+                  "morph": "H:PerP-CP",
+                  "gloss": "we we (first pers. pl. -usually used for emphasis)",
+                  "raw": "H0587\tH0587 =\tH0587\tאֲנַ֫חְנוּ\ta.nach.nu\tH:PerP-CP\twe\twe (first pers. pl. -usually used for emphasis)"
+                }
+              },
+              {
+                "text": "{H0587=אֲנַ֫חְנוּ=we}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0587",
+                  "lemma": "אֲנַ֫חְנוּ",
+                  "translit": "a.nach.nu",
+                  "morph": "H:PerP-CP",
+                  "gloss": "we we (first pers. pl. -usually used for emphasis)",
+                  "raw": "H0587\tH0587 =\tH0587\tאֲנַ֫חְנוּ\ta.nach.nu\tH:PerP-CP\twe\twe (first pers. pl. -usually used for emphasis)"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L אֲנָֽחְנוּ\\׃ 'a.Na.che.nu we {H0587}\\H9016 HPp1bp H0587 {H0587=אֲנַ֫חְנוּ=we}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 5,
           "text": "He said to them, “Do you know Nahor’s grandson Laban?”\n“Yes, we know him,” they answered.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יָדָֽעְנוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ya.Da.'e.nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "we",
+                "wordIndex": 3
+              },
+              {
+                "text": "know",
+                "wordIndex": 4
+              },
+              {
+                "text": "[him]",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H3045}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3045",
+                  "lemma": "יָדַע",
+                  "translit": "ya.da",
+                  "morph": "H:V",
+                  "gloss": "to know 1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)",
+                  "raw": "H3045\tH3045 =\tH3045\tיָדַע\tya.da\tH:V\tto know\t1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)"
+                }
+              },
+              {
+                "text": "HVqp1cp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3045_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3045",
+                  "lemma": "יָדַע",
+                  "translit": "ya.da",
+                  "morph": "H:V",
+                  "gloss": "to know 1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)",
+                  "raw": "H3045\tH3045 =\tH3045\tיָדַע\tya.da\tH:V\tto know\t1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)"
+                }
+              },
+              {
+                "text": "{H3045=יָדַע=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3045",
+                  "lemma": "יָדַע",
+                  "translit": "ya.da",
+                  "morph": "H:V",
+                  "gloss": "to know 1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)",
+                  "raw": "H3045\tH3045 =\tH3045\tיָדַע\tya.da\tH:V\tto know\t1) to know<br>1a) (Qal)<br>1a1) to know<br>1a1a) to know, learn to know<br>1a1b) to perceive<br>1a1c) to perceive and see, find out and discern<br>1a1d) to discriminate, distinguish<br>1a1e) to know by experience<br>1a1f) to recognise, admit, acknowledge, confess<br>1a1g) to consider<br>1a2) to know, be acquainted with<br>1a3) to know (a person carnally)<br>1a4) to know how, be skilful in<br>1a5) to have knowledge, be wise<br>1b) (Niphal)<br>1b1) to be made known, be or become known, be revealed<br>1b2) to make oneself known<br>1b3) to be perceived<br>1b4) to be instructed<br>1c) (Piel) to cause to know<br>1d) (Poal) to cause to know<br>1e) (Pual)<br>1e1) to be known<br>1e2) known, one known, acquaintance (participle)<br>1f) (Hiphil) to make known, declare<br>1g) (Hophal) to be made known<br>1h) (Hithpael) to make oneself known, reveal oneself<BR>Aramaic equivalent: <i>ye.da</i> (יְדַע \"to know\" H3046)"
+                }
+              },
+              {
+                "text": "know}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L יָדָֽעְנוּ\\׃ ya.Da.'e.nu we know [him] {H3045}\\H9016 HVqp1cp H3045_B {H3045=יָדַע=to know}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 6,
           "text": "Then Jacob asked them, “How is he?”\n“He’s fine,” they said. “Here comes his daughter Rachel with the sheep now.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/צֹּֽאן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Tzon",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "sheep",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H6629G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncbsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6629G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6629",
+                  "lemma": "צֹאן",
+                  "translit": "tson",
+                  "morph": "H:N-F",
+                  "gloss": "Sheep (Gate) This name means  sheep and goats<BR>Also named: <i>probatikos</i> (προβατικός \"Sheep Gate\" G4262)",
+                  "raw": "H6629\tH6629H =\tH6629H\tצֹאן\ttson\tH:N-F\tSheep (Gate)\tThis name means  sheep and goats<BR>Also named: <i>probatikos</i> (προβατικός \"Sheep Gate\" G4262)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H6629G=צֹאן=flock}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L הַ/צֹּֽאן\\׃ ha./Tzon the/ sheep H9009/{H6629G}\\H9016 HTd/Ncbsa H6629G H9009=ה=the/{H6629G=צֹאן=flock}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 7,
           "text": "“Look,” he said, “the sun is still high in the sky. It’s not time for the flocks to be brought together. Give water to the sheep and take them back to the grasslands.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "רְעֽוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "re.'U",
+                "wordIndex": 2
+              },
+              {
+                "text": "pasture",
+                "wordIndex": 3
+              },
+              {
+                "text": "[them]",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7462B}\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HVqv2mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7462B",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H7462B=רָעָה=to",
+                "wordIndex": 8
+              },
+              {
+                "text": "pasture}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L רְעֽוּ\\׃ re.'U pasture [them] {H7462B}\\H9016 HVqv2mp H7462B {H7462B=רָעָה=to pasture}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 8,
           "text": "“We can’t,” they replied. “We have to wait until all of the flocks are brought together. The stone has to be rolled away from the opening of the well. Then we’ll give water to the sheep.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/צֹּֽאן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Tzon",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "sheep",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H6629G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncbsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6629G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6629",
+                  "lemma": "צֹאן",
+                  "translit": "tson",
+                  "morph": "H:N-F",
+                  "gloss": "Sheep (Gate) This name means  sheep and goats<BR>Also named: <i>probatikos</i> (προβατικός \"Sheep Gate\" G4262)",
+                  "raw": "H6629\tH6629H =\tH6629H\tצֹאן\ttson\tH:N-F\tSheep (Gate)\tThis name means  sheep and goats<BR>Also named: <i>probatikos</i> (προβατικός \"Sheep Gate\" G4262)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H6629G=צֹאן=flock}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L הַ/צֹּֽאן\\׃ ha./Tzon the/ sheep H9009/{H6629G}\\H9016 HTd/Ncbsa H6629G H9009=ה=the/{H6629G=צֹאן=flock}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 9,
           "text": "He was still talking with them when Rachel came with her father’s sheep. It was her job to take care of the flock.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הִֽוא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hi'",
+                "wordIndex": 2
+              },
+              {
+                "text": "she",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1931}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "HPp3fs",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1931",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L הִֽוא\\׃ hi' she {H1931}\\H9016 HPp3fs H1931 {H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 10,
           "text": "Rachel was the daughter of Laban. He was the brother of Jacob’s mother.\nWhen Jacob saw Rachel with Laban’s sheep, he went over to the well. He rolled the stone away from the opening. He gave water to his uncle’s sheep.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#29=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אִמּֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'i.M/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "mother/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0517}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0517",
+                  "lemma": "אֵם",
+                  "translit": "em",
+                  "morph": "H:N-F",
+                  "gloss": "mother 1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division",
+                  "raw": "H0517\tH0517 =\tH0517\tאֵם\tem\tH:N-F\tmother\t1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division"
+                }
+              },
+              {
+                "text": "HNcfsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0517_C",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0517",
+                  "lemma": "אֵם",
+                  "translit": "em",
+                  "morph": "H:N-F",
+                  "gloss": "mother 1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division",
+                  "raw": "H0517\tH0517 =\tH0517\tאֵם\tem\tH:N-F\tmother\t1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division"
+                }
+              },
+              {
+                "text": "{H0517=אֵם=mother}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0517",
+                  "lemma": "אֵם",
+                  "translit": "em",
+                  "morph": "H:N-F",
+                  "gloss": "mother 1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division",
+                  "raw": "H0517\tH0517 =\tH0517\tאֵם\tem\tH:N-F\tmother\t1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division"
+                }
+              }
+            ],
+            "originalVerseText": "#29=L אִמּֽ/וֹ\\׃ 'i.M/o mother/ his {H0517}/H9023\\H9016 HNcfsc/Sp3ms H0517_C {H0517=אֵם=mother}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 11,
           "text": "Jacob kissed Rachel. Then he began to sob loudly.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/יֵּֽבְךְּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va/i.Ye.vek",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "he",
+                "wordIndex": 4
+              },
+              {
+                "text": "wept",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9001/{H1058}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqw3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1058",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1058",
+                  "lemma": "בָּכָה",
+                  "translit": "ba.khah",
+                  "morph": "H:V",
+                  "gloss": "to weep 1) to weep, bewail, cry, shed tears<br>1a) (Qal)<br>1a1) to weep (in grief, humiliation, or joy)<br>1a2) to weep bitterly (with cognate acc.)<br>1a3) to weep upon (embrace and weep)<br>1a4) to bewail<br>1b) (Piel) participle<br>1b1) lamenting<br>1b2) bewailing",
+                  "raw": "H1058\tH1058 =\tH1058\tבָּכָה\tba.khah\tH:V\tto weep\t1) to weep, bewail, cry, shed tears<br>1a) (Qal)<br>1a1) to weep (in grief, humiliation, or joy)<br>1a2) to weep bitterly (with cognate acc.)<br>1a3) to weep upon (embrace and weep)<br>1a4) to bewail<br>1b) (Piel) participle<br>1b1) lamenting<br>1b2) bewailing"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H1058=בָּכָה=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "weep}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L וַ/יֵּֽבְךְּ\\׃ va/i.Ye.vek and/ he wept H9001/{H1058}\\H9016 Hc/Vqw3ms H1058 H9001=ו=&/{H1058=בָּכָה=to weep}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 12,
           "text": "He had told Rachel he was a relative of her father. He had also said he was Rebekah’s son. Rachel ran and told her father what Jacob had said.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/אָבִֽי/הָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./'a.Vi./ha",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "father/",
+                "wordIndex": 4
+              },
+              {
+                "text": "her",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H0001G}/H9024\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3fs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0001G_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0001",
+                  "lemma": "אָב",
+                  "translit": "av",
+                  "morph": "N:N-M-P",
+                  "gloss": "father of The father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;",
+                  "raw": "H0001\tH0001I = a Part of\tH0022G\tאָב\tav\tN:N-M-P\tfather of\tThe father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0001G=אָב=father}/H9024=Ps3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#14=L לְ/אָבִֽי/הָ\\׃ le./'a.Vi./ha to/ father/ her H9005/{H0001G}/H9024\\H9016 HR/Ncmsc/Sp3fs H0001G_B H9005=ל=to/{H0001G=אָב=father}/H9024=Ps3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 13,
           "text": "As soon as Laban heard the news about his sister’s son Jacob, he hurried to meet him. Laban hugged Jacob and kissed him. Then he brought him to his home. There Jacob told him everything.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אֵֽלֶּה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./'E.leh",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "these",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H0428}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Tm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0428",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0428",
+                  "lemma": "אֵ֫לֶּה",
+                  "translit": "el.leh",
+                  "morph": "H:DemP",
+                  "gloss": "these 1) these<br>1a) used before antecedent<br>1b) used following antecedent<BR>Aramaic equivalent: <i>el.leh</i> (אֵלֶּה \"these\" H0429)",
+                  "raw": "H0428\tH0428 =\tH0428\tאֵ֫לֶּה\tel.leh\tH:DemP\tthese\t1) these<br>1a) used before antecedent<br>1b) used following antecedent<BR>Aramaic equivalent: <i>el.leh</i> (אֵלֶּה \"these\" H0429)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0428=אֵ֫לֶּה=these}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#23=L הָ/אֵֽלֶּה\\׃ ha./'E.leh <the>/ these H9009/{H0428}\\H9016 HTd/Tm H0428 H9009=ה=the/{H0428=אֵ֫לֶּה=these}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 14,
           "text": "Then Laban said to him, “You are my own flesh and blood.”\nJacob Gets Married to Leah and Rachel\nJacob stayed with Laban for a whole month.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יָמִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ya.Mim",
+                "wordIndex": 2
+              },
+              {
+                "text": "days",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3117G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3117G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "{H3117G=יוֹם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3117",
+                  "lemma": "יוֹם",
+                  "translit": "yom",
+                  "morph": "H:N-M",
+                  "gloss": "day: today : today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow",
+                  "raw": "H3117\tH3117L = a Meaning of\tH3117G\tיוֹם\tyom\tH:N-M\tday: today\t: today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b) day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2) as a division of time<br>1b2a) a working day, a day's journey<br>1c) days, lifetime (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1) today<br>1f2) yesterday<br>1f3) tomorrow "
+                }
+              },
+              {
+                "text": "day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L יָמִֽים\\׃ ya.Mim days {H3117G}\\H9016 HNcmpa H3117G {H3117G=יוֹם=: day»day;_when:1_day;_when;_period}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 15,
           "text": "Then Laban said to him, “You are one of my relatives. But is that any reason for you to work for me for nothing? Tell me what your pay should be.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מַּשְׂכֻּרְתֶּֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mas.kur.Te./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "[is]",
+                "wordIndex": 3
+              },
+              {
+                "text": "wage[s]/",
+                "wordIndex": 4
+              },
+              {
+                "text": "your",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H4909}/H9021\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4909",
+                  "lemma": "מַשְׂכֹּ֫רֶת",
+                  "translit": "mas.ko.ret",
+                  "morph": "H:N-F",
+                  "gloss": "wage wages",
+                  "raw": "H4909\tH4909 =\tH4909\tמַשְׂכֹּ֫רֶת\tmas.ko.ret\tH:N-F\twage\twages"
+                }
+              },
+              {
+                "text": "HNcfsc/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4909",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4909",
+                  "lemma": "מַשְׂכֹּ֫רֶת",
+                  "translit": "mas.ko.ret",
+                  "morph": "H:N-F",
+                  "gloss": "wage wages",
+                  "raw": "H4909\tH4909 =\tH4909\tמַשְׂכֹּ֫רֶת\tmas.ko.ret\tH:N-F\twage\twages"
+                }
+              },
+              {
+                "text": "{H4909=מַשְׂכֹּ֫רֶת=wage}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4909",
+                  "lemma": "מַשְׂכֹּ֫רֶת",
+                  "translit": "mas.ko.ret",
+                  "morph": "H:N-F",
+                  "gloss": "wage wages",
+                  "raw": "H4909\tH4909 =\tH4909\tמַשְׂכֹּ֫רֶת\tmas.ko.ret\tH:N-F\twage\twages"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L מַּשְׂכֻּרְתֶּֽ/ךָ\\׃ mas.kur.Te./kha [is] wage[s]/ your {H4909}/H9021\\H9016 HNcfsc/Sp2ms H4909 {H4909=מַשְׂכֹּ֫רֶת=wage}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 16,
           "text": "Laban had two daughters. The name of the older one was Leah. And the name of the younger one was Rachel.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "רָחֵֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ra.Chel",
+                "wordIndex": 2
+              },
+              {
+                "text": "[was]",
+                "wordIndex": 3
+              },
+              {
+                "text": "Rachel",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H7354}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H7354",
+                  "lemma": "רָחֵל",
+                  "translit": "ra.chel",
+                  "morph": "N:N-F-P",
+                  "gloss": "Rachel A woman living at the time of the Patriarchs, first mentioned at Gen.29.6; <br> daughter of: Laban (H3837A); <br> sister of: Leah (H3812); married to Israel (H3478); <br> mother of: Joseph (H3130) and Benjamin (H1144)<BR>Also named: <i>Rhachēl</i> (Ῥαχήλ \"Rachel\" G4478) <BR> § Rachel = \"ewe\"<br> daughter of Laban, wife of Jacob, and mother of Joseph and Benjamin<br>",
+                  "raw": "H7354\tH7354 =\tH7354\tרָחֵל\tra.chel\tN:N-F-P\tRachel\tA woman living at the time of the Patriarchs, first mentioned at Gen.29.6; <br> daughter of: Laban (H3837A); <br> sister of: Leah (H3812); married to Israel (H3478); <br> mother of: Joseph (H3130) and Benjamin (H1144)<BR>Also named: <i>Rhachēl</i> (Ῥαχήλ \"Rachel\" G4478) <BR> § Rachel = \"ewe\"<br> daughter of Laban, wife of Jacob, and mother of Joseph and Benjamin<br>"
+                }
+              },
+              {
+                "text": "HNpf",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7354",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7354",
+                  "lemma": "רָחֵל",
+                  "translit": "ra.chel",
+                  "morph": "N:N-F-P",
+                  "gloss": "Rachel A woman living at the time of the Patriarchs, first mentioned at Gen.29.6; <br> daughter of: Laban (H3837A); <br> sister of: Leah (H3812); married to Israel (H3478); <br> mother of: Joseph (H3130) and Benjamin (H1144)<BR>Also named: <i>Rhachēl</i> (Ῥαχήλ \"Rachel\" G4478) <BR> § Rachel = \"ewe\"<br> daughter of Laban, wife of Jacob, and mother of Joseph and Benjamin<br>",
+                  "raw": "H7354\tH7354 =\tH7354\tרָחֵל\tra.chel\tN:N-F-P\tRachel\tA woman living at the time of the Patriarchs, first mentioned at Gen.29.6; <br> daughter of: Laban (H3837A); <br> sister of: Leah (H3812); married to Israel (H3478); <br> mother of: Joseph (H3130) and Benjamin (H1144)<BR>Also named: <i>Rhachēl</i> (Ῥαχήλ \"Rachel\" G4478) <BR> § Rachel = \"ewe\"<br> daughter of Laban, wife of Jacob, and mother of Joseph and Benjamin<br>"
+                }
+              },
+              {
+                "text": "{H7354=רָחֵל=Rachel»Rachel@Gen.29.6-Mat}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7354",
+                  "lemma": "רָחֵל",
+                  "translit": "ra.chel",
+                  "morph": "N:N-F-P",
+                  "gloss": "Rachel A woman living at the time of the Patriarchs, first mentioned at Gen.29.6; <br> daughter of: Laban (H3837A); <br> sister of: Leah (H3812); married to Israel (H3478); <br> mother of: Joseph (H3130) and Benjamin (H1144)<BR>Also named: <i>Rhachēl</i> (Ῥαχήλ \"Rachel\" G4478) <BR> § Rachel = \"ewe\"<br> daughter of Laban, wife of Jacob, and mother of Joseph and Benjamin<br>",
+                  "raw": "H7354\tH7354 =\tH7354\tרָחֵל\tra.chel\tN:N-F-P\tRachel\tA woman living at the time of the Patriarchs, first mentioned at Gen.29.6; <br> daughter of: Laban (H3837A); <br> sister of: Leah (H3812); married to Israel (H3478); <br> mother of: Joseph (H3130) and Benjamin (H1144)<BR>Also named: <i>Rhachēl</i> (Ῥαχήλ \"Rachel\" G4478) <BR> § Rachel = \"ewe\"<br> daughter of Laban, wife of Jacob, and mother of Joseph and Benjamin<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L רָחֵֽל\\׃ ra.Chel [was] Rachel {H7354}\\H9016 HNpf H7354 {H7354=רָחֵל=Rachel»Rachel@Gen.29.6-Mat}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 29,
           "verse": 17,
           "text": "Leah had weak eyes. But Rachel was beautiful. She had a nice figure.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מַרְאֶֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mar.'Eh",
+                "wordIndex": 2
+              },
+              {
+                "text": "appearance",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4758}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4758",
+                  "lemma": "מַרְאֶה",
+                  "translit": "mar.eh",
+                  "morph": "H:N-M",
+                  "gloss": "appearance 1) sight, appearance, vision<br>1a) sight, phenomenon, spectacle, appearance, vision<br>1b) what is seen<br>1c) a vision (supernatural)<br>1d) sight, vision (power of seeing)",
+                  "raw": "H4758\tH4758 =\tH4758\tמַרְאֶה\tmar.eh\tH:N-M\tappearance\t1) sight, appearance, vision<br>1a) sight, phenomenon, spectacle, appearance, vision<br>1b) what is seen<br>1c) a vision (supernatural)<br>1d) sight, vision (power of seeing)"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4758",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4758",
+                  "lemma": "מַרְאֶה",
+                  "translit": "mar.eh",
+                  "morph": "H:N-M",
+                  "gloss": "appearance 1) sight, appearance, vision<br>1a) sight, phenomenon, spectacle, appearance, vision<br>1b) what is seen<br>1c) a vision (supernatural)<br>1d) sight, vision (power of seeing)",
+                  "raw": "H4758\tH4758 =\tH4758\tמַרְאֶה\tmar.eh\tH:N-M\tappearance\t1) sight, appearance, vision<br>1a) sight, phenomenon, spectacle, appearance, vision<br>1b) what is seen<br>1c) a vision (supernatural)<br>1d) sight, vision (power of seeing)"
+                }
+              },
+              {
+                "text": "{H4758=מַרְאֶה=appearance}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4758",
+                  "lemma": "מַרְאֶה",
+                  "translit": "mar.eh",
+                  "morph": "H:N-M",
+                  "gloss": "appearance 1) sight, appearance, vision<br>1a) sight, phenomenon, spectacle, appearance, vision<br>1b) what is seen<br>1c) a vision (supernatural)<br>1d) sight, vision (power of seeing)",
+                  "raw": "H4758\tH4758 =\tH4758\tמַרְאֶה\tmar.eh\tH:N-M\tappearance\t1) sight, appearance, vision<br>1a) sight, phenomenon, spectacle, appearance, vision<br>1b) what is seen<br>1c) a vision (supernatural)<br>1d) sight, vision (power of seeing)"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L מַרְאֶֽה\\׃ mar.'Eh appearance {H4758}\\H9016 HNcmsa H4758 {H4758=מַרְאֶה=appearance}\\H9016=׃=verseEnd"
+          }
         }
       ]
     }

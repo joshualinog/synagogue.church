@@ -7,67 +7,882 @@
           "chapter": 14,
           "verse": 15,
           "text": "And Yahweh said to Moses, “Why do you cry out to me? Speak to the Israelites so that they set out.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/יִסָּֽעוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./yi.Sa.'u",
+                "wordIndex": 2
+              },
+              {
+                "text": "so/",
+                "wordIndex": 3
+              },
+              {
+                "text": "they",
+                "wordIndex": 4
+              },
+              {
+                "text": "may",
+                "wordIndex": 5
+              },
+              {
+                "text": "set",
+                "wordIndex": 6
+              },
+              {
+                "text": "out",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9002/{H5265}\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Vqu3mp",
+                "wordIndex": 9
+              },
+              {
+                "text": "H5265",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H5265",
+                  "lemma": "נָסַע",
+                  "translit": "na.sa",
+                  "morph": "H:V",
+                  "gloss": "to set out 1) to pull out, pull up, set out, journey, remove, set forward, depart<br>1a) (Qal)<br>1a1) to pull out or up<br>1a2) to set out, depart<br>1a3) to journey, march<br>1a4) to set forth (of wind)<br>1b) (Niphal) to be pulled up, be removed, be plucked up<br>1c) (Hiphil)<br>1c1) to cause to set out, lead out, cause to spring up<br>1c2) to remove, quarry",
+                  "raw": "H5265\tH5265 =\tH5265\tנָסַע\tna.sa\tH:V\tto set out\t1) to pull out, pull up, set out, journey, remove, set forward, depart<br>1a) (Qal)<br>1a1) to pull out or up<br>1a2) to set out, depart<br>1a3) to journey, march<br>1a4) to set forth (of wind)<br>1b) (Niphal) to be pulled up, be removed, be plucked up<br>1c) (Hiphil)<br>1c1) to cause to set out, lead out, cause to spring up<br>1c2) to remove, quarry"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H5265=נָסַע=to",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "set",
+                "wordIndex": 12
+              },
+              {
+                "text": "out}\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L וְ/יִסָּֽעוּ\\׃ ve./yi.Sa.'u so/ they may set out H9002/{H5265}\\H9016 HC/Vqu3mp H5265 H9002=ו=and/{H5265=נָסַע=to set out}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 16,
           "text": "And you, lift up your staff and stretch out your hand over the sea and divide it so that the Israelites can go in the middle of the sea on the dry land.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בַּ/יַּבָּשָֽׁה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba/i.ya.ba.Shah",
+                "wordIndex": 2
+              },
+              {
+                "text": "on",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "dry",
+                "wordIndex": 5
+              },
+              {
+                "text": "ground",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9003/{H3004}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Ncfsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H3004",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3004",
+                  "lemma": "יַבָּשָׁה",
+                  "translit": "yab.ba.shah",
+                  "morph": "H:N-F",
+                  "gloss": "dry land dry land, dry ground",
+                  "raw": "H3004\tH3004 =\tH3004\tיַבָּשָׁה\tyab.ba.shah\tH:N-F\tdry land\tdry land, dry ground"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H3004=יַבָּשָׁה=dry",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "land}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L בַּ/יַּבָּשָֽׁה\\׃ ba/i.ya.ba.Shah on the/ dry ground H9003/{H3004}\\H9016 HRd/Ncfsa H3004 H9003=ב=in/{H3004=יַבָּשָׁה=dry land}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 17,
           "text": "And as for me, look, I am about to harden the heart of the Egyptians so that they come after them, and I will display my glory through Pharaoh and through all of his army, through his chariots and through his charioteers.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/בְ/פָרָשָֽׁי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./ve./fa.ra.Sha/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "by/",
+                "wordIndex": 4
+              },
+              {
+                "text": "horsemen/",
+                "wordIndex": 5
+              },
+              {
+                "text": "his",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/H9003/{H6571B}/H9023\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/R/Ncmpc/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H6571B",
+                "wordIndex": 9
+              },
+              {
+                "text": "H9002=ו=and/H9003=ב=in/{H6571B=פָּרָשׁ=horseman}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L וּ/בְ/פָרָשָֽׁי/ו\\׃ u./ve./fa.ra.Sha/v and/ by/ horsemen/ his H9002/H9003/{H6571B}/H9023\\H9016 HC/R/Ncmpc/Sp3ms H6571B H9002=ו=and/H9003=ב=in/{H6571B=פָּרָשׁ=horseman}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 18,
           "text": "And the Egyptians will know that I am Yahweh when I display my glory through Pharaoh, through his chariots, and through his charioteers.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/בְ/פָרָשָֽׁי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./ve./fa.ra.Sha/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "by/",
+                "wordIndex": 4
+              },
+              {
+                "text": "horsemen/",
+                "wordIndex": 5
+              },
+              {
+                "text": "his",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/H9003/{H6571B}/H9023\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/R/Ncmpc/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H6571B",
+                "wordIndex": 9
+              },
+              {
+                "text": "H9002=ו=and/H9003=ב=in/{H6571B=פָּרָשׁ=horseman}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L וּ/בְ/פָרָשָֽׁי/ו\\׃ u./ve./fa.ra.Sha/v and/ by/ horsemen/ his H9002/H9003/{H6571B}/H9023\\H9016 HC/R/Ncmpc/Sp3ms H6571B H9002=ו=and/H9003=ב=in/{H6571B=פָּרָשׁ=horseman}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 19,
           "text": "And the angel of God who was going before the camp of Israel set out and went behind them. And the column of cloud set out ahead of them, and it stood still behind them,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵ/אַחֲרֵי/הֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "me./'a.cha.rei./Hem",
+                "wordIndex": 2
+              },
+              {
+                "text": "<from>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "behind/",
+                "wordIndex": 4
+              },
+              {
+                "text": "them",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9006/{H0310A}/H9038\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "HR/Acmpc/Sp3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0310A_B",
+                "wordIndex": 8
+              },
+              {
+                "text": "H9006=מ=from/{H0310A=אַחַר=after}/H9038=Op3m=them\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L מֵ/אַחֲרֵי/הֶֽם\\׃ me./'a.cha.rei./Hem <from>/ behind/ them H9006/{H0310A}/H9038\\H9016 HR/Acmpc/Sp3mp H0310A_B H9006=מ=from/{H0310A=אַחַר=after}/H9038=Op3m=them\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 20,
           "text": "so that it came between the camp of Egypt and the camp of Israel. And it was a dark cloud, but it gave light to the night, so that neither approached the other all night.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/לָּֽיְלָה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./La.ye.lah",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "night",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H3915}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3915_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3915",
+                  "lemma": "לַ֫יְלָה",
+                  "translit": "lay.lah",
+                  "morph": "H:N-M",
+                  "gloss": "night 1) night<br>1a) night (as opposed to day)<br>1b) of gloom, protective shadow (fig.)",
+                  "raw": "H3915\tH3915 =\tH3915\tלַ֫יְלָה\tlay.lah\tH:N-M\tnight\t1) night<br>1a) night (as opposed to day)<br>1b) of gloom, protective shadow (fig.)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3915=לַ֫יְלָה=night}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L הַ/לָּֽיְלָה\\׃ ha./La.ye.lah the/ night H9009/{H3915}\\H9016 HTd/Ncmsa H3915_B H9009=ה=the/{H3915=לַ֫יְלָה=night}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 21,
           "text": "And Moses stretched out his hand over the sea, and Yahweh moved the sea with a strong east wind all night, and he made the sea become dry ground, and the waters were divided.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/מָּֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Ma.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "waters",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H4325G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4325G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H4325G=מַי=water}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L הַ/מָּֽיִם\\׃ ha./Ma.yim the/ waters H9009/{H4325G}\\H9016 HTd/Ncmpa H4325G H9009=ה=the/{H4325G=מַי=water}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 22,
           "text": "And the Israelites entered the middle of the sea on the dry land. The waters were a wall for them on their right and on their left.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/מִ/שְּׂמֹאלָֽ/ם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./mi./se.mo.La/m",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "from/",
+                "wordIndex": 4
+              },
+              {
+                "text": "left/",
+                "wordIndex": 5
+              },
+              {
+                "text": "their",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/H9006/{H8040G}/H9028\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/R/Ncmsc/Sp3mp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H8040G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H8040",
+                  "lemma": "שְׂמֹאל",
+                  "translit": "se.mo.l",
+                  "morph": "H:N-M",
+                  "gloss": "left: north 1) the left, the left hand, the left side<br>1a) left<br>1b) left hand<br>1c) north (as one faces east)",
+                  "raw": "H8040\tH8040H = a Meaning of\tH8040G\tשְׂמֹאל\tse.mo.l\tH:N-M\tleft: north\t1) the left, the left hand, the left side<br>1a) left<br>1b) left hand<br>1c) north (as one faces east)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/H9006=מ=from/{H8040G=שְׂמֹאל=:left»left:1_left}/H9028=Pp3m=their\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L וּ/מִ/שְּׂמֹאלָֽ/ם\\׃ u./mi./se.mo.La/m and/ from/ left/ their H9002/H9006/{H8040G}/H9028\\H9016 HC/R/Ncmsc/Sp3mp H8040G H9002=ו=and/H9006=מ=from/{H8040G=שְׂמֹאל=:left»left:1_left}/H9028=Pp3m=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 23,
           "text": "And the Egyptians gave chase and entered after them—all the horses of Pharaoh, his chariots, and his charioteers—into the middle of the sea.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יָּֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hai./Yam",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "sea",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H3220G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3220G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3220",
+                  "lemma": "יָם",
+                  "translit": "yam",
+                  "morph": "H:N-M",
+                  "gloss": "(Mt. Ephron in the) West This name means  sea, seaward, westward<BR>Another name of <i>eph.ron</i> (עֶפְרוֹן \"(Mount )Ephron\" H6085H)",
+                  "raw": "H3220\tH3220I = a Name of\tH6085H\tיָם\tyam\tH:N-M\t(Mt. Ephron in the) West\tThis name means  sea, seaward, westward<BR>Another name of <i>eph.ron</i> (עֶפְרוֹן \"(Mount )Ephron\" H6085H)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3220G=יָם=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "sea»sea:1_sea}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L הַ/יָּֽם\\׃ hai./Yam the/ sea H9009/{H3220G}\\H9016 HTd/Ncmsa H3220G H9009=ה=the/{H3220G=יָם=: sea»sea:1_sea}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 24,
           "text": "And during the morning watch, Yahweh looked down to the Egyptian camp from in the column of fire and cloud, and he threw the Egyptian camp into a panic.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4713}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4713",
+                  "lemma": "מִצְרִי",
+                  "translit": "mits.ri",
+                  "morph": "N:N--LG",
+                  "gloss": "Egyptian <BR>Group of <i>mits.ra.yim</i> (מִצְרַ֫יִם \"Egypt\" H4714G) <BR> § Egyptian, of Egypt \"double straits\"<br> Egyptian-an inhabitant or citizen of Egypt<br> an Egyptian",
+                  "raw": "H4713\tH4713 = a group of\tH4714G\tמִצְרִי\tmits.ri\tN:N--LG\tEgyptian\t<BR>Group of <i>mits.ra.yim</i> (מִצְרַ֫יִם \"Egypt\" H4714G) <BR> § Egyptian, of Egypt \"double straits\"<br> Egyptian-an inhabitant or citizen of Egypt<br> an Egyptian"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4713_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4713",
+                  "lemma": "מִצְרִי",
+                  "translit": "mits.ri",
+                  "morph": "N:N--LG",
+                  "gloss": "Egyptian <BR>Group of <i>mits.ra.yim</i> (מִצְרַ֫יִם \"Egypt\" H4714G) <BR> § Egyptian, of Egypt \"double straits\"<br> Egyptian-an inhabitant or citizen of Egypt<br> an Egyptian",
+                  "raw": "H4713\tH4713 = a group of\tH4714G\tמִצְרִי\tmits.ri\tN:N--LG\tEgyptian\t<BR>Group of <i>mits.ra.yim</i> (מִצְרַ֫יִם \"Egypt\" H4714G) <BR> § Egyptian, of Egypt \"double straits\"<br> Egyptian-an inhabitant or citizen of Egypt<br> an Egyptian"
+                }
+              },
+              {
+                "text": "{H4713=מִצְרִי=Egyptian»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4713",
+                  "lemma": "מִצְרִי",
+                  "translit": "mits.ri",
+                  "morph": "N:N--LG",
+                  "gloss": "Egyptian <BR>Group of <i>mits.ra.yim</i> (מִצְרַ֫יִם \"Egypt\" H4714G) <BR> § Egyptian, of Egypt \"double straits\"<br> Egyptian-an inhabitant or citizen of Egypt<br> an Egyptian",
+                  "raw": "H4713\tH4713 = a group of\tH4714G\tמִצְרִי\tmits.ri\tN:N--LG\tEgyptian\t<BR>Group of <i>mits.ra.yim</i> (מִצְרַ֫יִם \"Egypt\" H4714G) <BR> § Egyptian, of Egypt \"double straits\"<br> Egyptian-an inhabitant or citizen of Egypt<br> an Egyptian"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L מִצְרָֽיִם\\׃ mitz.Ra.yim Egypt {H4713}\\H9016 HNpl H4713_B {H4713=מִצְרִי=Egyptian»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 25,
           "text": "And he removed the wheels of their chariots so that they drove them with difficulty, and the Egyptians said, “We must flee away from Israel because Yahweh is fighting for them against Egypt.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=LB(ha)",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/מִצְרָֽיִם\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "be./mitz.Ra.yim",
+                "wordIndex": 3
+              },
+              {
+                "text": "against/",
+                "wordIndex": 4
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H4714G}\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HR/Npl",
+                "wordIndex": 8
+              },
+              {
+                "text": "HA=",
+                "wordIndex": 9
+              },
+              {
+                "text": "בְּ/מִצְרָֽיִם\\׃\\",
+                "wordIndex": 10
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 11
+              },
+              {
+                "text": "H4714G_B",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 14,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#16=LB(ha) בְּ/מִצְרָֽיִם\\ \\פ be./mitz.Ra.yim against/ Egypt H9003/{H4714G}\\ \\H9017 HR/Npl HA= בְּ/מִצְרָֽיִם\\׃\\ \\פ H4714G_B H9003=ב=in/{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\ \\H9017=פ=para"
+          }
         }
       ],
       "nirv": [
@@ -75,67 +890,882 @@
           "chapter": 14,
           "verse": 15,
           "text": "Then the Lord spoke to Moses. He said, “Why are you crying out to me? Tell the people of Israel to move on.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/יִסָּֽעוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./yi.Sa.'u",
+                "wordIndex": 2
+              },
+              {
+                "text": "so/",
+                "wordIndex": 3
+              },
+              {
+                "text": "they",
+                "wordIndex": 4
+              },
+              {
+                "text": "may",
+                "wordIndex": 5
+              },
+              {
+                "text": "set",
+                "wordIndex": 6
+              },
+              {
+                "text": "out",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9002/{H5265}\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Vqu3mp",
+                "wordIndex": 9
+              },
+              {
+                "text": "H5265",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H5265",
+                  "lemma": "נָסַע",
+                  "translit": "na.sa",
+                  "morph": "H:V",
+                  "gloss": "to set out 1) to pull out, pull up, set out, journey, remove, set forward, depart<br>1a) (Qal)<br>1a1) to pull out or up<br>1a2) to set out, depart<br>1a3) to journey, march<br>1a4) to set forth (of wind)<br>1b) (Niphal) to be pulled up, be removed, be plucked up<br>1c) (Hiphil)<br>1c1) to cause to set out, lead out, cause to spring up<br>1c2) to remove, quarry",
+                  "raw": "H5265\tH5265 =\tH5265\tנָסַע\tna.sa\tH:V\tto set out\t1) to pull out, pull up, set out, journey, remove, set forward, depart<br>1a) (Qal)<br>1a1) to pull out or up<br>1a2) to set out, depart<br>1a3) to journey, march<br>1a4) to set forth (of wind)<br>1b) (Niphal) to be pulled up, be removed, be plucked up<br>1c) (Hiphil)<br>1c1) to cause to set out, lead out, cause to spring up<br>1c2) to remove, quarry"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H5265=נָסַע=to",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "set",
+                "wordIndex": 12
+              },
+              {
+                "text": "out}\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L וְ/יִסָּֽעוּ\\׃ ve./yi.Sa.'u so/ they may set out H9002/{H5265}\\H9016 HC/Vqu3mp H5265 H9002=ו=and/{H5265=נָסַע=to set out}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 16,
           "text": "Hold your wooden staff out. Reach your hand out over the Red Sea to part the water. Then the people can go through the sea on dry ground.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בַּ/יַּבָּשָֽׁה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba/i.ya.ba.Shah",
+                "wordIndex": 2
+              },
+              {
+                "text": "on",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "dry",
+                "wordIndex": 5
+              },
+              {
+                "text": "ground",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9003/{H3004}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Ncfsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H3004",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3004",
+                  "lemma": "יַבָּשָׁה",
+                  "translit": "yab.ba.shah",
+                  "morph": "H:N-F",
+                  "gloss": "dry land dry land, dry ground",
+                  "raw": "H3004\tH3004 =\tH3004\tיַבָּשָׁה\tyab.ba.shah\tH:N-F\tdry land\tdry land, dry ground"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H3004=יַבָּשָׁה=dry",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "land}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L בַּ/יַּבָּשָֽׁה\\׃ ba/i.ya.ba.Shah on the/ dry ground H9003/{H3004}\\H9016 HRd/Ncfsa H3004 H9003=ב=in/{H3004=יַבָּשָׁה=dry land}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 17,
           "text": "“I will make the hearts of the Egyptians stubborn. They will go in after the Israelites. I will gain glory for myself because of what will happen to Pharaoh, his whole army, his chariots and his horsemen.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/בְ/פָרָשָֽׁי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./ve./fa.ra.Sha/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "by/",
+                "wordIndex": 4
+              },
+              {
+                "text": "horsemen/",
+                "wordIndex": 5
+              },
+              {
+                "text": "his",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/H9003/{H6571B}/H9023\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/R/Ncmpc/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H6571B",
+                "wordIndex": 9
+              },
+              {
+                "text": "H9002=ו=and/H9003=ב=in/{H6571B=פָּרָשׁ=horseman}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L וּ/בְ/פָרָשָֽׁי/ו\\׃ u./ve./fa.ra.Sha/v and/ by/ horsemen/ his H9002/H9003/{H6571B}/H9023\\H9016 HC/R/Ncmpc/Sp3ms H6571B H9002=ו=and/H9003=ב=in/{H6571B=פָּרָשׁ=horseman}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 18,
           "text": "“The Egyptians will know that I am the Lord. I will gain glory because of what will happen to all of them.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/בְ/פָרָשָֽׁי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./ve./fa.ra.Sha/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "by/",
+                "wordIndex": 4
+              },
+              {
+                "text": "horsemen/",
+                "wordIndex": 5
+              },
+              {
+                "text": "his",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/H9003/{H6571B}/H9023\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/R/Ncmpc/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H6571B",
+                "wordIndex": 9
+              },
+              {
+                "text": "H9002=ו=and/H9003=ב=in/{H6571B=פָּרָשׁ=horseman}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L וּ/בְ/פָרָשָֽׁי/ו\\׃ u./ve./fa.ra.Sha/v and/ by/ horsemen/ his H9002/H9003/{H6571B}/H9023\\H9016 HC/R/Ncmpc/Sp3ms H6571B H9002=ו=and/H9003=ב=in/{H6571B=פָּרָשׁ=horseman}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 19,
           "text": "The angel of God had been traveling in front of Israel’s army. Now he moved back and went behind them. The pillar of cloud also moved away from in front of them. Now it stood behind them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵ/אַחֲרֵי/הֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "me./'a.cha.rei./Hem",
+                "wordIndex": 2
+              },
+              {
+                "text": "<from>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "behind/",
+                "wordIndex": 4
+              },
+              {
+                "text": "them",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9006/{H0310A}/H9038\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "HR/Acmpc/Sp3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0310A_B",
+                "wordIndex": 8
+              },
+              {
+                "text": "H9006=מ=from/{H0310A=אַחַר=after}/H9038=Op3m=them\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L מֵ/אַחֲרֵי/הֶֽם\\׃ me./'a.cha.rei./Hem <from>/ behind/ them H9006/{H0310A}/H9038\\H9016 HR/Acmpc/Sp3mp H0310A_B H9006=מ=from/{H0310A=אַחַר=after}/H9038=Op3m=them\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 20,
           "text": "It came between the armies of Egypt and Israel. All through the night the cloud brought darkness to one side and light to the other. Neither army went near the other all night long.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/לָּֽיְלָה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./La.ye.lah",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "night",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H3915}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3915_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3915",
+                  "lemma": "לַ֫יְלָה",
+                  "translit": "lay.lah",
+                  "morph": "H:N-M",
+                  "gloss": "night 1) night<br>1a) night (as opposed to day)<br>1b) of gloom, protective shadow (fig.)",
+                  "raw": "H3915\tH3915 =\tH3915\tלַ֫יְלָה\tlay.lah\tH:N-M\tnight\t1) night<br>1a) night (as opposed to day)<br>1b) of gloom, protective shadow (fig.)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3915=לַ֫יְלָה=night}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L הַ/לָּֽיְלָה\\׃ ha./La.ye.lah the/ night H9009/{H3915}\\H9016 HTd/Ncmsa H3915_B H9009=ה=the/{H3915=לַ֫יְלָה=night}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 21,
           "text": "Then Moses reached his hand out over the Red Sea. All that night the Lord pushed the sea back with a strong east wind. He turned the sea into dry land. The waters were parted.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/מָּֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Ma.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "waters",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H4325G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4325G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H4325G=מַי=water}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L הַ/מָּֽיִם\\׃ ha./Ma.yim the/ waters H9009/{H4325G}\\H9016 HTd/Ncmpa H4325G H9009=ה=the/{H4325G=מַי=water}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 22,
           "text": "The people of Israel went through the sea on dry ground. There was a wall of water on their right side and on their left.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/מִ/שְּׂמֹאלָֽ/ם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./mi./se.mo.La/m",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "from/",
+                "wordIndex": 4
+              },
+              {
+                "text": "left/",
+                "wordIndex": 5
+              },
+              {
+                "text": "their",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/H9006/{H8040G}/H9028\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/R/Ncmsc/Sp3mp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H8040G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H8040",
+                  "lemma": "שְׂמֹאל",
+                  "translit": "se.mo.l",
+                  "morph": "H:N-M",
+                  "gloss": "left: north 1) the left, the left hand, the left side<br>1a) left<br>1b) left hand<br>1c) north (as one faces east)",
+                  "raw": "H8040\tH8040H = a Meaning of\tH8040G\tשְׂמֹאל\tse.mo.l\tH:N-M\tleft: north\t1) the left, the left hand, the left side<br>1a) left<br>1b) left hand<br>1c) north (as one faces east)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/H9006=מ=from/{H8040G=שְׂמֹאל=:left»left:1_left}/H9028=Pp3m=their\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L וּ/מִ/שְּׂמֹאלָֽ/ם\\׃ u./mi./se.mo.La/m and/ from/ left/ their H9002/H9006/{H8040G}/H9028\\H9016 HC/R/Ncmsc/Sp3mp H8040G H9002=ו=and/H9006=מ=from/{H8040G=שְׂמֹאל=:left»left:1_left}/H9028=Pp3m=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 23,
           "text": "The Egyptians chased them. All of Pharaoh’s horses and chariots and horsemen followed them into the sea.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יָּֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hai./Yam",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "sea",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H3220G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3220G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3220",
+                  "lemma": "יָם",
+                  "translit": "yam",
+                  "morph": "H:N-M",
+                  "gloss": "(Mt. Ephron in the) West This name means  sea, seaward, westward<BR>Another name of <i>eph.ron</i> (עֶפְרוֹן \"(Mount )Ephron\" H6085H)",
+                  "raw": "H3220\tH3220I = a Name of\tH6085H\tיָם\tyam\tH:N-M\t(Mt. Ephron in the) West\tThis name means  sea, seaward, westward<BR>Another name of <i>eph.ron</i> (עֶפְרוֹן \"(Mount )Ephron\" H6085H)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3220G=יָם=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "sea»sea:1_sea}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L הַ/יָּֽם\\׃ hai./Yam the/ sea H9009/{H3220G}\\H9016 HTd/Ncmsa H3220G H9009=ה=the/{H3220G=יָם=: sea»sea:1_sea}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 24,
           "text": "Near the end of the night the Lord looked down from the pillar of fire and cloud. He saw the Egyptian army and threw it into a panic.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mitz.Ra.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4713}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4713",
+                  "lemma": "מִצְרִי",
+                  "translit": "mits.ri",
+                  "morph": "N:N--LG",
+                  "gloss": "Egyptian <BR>Group of <i>mits.ra.yim</i> (מִצְרַ֫יִם \"Egypt\" H4714G) <BR> § Egyptian, of Egypt \"double straits\"<br> Egyptian-an inhabitant or citizen of Egypt<br> an Egyptian",
+                  "raw": "H4713\tH4713 = a group of\tH4714G\tמִצְרִי\tmits.ri\tN:N--LG\tEgyptian\t<BR>Group of <i>mits.ra.yim</i> (מִצְרַ֫יִם \"Egypt\" H4714G) <BR> § Egyptian, of Egypt \"double straits\"<br> Egyptian-an inhabitant or citizen of Egypt<br> an Egyptian"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4713_B",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4713",
+                  "lemma": "מִצְרִי",
+                  "translit": "mits.ri",
+                  "morph": "N:N--LG",
+                  "gloss": "Egyptian <BR>Group of <i>mits.ra.yim</i> (מִצְרַ֫יִם \"Egypt\" H4714G) <BR> § Egyptian, of Egypt \"double straits\"<br> Egyptian-an inhabitant or citizen of Egypt<br> an Egyptian",
+                  "raw": "H4713\tH4713 = a group of\tH4714G\tמִצְרִי\tmits.ri\tN:N--LG\tEgyptian\t<BR>Group of <i>mits.ra.yim</i> (מִצְרַ֫יִם \"Egypt\" H4714G) <BR> § Egyptian, of Egypt \"double straits\"<br> Egyptian-an inhabitant or citizen of Egypt<br> an Egyptian"
+                }
+              },
+              {
+                "text": "{H4713=מִצְרִי=Egyptian»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4713",
+                  "lemma": "מִצְרִי",
+                  "translit": "mits.ri",
+                  "morph": "N:N--LG",
+                  "gloss": "Egyptian <BR>Group of <i>mits.ra.yim</i> (מִצְרַ֫יִם \"Egypt\" H4714G) <BR> § Egyptian, of Egypt \"double straits\"<br> Egyptian-an inhabitant or citizen of Egypt<br> an Egyptian",
+                  "raw": "H4713\tH4713 = a group of\tH4714G\tמִצְרִי\tmits.ri\tN:N--LG\tEgyptian\t<BR>Group of <i>mits.ra.yim</i> (מִצְרַ֫יִם \"Egypt\" H4714G) <BR> § Egyptian, of Egypt \"double straits\"<br> Egyptian-an inhabitant or citizen of Egypt<br> an Egyptian"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L מִצְרָֽיִם\\׃ mitz.Ra.yim Egypt {H4713}\\H9016 HNpl H4713_B {H4713=מִצְרִי=Egyptian»Egypt@Gen.12.10-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 25,
           "text": "He kept their chariot wheels from turning freely. That made the chariots hard to drive.\nThe Egyptians said, “Let’s get away from the Israelites! The Lord is fighting for Israel against Egypt.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=LB(ha)",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/מִצְרָֽיִם\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "be./mitz.Ra.yim",
+                "wordIndex": 3
+              },
+              {
+                "text": "against/",
+                "wordIndex": 4
+              },
+              {
+                "text": "Egypt",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H4714G}\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HR/Npl",
+                "wordIndex": 8
+              },
+              {
+                "text": "HA=",
+                "wordIndex": 9
+              },
+              {
+                "text": "בְּ/מִצְרָֽיִם\\׃\\",
+                "wordIndex": 10
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 11
+              },
+              {
+                "text": "H4714G_B",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 14,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#16=LB(ha) בְּ/מִצְרָֽיִם\\ \\פ be./mitz.Ra.yim against/ Egypt H9003/{H4714G}\\ \\H9017 HR/Npl HA= בְּ/מִצְרָֽיִם\\׃\\ \\פ H4714G_B H9003=ב=in/{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}\\ \\H9017=פ=para"
+          }
         }
       ]
     }

@@ -7,67 +7,878 @@
           "chapter": 1,
           "verse": 11,
           "text": "Yahweh, the God of your ancestors, may he add to you as you are now a thousand times, and may he bless you just as he promised you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H9036}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Sp2mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9036_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9036",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Op2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural",
+                  "raw": "H9036\tH9036 =\tH9036\tכֶם\tkhem\tOp2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#13=L לָ/כֶֽם\\׃ la./Khem to/ you H9005/{H9036}\\H9016 HR/Sp2mp H9036_B H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 12,
           "text": "How can I bear you by myself, your burden and your load and your strife?",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/רִֽיבְ/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./Ri.ve./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "dispute[s]/",
+                "wordIndex": 4
+              },
+              {
+                "text": "your",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9002/{H7379}/H9026\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Ncmsc/Sp2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7379",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7379",
+                  "lemma": "רִיב",
+                  "translit": "riv",
+                  "morph": "H:N-M",
+                  "gloss": "strife 1) strife, controversy, dispute<br>1a) strife, quarrel<br>1b) dispute, controversy, case at law",
+                  "raw": "H7379\tH7379 =\tH7379\tרִיב\triv\tH:N-M\tstrife\t1) strife, controversy, dispute<br>1a) strife, quarrel<br>1b) dispute, controversy, case at law"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H7379=רִיב=strife}/H9026=Pp2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L וְ/רִֽיבְ/כֶֽם\\׃ ve./Ri.ve./Khem and/ dispute[s]/ your H9002/{H7379}/H9026\\H9016 HC/Ncmsc/Sp2mp H7379 H9002=ו=and/{H7379=רִיב=strife}/H9026=Pp2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 13,
           "text": "Choose for yourselves wise and discerning and knowledgeable men for each of your tribes, and I will appoint them as your leaders.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/רָאשֵׁי/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./ra.shei./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "<in>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "chiefs/",
+                "wordIndex": 4
+              },
+              {
+                "text": "your",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H7218H}/H9026\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncmpc/Sp2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7218H",
+                "wordIndex": 8
+              },
+              {
+                "text": "H9003=ב=in/{H7218H=רֹאשׁ=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "leader»head:2_leader}/H9026=Pp2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9026",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Pp2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural",
+                  "raw": "H9026\tH9026 =\tH9026\tכֶם\tkhem\tPp2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L בְּ/רָאשֵׁי/כֶֽם\\׃ be./ra.shei./Khem <in>/ chiefs/ your H9003/{H7218H}/H9026\\H9016 HR/Ncmpc/Sp2mp H7218H H9003=ב=in/{H7218H=רֹאשׁ=: leader»head:2_leader}/H9026=Pp2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 14,
           "text": "“And you answered me, and you said, ‘The thing you have said to do is good.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לַ/עֲשֽׂוֹת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./'a.Sot",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "do",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H6213A}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6213A",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9005=ל=to/{H6213A=עָשָׂה=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "do»to",
+                "wordIndex": 9
+              },
+              {
+                "text": "make:2_do;_perform}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L לַ/עֲשֽׂוֹת\\׃ la./'a.Sot to/ do H9005/{H6213A}\\H9016 HR/Vqcc H6213A H9005=ל=to/{H6213A=עָשָׂה=: do»to make:2_do;_perform}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 15,
           "text": "And so I took the leaders of your tribes, wise and knowledgeable men, and then I appointed them as leaders over you as commanders of groups of thousands and commanders of groups of hundreds and commanders of groups of fifties and commanders of groups of tens as officials for your tribes.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/שִׁבְטֵי/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./shiv.tei./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "of/",
+                "wordIndex": 3
+              },
+              {
+                "text": "tribes/",
+                "wordIndex": 4
+              },
+              {
+                "text": "your",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H7626H}/H9026\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmpc/Sp2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7626H_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7626",
+                  "lemma": "שֵׁ֫בֶט",
+                  "translit": "she.vet",
+                  "morph": "H:N-M",
+                  "gloss": "tribe: ruler : ruler<br>1) rod, staff, branch, offshoot, club, sceptre, tribe<br>1a) rod, staff<br>1b) shaft (of spear, dart)<br>1c) club (of shepherd's implement)<br>1d) truncheon, sceptre (mark of authority)<br>1e) clan, tribe",
+                  "raw": "H7626\tH7626J = a Meaning of\tH7626H\tשֵׁ֫בֶט\tshe.vet\tH:N-M\ttribe: ruler\t: ruler<br>1) rod, staff, branch, offshoot, club, sceptre, tribe<br>1a) rod, staff<br>1b) shaft (of spear, dart)<br>1c) club (of shepherd's implement)<br>1d) truncheon, sceptre (mark of authority)<br>1e) clan, tribe"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H7626H=שֵׁ֫בֶט=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "tribe»tribe:1_tribe}/H9026=Pp2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9026",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Pp2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural",
+                  "raw": "H9026\tH9026 =\tH9026\tכֶם\tkhem\tPp2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L לְ/שִׁבְטֵי/כֶֽם\\׃ le./shiv.tei./Khem of/ tribes/ your H9005/{H7626H}/H9026\\H9016 HR/Ncmpc/Sp2mp H7626H_B H9005=ל=to/{H7626H=שֵׁ֫בֶט=: tribe»tribe:1_tribe}/H9026=Pp2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 16,
           "text": "And at that time I instructed your judges, saying, ‘hear out your fellow men, and then judge fairly between a man and between his brother and between his opponent who is a resident alien.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "גֵּרֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ge.R/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "sojourner/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H1616}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H1616",
+                  "lemma": "גֵּר",
+                  "translit": "ger",
+                  "morph": "H:N-M",
+                  "gloss": "sojourner 1) sojourner<br>1a) a temporary inhabitant, a newcomer lacking inherited rights<br>1b) of foreigners in Israel, though conceded rights",
+                  "raw": "H1616\tH1616 =\tH1616\tגֵּר\tger\tH:N-M\tsojourner\t1) sojourner<br>1a) a temporary inhabitant, a newcomer lacking inherited rights<br>1b) of foreigners in Israel, though conceded rights"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1616",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1616",
+                  "lemma": "גֵּר",
+                  "translit": "ger",
+                  "morph": "H:N-M",
+                  "gloss": "sojourner 1) sojourner<br>1a) a temporary inhabitant, a newcomer lacking inherited rights<br>1b) of foreigners in Israel, though conceded rights",
+                  "raw": "H1616\tH1616 =\tH1616\tגֵּר\tger\tH:N-M\tsojourner\t1) sojourner<br>1a) a temporary inhabitant, a newcomer lacking inherited rights<br>1b) of foreigners in Israel, though conceded rights"
+                }
+              },
+              {
+                "text": "{H1616=גֵּר=sojourner}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1616",
+                  "lemma": "גֵּר",
+                  "translit": "ger",
+                  "morph": "H:N-M",
+                  "gloss": "sojourner 1) sojourner<br>1a) a temporary inhabitant, a newcomer lacking inherited rights<br>1b) of foreigners in Israel, though conceded rights",
+                  "raw": "H1616\tH1616 =\tH1616\tגֵּר\tger\tH:N-M\tsojourner\t1) sojourner<br>1a) a temporary inhabitant, a newcomer lacking inherited rights<br>1b) of foreigners in Israel, though conceded rights"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L גֵּרֽ/וֹ\\׃ ge.R/o sojourner/ his {H1616}/H9023\\H9016 HNcmsc/Sp3ms H1616 {H1616=גֵּר=sojourner}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 17,
           "text": "You must not be partial in your judgment;  hear out the small person as also the great person; do not be intimidated by any person, because the judgment is God’s; and the case that is too difficult for you, bring it to me, and I will hear it out.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/שְׁמַעְתִּֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./she.ma'.Ti/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "I",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "hear/",
+                "wordIndex": 6
+              },
+              {
+                "text": "it",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9001/{H8085G}/H9033\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqq1cs/Sp3ms",
+                "wordIndex": 9
+              },
+              {
+                "text": "H8085G_B",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H8085",
+                  "lemma": "שָׁמַע",
+                  "translit": "sha.ma",
+                  "morph": "H:V",
+                  "gloss": "to hear: welcome : welcome<br>v<br>1) to hear, listen to, obey<br>1a) (Qal)<br>1a1) to hear (perceive by ear)<br>1a2) to hear of or concerning<br>1a3) to hear (have power to hear)<br>1a4) to hear with attention or interest, listen to<br>1a5) to understand (language)<br>1a6) to hear (of judicial cases)<br>1a7) to listen, give heed<br>1a7a) to consent, agree<br>1a7b) to grant request<br>1a8) to listen to, yield to<br>1a9) to obey, be obedient<br>1b) (Niphal)<br>1b1) to be heard (of voice or sound)<br>1b2) to be heard of<br>1b3) to be regarded, be obeyed<br>1c) (Piel) to cause to hear, call to hear, summon<br>1d) (Hiphil)<br>1d1) to cause to hear, tell, proclaim, utter a sound<br>1d2) to sound aloud (musical term)<br>1d3) to make proclamation, summon<br>1d4) to cause to be heard<br>n m<br>2) sound",
+                  "raw": "H8085\tH8085L = a Meaning of\tH8085G\tשָׁמַע\tsha.ma\tH:V\tto hear: welcome\t: welcome<br>v<br>1) to hear, listen to, obey<br>1a) (Qal)<br>1a1) to hear (perceive by ear)<br>1a2) to hear of or concerning<br>1a3) to hear (have power to hear)<br>1a4) to hear with attention or interest, listen to<br>1a5) to understand (language)<br>1a6) to hear (of judicial cases)<br>1a7) to listen, give heed<br>1a7a) to consent, agree<br>1a7b) to grant request<br>1a8) to listen to, yield to<br>1a9) to obey, be obedient<br>1b) (Niphal)<br>1b1) to be heard (of voice or sound)<br>1b2) to be heard of<br>1b3) to be regarded, be obeyed<br>1c) (Piel) to cause to hear, call to hear, summon<br>1d) (Hiphil)<br>1d1) to cause to hear, tell, proclaim, utter a sound<br>1d2) to sound aloud (musical term)<br>1d3) to make proclamation, summon<br>1d4) to cause to be heard<br>n m<br>2) sound"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H8085G=שָׁמַע=:",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "hear»to",
+                "wordIndex": 12
+              },
+              {
+                "text": "hear:1_hear}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#22=L וּ/שְׁמַעְתִּֽי/ו\\׃ u./she.ma'.Ti/v and/ I will hear/ it H9001/{H8085G}/H9033\\H9016 Hc/Vqq1cs/Sp3ms H8085G_B H9001=ו=&/{H8085G=שָׁמַע=: hear»to hear:1_hear}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 18,
           "text": "And so I instructed you at that time concerning all of the things that you should do.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תַּעֲשֽׂוּ/ן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ta.'a.Su/n",
+                "wordIndex": 2
+              },
+              {
+                "text": "you",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "do/",
+                "wordIndex": 5
+              },
+              {
+                "text": "!",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6213A}/H9013\\H9016",
+                "wordIndex": 7
+              },
+              {
+                "text": "HVqi2mp/Sn",
+                "wordIndex": 8
+              },
+              {
+                "text": "H6213A",
+                "wordIndex": 9
+              },
+              {
+                "text": "{H6213A=עָשָׂה=:",
+                "wordIndex": 10
+              },
+              {
+                "text": "do»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "make:2_do;_perform}/H9013=נ=emph.\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9013",
+                  "lemma": "ן/",
+                  "translit": "n",
+                  "morph": "Suffix",
+                  "gloss": "[emph.?] Punctuation  nun – paragogic: adds emphasis",
+                  "raw": "H9013\tH9013 =\tH9013\tן/\tn\tSuffix\t[emph.?]\tPunctuation  nun – paragogic: adds emphasis"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L תַּעֲשֽׂוּ/ן\\׃ ta.'a.Su/n you will do/ ! {H6213A}/H9013\\H9016 HVqi2mp/Sn H6213A {H6213A=עָשָׂה=: do»to make:2_do;_perform}/H9013=נ=emph.\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 19,
           "text": "“Then we set out from Horeb, and we went through the whole of that great and terrible desert that you saw on the way to the hill country of the Amorites as Yahweh our God had commanded us, and so we came up to Kadesh Barnea.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בַּרְנֵֽעַ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "bar.Ne.a'",
+                "wordIndex": 2
+              },
+              {
+                "text": "Barnea",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6947}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6947",
+                  "lemma": "קָדֵשׁ בַּרְנֵעַ",
+                  "translit": "qa.desh bar.ne.a",
+                  "morph": "N:N--L",
+                  "gloss": "Kadesh-barnea Kadesh-barnea = \"holy\"<br>  a city in the extreme south of Judah<br> same as 'Kedesh' and 'Kadesh'<BR>Another name of <i>qa.desh</i> (קָדֵשׁ \"Kadesh\" H6946G)",
+                  "raw": "H6947\tH6947 = a Name of\tH6946G\tקָדֵשׁ בַּרְנֵעַ\tqa.desh bar.ne.a\tN:N--L\tKadesh-barnea\tKadesh-barnea = \"holy\"<br>  a city in the extreme south of Judah<br> same as 'Kedesh' and 'Kadesh'<BR>Another name of <i>qa.desh</i> (קָדֵשׁ \"Kadesh\" H6946G) "
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6947_b",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6947",
+                  "lemma": "קָדֵשׁ בַּרְנֵעַ",
+                  "translit": "qa.desh bar.ne.a",
+                  "morph": "N:N--L",
+                  "gloss": "Kadesh-barnea Kadesh-barnea = \"holy\"<br>  a city in the extreme south of Judah<br> same as 'Kedesh' and 'Kadesh'<BR>Another name of <i>qa.desh</i> (קָדֵשׁ \"Kadesh\" H6946G)",
+                  "raw": "H6947\tH6947 = a Name of\tH6946G\tקָדֵשׁ בַּרְנֵעַ\tqa.desh bar.ne.a\tN:N--L\tKadesh-barnea\tKadesh-barnea = \"holy\"<br>  a city in the extreme south of Judah<br> same as 'Kedesh' and 'Kadesh'<BR>Another name of <i>qa.desh</i> (קָדֵשׁ \"Kadesh\" H6946G) "
+                }
+              },
+              {
+                "text": "{H6947=קָדֵשׁ",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6947",
+                  "lemma": "קָדֵשׁ בַּרְנֵעַ",
+                  "translit": "qa.desh bar.ne.a",
+                  "morph": "N:N--L",
+                  "gloss": "Kadesh-barnea Kadesh-barnea = \"holy\"<br>  a city in the extreme south of Judah<br> same as 'Kedesh' and 'Kadesh'<BR>Another name of <i>qa.desh</i> (קָדֵשׁ \"Kadesh\" H6946G)",
+                  "raw": "H6947\tH6947 = a Name of\tH6946G\tקָדֵשׁ בַּרְנֵעַ\tqa.desh bar.ne.a\tN:N--L\tKadesh-barnea\tKadesh-barnea = \"holy\"<br>  a city in the extreme south of Judah<br> same as 'Kedesh' and 'Kadesh'<BR>Another name of <i>qa.desh</i> (קָדֵשׁ \"Kadesh\" H6946G) "
+                }
+              },
+              {
+                "text": "בַּרְנֵעַ=Kadesh-barnea»Kadesh-barnea@Num.32.8-Psa}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#23=L בַּרְנֵֽעַ\\׃ bar.Ne.a' Barnea {H6947}\\H9016 HNpl H6947_b {H6947=קָדֵשׁ בַּרְנֵעַ=Kadesh-barnea»Kadesh-barnea@Num.32.8-Psa}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 20,
           "text": "I said to you, ‘You have reached the hill country of the Amorites that Yahweh our God is giving to us.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָֽ/נוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La./nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "us",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H9035}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Sp1bp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9035",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9035",
+                  "lemma": "נוּ",
+                  "translit": "nu",
+                  "morph": "Op1c",
+                  "gloss": "us Personal object pronoun -  suffix for propositions and verbs without an object: 1st person plural",
+                  "raw": "H9035\tH9035 =\tH9035\tנוּ\tnu\tOp1c\tus\tPersonal object pronoun -  suffix for propositions and verbs without an object: 1st person plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9035=Op1c=us}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#11=L לָֽ/נוּ\\׃ La./nu to/ us H9005/{H9035}\\H9016 HR/Sp1bp H9035 H9005=ל=to/{H9035=Op1c=us}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 21,
           "text": "See, Yahweh your God has set before you the land; go up and possess it as Yahweh the God of your ancestors said to you; do not fear and do not be dismayed.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תֵּחָֽת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "te.Chat",
+                "wordIndex": 2
+              },
+              {
+                "text": "you",
+                "wordIndex": 3
+              },
+              {
+                "text": "be",
+                "wordIndex": 4
+              },
+              {
+                "text": "dismayed",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H2865}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H2865",
+                  "lemma": "חָתַת",
+                  "translit": "cha.tat",
+                  "morph": "H:V",
+                  "gloss": "to to be dismayed 1) to be shattered, be dismayed, be broken, be abolished, be afraid<br>1a) (Qal)<br>1a1) to be shattered, be broken<br>1a2) to be dismayed<br>1b) (Niphal) to be broken, be dismayed<br>1c) (Piel) to be shattered, be dismayed, be scared<br>1d) (Hiphil)<br>1d1) to cause to be dismayed<br>1d2) to dismay, terrify<br>1d3) to shatter",
+                  "raw": "H2865\tH2865 =\tH2865\tחָתַת\tcha.tat\tH:V\tto to be dismayed\t1) to be shattered, be dismayed, be broken, be abolished, be afraid<br>1a) (Qal)<br>1a1) to be shattered, be broken<br>1a2) to be dismayed<br>1b) (Niphal) to be broken, be dismayed<br>1c) (Piel) to be shattered, be dismayed, be scared<br>1d) (Hiphil)<br>1d1) to cause to be dismayed<br>1d2) to dismay, terrify<br>1d3) to shatter"
+                }
+              },
+              {
+                "text": "HVNj2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H2865",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H2865",
+                  "lemma": "חָתַת",
+                  "translit": "cha.tat",
+                  "morph": "H:V",
+                  "gloss": "to to be dismayed 1) to be shattered, be dismayed, be broken, be abolished, be afraid<br>1a) (Qal)<br>1a1) to be shattered, be broken<br>1a2) to be dismayed<br>1b) (Niphal) to be broken, be dismayed<br>1c) (Piel) to be shattered, be dismayed, be scared<br>1d) (Hiphil)<br>1d1) to cause to be dismayed<br>1d2) to dismay, terrify<br>1d3) to shatter",
+                  "raw": "H2865\tH2865 =\tH2865\tחָתַת\tcha.tat\tH:V\tto to be dismayed\t1) to be shattered, be dismayed, be broken, be abolished, be afraid<br>1a) (Qal)<br>1a1) to be shattered, be broken<br>1a2) to be dismayed<br>1b) (Niphal) to be broken, be dismayed<br>1c) (Piel) to be shattered, be dismayed, be scared<br>1d) (Hiphil)<br>1d1) to cause to be dismayed<br>1d2) to dismay, terrify<br>1d3) to shatter"
+                }
+              },
+              {
+                "text": "{H2865=חָתַת=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2865",
+                  "lemma": "חָתַת",
+                  "translit": "cha.tat",
+                  "morph": "H:V",
+                  "gloss": "to to be dismayed 1) to be shattered, be dismayed, be broken, be abolished, be afraid<br>1a) (Qal)<br>1a1) to be shattered, be broken<br>1a2) to be dismayed<br>1b) (Niphal) to be broken, be dismayed<br>1c) (Piel) to be shattered, be dismayed, be scared<br>1d) (Hiphil)<br>1d1) to cause to be dismayed<br>1d2) to dismay, terrify<br>1d3) to shatter",
+                  "raw": "H2865\tH2865 =\tH2865\tחָתַת\tcha.tat\tH:V\tto to be dismayed\t1) to be shattered, be dismayed, be broken, be abolished, be afraid<br>1a) (Qal)<br>1a1) to be shattered, be broken<br>1a2) to be dismayed<br>1b) (Niphal) to be broken, be dismayed<br>1c) (Piel) to be shattered, be dismayed, be scared<br>1d) (Hiphil)<br>1d1) to cause to be dismayed<br>1d2) to dismay, terrify<br>1d3) to shatter"
+                }
+              },
+              {
+                "text": "to",
+                "wordIndex": 10
+              },
+              {
+                "text": "be",
+                "wordIndex": 11
+              },
+              {
+                "text": "dismayed}\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L תֵּחָֽת\\׃ te.Chat you be dismayed {H2865}\\H9016 HVNj2ms H2865 {H2865=חָתַת=to to be dismayed}\\H9016=׃=verseEnd"
+          }
         }
       ],
       "nirv": [
@@ -75,67 +886,878 @@
           "chapter": 1,
           "verse": 11,
           "text": "The Lord is the God of your people. May he increase your numbers a thousand times. May he bless you, just as he promised he would.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H9036}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Sp2mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9036_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9036",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Op2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural",
+                  "raw": "H9036\tH9036 =\tH9036\tכֶם\tkhem\tOp2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#13=L לָ/כֶֽם\\׃ la./Khem to/ you H9005/{H9036}\\H9016 HR/Sp2mp H9036_B H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 12,
           "text": "But I can’t handle your problems and troubles all by myself. I can’t settle your arguments.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/רִֽיבְ/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./Ri.ve./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "dispute[s]/",
+                "wordIndex": 4
+              },
+              {
+                "text": "your",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9002/{H7379}/H9026\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Ncmsc/Sp2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7379",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7379",
+                  "lemma": "רִיב",
+                  "translit": "riv",
+                  "morph": "H:N-M",
+                  "gloss": "strife 1) strife, controversy, dispute<br>1a) strife, quarrel<br>1b) dispute, controversy, case at law",
+                  "raw": "H7379\tH7379 =\tH7379\tרִיב\triv\tH:N-M\tstrife\t1) strife, controversy, dispute<br>1a) strife, quarrel<br>1b) dispute, controversy, case at law"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H7379=רִיב=strife}/H9026=Pp2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L וְ/רִֽיבְ/כֶֽם\\׃ ve./Ri.ve./Khem and/ dispute[s]/ your H9002/{H7379}/H9026\\H9016 HC/Ncmsc/Sp2mp H7379 H9002=ו=and/{H7379=רִיב=strife}/H9026=Pp2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 13,
           "text": "“So choose some wise men from each of your tribes. They must understand how to give good advice. The people must have respect for them. I will appoint those men to have authority over you.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/רָאשֵׁי/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./ra.shei./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "<in>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "chiefs/",
+                "wordIndex": 4
+              },
+              {
+                "text": "your",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H7218H}/H9026\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncmpc/Sp2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7218H",
+                "wordIndex": 8
+              },
+              {
+                "text": "H9003=ב=in/{H7218H=רֹאשׁ=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "leader»head:2_leader}/H9026=Pp2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9026",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Pp2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural",
+                  "raw": "H9026\tH9026 =\tH9026\tכֶם\tkhem\tPp2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L בְּ/רָאשֵׁי/כֶֽם\\׃ be./ra.shei./Khem <in>/ chiefs/ your H9003/{H7218H}/H9026\\H9016 HR/Ncmpc/Sp2mp H7218H H9003=ב=in/{H7218H=רֹאשׁ=: leader»head:2_leader}/H9026=Pp2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 14,
           "text": "You answered me, “Your suggestion is good.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לַ/עֲשֽׂוֹת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./'a.Sot",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "do",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H6213A}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6213A",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9005=ל=to/{H6213A=עָשָׂה=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "do»to",
+                "wordIndex": 9
+              },
+              {
+                "text": "make:2_do;_perform}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L לַ/עֲשֽׂוֹת\\׃ la./'a.Sot to/ do H9005/{H6213A}\\H9016 HR/Vqcc H6213A H9005=ל=to/{H6213A=עָשָׂה=: do»to make:2_do;_perform}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 15,
           "text": "So I took the leading men of your tribes who were wise and respected. I appointed them to have authority over you. I made them commanders of thousands, hundreds, fifties and tens. I appointed them to be officials over the tribes.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/שִׁבְטֵי/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./shiv.tei./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "of/",
+                "wordIndex": 3
+              },
+              {
+                "text": "tribes/",
+                "wordIndex": 4
+              },
+              {
+                "text": "your",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H7626H}/H9026\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmpc/Sp2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H7626H_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H7626",
+                  "lemma": "שֵׁ֫בֶט",
+                  "translit": "she.vet",
+                  "morph": "H:N-M",
+                  "gloss": "tribe: ruler : ruler<br>1) rod, staff, branch, offshoot, club, sceptre, tribe<br>1a) rod, staff<br>1b) shaft (of spear, dart)<br>1c) club (of shepherd's implement)<br>1d) truncheon, sceptre (mark of authority)<br>1e) clan, tribe",
+                  "raw": "H7626\tH7626J = a Meaning of\tH7626H\tשֵׁ֫בֶט\tshe.vet\tH:N-M\ttribe: ruler\t: ruler<br>1) rod, staff, branch, offshoot, club, sceptre, tribe<br>1a) rod, staff<br>1b) shaft (of spear, dart)<br>1c) club (of shepherd's implement)<br>1d) truncheon, sceptre (mark of authority)<br>1e) clan, tribe"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H7626H=שֵׁ֫בֶט=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "tribe»tribe:1_tribe}/H9026=Pp2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9026",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Pp2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural",
+                  "raw": "H9026\tH9026 =\tH9026\tכֶם\tkhem\tPp2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L לְ/שִׁבְטֵי/כֶֽם\\׃ le./shiv.tei./Khem of/ tribes/ your H9005/{H7626H}/H9026\\H9016 HR/Ncmpc/Sp2mp H7626H_B H9005=ל=to/{H7626H=שֵׁ֫בֶט=: tribe»tribe:1_tribe}/H9026=Pp2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 16,
           "text": "Here is what I commanded your judges at that time. I said, “Listen to your people’s cases when they argue with one another. Judge them fairly. It doesn’t matter whether the case is between fellow Israelites or between an Israelite and an outsider.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "גֵּרֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ge.R/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "sojourner/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H1616}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H1616",
+                  "lemma": "גֵּר",
+                  "translit": "ger",
+                  "morph": "H:N-M",
+                  "gloss": "sojourner 1) sojourner<br>1a) a temporary inhabitant, a newcomer lacking inherited rights<br>1b) of foreigners in Israel, though conceded rights",
+                  "raw": "H1616\tH1616 =\tH1616\tגֵּר\tger\tH:N-M\tsojourner\t1) sojourner<br>1a) a temporary inhabitant, a newcomer lacking inherited rights<br>1b) of foreigners in Israel, though conceded rights"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1616",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1616",
+                  "lemma": "גֵּר",
+                  "translit": "ger",
+                  "morph": "H:N-M",
+                  "gloss": "sojourner 1) sojourner<br>1a) a temporary inhabitant, a newcomer lacking inherited rights<br>1b) of foreigners in Israel, though conceded rights",
+                  "raw": "H1616\tH1616 =\tH1616\tגֵּר\tger\tH:N-M\tsojourner\t1) sojourner<br>1a) a temporary inhabitant, a newcomer lacking inherited rights<br>1b) of foreigners in Israel, though conceded rights"
+                }
+              },
+              {
+                "text": "{H1616=גֵּר=sojourner}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1616",
+                  "lemma": "גֵּר",
+                  "translit": "ger",
+                  "morph": "H:N-M",
+                  "gloss": "sojourner 1) sojourner<br>1a) a temporary inhabitant, a newcomer lacking inherited rights<br>1b) of foreigners in Israel, though conceded rights",
+                  "raw": "H1616\tH1616 =\tH1616\tגֵּר\tger\tH:N-M\tsojourner\t1) sojourner<br>1a) a temporary inhabitant, a newcomer lacking inherited rights<br>1b) of foreigners in Israel, though conceded rights"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L גֵּרֽ/וֹ\\׃ ge.R/o sojourner/ his {H1616}/H9023\\H9016 HNcmsc/Sp3ms H1616 {H1616=גֵּר=sojourner}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 17,
           "text": "When you judge them, treat everyone the same. Listen to those who are important and those who are not. Don’t be afraid of any man. God is the highest judge. Bring me any case that is too hard for you. I’ll listen to it.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/שְׁמַעְתִּֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./she.ma'.Ti/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "I",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "hear/",
+                "wordIndex": 6
+              },
+              {
+                "text": "it",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9001/{H8085G}/H9033\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqq1cs/Sp3ms",
+                "wordIndex": 9
+              },
+              {
+                "text": "H8085G_B",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H8085",
+                  "lemma": "שָׁמַע",
+                  "translit": "sha.ma",
+                  "morph": "H:V",
+                  "gloss": "to hear: welcome : welcome<br>v<br>1) to hear, listen to, obey<br>1a) (Qal)<br>1a1) to hear (perceive by ear)<br>1a2) to hear of or concerning<br>1a3) to hear (have power to hear)<br>1a4) to hear with attention or interest, listen to<br>1a5) to understand (language)<br>1a6) to hear (of judicial cases)<br>1a7) to listen, give heed<br>1a7a) to consent, agree<br>1a7b) to grant request<br>1a8) to listen to, yield to<br>1a9) to obey, be obedient<br>1b) (Niphal)<br>1b1) to be heard (of voice or sound)<br>1b2) to be heard of<br>1b3) to be regarded, be obeyed<br>1c) (Piel) to cause to hear, call to hear, summon<br>1d) (Hiphil)<br>1d1) to cause to hear, tell, proclaim, utter a sound<br>1d2) to sound aloud (musical term)<br>1d3) to make proclamation, summon<br>1d4) to cause to be heard<br>n m<br>2) sound",
+                  "raw": "H8085\tH8085L = a Meaning of\tH8085G\tשָׁמַע\tsha.ma\tH:V\tto hear: welcome\t: welcome<br>v<br>1) to hear, listen to, obey<br>1a) (Qal)<br>1a1) to hear (perceive by ear)<br>1a2) to hear of or concerning<br>1a3) to hear (have power to hear)<br>1a4) to hear with attention or interest, listen to<br>1a5) to understand (language)<br>1a6) to hear (of judicial cases)<br>1a7) to listen, give heed<br>1a7a) to consent, agree<br>1a7b) to grant request<br>1a8) to listen to, yield to<br>1a9) to obey, be obedient<br>1b) (Niphal)<br>1b1) to be heard (of voice or sound)<br>1b2) to be heard of<br>1b3) to be regarded, be obeyed<br>1c) (Piel) to cause to hear, call to hear, summon<br>1d) (Hiphil)<br>1d1) to cause to hear, tell, proclaim, utter a sound<br>1d2) to sound aloud (musical term)<br>1d3) to make proclamation, summon<br>1d4) to cause to be heard<br>n m<br>2) sound"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H8085G=שָׁמַע=:",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "hear»to",
+                "wordIndex": 12
+              },
+              {
+                "text": "hear:1_hear}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#22=L וּ/שְׁמַעְתִּֽי/ו\\׃ u./she.ma'.Ti/v and/ I will hear/ it H9001/{H8085G}/H9033\\H9016 Hc/Vqq1cs/Sp3ms H8085G_B H9001=ו=&/{H8085G=שָׁמַע=: hear»to hear:1_hear}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 18,
           "text": "At that time I told you everything you should do.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תַּעֲשֽׂוּ/ן\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ta.'a.Su/n",
+                "wordIndex": 2
+              },
+              {
+                "text": "you",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "do/",
+                "wordIndex": 5
+              },
+              {
+                "text": "!",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6213A}/H9013\\H9016",
+                "wordIndex": 7
+              },
+              {
+                "text": "HVqi2mp/Sn",
+                "wordIndex": 8
+              },
+              {
+                "text": "H6213A",
+                "wordIndex": 9
+              },
+              {
+                "text": "{H6213A=עָשָׂה=:",
+                "wordIndex": 10
+              },
+              {
+                "text": "do»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "make:2_do;_perform}/H9013=נ=emph.\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9013",
+                  "lemma": "ן/",
+                  "translit": "n",
+                  "morph": "Suffix",
+                  "gloss": "[emph.?] Punctuation  nun – paragogic: adds emphasis",
+                  "raw": "H9013\tH9013 =\tH9013\tן/\tn\tSuffix\t[emph.?]\tPunctuation  nun – paragogic: adds emphasis"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L תַּעֲשֽׂוּ/ן\\׃ ta.'a.Su/n you will do/ ! {H6213A}/H9013\\H9016 HVqi2mp/Sn H6213A {H6213A=עָשָׂה=: do»to make:2_do;_perform}/H9013=נ=emph.\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 19,
           "text": "The Lord our God commanded us to start out from Mount Horeb. So we did. We went toward the hill country of the Amorites. We traveled all through the huge and terrible desert you saw. Finally, we reached Kadesh Barnea.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בַּרְנֵֽעַ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "bar.Ne.a'",
+                "wordIndex": 2
+              },
+              {
+                "text": "Barnea",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6947}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6947",
+                  "lemma": "קָדֵשׁ בַּרְנֵעַ",
+                  "translit": "qa.desh bar.ne.a",
+                  "morph": "N:N--L",
+                  "gloss": "Kadesh-barnea Kadesh-barnea = \"holy\"<br>  a city in the extreme south of Judah<br> same as 'Kedesh' and 'Kadesh'<BR>Another name of <i>qa.desh</i> (קָדֵשׁ \"Kadesh\" H6946G)",
+                  "raw": "H6947\tH6947 = a Name of\tH6946G\tקָדֵשׁ בַּרְנֵעַ\tqa.desh bar.ne.a\tN:N--L\tKadesh-barnea\tKadesh-barnea = \"holy\"<br>  a city in the extreme south of Judah<br> same as 'Kedesh' and 'Kadesh'<BR>Another name of <i>qa.desh</i> (קָדֵשׁ \"Kadesh\" H6946G) "
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6947_b",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6947",
+                  "lemma": "קָדֵשׁ בַּרְנֵעַ",
+                  "translit": "qa.desh bar.ne.a",
+                  "morph": "N:N--L",
+                  "gloss": "Kadesh-barnea Kadesh-barnea = \"holy\"<br>  a city in the extreme south of Judah<br> same as 'Kedesh' and 'Kadesh'<BR>Another name of <i>qa.desh</i> (קָדֵשׁ \"Kadesh\" H6946G)",
+                  "raw": "H6947\tH6947 = a Name of\tH6946G\tקָדֵשׁ בַּרְנֵעַ\tqa.desh bar.ne.a\tN:N--L\tKadesh-barnea\tKadesh-barnea = \"holy\"<br>  a city in the extreme south of Judah<br> same as 'Kedesh' and 'Kadesh'<BR>Another name of <i>qa.desh</i> (קָדֵשׁ \"Kadesh\" H6946G) "
+                }
+              },
+              {
+                "text": "{H6947=קָדֵשׁ",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6947",
+                  "lemma": "קָדֵשׁ בַּרְנֵעַ",
+                  "translit": "qa.desh bar.ne.a",
+                  "morph": "N:N--L",
+                  "gloss": "Kadesh-barnea Kadesh-barnea = \"holy\"<br>  a city in the extreme south of Judah<br> same as 'Kedesh' and 'Kadesh'<BR>Another name of <i>qa.desh</i> (קָדֵשׁ \"Kadesh\" H6946G)",
+                  "raw": "H6947\tH6947 = a Name of\tH6946G\tקָדֵשׁ בַּרְנֵעַ\tqa.desh bar.ne.a\tN:N--L\tKadesh-barnea\tKadesh-barnea = \"holy\"<br>  a city in the extreme south of Judah<br> same as 'Kedesh' and 'Kadesh'<BR>Another name of <i>qa.desh</i> (קָדֵשׁ \"Kadesh\" H6946G) "
+                }
+              },
+              {
+                "text": "בַּרְנֵעַ=Kadesh-barnea»Kadesh-barnea@Num.32.8-Psa}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#23=L בַּרְנֵֽעַ\\׃ bar.Ne.a' Barnea {H6947}\\H9016 HNpl H6947_b {H6947=קָדֵשׁ בַּרְנֵעַ=Kadesh-barnea»Kadesh-barnea@Num.32.8-Psa}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 20,
           "text": "Then I said to you, “You have reached the hill country of the Amorites. The Lord our God is giving it to us.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָֽ/נוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "La./nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "us",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H9035}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Sp1bp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9035",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9035",
+                  "lemma": "נוּ",
+                  "translit": "nu",
+                  "morph": "Op1c",
+                  "gloss": "us Personal object pronoun -  suffix for propositions and verbs without an object: 1st person plural",
+                  "raw": "H9035\tH9035 =\tH9035\tנוּ\tnu\tOp1c\tus\tPersonal object pronoun -  suffix for propositions and verbs without an object: 1st person plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9035=Op1c=us}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#11=L לָֽ/נוּ\\׃ La./nu to/ us H9005/{H9035}\\H9016 HR/Sp1bp H9035 H9005=ל=to/{H9035=Op1c=us}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 21,
           "text": "The Lord your God has given you the land. Go up and take it. Do what the Lord says. He’s the God of your people. Don’t be afraid. Don’t lose hope.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תֵּחָֽת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "te.Chat",
+                "wordIndex": 2
+              },
+              {
+                "text": "you",
+                "wordIndex": 3
+              },
+              {
+                "text": "be",
+                "wordIndex": 4
+              },
+              {
+                "text": "dismayed",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H2865}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H2865",
+                  "lemma": "חָתַת",
+                  "translit": "cha.tat",
+                  "morph": "H:V",
+                  "gloss": "to to be dismayed 1) to be shattered, be dismayed, be broken, be abolished, be afraid<br>1a) (Qal)<br>1a1) to be shattered, be broken<br>1a2) to be dismayed<br>1b) (Niphal) to be broken, be dismayed<br>1c) (Piel) to be shattered, be dismayed, be scared<br>1d) (Hiphil)<br>1d1) to cause to be dismayed<br>1d2) to dismay, terrify<br>1d3) to shatter",
+                  "raw": "H2865\tH2865 =\tH2865\tחָתַת\tcha.tat\tH:V\tto to be dismayed\t1) to be shattered, be dismayed, be broken, be abolished, be afraid<br>1a) (Qal)<br>1a1) to be shattered, be broken<br>1a2) to be dismayed<br>1b) (Niphal) to be broken, be dismayed<br>1c) (Piel) to be shattered, be dismayed, be scared<br>1d) (Hiphil)<br>1d1) to cause to be dismayed<br>1d2) to dismay, terrify<br>1d3) to shatter"
+                }
+              },
+              {
+                "text": "HVNj2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H2865",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H2865",
+                  "lemma": "חָתַת",
+                  "translit": "cha.tat",
+                  "morph": "H:V",
+                  "gloss": "to to be dismayed 1) to be shattered, be dismayed, be broken, be abolished, be afraid<br>1a) (Qal)<br>1a1) to be shattered, be broken<br>1a2) to be dismayed<br>1b) (Niphal) to be broken, be dismayed<br>1c) (Piel) to be shattered, be dismayed, be scared<br>1d) (Hiphil)<br>1d1) to cause to be dismayed<br>1d2) to dismay, terrify<br>1d3) to shatter",
+                  "raw": "H2865\tH2865 =\tH2865\tחָתַת\tcha.tat\tH:V\tto to be dismayed\t1) to be shattered, be dismayed, be broken, be abolished, be afraid<br>1a) (Qal)<br>1a1) to be shattered, be broken<br>1a2) to be dismayed<br>1b) (Niphal) to be broken, be dismayed<br>1c) (Piel) to be shattered, be dismayed, be scared<br>1d) (Hiphil)<br>1d1) to cause to be dismayed<br>1d2) to dismay, terrify<br>1d3) to shatter"
+                }
+              },
+              {
+                "text": "{H2865=חָתַת=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2865",
+                  "lemma": "חָתַת",
+                  "translit": "cha.tat",
+                  "morph": "H:V",
+                  "gloss": "to to be dismayed 1) to be shattered, be dismayed, be broken, be abolished, be afraid<br>1a) (Qal)<br>1a1) to be shattered, be broken<br>1a2) to be dismayed<br>1b) (Niphal) to be broken, be dismayed<br>1c) (Piel) to be shattered, be dismayed, be scared<br>1d) (Hiphil)<br>1d1) to cause to be dismayed<br>1d2) to dismay, terrify<br>1d3) to shatter",
+                  "raw": "H2865\tH2865 =\tH2865\tחָתַת\tcha.tat\tH:V\tto to be dismayed\t1) to be shattered, be dismayed, be broken, be abolished, be afraid<br>1a) (Qal)<br>1a1) to be shattered, be broken<br>1a2) to be dismayed<br>1b) (Niphal) to be broken, be dismayed<br>1c) (Piel) to be shattered, be dismayed, be scared<br>1d) (Hiphil)<br>1d1) to cause to be dismayed<br>1d2) to dismay, terrify<br>1d3) to shatter"
+                }
+              },
+              {
+                "text": "to",
+                "wordIndex": 10
+              },
+              {
+                "text": "be",
+                "wordIndex": 11
+              },
+              {
+                "text": "dismayed}\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L תֵּחָֽת\\׃ te.Chat you be dismayed {H2865}\\H9016 HVNj2ms H2865 {H2865=חָתַת=to to be dismayed}\\H9016=׃=verseEnd"
+          }
         }
       ]
     }

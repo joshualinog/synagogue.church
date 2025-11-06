@@ -7,127 +7,1788 @@
           "chapter": 14,
           "verse": 1,
           "text": "“You are children of Yahweh your God; therefore you must not gash yourself, and you must not make your forehead bald for the dead.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/מֵֽת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Met",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "a",
+                "wordIndex": 4
+              },
+              {
+                "text": "dead",
+                "wordIndex": 5
+              },
+              {
+                "text": "[person]",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9005/{H4191}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqrmsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H4191",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4191",
+                  "lemma": "מוּת",
+                  "translit": "mut",
+                  "morph": "H:V",
+                  "gloss": "to die 1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely",
+                  "raw": "H4191\tH4191 =\tH4191\tמוּת\tmut\tH:V\tto die\t1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H4191=מוּת=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "die}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L לָ/מֵֽת\\׃ la./Met to/ a dead [person] H9005/{H4191}\\H9016 HR/Vqrmsa H4191 H9005=ל=to/{H4191=מוּת=to die}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 2,
           "text": "For you are a people holy to Yahweh your God, and you Yahweh has chosen to be a treasured possession from among all of the peoples that are on the surface of the earth.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אֲדָמָֽה\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "ha./'a.da.Mah",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "ground",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H0127I}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H0127I",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0127",
+                  "lemma": "אֲדָמָה",
+                  "translit": "a.da.mah",
+                  "morph": "H:N-F",
+                  "gloss": "land: planet : planet<br>1) ground, land<br>1a) ground (as general, tilled, yielding sustenance)<br>1b) piece of ground, a specific plot of land<br>1c) earth substance (for building or constructing)<br>1d) ground as earth's visible surface<br>1e) land, territory, country<br>1f) whole inhabited earth<br>1g) city in Naphtali",
+                  "raw": "H0127\tH0127I = a Meaning of\tH0127G\tאֲדָמָה\ta.da.mah\tH:N-F\tland: planet\t: planet<br>1) ground, land<br>1a) ground (as general, tilled, yielding sustenance)<br>1b) piece of ground, a specific plot of land<br>1c) earth substance (for building or constructing)<br>1d) ground as earth's visible surface<br>1e) land, territory, country<br>1f) whole inhabited earth<br>1g) city in Naphtali"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0127I=אֲדָמָה=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L הָ/אֲדָמָֽה\\׃\\ \\ס ha./'a.da.Mah the/ ground H9009/{H0127I}\\H9016\\ \\H9018 HTd/Ncfsa H0127I H9009=ה=the/{H0127I=אֲדָמָה=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 14,
           "verse": 3,
           "text": "You shall not eat any detestable thing.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תּוֹעֵבָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "to.'e.Vah",
+                "wordIndex": 2
+              },
+              {
+                "text": "disgusting",
+                "wordIndex": 3
+              },
+              {
+                "text": "thing",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H8441}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H8441",
+                  "lemma": "תּוֹעֵבַה",
+                  "translit": "to.e.vah",
+                  "morph": "H:N-F",
+                  "gloss": "abomination 1) a disgusting thing, abomination, abominable<br>1a) in ritual sense (of unclean food, idols, mixed marriages)<br>1b) in ethical sense (of wickedness etc)",
+                  "raw": "H8441\tH8441 =\tH8441\tתּוֹעֵבַה\tto.e.vah\tH:N-F\tabomination\t1) a disgusting thing, abomination, abominable<br>1a) in ritual sense (of unclean food, idols, mixed marriages)<br>1b) in ethical sense (of wickedness etc)"
+                }
+              },
+              {
+                "text": "HNcfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8441",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8441",
+                  "lemma": "תּוֹעֵבַה",
+                  "translit": "to.e.vah",
+                  "morph": "H:N-F",
+                  "gloss": "abomination 1) a disgusting thing, abomination, abominable<br>1a) in ritual sense (of unclean food, idols, mixed marriages)<br>1b) in ethical sense (of wickedness etc)",
+                  "raw": "H8441\tH8441 =\tH8441\tתּוֹעֵבַה\tto.e.vah\tH:N-F\tabomination\t1) a disgusting thing, abomination, abominable<br>1a) in ritual sense (of unclean food, idols, mixed marriages)<br>1b) in ethical sense (of wickedness etc)"
+                }
+              },
+              {
+                "text": "{H8441=תּוֹעֵבַה=abomination}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H8441",
+                  "lemma": "תּוֹעֵבַה",
+                  "translit": "to.e.vah",
+                  "morph": "H:N-F",
+                  "gloss": "abomination 1) a disgusting thing, abomination, abominable<br>1a) in ritual sense (of unclean food, idols, mixed marriages)<br>1b) in ethical sense (of wickedness etc)",
+                  "raw": "H8441\tH8441 =\tH8441\tתּוֹעֵבַה\tto.e.vah\tH:N-F\tabomination\t1) a disgusting thing, abomination, abominable<br>1a) in ritual sense (of unclean food, idols, mixed marriages)<br>1b) in ethical sense (of wickedness etc)"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L תּוֹעֵבָֽה\\׃ to.'e.Vah disgusting thing {H8441}\\H9016 HNcfsa H8441 {H8441=תּוֹעֵבַה=abomination}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 4,
           "text": "These are the animals you may eat: ox, sheep, goats,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עִזִּֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'i.Zim",
+                "wordIndex": 2
+              },
+              {
+                "text": "goats",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5795}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5795",
+                  "lemma": "עֵז",
+                  "translit": "ez",
+                  "morph": "H:N-F",
+                  "gloss": "goat female goat, she-goat, goat, kid<BR>Aramaic equivalent: <i>ez</i> (עֵז \"goat\" H5796)",
+                  "raw": "H5795\tH5795 =\tH5795\tעֵז\tez\tH:N-F\tgoat\tfemale goat, she-goat, goat, kid<BR>Aramaic equivalent: <i>ez</i> (עֵז \"goat\" H5796)"
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5795",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5795",
+                  "lemma": "עֵז",
+                  "translit": "ez",
+                  "morph": "H:N-F",
+                  "gloss": "goat female goat, she-goat, goat, kid<BR>Aramaic equivalent: <i>ez</i> (עֵז \"goat\" H5796)",
+                  "raw": "H5795\tH5795 =\tH5795\tעֵז\tez\tH:N-F\tgoat\tfemale goat, she-goat, goat, kid<BR>Aramaic equivalent: <i>ez</i> (עֵז \"goat\" H5796)"
+                }
+              },
+              {
+                "text": "{H5795=עֵז=goat}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5795",
+                  "lemma": "עֵז",
+                  "translit": "ez",
+                  "morph": "H:N-F",
+                  "gloss": "goat female goat, she-goat, goat, kid<BR>Aramaic equivalent: <i>ez</i> (עֵז \"goat\" H5796)",
+                  "raw": "H5795\tH5795 =\tH5795\tעֵז\tez\tH:N-F\tgoat\tfemale goat, she-goat, goat, kid<BR>Aramaic equivalent: <i>ez</i> (עֵז \"goat\" H5796)"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L עִזִּֽים\\׃ 'i.Zim goats {H5795}\\H9016 HNcmpa H5795 {H5795=עֵז=goat}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 5,
           "text": "deer, gazelle, roebuck, wild goat, ibex, antelope, and mountain sheep.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וָ/זָֽמֶר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./Za.mer",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "a",
+                "wordIndex": 4
+              },
+              {
+                "text": "mountain",
+                "wordIndex": 5
+              },
+              {
+                "text": "sheep",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/{H2169}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Ncmsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2169",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2169",
+                  "lemma": "זֶ֫מֶר",
+                  "translit": "ze.mer",
+                  "morph": "H:N-M",
+                  "gloss": "mountain goat 1) mountain sheep, mountain goat, moufflon, gazelle, chamois (meaning uncertain)<br>1a) a certain animal allowed as food (specific species uncertain)<br>1b) perhaps an extinct animal, exact meaning unknown",
+                  "raw": "H2169\tH2169 =\tH2169\tזֶ֫מֶר\tze.mer\tH:N-M\tmountain goat\t1) mountain sheep, mountain goat, moufflon, gazelle, chamois (meaning uncertain)<br>1a) a certain animal allowed as food (specific species uncertain)<br>1b) perhaps an extinct animal, exact meaning unknown"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H2169=זֶ֫מֶר=mountain",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "goat}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L וָ/זָֽמֶר\\׃ va./Za.mer and/ a mountain sheep H9002/{H2169}\\H9016 HC/Ncmsa H2169 H9002=ו=and/{H2169=זֶ֫מֶר=mountain goat}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 6,
           "text": "And any animal having a split hoof and so a dividing of the hoof into two parts and that chews the cud among the animals—that animal you may eat.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תֹּאכֵֽלוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "to.Khe.lu",
+                "wordIndex": 2
+              },
+              {
+                "text": "you",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "eat",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H0398}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "HVqi2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0398",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "{H0398=אָכַל=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "eat}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L תֹּאכֵֽלוּ\\׃ to.Khe.lu you will eat {H0398}\\H9016 HVqi2mp H0398 {H0398=אָכַל=to eat}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 7,
           "text": "Only these you may not eat from those chewing the cud and from those having a division of the hoof: the camel and the hare and the coney, because they chew the cud, but they do not divide the hoof; they are therefore unclean for you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#26=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "you",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9036}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9036",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9036",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Op2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural",
+                  "raw": "H9036\tH9036 =\tH9036\tכֶם\tkhem\tOp2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#26=L לָ/כֶֽם\\׃ la./Khem to <the>/ you H9005/{H9036}\\H9016 HRd/Sp2mp H9036 H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 8,
           "text": "And also the pig because it has a division of the hoof but does not chew the cud; it is unclean for you; from their meat you shall not eat, and you shall not touch their carcasses.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תִגָּֽעוּ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "ti.Ga.'u",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "touch",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H5060}\\H9016\\",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5060",
+                  "lemma": "נָגַע",
+                  "translit": "na.ga",
+                  "morph": "H:V",
+                  "gloss": "to touch 1) to touch, reach, strike<br>1a) (Qal)<br>1a1) to touch<br>1a2) to strike<br>1a3) to reach, extend to<br>1a4) to be stricken<br>1a4a) stricken (participle)<br>1b) (Niphal) to be stricken, be defeated<br>1c) (Piel) to strike<br>1d) (Pual) to be stricken (by disease)<br>1e) (Hiphil) to cause to touch, reach, approach, arrive<br>1e1) to cause to touch, apply<br>1e2) to reach, extend, attain, arrive, come<br>1e3) to approach (of time)<br>1e4) to befall (of fate)",
+                  "raw": "H5060\tH5060 =\tH5060\tנָגַע\tna.ga\tH:V\tto touch\t1) to touch, reach, strike<br>1a) (Qal)<br>1a1) to touch<br>1a2) to strike<br>1a3) to reach, extend to<br>1a4) to be stricken<br>1a4a) stricken (participle)<br>1b) (Niphal) to be stricken, be defeated<br>1c) (Piel) to strike<br>1d) (Pual) to be stricken (by disease)<br>1e) (Hiphil) to cause to touch, reach, approach, arrive<br>1e1) to cause to touch, apply<br>1e2) to reach, extend, attain, arrive, come<br>1e3) to approach (of time)<br>1e4) to befall (of fate)"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HVqi2mp",
+                "wordIndex": 9
+              },
+              {
+                "text": "H5060",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H5060",
+                  "lemma": "נָגַע",
+                  "translit": "na.ga",
+                  "morph": "H:V",
+                  "gloss": "to touch 1) to touch, reach, strike<br>1a) (Qal)<br>1a1) to touch<br>1a2) to strike<br>1a3) to reach, extend to<br>1a4) to be stricken<br>1a4a) stricken (participle)<br>1b) (Niphal) to be stricken, be defeated<br>1c) (Piel) to strike<br>1d) (Pual) to be stricken (by disease)<br>1e) (Hiphil) to cause to touch, reach, approach, arrive<br>1e1) to cause to touch, apply<br>1e2) to reach, extend, attain, arrive, come<br>1e3) to approach (of time)<br>1e4) to befall (of fate)",
+                  "raw": "H5060\tH5060 =\tH5060\tנָגַע\tna.ga\tH:V\tto touch\t1) to touch, reach, strike<br>1a) (Qal)<br>1a1) to touch<br>1a2) to strike<br>1a3) to reach, extend to<br>1a4) to be stricken<br>1a4a) stricken (participle)<br>1b) (Niphal) to be stricken, be defeated<br>1c) (Piel) to strike<br>1d) (Pual) to be stricken (by disease)<br>1e) (Hiphil) to cause to touch, reach, approach, arrive<br>1e1) to cause to touch, apply<br>1e2) to reach, extend, attain, arrive, come<br>1e3) to approach (of time)<br>1e4) to befall (of fate)"
+                }
+              },
+              {
+                "text": "{H5060=נָגַע=to",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H5060",
+                  "lemma": "נָגַע",
+                  "translit": "na.ga",
+                  "morph": "H:V",
+                  "gloss": "to touch 1) to touch, reach, strike<br>1a) (Qal)<br>1a1) to touch<br>1a2) to strike<br>1a3) to reach, extend to<br>1a4) to be stricken<br>1a4a) stricken (participle)<br>1b) (Niphal) to be stricken, be defeated<br>1c) (Piel) to strike<br>1d) (Pual) to be stricken (by disease)<br>1e) (Hiphil) to cause to touch, reach, approach, arrive<br>1e1) to cause to touch, apply<br>1e2) to reach, extend, attain, arrive, come<br>1e3) to approach (of time)<br>1e4) to befall (of fate)",
+                  "raw": "H5060\tH5060 =\tH5060\tנָגַע\tna.ga\tH:V\tto touch\t1) to touch, reach, strike<br>1a) (Qal)<br>1a1) to touch<br>1a2) to strike<br>1a3) to reach, extend to<br>1a4) to be stricken<br>1a4a) stricken (participle)<br>1b) (Niphal) to be stricken, be defeated<br>1c) (Piel) to strike<br>1d) (Pual) to be stricken (by disease)<br>1e) (Hiphil) to cause to touch, reach, approach, arrive<br>1e1) to cause to touch, apply<br>1e2) to reach, extend, attain, arrive, come<br>1e3) to approach (of time)<br>1e4) to befall (of fate)"
+                }
+              },
+              {
+                "text": "touch}\\H9016=׃=verseEnd\\",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L תִגָּֽעוּ\\׃\\ \\ס ti.Ga.'u you will touch {H5060}\\H9016\\ \\H9018 HVqi2mp H5060 {H5060=נָגַע=to touch}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 14,
           "verse": 9,
           "text": "“This is what you shall eat from all that is in the water: everything that has fins and scales you may eat.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תֹּאכֵֽלוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "to.Khe.lu",
+                "wordIndex": 2
+              },
+              {
+                "text": "you",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "eat",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H0398}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "HVqi2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0398_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "{H0398=אָכַל=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "eat}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L תֹּאכֵֽלוּ\\׃ to.Khe.lu you will eat {H0398}\\H9016 HVqi2mp H0398_B {H0398=אָכַל=to eat}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 10,
           "text": "But anything that does not have fins and scales, you may not eat, for it is unclean for you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/כֶֽם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "la./Khem",
+                "wordIndex": 3
+              },
+              {
+                "text": "to",
+                "wordIndex": 4
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 5
+              },
+              {
+                "text": "you",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9005/{H9036}\\H9016\\",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HRd/Sp2mp",
+                "wordIndex": 9
+              },
+              {
+                "text": "H9036",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9036",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Op2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural",
+                  "raw": "H9036\tH9036 =\tH9036\tכֶם\tkhem\tOp2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L לָ/כֶֽם\\׃\\ \\ס la./Khem to <the>/ you H9005/{H9036}\\H9016\\ \\H9018 HRd/Sp2mp H9036 H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 14,
           "verse": 11,
           "text": "“All of the birds that are clean you may eat.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תֹּאכֵֽלוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "to.Khe.lu",
+                "wordIndex": 2
+              },
+              {
+                "text": "you",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "eat",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H0398}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "HVqi2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0398",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "{H0398=אָכַל=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "eat}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L תֹּאכֵֽלוּ\\׃ to.Khe.lu you will eat {H0398}\\H9016 HVqi2mp H0398 {H0398=אָכַל=to eat}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 12,
           "text": "Now these are the ones you shall not eat any of them: the eagle and the vulture and the short-toed eagle,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/הָֽ/עָזְנִיָּֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./Ha./'a.ze.ni.Yah",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "osprey",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9002/H9009/{H5822}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Td/Ncfsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5822",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H5822",
+                  "lemma": "עׇזְנִיָּה",
+                  "translit": "oz.niy.yah",
+                  "morph": "H:N-F",
+                  "gloss": "vulture 1) an unclean bird of prey<br>1a) osprey, black eagle, buzzard<br>1b) perhaps an extinct bird, exact meaning unknown",
+                  "raw": "H5822\tH5822 =\tH5822\tעׇזְנִיָּה\toz.niy.yah\tH:N-F\tvulture\t1) an unclean bird of prey<br>1a) osprey, black eagle, buzzard<br>1b) perhaps an extinct bird, exact meaning unknown"
+                }
+              },
+              {
+                "text": "H9002=ו=and/H9009=ה=the/{H5822=עׇזְנִיָּה=vulture}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L וְ/הָֽ/עָזְנִיָּֽה\\׃ ve./Ha./'a.ze.ni.Yah and/ the/ osprey H9002/H9009/{H5822}\\H9016 HC/Td/Ncfsa H5822 H9002=ו=and/H9009=ה=the/{H5822=עׇזְנִיָּה=vulture}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 13,
           "text": "and the red kite and the black kite or any kind of falcon,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/מִינָֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./mi.Na/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "kind/",
+                "wordIndex": 4
+              },
+              {
+                "text": "its",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H4327}/H9024\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3fs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4327",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4327",
+                  "lemma": "מִין",
+                  "translit": "min",
+                  "morph": "H:N-M",
+                  "gloss": "kind kind, sometimes a species (usually of animals)",
+                  "raw": "H4327\tH4327 =\tH4327\tמִין\tmin\tH:N-M\tkind\tkind, sometimes a species (usually of animals)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H4327=מִין=kind}/H9024=Ps3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#05=L לְ/מִינָֽ/הּ\\׃ le./mi.Na/h to/ kind/ its H9005/{H4327}/H9024\\H9016 HR/Ncmsc/Sp3fs H4327 H9005=ל=to/{H4327=מִין=kind}/H9024=Ps3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 14,
           "text": "and any kind of crow according to its kind,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/מִינֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./mi.N/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "kind/",
+                "wordIndex": 4
+              },
+              {
+                "text": "its",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H4327}/H9023\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4327",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4327",
+                  "lemma": "מִין",
+                  "translit": "min",
+                  "morph": "H:N-M",
+                  "gloss": "kind kind, sometimes a species (usually of animals)",
+                  "raw": "H4327\tH4327 =\tH4327\tמִין\tmin\tH:N-M\tkind\tkind, sometimes a species (usually of animals)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H4327=מִין=kind}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#04=L לְ/מִינֽ/וֹ\\׃ le./mi.N/o to/ kind/ its H9005/{H4327}/H9023\\H9016 HR/Ncmsc/Sp3ms H4327 H9005=ל=to/{H4327=מִין=kind}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 15,
           "text": "and the ostrich and the short-eared owl and the seagull and the hawk according to its kind,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/מִינֵֽ/הוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./mi.Ne./hu",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "kind/",
+                "wordIndex": 4
+              },
+              {
+                "text": "its",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H4327}/H9023\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4327",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4327",
+                  "lemma": "מִין",
+                  "translit": "min",
+                  "morph": "H:N-M",
+                  "gloss": "kind kind, sometimes a species (usually of animals)",
+                  "raw": "H4327\tH4327 =\tH4327\tמִין\tmin\tH:N-M\tkind\tkind, sometimes a species (usually of animals)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H4327=מִין=kind}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#10=L לְ/מִינֵֽ/הוּ\\׃ le./mi.Ne./hu to/ kind/ its H9005/{H4327}/H9023\\H9016 HR/Ncmsc/Sp3ms H4327 H9005=ל=to/{H4327=מִין=kind}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 16,
           "text": "the little owl and the great owl and the barn owl,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/הַ/תִּנְשָֽׁמֶת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./ha./tin.Sha.met",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "barn",
+                "wordIndex": 5
+              },
+              {
+                "text": "owl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/H9009/{H8580}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Td/Ncfsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H8580",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H8580",
+                  "lemma": "תִּנְשֶׁ֫מֶת",
+                  "translit": "tan.she.met",
+                  "morph": "H:N-F",
+                  "gloss": "chameleon 1) an unclean animal of some kind<br>1a) an unclean bird<br>1a1) perhaps the ibis, water-hen, species of owl, barn owl<br>1b) an unclean lizard<br>1b1) perhaps the chameleon<br>1c) perhaps an extinct lizard or bird, exact meaning unknown",
+                  "raw": "H8580\tH8580 =\tH8580\tתִּנְשֶׁ֫מֶת\ttan.she.met\tH:N-F\tchameleon\t1) an unclean animal of some kind<br>1a) an unclean bird<br>1a1) perhaps the ibis, water-hen, species of owl, barn owl<br>1b) an unclean lizard<br>1b1) perhaps the chameleon<br>1c) perhaps an extinct lizard or bird, exact meaning unknown"
+                }
+              },
+              {
+                "text": "H9002=ו=and/H9009=ה=the/{H8580=תִּנְשֶׁ֫מֶת=chameleon}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L וְ/הַ/תִּנְשָֽׁמֶת\\׃ ve./ha./tin.Sha.met and/ the/ barn owl H9002/H9009/{H8580}\\H9016 HC/Td/Ncfsa H8580 H9002=ו=and/H9009=ה=the/{H8580=תִּנְשֶׁ֫מֶת=chameleon}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 17,
           "text": "and the desert owl and the carrion vulture and the cormorant,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/שָּׁלָֽךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./sha.Lakh",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "cormorant",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H7994}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7994",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7994",
+                  "lemma": "שָׁלָךְ",
+                  "translit": "sha.lakh",
+                  "morph": "H:N-M",
+                  "gloss": "cormorant 1) bird of prey<br>1a) probably the cormorant",
+                  "raw": "H7994\tH7994 =\tH7994\tשָׁלָךְ\tsha.lakh\tH:N-M\tcormorant\t1) bird of prey<br>1a) probably the cormorant"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H7994=שָׁלָךְ=cormorant}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L הַ/שָּׁלָֽךְ\\׃ ha./sha.Lakh the/ cormorant H9009/{H7994}\\H9016 HTd/Ncmsa H7994 H9009=ה=the/{H7994=שָׁלָךְ=cormorant}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 18,
           "text": "and the stork and the heron according to its kind and the hoopoe and the bat.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/הָ/עֲטַלֵּֽף\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./ha./'a.ta.Lef",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "bat",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9002/H9009/{H5847}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Td/Ncmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5847",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H5847",
+                  "lemma": "עֲטַלֵּף",
+                  "translit": "a.tal.leph",
+                  "morph": "H:N-M",
+                  "gloss": "bat bat",
+                  "raw": "H5847\tH5847 =\tH5847\tעֲטַלֵּף\ta.tal.leph\tH:N-M\tbat\tbat"
+                }
+              },
+              {
+                "text": "H9002=ו=and/H9009=ה=the/{H5847=עֲטַלֵּף=bat}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L וְ/הָ/עֲטַלֵּֽף\\׃ ve./ha./'a.ta.Lef and/ the/ bat H9002/H9009/{H5847}\\H9016 HC/Td/Ncmsa H5847 H9002=ו=and/H9009=ה=the/{H5847=עֲטַלֵּף=bat}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 19,
           "text": "And also all of the winged insects; they are unclean for you; you shall not eat them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יֵאָכֵֽלוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ye.'a.Khe.lu",
+                "wordIndex": 2
+              },
+              {
+                "text": "they",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "be",
+                "wordIndex": 5
+              },
+              {
+                "text": "eaten",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H0398}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "HVNi3mp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H0398",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "{H0398=אָכַל=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "eat}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L יֵאָכֵֽלוּ\\׃ ye.'a.Khe.lu they will be eaten {H0398}\\H9016 HVNi3mp H0398 {H0398=אָכַל=to eat}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 20,
           "text": "You may eat any clean bird.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תֹּאכֵֽלוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "to.Khe.lu",
+                "wordIndex": 2
+              },
+              {
+                "text": "you",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "eat",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H0398}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "HVqi2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0398",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "{H0398=אָכַל=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "eat}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L תֹּאכֵֽלוּ\\׃ to.Khe.lu you will eat {H0398}\\H9016 HVqi2mp H0398 {H0398=אָכַל=to eat}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 21,
           "text": "“You shall not eat any carcass; you may give it to the alien who is in your towns, and he may eat it, or you may sell it to a foreigner, for you are a holy people for Yahweh your God; you may not boil a kid in its mother’s milk.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אִמּֽ/וֹ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "'i.M/o",
+                "wordIndex": 3
+              },
+              {
+                "text": "mother/",
+                "wordIndex": 4
+              },
+              {
+                "text": "its",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H0517}/H9023\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0517",
+                  "lemma": "אֵם",
+                  "translit": "em",
+                  "morph": "H:N-F",
+                  "gloss": "mother 1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division",
+                  "raw": "H0517\tH0517 =\tH0517\tאֵם\tem\tH:N-F\tmother\t1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNcfsc/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H0517",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0517",
+                  "lemma": "אֵם",
+                  "translit": "em",
+                  "morph": "H:N-F",
+                  "gloss": "mother 1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division",
+                  "raw": "H0517\tH0517 =\tH0517\tאֵם\tem\tH:N-F\tmother\t1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division"
+                }
+              },
+              {
+                "text": "{H0517=אֵם=mother}/H9023=Ps3m=his\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H0517",
+                  "lemma": "אֵם",
+                  "translit": "em",
+                  "morph": "H:N-F",
+                  "gloss": "mother 1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division",
+                  "raw": "H0517\tH0517 =\tH0517\tאֵם\tem\tH:N-F\tmother\t1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#23=L אִמּֽ/וֹ\\׃\\ \\פ 'i.M/o mother/ its {H0517}/H9023\\H9016\\ \\H9017 HNcfsc/Sp3ms H0517 {H0517=אֵם=mother}/H9023=Ps3m=his\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ],
       "nirv": [
@@ -135,127 +1796,1788 @@
           "chapter": 14,
           "verse": 1,
           "text": "You are the children of the Lord your God. Don’t cut yourselves to honor the dead. Don’t shave the front of your heads to honor them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/מֵֽת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Met",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "a",
+                "wordIndex": 4
+              },
+              {
+                "text": "dead",
+                "wordIndex": 5
+              },
+              {
+                "text": "[person]",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9005/{H4191}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqrmsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H4191",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4191",
+                  "lemma": "מוּת",
+                  "translit": "mut",
+                  "morph": "H:V",
+                  "gloss": "to die 1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely",
+                  "raw": "H4191\tH4191 =\tH4191\tמוּת\tmut\tH:V\tto die\t1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2) to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4) to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill, put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1) to be killed, be put to death<br>1d1a) to die prematurely"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H4191=מוּת=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "die}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L לָ/מֵֽת\\׃ la./Met to/ a dead [person] H9005/{H4191}\\H9016 HR/Vqrmsa H4191 H9005=ל=to/{H4191=מוּת=to die}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 2,
           "text": "You are a holy nation. The Lord your God has set you apart for himself. He has chosen you to be his special treasure. He chose you out of all of the nations on the face of the earth.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אֲדָמָֽה\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "ha./'a.da.Mah",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "ground",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H0127I}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H0127I",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0127",
+                  "lemma": "אֲדָמָה",
+                  "translit": "a.da.mah",
+                  "morph": "H:N-F",
+                  "gloss": "land: planet : planet<br>1) ground, land<br>1a) ground (as general, tilled, yielding sustenance)<br>1b) piece of ground, a specific plot of land<br>1c) earth substance (for building or constructing)<br>1d) ground as earth's visible surface<br>1e) land, territory, country<br>1f) whole inhabited earth<br>1g) city in Naphtali",
+                  "raw": "H0127\tH0127I = a Meaning of\tH0127G\tאֲדָמָה\ta.da.mah\tH:N-F\tland: planet\t: planet<br>1) ground, land<br>1a) ground (as general, tilled, yielding sustenance)<br>1b) piece of ground, a specific plot of land<br>1c) earth substance (for building or constructing)<br>1d) ground as earth's visible surface<br>1e) land, territory, country<br>1f) whole inhabited earth<br>1g) city in Naphtali"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0127I=אֲדָמָה=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L הָ/אֲדָמָֽה\\׃\\ \\ס ha./'a.da.Mah the/ ground H9009/{H0127I}\\H9016\\ \\H9018 HTd/Ncfsa H0127I H9009=ה=the/{H0127I=אֲדָמָה=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 14,
           "verse": 3,
           "text": "Don’t eat anything the Lord hates.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תּוֹעֵבָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "to.'e.Vah",
+                "wordIndex": 2
+              },
+              {
+                "text": "disgusting",
+                "wordIndex": 3
+              },
+              {
+                "text": "thing",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H8441}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H8441",
+                  "lemma": "תּוֹעֵבַה",
+                  "translit": "to.e.vah",
+                  "morph": "H:N-F",
+                  "gloss": "abomination 1) a disgusting thing, abomination, abominable<br>1a) in ritual sense (of unclean food, idols, mixed marriages)<br>1b) in ethical sense (of wickedness etc)",
+                  "raw": "H8441\tH8441 =\tH8441\tתּוֹעֵבַה\tto.e.vah\tH:N-F\tabomination\t1) a disgusting thing, abomination, abominable<br>1a) in ritual sense (of unclean food, idols, mixed marriages)<br>1b) in ethical sense (of wickedness etc)"
+                }
+              },
+              {
+                "text": "HNcfsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H8441",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H8441",
+                  "lemma": "תּוֹעֵבַה",
+                  "translit": "to.e.vah",
+                  "morph": "H:N-F",
+                  "gloss": "abomination 1) a disgusting thing, abomination, abominable<br>1a) in ritual sense (of unclean food, idols, mixed marriages)<br>1b) in ethical sense (of wickedness etc)",
+                  "raw": "H8441\tH8441 =\tH8441\tתּוֹעֵבַה\tto.e.vah\tH:N-F\tabomination\t1) a disgusting thing, abomination, abominable<br>1a) in ritual sense (of unclean food, idols, mixed marriages)<br>1b) in ethical sense (of wickedness etc)"
+                }
+              },
+              {
+                "text": "{H8441=תּוֹעֵבַה=abomination}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H8441",
+                  "lemma": "תּוֹעֵבַה",
+                  "translit": "to.e.vah",
+                  "morph": "H:N-F",
+                  "gloss": "abomination 1) a disgusting thing, abomination, abominable<br>1a) in ritual sense (of unclean food, idols, mixed marriages)<br>1b) in ethical sense (of wickedness etc)",
+                  "raw": "H8441\tH8441 =\tH8441\tתּוֹעֵבַה\tto.e.vah\tH:N-F\tabomination\t1) a disgusting thing, abomination, abominable<br>1a) in ritual sense (of unclean food, idols, mixed marriages)<br>1b) in ethical sense (of wickedness etc)"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L תּוֹעֵבָֽה\\׃ to.'e.Vah disgusting thing {H8441}\\H9016 HNcfsa H8441 {H8441=תּוֹעֵבַה=abomination}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 4,
           "text": "Here are the only animals you can eat. You can eat oxen, sheep, goats,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עִזִּֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'i.Zim",
+                "wordIndex": 2
+              },
+              {
+                "text": "goats",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5795}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5795",
+                  "lemma": "עֵז",
+                  "translit": "ez",
+                  "morph": "H:N-F",
+                  "gloss": "goat female goat, she-goat, goat, kid<BR>Aramaic equivalent: <i>ez</i> (עֵז \"goat\" H5796)",
+                  "raw": "H5795\tH5795 =\tH5795\tעֵז\tez\tH:N-F\tgoat\tfemale goat, she-goat, goat, kid<BR>Aramaic equivalent: <i>ez</i> (עֵז \"goat\" H5796)"
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5795",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5795",
+                  "lemma": "עֵז",
+                  "translit": "ez",
+                  "morph": "H:N-F",
+                  "gloss": "goat female goat, she-goat, goat, kid<BR>Aramaic equivalent: <i>ez</i> (עֵז \"goat\" H5796)",
+                  "raw": "H5795\tH5795 =\tH5795\tעֵז\tez\tH:N-F\tgoat\tfemale goat, she-goat, goat, kid<BR>Aramaic equivalent: <i>ez</i> (עֵז \"goat\" H5796)"
+                }
+              },
+              {
+                "text": "{H5795=עֵז=goat}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5795",
+                  "lemma": "עֵז",
+                  "translit": "ez",
+                  "morph": "H:N-F",
+                  "gloss": "goat female goat, she-goat, goat, kid<BR>Aramaic equivalent: <i>ez</i> (עֵז \"goat\" H5796)",
+                  "raw": "H5795\tH5795 =\tH5795\tעֵז\tez\tH:N-F\tgoat\tfemale goat, she-goat, goat, kid<BR>Aramaic equivalent: <i>ez</i> (עֵז \"goat\" H5796)"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L עִזִּֽים\\׃ 'i.Zim goats {H5795}\\H9016 HNcmpa H5795 {H5795=עֵז=goat}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 5,
           "text": "deer, gazelles, roe deer, wild goats, ibexes, antelope and mountain sheep.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וָ/זָֽמֶר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./Za.mer",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "a",
+                "wordIndex": 4
+              },
+              {
+                "text": "mountain",
+                "wordIndex": 5
+              },
+              {
+                "text": "sheep",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/{H2169}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Ncmsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2169",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2169",
+                  "lemma": "זֶ֫מֶר",
+                  "translit": "ze.mer",
+                  "morph": "H:N-M",
+                  "gloss": "mountain goat 1) mountain sheep, mountain goat, moufflon, gazelle, chamois (meaning uncertain)<br>1a) a certain animal allowed as food (specific species uncertain)<br>1b) perhaps an extinct animal, exact meaning unknown",
+                  "raw": "H2169\tH2169 =\tH2169\tזֶ֫מֶר\tze.mer\tH:N-M\tmountain goat\t1) mountain sheep, mountain goat, moufflon, gazelle, chamois (meaning uncertain)<br>1a) a certain animal allowed as food (specific species uncertain)<br>1b) perhaps an extinct animal, exact meaning unknown"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H2169=זֶ֫מֶר=mountain",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "goat}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L וָ/זָֽמֶר\\׃ va./Za.mer and/ a mountain sheep H9002/{H2169}\\H9016 HC/Ncmsa H2169 H9002=ו=and/{H2169=זֶ֫מֶר=mountain goat}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 6,
           "text": "You can eat any animal that has hoofs that are separated completely in two. But it must also chew the cud.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תֹּאכֵֽלוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "to.Khe.lu",
+                "wordIndex": 2
+              },
+              {
+                "text": "you",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "eat",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H0398}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "HVqi2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0398",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "{H0398=אָכַל=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "eat}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L תֹּאכֵֽלוּ\\׃ to.Khe.lu you will eat {H0398}\\H9016 HVqi2mp H0398 {H0398=אָכַל=to eat}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 7,
           "text": "Some animals only chew the cud. Others only have hoofs that are completely separated in two. The camel, rabbit and rock badger chew the cud, but they don’t have hoofs that are completely separated. So you can’t eat them. They are not “clean” for you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#26=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "you",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9036}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9036",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9036",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Op2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural",
+                  "raw": "H9036\tH9036 =\tH9036\tכֶם\tkhem\tOp2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#26=L לָ/כֶֽם\\׃ la./Khem to <the>/ you H9005/{H9036}\\H9016 HRd/Sp2mp H9036 H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 8,
           "text": "Pigs aren’t “clean” for you either. They have hoofs that are completely separated, but they don’t chew the cud. So don’t eat their meat. And don’t touch their dead bodies.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תִגָּֽעוּ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "ti.Ga.'u",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "touch",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H5060}\\H9016\\",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5060",
+                  "lemma": "נָגַע",
+                  "translit": "na.ga",
+                  "morph": "H:V",
+                  "gloss": "to touch 1) to touch, reach, strike<br>1a) (Qal)<br>1a1) to touch<br>1a2) to strike<br>1a3) to reach, extend to<br>1a4) to be stricken<br>1a4a) stricken (participle)<br>1b) (Niphal) to be stricken, be defeated<br>1c) (Piel) to strike<br>1d) (Pual) to be stricken (by disease)<br>1e) (Hiphil) to cause to touch, reach, approach, arrive<br>1e1) to cause to touch, apply<br>1e2) to reach, extend, attain, arrive, come<br>1e3) to approach (of time)<br>1e4) to befall (of fate)",
+                  "raw": "H5060\tH5060 =\tH5060\tנָגַע\tna.ga\tH:V\tto touch\t1) to touch, reach, strike<br>1a) (Qal)<br>1a1) to touch<br>1a2) to strike<br>1a3) to reach, extend to<br>1a4) to be stricken<br>1a4a) stricken (participle)<br>1b) (Niphal) to be stricken, be defeated<br>1c) (Piel) to strike<br>1d) (Pual) to be stricken (by disease)<br>1e) (Hiphil) to cause to touch, reach, approach, arrive<br>1e1) to cause to touch, apply<br>1e2) to reach, extend, attain, arrive, come<br>1e3) to approach (of time)<br>1e4) to befall (of fate)"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HVqi2mp",
+                "wordIndex": 9
+              },
+              {
+                "text": "H5060",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H5060",
+                  "lemma": "נָגַע",
+                  "translit": "na.ga",
+                  "morph": "H:V",
+                  "gloss": "to touch 1) to touch, reach, strike<br>1a) (Qal)<br>1a1) to touch<br>1a2) to strike<br>1a3) to reach, extend to<br>1a4) to be stricken<br>1a4a) stricken (participle)<br>1b) (Niphal) to be stricken, be defeated<br>1c) (Piel) to strike<br>1d) (Pual) to be stricken (by disease)<br>1e) (Hiphil) to cause to touch, reach, approach, arrive<br>1e1) to cause to touch, apply<br>1e2) to reach, extend, attain, arrive, come<br>1e3) to approach (of time)<br>1e4) to befall (of fate)",
+                  "raw": "H5060\tH5060 =\tH5060\tנָגַע\tna.ga\tH:V\tto touch\t1) to touch, reach, strike<br>1a) (Qal)<br>1a1) to touch<br>1a2) to strike<br>1a3) to reach, extend to<br>1a4) to be stricken<br>1a4a) stricken (participle)<br>1b) (Niphal) to be stricken, be defeated<br>1c) (Piel) to strike<br>1d) (Pual) to be stricken (by disease)<br>1e) (Hiphil) to cause to touch, reach, approach, arrive<br>1e1) to cause to touch, apply<br>1e2) to reach, extend, attain, arrive, come<br>1e3) to approach (of time)<br>1e4) to befall (of fate)"
+                }
+              },
+              {
+                "text": "{H5060=נָגַע=to",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H5060",
+                  "lemma": "נָגַע",
+                  "translit": "na.ga",
+                  "morph": "H:V",
+                  "gloss": "to touch 1) to touch, reach, strike<br>1a) (Qal)<br>1a1) to touch<br>1a2) to strike<br>1a3) to reach, extend to<br>1a4) to be stricken<br>1a4a) stricken (participle)<br>1b) (Niphal) to be stricken, be defeated<br>1c) (Piel) to strike<br>1d) (Pual) to be stricken (by disease)<br>1e) (Hiphil) to cause to touch, reach, approach, arrive<br>1e1) to cause to touch, apply<br>1e2) to reach, extend, attain, arrive, come<br>1e3) to approach (of time)<br>1e4) to befall (of fate)",
+                  "raw": "H5060\tH5060 =\tH5060\tנָגַע\tna.ga\tH:V\tto touch\t1) to touch, reach, strike<br>1a) (Qal)<br>1a1) to touch<br>1a2) to strike<br>1a3) to reach, extend to<br>1a4) to be stricken<br>1a4a) stricken (participle)<br>1b) (Niphal) to be stricken, be defeated<br>1c) (Piel) to strike<br>1d) (Pual) to be stricken (by disease)<br>1e) (Hiphil) to cause to touch, reach, approach, arrive<br>1e1) to cause to touch, apply<br>1e2) to reach, extend, attain, arrive, come<br>1e3) to approach (of time)<br>1e4) to befall (of fate)"
+                }
+              },
+              {
+                "text": "touch}\\H9016=׃=verseEnd\\",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L תִגָּֽעוּ\\׃\\ \\ס ti.Ga.'u you will touch {H5060}\\H9016\\ \\H9018 HVqi2mp H5060 {H5060=נָגַע=to touch}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 14,
           "verse": 9,
           "text": "Many creatures live in water. You can eat all of the ones that have fins and scales.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תֹּאכֵֽלוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "to.Khe.lu",
+                "wordIndex": 2
+              },
+              {
+                "text": "you",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "eat",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H0398}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "HVqi2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0398_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "{H0398=אָכַל=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "eat}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L תֹּאכֵֽלוּ\\׃ to.Khe.lu you will eat {H0398}\\H9016 HVqi2mp H0398_B {H0398=אָכַל=to eat}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 10,
           "text": "But don’t eat anything that doesn’t have fins and scales. It isn’t “clean” for you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/כֶֽם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "la./Khem",
+                "wordIndex": 3
+              },
+              {
+                "text": "to",
+                "wordIndex": 4
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 5
+              },
+              {
+                "text": "you",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9005/{H9036}\\H9016\\",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HRd/Sp2mp",
+                "wordIndex": 9
+              },
+              {
+                "text": "H9036",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9036",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Op2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural",
+                  "raw": "H9036\tH9036 =\tH9036\tכֶם\tkhem\tOp2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L לָ/כֶֽם\\׃\\ \\ס la./Khem to <the>/ you H9005/{H9036}\\H9016\\ \\H9018 HRd/Sp2mp H9036 H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 14,
           "verse": 11,
           "text": "You can eat any “clean” bird.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תֹּאכֵֽלוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "to.Khe.lu",
+                "wordIndex": 2
+              },
+              {
+                "text": "you",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "eat",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H0398}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "HVqi2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0398",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "{H0398=אָכַל=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "eat}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L תֹּאכֵֽלוּ\\׃ to.Khe.lu you will eat {H0398}\\H9016 HVqi2mp H0398 {H0398=אָכַל=to eat}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 12,
           "text": "But there are many birds you can’t eat. They include eagles, vultures, and black vultures.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/הָֽ/עָזְנִיָּֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./Ha./'a.ze.ni.Yah",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "osprey",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9002/H9009/{H5822}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Td/Ncfsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5822",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H5822",
+                  "lemma": "עׇזְנִיָּה",
+                  "translit": "oz.niy.yah",
+                  "morph": "H:N-F",
+                  "gloss": "vulture 1) an unclean bird of prey<br>1a) osprey, black eagle, buzzard<br>1b) perhaps an extinct bird, exact meaning unknown",
+                  "raw": "H5822\tH5822 =\tH5822\tעׇזְנִיָּה\toz.niy.yah\tH:N-F\tvulture\t1) an unclean bird of prey<br>1a) osprey, black eagle, buzzard<br>1b) perhaps an extinct bird, exact meaning unknown"
+                }
+              },
+              {
+                "text": "H9002=ו=and/H9009=ה=the/{H5822=עׇזְנִיָּה=vulture}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L וְ/הָֽ/עָזְנִיָּֽה\\׃ ve./Ha./'a.ze.ni.Yah and/ the/ osprey H9002/H9009/{H5822}\\H9016 HC/Td/Ncfsa H5822 H9002=ו=and/H9009=ה=the/{H5822=עׇזְנִיָּה=vulture}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 13,
           "text": "They include red kites, black kites and all kinds of falcons.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/מִינָֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./mi.Na/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "kind/",
+                "wordIndex": 4
+              },
+              {
+                "text": "its",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H4327}/H9024\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3fs",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4327",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4327",
+                  "lemma": "מִין",
+                  "translit": "min",
+                  "morph": "H:N-M",
+                  "gloss": "kind kind, sometimes a species (usually of animals)",
+                  "raw": "H4327\tH4327 =\tH4327\tמִין\tmin\tH:N-M\tkind\tkind, sometimes a species (usually of animals)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H4327=מִין=kind}/H9024=Ps3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#05=L לְ/מִינָֽ/הּ\\׃ le./mi.Na/h to/ kind/ its H9005/{H4327}/H9024\\H9016 HR/Ncmsc/Sp3fs H4327 H9005=ל=to/{H4327=מִין=kind}/H9024=Ps3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 14,
           "text": "They include all kinds of ravens.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/מִינֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./mi.N/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "kind/",
+                "wordIndex": 4
+              },
+              {
+                "text": "its",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H4327}/H9023\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4327",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4327",
+                  "lemma": "מִין",
+                  "translit": "min",
+                  "morph": "H:N-M",
+                  "gloss": "kind kind, sometimes a species (usually of animals)",
+                  "raw": "H4327\tH4327 =\tH4327\tמִין\tmin\tH:N-M\tkind\tkind, sometimes a species (usually of animals)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H4327=מִין=kind}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#04=L לְ/מִינֽ/וֹ\\׃ le./mi.N/o to/ kind/ its H9005/{H4327}/H9023\\H9016 HR/Ncmsc/Sp3ms H4327 H9005=ל=to/{H4327=מִין=kind}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 15,
           "text": "They include horned owls, screech owls, gulls and all kinds of hawks.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/מִינֵֽ/הוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./mi.Ne./hu",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "kind/",
+                "wordIndex": 4
+              },
+              {
+                "text": "its",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H4327}/H9023\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4327",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4327",
+                  "lemma": "מִין",
+                  "translit": "min",
+                  "morph": "H:N-M",
+                  "gloss": "kind kind, sometimes a species (usually of animals)",
+                  "raw": "H4327\tH4327 =\tH4327\tמִין\tmin\tH:N-M\tkind\tkind, sometimes a species (usually of animals)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H4327=מִין=kind}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#10=L לְ/מִינֵֽ/הוּ\\׃ le./mi.Ne./hu to/ kind/ its H9005/{H4327}/H9023\\H9016 HR/Ncmsc/Sp3ms H4327 H9005=ל=to/{H4327=מִין=kind}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 16,
           "text": "They include little owls, great owls, white owls",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/הַ/תִּנְשָֽׁמֶת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./ha./tin.Sha.met",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "barn",
+                "wordIndex": 5
+              },
+              {
+                "text": "owl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/H9009/{H8580}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Td/Ncfsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H8580",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H8580",
+                  "lemma": "תִּנְשֶׁ֫מֶת",
+                  "translit": "tan.she.met",
+                  "morph": "H:N-F",
+                  "gloss": "chameleon 1) an unclean animal of some kind<br>1a) an unclean bird<br>1a1) perhaps the ibis, water-hen, species of owl, barn owl<br>1b) an unclean lizard<br>1b1) perhaps the chameleon<br>1c) perhaps an extinct lizard or bird, exact meaning unknown",
+                  "raw": "H8580\tH8580 =\tH8580\tתִּנְשֶׁ֫מֶת\ttan.she.met\tH:N-F\tchameleon\t1) an unclean animal of some kind<br>1a) an unclean bird<br>1a1) perhaps the ibis, water-hen, species of owl, barn owl<br>1b) an unclean lizard<br>1b1) perhaps the chameleon<br>1c) perhaps an extinct lizard or bird, exact meaning unknown"
+                }
+              },
+              {
+                "text": "H9002=ו=and/H9009=ה=the/{H8580=תִּנְשֶׁ֫מֶת=chameleon}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L וְ/הַ/תִּנְשָֽׁמֶת\\׃ ve./ha./tin.Sha.met and/ the/ barn owl H9002/H9009/{H8580}\\H9016 HC/Td/Ncfsa H8580 H9002=ו=and/H9009=ה=the/{H8580=תִּנְשֶׁ֫מֶת=chameleon}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 17,
           "text": "and desert owls. They include ospreys and cormorants.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/שָּׁלָֽךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./sha.Lakh",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "cormorant",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H7994}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H7994",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H7994",
+                  "lemma": "שָׁלָךְ",
+                  "translit": "sha.lakh",
+                  "morph": "H:N-M",
+                  "gloss": "cormorant 1) bird of prey<br>1a) probably the cormorant",
+                  "raw": "H7994\tH7994 =\tH7994\tשָׁלָךְ\tsha.lakh\tH:N-M\tcormorant\t1) bird of prey<br>1a) probably the cormorant"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H7994=שָׁלָךְ=cormorant}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L הַ/שָּׁלָֽךְ\\׃ ha./sha.Lakh the/ cormorant H9009/{H7994}\\H9016 HTd/Ncmsa H7994 H9009=ה=the/{H7994=שָׁלָךְ=cormorant}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 18,
           "text": "They include storks and all kinds of herons. They also include hoopoes and bats.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/הָ/עֲטַלֵּֽף\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./ha./'a.ta.Lef",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "bat",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9002/H9009/{H5847}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Td/Ncmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5847",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H5847",
+                  "lemma": "עֲטַלֵּף",
+                  "translit": "a.tal.leph",
+                  "morph": "H:N-M",
+                  "gloss": "bat bat",
+                  "raw": "H5847\tH5847 =\tH5847\tעֲטַלֵּף\ta.tal.leph\tH:N-M\tbat\tbat"
+                }
+              },
+              {
+                "text": "H9002=ו=and/H9009=ה=the/{H5847=עֲטַלֵּף=bat}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L וְ/הָ/עֲטַלֵּֽף\\׃ ve./ha./'a.ta.Lef and/ the/ bat H9002/H9009/{H5847}\\H9016 HC/Td/Ncmsa H5847 H9002=ו=and/H9009=ה=the/{H5847=עֲטַלֵּף=bat}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 19,
           "text": "All insects that fly together in groups are “unclean” for you. So don’t eat them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יֵאָכֵֽלוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ye.'a.Khe.lu",
+                "wordIndex": 2
+              },
+              {
+                "text": "they",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "be",
+                "wordIndex": 5
+              },
+              {
+                "text": "eaten",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H0398}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "HVNi3mp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H0398",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "{H0398=אָכַל=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "eat}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L יֵאָכֵֽלוּ\\׃ ye.'a.Khe.lu they will be eaten {H0398}\\H9016 HVNi3mp H0398 {H0398=אָכַל=to eat}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 20,
           "text": "But you can eat any creature that has wings and is “clean.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#04=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תֹּאכֵֽלוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "to.Khe.lu",
+                "wordIndex": 2
+              },
+              {
+                "text": "you",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "eat",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H0398}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "HVqi2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0398",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "{H0398=אָכַל=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "eat}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#04=L תֹּאכֵֽלוּ\\׃ to.Khe.lu you will eat {H0398}\\H9016 HVqi2mp H0398 {H0398=אָכַל=to eat}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 14,
           "verse": 21,
           "text": "If you find something that’s already dead, don’t eat it. You can give it to an outsider who is living in any of your towns. He can eat it. Or you can sell it to someone who is from another country. But you are a holy nation. The Lord your God has set you apart for himself.\nDon’t cook a young goat in its mother’s milk.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אִמּֽ/וֹ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "'i.M/o",
+                "wordIndex": 3
+              },
+              {
+                "text": "mother/",
+                "wordIndex": 4
+              },
+              {
+                "text": "its",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H0517}/H9023\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0517",
+                  "lemma": "אֵם",
+                  "translit": "em",
+                  "morph": "H:N-F",
+                  "gloss": "mother 1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division",
+                  "raw": "H0517\tH0517 =\tH0517\tאֵם\tem\tH:N-F\tmother\t1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNcfsc/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H0517",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0517",
+                  "lemma": "אֵם",
+                  "translit": "em",
+                  "morph": "H:N-F",
+                  "gloss": "mother 1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division",
+                  "raw": "H0517\tH0517 =\tH0517\tאֵם\tem\tH:N-F\tmother\t1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division"
+                }
+              },
+              {
+                "text": "{H0517=אֵם=mother}/H9023=Ps3m=his\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H0517",
+                  "lemma": "אֵם",
+                  "translit": "em",
+                  "morph": "H:N-F",
+                  "gloss": "mother 1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division",
+                  "raw": "H0517\tH0517 =\tH0517\tאֵם\tem\tH:N-F\tmother\t1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#23=L אִמּֽ/וֹ\\׃\\ \\פ 'i.M/o mother/ its {H0517}/H9023\\H9016\\ \\H9017 HNcfsc/Sp3ms H0517 {H0517=אֵם=mother}/H9023=Ps3m=his\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ]
     }

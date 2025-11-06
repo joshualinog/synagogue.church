@@ -7,61 +7,823 @@
           "chapter": 5,
           "verse": 1,
           "text": "Yahweh spoke to Moses, saying,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵּ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L לֵּ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 2,
           "text": "“Command the Israelites: they must send everyone from the camp who is afflicted with a rash, everyone with a fluid discharge, and everyone unclean through contact with a corpse.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/נָֽפֶשׁ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Na.fesh",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "a",
+                "wordIndex": 4
+              },
+              {
+                "text": "corpse",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H5315M}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncfsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5315M",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H5315",
+                  "lemma": "נֶ֫פֶשׁ",
+                  "translit": "ne.phesh",
+                  "morph": "H:N-F",
+                  "gloss": "soul: neck 1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain",
+                  "raw": "H5315\tH5315N = a Meaning of\tH5315G\tנֶ֫פֶשׁ\tne.phesh\tH:N-F\tsoul: neck\t1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H5315M=נֶ֫פֶשׁ=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "dead»soul:7_dead}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L לָ/נָֽפֶשׁ\\׃ la./Na.fesh to/ a corpse H9005/{H5315M}\\H9016 HR/Ncfsa H5315M H9005=ל=to/{H5315M=נֶ֫פֶשׁ=: dead»soul:7_dead}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 3,
           "text": "You will send away both male and female; you will send them outside the camp. They must not make unclean their camps where I am dwelling in their midst.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/תוֹכָֽ/ם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./to.Kha/m",
+                "wordIndex": 2
+              },
+              {
+                "text": "in/",
+                "wordIndex": 3
+              },
+              {
+                "text": "midst",
+                "wordIndex": 4
+              },
+              {
+                "text": "of/",
+                "wordIndex": 5
+              },
+              {
+                "text": "them",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9003/{H8432}/H9028\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3mp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H8432",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H8432",
+                  "lemma": "תָּ֫וֶךְ",
+                  "translit": "ta.vekh",
+                  "morph": "H:N-M",
+                  "gloss": "midst 1) midst, middle<br>1a) midst, middle<br>1b) into, through (after verbs of motion)<br>1c) among (of a number of persons)<br>1d) between (of things arranged by twos)<br>1e) from among (as to take or separate etc)",
+                  "raw": "H8432\tH8432 =\tH8432\tתָּ֫וֶךְ\tta.vekh\tH:N-M\tmidst\t1) midst, middle<br>1a) midst, middle<br>1b) into, through (after verbs of motion)<br>1c) among (of a number of persons)<br>1d) between (of things arranged by twos)<br>1e) from among (as to take or separate etc)"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H8432=תָּ֫וֶךְ=midst}/H9028=Pp3m=their\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#16=L בְּ/תוֹכָֽ/ם\\׃ be./to.Kha/m in/ midst of/ them H9003/{H8432}/H9028\\H9016 HR/Ncmsc/Sp3mp H8432 H9003=ב=in/{H8432=תָּ֫וֶךְ=midst}/H9028=Pp3m=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 4,
           "text": "So the Israelites did so. They sent them away outside the camp; just as Yahweh spoke to Moses, so did the Israelites.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִשְׂרָאֵֽל\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "Yis.ra.'El",
+                "wordIndex": 3
+              },
+              {
+                "text": "Israel",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3478}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3478_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L יִשְׂרָאֵֽל\\׃\\ \\פ Yis.ra.'El Israel {H3478}\\H9016\\ \\H9017 HNpl H3478_B {H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 5,
           "verse": 5,
           "text": "Yahweh spoke to Moses, saying,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵּ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L לֵּ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 6,
           "text": "“Speak to the Israelites: ‘When a man or woman commits any of the sins of humankind by acting unfaithfully, it is a sin against Yahweh, and that person will be guilty;",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/הִֽוא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Hiv'",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "that",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H1931}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Pp3fs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1931",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L הַ/הִֽוא\\׃ ha./Hiv' <the>/ that H9009/{H1931}\\H9016 HTd/Pp3fs H1931 H9009=ה=the/{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 7,
           "text": "they will confess their sin that they did and will make restitution for their guilt by adding a fifth to it and giving it to whomever was wronged.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "l/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "him",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9033}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9033",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9033=Os3m=him}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#16=L לֽ/וֹ\\׃ l/o to <the>/ him H9005/{H9033}\\H9016 HRd/Sp3ms H9033 H9005=ל=to/{H9033=Os3m=him}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 8,
           "text": "But if the man does not have a redeemer to make restitution to him for the reparation, the reparation is to be given to Yahweh for the priest, in addition to the ram of atonement by which atonement is made for him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עָלָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.La/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "on/",
+                "wordIndex": 3
+              },
+              {
+                "text": "him",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5921A}/H9033\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HRd/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5921A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H5921A=עַל=upon}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#18=L עָלָֽי/ו\\׃ 'a.La/v on/ him {H5921A}/H9033\\H9016 HRd/Sp3ms H5921A {H5921A=עַל=upon}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 9,
           "text": "And every contribution of all the holy objects of the Israelites that they bring to the priest for him will be his.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִהְיֶֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "yih.Yeh",
+                "wordIndex": 2
+              },
+              {
+                "text": "it",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "belong",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H1961}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1961",
+                  "lemma": "הָיָה",
+                  "translit": "ha.yah",
+                  "morph": "H:V",
+                  "gloss": "to be 1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone",
+                  "raw": "H1961\tH1961 =\tH1961\tהָיָה\tha.yah\tH:V\tto be\t1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone"
+                }
+              },
+              {
+                "text": "HVqi3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1961",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1961",
+                  "lemma": "הָיָה",
+                  "translit": "ha.yah",
+                  "morph": "H:V",
+                  "gloss": "to be 1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone",
+                  "raw": "H1961\tH1961 =\tH1961\tהָיָה\tha.yah\tH:V\tto be\t1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone"
+                }
+              },
+              {
+                "text": "{H1961=הָיָה=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H1961",
+                  "lemma": "הָיָה",
+                  "translit": "ha.yah",
+                  "morph": "H:V",
+                  "gloss": "to be 1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone",
+                  "raw": "H1961\tH1961 =\tH1961\tהָיָה\tha.yah\tH:V\tto be\t1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone"
+                }
+              },
+              {
+                "text": "be}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L יִהְיֶֽה\\׃ yih.Yeh it will belong {H1961}\\H9016 HVqi3ms H1961 {H1961=הָיָה=to be}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 10,
           "text": "The holy objects of a man will be for him; whatever he gives to the priest will be for him.’”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִהְיֶֽה\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "yih.Yeh",
+                "wordIndex": 3
+              },
+              {
+                "text": "it",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "belong",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H1961}\\H9016\\",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1961",
+                  "lemma": "הָיָה",
+                  "translit": "ha.yah",
+                  "morph": "H:V",
+                  "gloss": "to be 1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone",
+                  "raw": "H1961\tH1961 =\tH1961\tהָיָה\tha.yah\tH:V\tto be\t1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HVqi3ms",
+                "wordIndex": 9
+              },
+              {
+                "text": "H1961_B",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H1961",
+                  "lemma": "הָיָה",
+                  "translit": "ha.yah",
+                  "morph": "H:V",
+                  "gloss": "to be 1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone",
+                  "raw": "H1961\tH1961 =\tH1961\tהָיָה\tha.yah\tH:V\tto be\t1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone"
+                }
+              },
+              {
+                "text": "{H1961=הָיָה=to",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H1961",
+                  "lemma": "הָיָה",
+                  "translit": "ha.yah",
+                  "morph": "H:V",
+                  "gloss": "to be 1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone",
+                  "raw": "H1961\tH1961 =\tH1961\tהָיָה\tha.yah\tH:V\tto be\t1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone"
+                }
+              },
+              {
+                "text": "be}\\H9016=׃=verseEnd\\",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L יִהְיֶֽה\\׃\\ \\פ yih.Yeh it will belong {H1961}\\H9016\\ \\H9017 HVqi3ms H1961_B {H1961=הָיָה=to be}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ],
       "nirv": [
@@ -69,61 +831,823 @@
           "chapter": 5,
           "verse": 1,
           "text": "The Lord spoke to Moses. He said,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵּ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L לֵּ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 2,
           "text": "“Tell the Israelites that certain people must be sent away from the camp. Command them to send away anyone who has a skin disease. They must send away all those who have a liquid waste coming from their bodies. And they must send away those who are not ‘clean’ because they have touched a dead body.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/נָֽפֶשׁ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Na.fesh",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "a",
+                "wordIndex": 4
+              },
+              {
+                "text": "corpse",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H5315M}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Ncfsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5315M",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H5315",
+                  "lemma": "נֶ֫פֶשׁ",
+                  "translit": "ne.phesh",
+                  "morph": "H:N-F",
+                  "gloss": "soul: neck 1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain",
+                  "raw": "H5315\tH5315N = a Meaning of\tH5315G\tנֶ֫פֶשׁ\tne.phesh\tH:N-F\tsoul: neck\t1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H5315M=נֶ֫פֶשׁ=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "dead»soul:7_dead}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L לָ/נָֽפֶשׁ\\׃ la./Na.fesh to/ a corpse H9005/{H5315M}\\H9016 HR/Ncfsa H5315M H9005=ל=to/{H5315M=נֶ֫פֶשׁ=: dead»soul:7_dead}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 3,
           "text": "That applies to men and women alike. Send them out of the camp. They must not make their camp ‘unclean.’ That is where I live among them.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/תוֹכָֽ/ם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./to.Kha/m",
+                "wordIndex": 2
+              },
+              {
+                "text": "in/",
+                "wordIndex": 3
+              },
+              {
+                "text": "midst",
+                "wordIndex": 4
+              },
+              {
+                "text": "of/",
+                "wordIndex": 5
+              },
+              {
+                "text": "them",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9003/{H8432}/H9028\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3mp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H8432",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H8432",
+                  "lemma": "תָּ֫וֶךְ",
+                  "translit": "ta.vekh",
+                  "morph": "H:N-M",
+                  "gloss": "midst 1) midst, middle<br>1a) midst, middle<br>1b) into, through (after verbs of motion)<br>1c) among (of a number of persons)<br>1d) between (of things arranged by twos)<br>1e) from among (as to take or separate etc)",
+                  "raw": "H8432\tH8432 =\tH8432\tתָּ֫וֶךְ\tta.vekh\tH:N-M\tmidst\t1) midst, middle<br>1a) midst, middle<br>1b) into, through (after verbs of motion)<br>1c) among (of a number of persons)<br>1d) between (of things arranged by twos)<br>1e) from among (as to take or separate etc)"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H8432=תָּ֫וֶךְ=midst}/H9028=Pp3m=their\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#16=L בְּ/תוֹכָֽ/ם\\׃ be./to.Kha/m in/ midst of/ them H9003/{H8432}/H9028\\H9016 HR/Ncmsc/Sp3mp H8432 H9003=ב=in/{H8432=תָּ֫וֶךְ=midst}/H9028=Pp3m=their\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 4,
           "text": "So the people of Israel did what the Lord commanded. They sent those who were not “clean” out of the camp. They did just as the Lord had directed Moses.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִשְׂרָאֵֽל\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "Yis.ra.'El",
+                "wordIndex": 3
+              },
+              {
+                "text": "Israel",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3478}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3478_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L יִשְׂרָאֵֽל\\׃\\ \\פ Yis.ra.'El Israel {H3478}\\H9016\\ \\H9017 HNpl H3478_B {H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 5,
           "verse": 5,
           "text": "The Lord said to Moses,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵּ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L לֵּ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 6,
           "text": "“Speak to the people of Israel. Say to them, ‘Suppose a man or woman does something wrong to someone else. Then that person is not being faithful to the Lord. People like that are guilty.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/הִֽוא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Hiv'",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "that",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H1931}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Pp3fs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1931",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L הַ/הִֽוא\\׃ ha./Hiv' <the>/ that H9009/{H1931}\\H9016 HTd/Pp3fs H1931 H9009=ה=the/{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 7,
           "text": "“‘They must admit they have committed a sin. They must pay in full for what they did wrong. And they must add a fifth to it. Then they must give all of it to the person they have sinned against.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "l/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "him",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9033}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9033",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9033=Os3m=him}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#16=L לֽ/וֹ\\׃ l/o to <the>/ him H9005/{H9033}\\H9016 HRd/Sp3ms H9033 H9005=ל=to/{H9033=Os3m=him}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 8,
           "text": "“‘But suppose the person has died. And suppose there is not a close relative who can be paid for the sin that was committed. Then what is paid belongs to the Lord. It must be given to the priest. A ram must be given along with it. The ram must be sacrificed to the Lord to pay for the sin.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עָלָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.La/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "on/",
+                "wordIndex": 3
+              },
+              {
+                "text": "him",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5921A}/H9033\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HRd/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5921A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H5921A=עַל=upon}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#18=L עָלָֽי/ו\\׃ 'a.La/v on/ him {H5921A}/H9033\\H9016 HRd/Sp3ms H5921A {H5921A=עַל=upon}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 9,
           "text": "“‘All of the sacred gifts the people of Israel bring to a priest will belong to him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִהְיֶֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "yih.Yeh",
+                "wordIndex": 2
+              },
+              {
+                "text": "it",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "belong",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H1961}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1961",
+                  "lemma": "הָיָה",
+                  "translit": "ha.yah",
+                  "morph": "H:V",
+                  "gloss": "to be 1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone",
+                  "raw": "H1961\tH1961 =\tH1961\tהָיָה\tha.yah\tH:V\tto be\t1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone"
+                }
+              },
+              {
+                "text": "HVqi3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1961",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1961",
+                  "lemma": "הָיָה",
+                  "translit": "ha.yah",
+                  "morph": "H:V",
+                  "gloss": "to be 1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone",
+                  "raw": "H1961\tH1961 =\tH1961\tהָיָה\tha.yah\tH:V\tto be\t1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone"
+                }
+              },
+              {
+                "text": "{H1961=הָיָה=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H1961",
+                  "lemma": "הָיָה",
+                  "translit": "ha.yah",
+                  "morph": "H:V",
+                  "gloss": "to be 1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone",
+                  "raw": "H1961\tH1961 =\tH1961\tהָיָה\tha.yah\tH:V\tto be\t1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone"
+                }
+              },
+              {
+                "text": "be}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L יִהְיֶֽה\\׃ yih.Yeh it will belong {H1961}\\H9016 HVqi3ms H1961 {H1961=הָיָה=to be}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 5,
           "verse": 10,
           "text": "Sacred gifts belong to the man who gives them. But what he gives to a priest will belong to the priest.’”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִהְיֶֽה\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "yih.Yeh",
+                "wordIndex": 3
+              },
+              {
+                "text": "it",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "belong",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H1961}\\H9016\\",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1961",
+                  "lemma": "הָיָה",
+                  "translit": "ha.yah",
+                  "morph": "H:V",
+                  "gloss": "to be 1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone",
+                  "raw": "H1961\tH1961 =\tH1961\tהָיָה\tha.yah\tH:V\tto be\t1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HVqi3ms",
+                "wordIndex": 9
+              },
+              {
+                "text": "H1961_B",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H1961",
+                  "lemma": "הָיָה",
+                  "translit": "ha.yah",
+                  "morph": "H:V",
+                  "gloss": "to be 1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone",
+                  "raw": "H1961\tH1961 =\tH1961\tהָיָה\tha.yah\tH:V\tto be\t1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone"
+                }
+              },
+              {
+                "text": "{H1961=הָיָה=to",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H1961",
+                  "lemma": "הָיָה",
+                  "translit": "ha.yah",
+                  "morph": "H:V",
+                  "gloss": "to be 1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone",
+                  "raw": "H1961\tH1961 =\tH1961\tהָיָה\tha.yah\tH:V\tto be\t1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone"
+                }
+              },
+              {
+                "text": "be}\\H9016=׃=verseEnd\\",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L יִהְיֶֽה\\׃\\ \\פ yih.Yeh it will belong {H1961}\\H9016\\ \\H9017 HVqi3ms H1961_B {H1961=הָיָה=to be}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ]
     }

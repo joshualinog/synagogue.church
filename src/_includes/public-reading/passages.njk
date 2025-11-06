@@ -25,8 +25,16 @@
 
 <div class="prose max-w-3xl mx-auto py-6">
   {% if pr %}
+    {# Debug: show counts so we can confirm Eleventy saw the data at render time #}
+    {% if pr.torah and pr.torah.versions and pr.torah.versions.leb %}<!-- INTERLINEAR DEBUG: torah leb verses={{ pr.torah.versions.leb | length }} -->{% endif %}
+    {% if pr.gospel and pr.gospel.versions and pr.gospel.versions.leb %}<!-- INTERLINEAR DEBUG: gospel leb verses={{ pr.gospel.versions.leb | length }} -->{% endif %}
     <div class="bible-passages" data-slug="{{ slug }}">
-      <h2 class="text-xl font-bold">Torah — {{ pr.torah.passage }}</h2>
+      <div class="flex items-center gap-3 mb-4">
+      </div>
+      {# Version switcher is inserted by client-side JS (`src/assets/js/bible-toggle.js`).
+        The client will create LEB / NIRV / Interlinear buttons and handle mutual exclusion.
+      #}
+      <h2 class="text-2xl font-bold">Torah — {{ pr.torah.passage }}</h2>
       <div class="bible-block" data-section="torah">
         <div class="version-group">
           <h3 class="sr-only">LEB translation</h3>
@@ -37,14 +45,67 @@
                   <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
                 {% else %}
                   {% if v.text and v.text | trim %}
-                    <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
+                    <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold text-lg">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
                   {% else %}
-                    <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
+                    <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span>
+                      {% if v.interlinear and v.interlinear.tokens and v.interlinear.tokens | length > 0 %}
+                        <div class="interlinear hidden mt-1 text-lg text-gray-700"> 
+                          <div class="orig-line">{% for t in v.interlinear.tokens %}<span class="orig-token mr-1">{% if t.lex and t.lex.translit %}{{ t.lex.translit }}{% else %}{{ t.text }}{% endif %}</span>{% endfor %}</div>
+                          <div class="gloss-line text-xs text-gray-500">{% for t in v.interlinear.tokens %}<span class="gloss-token mr-1">{% if t.lex and t.lex.gloss %}{{ t.lex.gloss }}{% else %}&nbsp;{% endif %}</span>{% endfor %}</div>
+                        </div>
+                      {% endif %}
+                    </div>
                   {% endif %}
                 {% endif %}
               {% endfor %}
             {% else %}
-              <div class="text-sm text-gray-600">LEB not available for {{ slug }} (torah).</div>
+              <div class="text-lg text-gray-600">LEB not available for {{ slug }} (torah).</div>
+            {% endif %}
+          </div>
+        </div>
+
+        {# New: Original language as its own version (Greek for gospel) #}
+        <div class="version-group mt-4">
+          <h3 class="sr-only">Original language (Greek)</h3>
+          <div class="version interlinear-version server-interlinear hidden">
+            {% if pr.gospel.versions.leb %}
+              {% for v in pr.gospel.versions.leb %}
+                {% set iv = v.interlinear if v.interlinear is defined else none %}
+                {% if iv and iv.tokens and iv.tokens | length > 0 %}
+                  <div class="verse interlinear-verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}">
+                    <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span>
+                    <div class="interlinear-lines mt-1 text-lg text-gray-700">
+                      <div class="orig-line">{% for t in iv.tokens %}<span class="orig-token mr-1">{% if t.lex and t.lex.translit %}{{ t.lex.translit }}{% else %}{{ t.text }}{% endif %}</span>{% endfor %}</div>
+                      <div class="gloss-line text-xs text-gray-500">{% for t in iv.tokens %}<span class="gloss-token mr-1">{% if t.lex and t.lex.gloss %}{{ t.lex.gloss }}{% else %}&nbsp;{% endif %}</span>{% endfor %}</div>
+                    </div>
+                  </div>
+                {% endif %}
+              {% endfor %}
+            {% else %}
+              <div class="text-lg text-gray-600">Original language not available for {{ slug }} (gospel).</div>
+            {% endif %}
+          </div>
+        </div>
+
+        {# New: Original language as its own version (Hebrew for torah) #}
+        <div class="version-group mt-4">
+          <h3 class="sr-only">Original language (Hebrew)</h3>
+          <div class="version interlinear-version server-interlinear hidden">
+            {% if pr.torah.versions.leb %}
+              {% for v in pr.torah.versions.leb %}
+                {% set iv = v.interlinear if v.interlinear is defined else none %}
+                {% if iv and iv.tokens and iv.tokens | length > 0 %}
+                  <div class="verse interlinear-verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}">
+                    <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span>
+                    <div class="interlinear-lines mt-1 text-lg text-gray-700">
+                      <div class="orig-line">{% for t in iv.tokens %}<span class="orig-token mr-1">{% if t.lex and t.lex.translit %}{{ t.lex.translit }}{% else %}{{ t.text }}{% endif %}</span>{% endfor %}</div>
+                      <div class="gloss-line text-xs text-gray-500">{% for t in iv.tokens %}<span class="gloss-token mr-1">{% if t.lex and t.lex.gloss %}{{ t.lex.gloss }}{% else %}&nbsp;{% endif %}</span>{% endfor %}</div>
+                    </div>
+                  </div>
+                {% endif %}
+              {% endfor %}
+            {% else %}
+              <div class="text-lg text-gray-600">Original language not available for {{ slug }} (torah).</div>
             {% endif %}
           </div>
         </div>
@@ -61,18 +122,25 @@
                   {% if v.text and v.text | trim %}
                     <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
                   {% else %}
-                    <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
+                    <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span>
+                      {% if v.interlinear and v.interlinear.tokens and v.interlinear.tokens | length > 0 %}
+                        <div class="interlinear hidden mt-1 text-lg text-gray-700"> 
+                          <div class="orig-line">{% for t in v.interlinear.tokens %}<span class="orig-token mr-1">{% if t.lex and t.lex.translit %}{{ t.lex.translit }}{% else %}{{ t.text }}{% endif %}</span>{% endfor %}</div>
+                          <div class="gloss-line text-xs text-gray-500">{% for t in v.interlinear.tokens %}<span class="gloss-token mr-1">{% if t.lex and t.lex.gloss %}{{ t.lex.gloss }}{% else %}&nbsp;{% endif %}</span>{% endfor %}</div>
+                        </div>
+                      {% endif %}
+                    </div>
                   {% endif %}
                 {% endif %}
               {% endfor %}
             {% else %}
-              <div class="text-sm text-gray-600">NIRV not available for {{ slug }} (torah).</div>
+              <div class="text-lg text-gray-600">NIRV not available for {{ slug }} (torah).</div>
             {% endif %}
           </div>
         </div>
       </div>
 
-      <h2 class="text-xl font-bold mt-6">Gospel — {{ pr.gospel.passage }}</h2>
+      <h2 class="text-2xl font-bold mt-6">Gospel — {{ pr.gospel.passage }}</h2>
       <div class="bible-block" data-section="gospel">
         <div class="version-group">
           <h3 class="sr-only">LEB translation</h3>
@@ -85,12 +153,19 @@
                   {% if v.text and v.text | trim %}
                     <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
                   {% else %}
-                    <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
+                    <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span>
+                      {% if v.interlinear and v.interlinear.tokens %}
+                        <div class="interlinear hidden mt-1 text-lg text-gray-700"> 
+                          <div class="orig-line">{% for t in v.interlinear.tokens %}<span class="orig-token mr-1">{% if t.lex and t.lex.translit %}{{ t.lex.translit }}{% else %}{{ t.text }}{% endif %}</span>{% endfor %}</div>
+                          <div class="gloss-line text-xs text-gray-500">{% for t in v.interlinear.tokens %}<span class="gloss-token mr-1">{% if t.lex and t.lex.gloss %}{{ t.lex.gloss }}{% else %}&nbsp;{% endif %}</span>{% endfor %}</div>
+                        </div>
+                      {% endif %}
+                    </div>
                   {% endif %}
                 {% endif %}
               {% endfor %}
             {% else %}
-              <div class="text-sm text-gray-600">LEB not available for {{ slug }} (gospel).</div>
+              <div class="text-lg text-gray-600">LEB not available for {{ slug }} (gospel).</div>
             {% endif %}
           </div>
         </div>
@@ -111,13 +186,33 @@
                 {% endif %}
               {% endfor %}
             {% else %}
-              <div class="text-sm text-gray-600">NIRV not available for {{ slug }} (gospel).</div>
+              <div class="text-lg text-gray-600">NIRV not available for {{ slug }} (gospel).</div>
             {% endif %}
           </div>
         </div>
       </div>
     </div>
   {% else %}
-    <div class="text-sm text-gray-600">Passages not available for {{ slug }} yet.</div>
+    <div class="text-lg text-gray-600">Passages not available for {{ slug }} yet.</div>
   {% endif %}
 </div>
+
+<script>
+// Minimal interlinear toggle: show/hide server-rendered interlinear blocks
+document.addEventListener('DOMContentLoaded', function(){
+  var btns = document.querySelectorAll('.interlinear-toggle');
+  btns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      var root = btn.closest('.bible-passages');
+      if (!root) return;
+      var showing = root.classList.toggle('show-interlinear');
+      // show/hide both inline interlinear blocks and the interlinear 'version' panels
+      root.querySelectorAll('.interlinear, .interlinear-version, .server-interlinear').forEach(function(el){
+        if (showing) el.classList.remove('hidden'); else el.classList.add('hidden');
+      });
+      btn.innerText = showing ? 'Hide interlinear' : 'Show interlinear';
+      btn.setAttribute('aria-pressed', showing ? 'true' : 'false');
+    });
+  });
+});
+</script>

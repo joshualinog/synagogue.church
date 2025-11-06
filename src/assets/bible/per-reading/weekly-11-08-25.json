@@ -7,163 +7,2038 @@
           "chapter": 1,
           "verse": 20,
           "text": "The descendants of Reuben, the firstborn of Israel, their genealogies according to their clans, according to their families, according to the number of names, every male individually from twenty years old and above, everyone who is able to go to war:",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 21,
           "text": "those who were counted from the tribe of Reuben were forty-six thousand five hundred.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵאֽוֹת\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "me.'ot",
+                "wordIndex": 3
+              },
+              {
+                "text": "hundred<s>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3967}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAcfpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L מֵאֽוֹת\\׃\\ \\פ me.'ot hundred<s> {H3967}\\H9016\\ \\H9017 HAcfpa H3967 {H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 22,
           "text": "From the descendants of Simeon, their genealogies according to their clans, according to their families, those who were counted according to the number of their names, every individual male from twenty years old and above, everyone who is able to go to war:",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 23,
           "text": "those who were counted from the tribe of Simeon were fifty-nine thousand three hundred.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵאֽוֹת\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "me.'ot",
+                "wordIndex": 3
+              },
+              {
+                "text": "hundred<s>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3967}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAcfpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L מֵאֽוֹת\\׃\\ \\פ me.'ot hundred<s> {H3967}\\H9016\\ \\H9017 HAcfpa H3967 {H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 24,
           "text": "From the descendants of Gad, their genealogies according to their clans, according to their families, according to the number of names, from those twenty years old and above, everyone who is able to go to war:",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 25,
           "text": "those who were counted from the tribe of Gad were forty-five thousand six hundred and fifty.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/חֲמִשִּֽׁים\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "va./cha.mi.Shim",
+                "wordIndex": 3
+              },
+              {
+                "text": "and/",
+                "wordIndex": 4
+              },
+              {
+                "text": "fifty",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9002/{H2572}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HC/Acmpa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2572",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2572",
+                  "lemma": "חֲמִשִּׁים",
+                  "translit": "cha.mish.shim",
+                  "morph": "H:N",
+                  "gloss": "fifty 1) fifty<br>1a) fifty (cardinal number)<br>1b) a multiple of fifty (with other numbers)<br>1c) fiftieth (ordinal number)",
+                  "raw": "H2572\tH2572 =\tH2572\tחֲמִשִּׁים\tcha.mish.shim\tH:N\tfifty\t1) fifty<br>1a) fifty (cardinal number)<br>1b) a multiple of fifty (with other numbers)<br>1c) fiftieth (ordinal number)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H2572=חֲמִשִּׁים=fifty}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L וַ/חֲמִשִּֽׁים\\׃\\ \\פ va./cha.mi.Shim and/ fifty H9002/{H2572}\\H9016\\ \\H9017 HC/Acmpa H2572 H9002=ו=and/{H2572=חֲמִשִּׁים=fifty}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 26,
           "text": "From the descendants of Judah, their genealogies according to their clans, according to their families, according to the number of names, from those twenty years old and above, everyone who is able to go to war:",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 27,
           "text": "those who were counted from the tribe of Judah were seventy-four thousand six hundred.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵאֽוֹת\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "me.'ot",
+                "wordIndex": 3
+              },
+              {
+                "text": "hundred<s>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3967}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAcfpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L מֵאֽוֹת\\׃\\ \\פ me.'ot hundred<s> {H3967}\\H9016\\ \\H9017 HAcfpa H3967 {H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 28,
           "text": "From the descendants of Issachar, their genealogies according to their clans, according to their families, according to the number of names, from those twenty years old and above, everyone who is able to go to war:",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 29,
           "text": "those who were counted from the tribe of Issachar were fifty-four thousand four hundred.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵאֽוֹת\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "me.'ot",
+                "wordIndex": 3
+              },
+              {
+                "text": "hundred<s>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3967}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAcfpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L מֵאֽוֹת\\׃\\ \\פ me.'ot hundred<s> {H3967}\\H9016\\ \\H9017 HAcfpa H3967 {H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 30,
           "text": "From the descendants of Zebulun, their genealogies according to their clans, according to their families, according to the number of names, from those twenty years old and above, everyone who is able to go to war:",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 31,
           "text": "those who were counted from the tribe of Zebulun were fifty-seven thousand four hundred.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵאֽוֹת\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "me.'ot",
+                "wordIndex": 3
+              },
+              {
+                "text": "hundred<s>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3967}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAcfpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L מֵאֽוֹת\\׃\\ \\פ me.'ot hundred<s> {H3967}\\H9016\\ \\H9017 HAcfpa H3967 {H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 32,
           "text": "From the descendants of Joseph: from the descendants of Ephraim, their genealogies according to their clans, according to their families, according to the number of names, from those twenty years old and above, everyone who is able to go to war:",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 33,
           "text": "those who were counted from the tribe of Ephraim were forty thousand five hundred.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵאֽוֹת\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "me.'ot",
+                "wordIndex": 3
+              },
+              {
+                "text": "hundred<s>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3967}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAcfpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L מֵאֽוֹת\\׃\\ \\פ me.'ot hundred<s> {H3967}\\H9016\\ \\H9017 HAcfpa H3967 {H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 34,
           "text": "From the descendants of Manasseh, their genealogies according to their clans, according to their families, according to the number of names, from those twenty years old and above, everyone who is able to go to war:",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 35,
           "text": "those who were counted from the tribe of Manasseh were thirty-two thousand two hundred.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/מָאתָֽיִם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "u./ma.Ta.yim",
+                "wordIndex": 3
+              },
+              {
+                "text": "and/",
+                "wordIndex": 4
+              },
+              {
+                "text": "two",
+                "wordIndex": 5
+              },
+              {
+                "text": "hundred",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/{H3967}\\H9016\\",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HC/Acfda",
+                "wordIndex": 9
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L וּ/מָאתָֽיִם\\׃\\ \\פ u./ma.Ta.yim and/ two hundred H9002/{H3967}\\H9016\\ \\H9017 HC/Acfda H3967 H9002=ו=and/{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 36,
           "text": "From the descendants of Benjamin, their genealogies according to their clans, according to their families, according to the number of names, from those twenty years old and above, everyone who is able to go to war:",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 37,
           "text": "those who were counted from the tribe of Benjamin were thirty-five thousand four hundred.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵאֽוֹת\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "me.'ot",
+                "wordIndex": 3
+              },
+              {
+                "text": "hundred<s>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3967}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAcfpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L מֵאֽוֹת\\׃\\ \\פ me.'ot hundred<s> {H3967}\\H9016\\ \\H9017 HAcfpa H3967 {H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 38,
           "text": "From the descendants of Dan, their genealogies according to their clans, according to their families, according to the number of names, from those twenty years old and above, everyone who is able to go to war:",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 39,
           "text": "those who were counted from the tribe of Dan were sixty-two thousand seven hundred.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵאֽוֹת\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "me.'ot",
+                "wordIndex": 3
+              },
+              {
+                "text": "hundred<s>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3967}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAcfpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L מֵאֽוֹת\\׃\\ \\פ me.'ot hundred<s> {H3967}\\H9016\\ \\H9017 HAcfpa H3967 {H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 40,
           "text": "From the descendants of Asher, their genealogies according to their clans, according to their families, according to the number of names, from those twenty years old and above, everyone who is able to go to war:",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 41,
           "text": "those who were counted from the tribe of Asher were forty-one thousand five hundred.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵאֽוֹת\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "me.'ot",
+                "wordIndex": 3
+              },
+              {
+                "text": "hundred<s>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3967}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAcfpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L מֵאֽוֹת\\׃\\ \\פ me.'ot hundred<s> {H3967}\\H9016\\ \\H9017 HAcfpa H3967 {H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 42,
           "text": "From the descendants of Naphtali, their genealogies according to their clans, according to their families, according to the number of names, from those twenty years old and above, everyone who is able to go to war:",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 43,
           "text": "those who were counted from the tribe of Naphtali were fifty-three thousand four hundred.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵאֽוֹת\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "me.'ot",
+                "wordIndex": 3
+              },
+              {
+                "text": "hundred<s>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3967}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAcfpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L מֵאֽוֹת\\׃\\ \\פ me.'ot hundred<s> {H3967}\\H9016\\ \\H9017 HAcfpa H3967 {H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 44,
           "text": "These are the ones counted whom Moses and Aaron mustered, with the twelve leaders of Israel, each one from his family.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָיֽוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha.Yu",
+                "wordIndex": 2
+              },
+              {
+                "text": "they",
+                "wordIndex": 3
+              },
+              {
+                "text": "were",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H1961}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H1961",
+                  "lemma": "הָיָה",
+                  "translit": "ha.yah",
+                  "morph": "H:V",
+                  "gloss": "to be 1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone",
+                  "raw": "H1961\tH1961 =\tH1961\tהָיָה\tha.yah\tH:V\tto be\t1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone"
+                }
+              },
+              {
+                "text": "HVqp3cp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1961",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1961",
+                  "lemma": "הָיָה",
+                  "translit": "ha.yah",
+                  "morph": "H:V",
+                  "gloss": "to be 1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone",
+                  "raw": "H1961\tH1961 =\tH1961\tהָיָה\tha.yah\tH:V\tto be\t1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone"
+                }
+              },
+              {
+                "text": "{H1961=הָיָה=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1961",
+                  "lemma": "הָיָה",
+                  "translit": "ha.yah",
+                  "morph": "H:V",
+                  "gloss": "to be 1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone",
+                  "raw": "H1961\tH1961 =\tH1961\tהָיָה\tha.yah\tH:V\tto be\t1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone"
+                }
+              },
+              {
+                "text": "be}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L הָיֽוּ\\׃ ha.Yu they were {H1961}\\H9016 HVqp3cp H1961 {H1961=הָיָה=to be}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 45,
           "text": "So all those who were counted from the Israelites according to their families, from those twenty years old and above, everyone in Israel who is able to go to war.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/יִשְׂרָאֵֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./Yis.ra.'El",
+                "wordIndex": 2
+              },
+              {
+                "text": "in/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Israel",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9003/{H3478}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3478_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#15=L בְּ/יִשְׂרָאֵֽל\\׃ be./Yis.ra.'El in/ Israel H9003/{H3478}\\H9016 HR/Npl H3478_B H9003=ב=in/{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 46,
           "text": "All of the ones counted were six hundred and three thousand, five hundred and fifty.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/חֲמִשִּֽׁים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./cha.mi.Shim",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "fifty",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9002/{H2572}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Acmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2572",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2572",
+                  "lemma": "חֲמִשִּׁים",
+                  "translit": "cha.mish.shim",
+                  "morph": "H:N",
+                  "gloss": "fifty 1) fifty<br>1a) fifty (cardinal number)<br>1b) a multiple of fifty (with other numbers)<br>1c) fiftieth (ordinal number)",
+                  "raw": "H2572\tH2572 =\tH2572\tחֲמִשִּׁים\tcha.mish.shim\tH:N\tfifty\t1) fifty<br>1a) fifty (cardinal number)<br>1b) a multiple of fifty (with other numbers)<br>1c) fiftieth (ordinal number)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H2572=חֲמִשִּׁים=fifty}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L וַ/חֲמִשִּֽׁים\\׃ va./cha.mi.Shim and/ fifty H9002/{H2572}\\H9016 HC/Acmpa H2572 H9002=ו=and/{H2572=חֲמִשִּׁים=fifty}\\H9016=׃=verseEnd"
+          }
         }
       ],
       "nirv": [
@@ -171,163 +2046,2038 @@
           "chapter": 1,
           "verse": 20,
           "text": "Here is the number of men from the tribe of Reuben, Israel’s oldest son.\nAll of the men who were able to serve in the army were counted. They were 20 years old or more. They were listed by name. They were listed one by one. They were listed in keeping with the records of their tribes and families.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 21,
           "text": "The number from the tribe of Reuben was 46,500.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵאֽוֹת\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "me.'ot",
+                "wordIndex": 3
+              },
+              {
+                "text": "hundred<s>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3967}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAcfpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L מֵאֽוֹת\\׃\\ \\פ me.'ot hundred<s> {H3967}\\H9016\\ \\H9017 HAcfpa H3967 {H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 22,
           "text": "Here is the number of men from the tribe of Simeon.\nAll of the men who were able to serve in the army were counted. They were 20 years old or more. They were listed by name. They were listed one by one. They were listed in keeping with the records of their tribes and families.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 23,
           "text": "The number from the tribe of Simeon was 59,300.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵאֽוֹת\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "me.'ot",
+                "wordIndex": 3
+              },
+              {
+                "text": "hundred<s>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3967}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAcfpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L מֵאֽוֹת\\׃\\ \\פ me.'ot hundred<s> {H3967}\\H9016\\ \\H9017 HAcfpa H3967 {H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 24,
           "text": "Here is the number of men from the tribe of Gad.\nAll of the men who were able to serve in the army were counted. They were 20 years old or more. They were listed by name. They were listed in keeping with the records of their tribes and families.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 25,
           "text": "The number from the tribe of Gad was 45,650.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/חֲמִשִּֽׁים\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "va./cha.mi.Shim",
+                "wordIndex": 3
+              },
+              {
+                "text": "and/",
+                "wordIndex": 4
+              },
+              {
+                "text": "fifty",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9002/{H2572}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HC/Acmpa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2572",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2572",
+                  "lemma": "חֲמִשִּׁים",
+                  "translit": "cha.mish.shim",
+                  "morph": "H:N",
+                  "gloss": "fifty 1) fifty<br>1a) fifty (cardinal number)<br>1b) a multiple of fifty (with other numbers)<br>1c) fiftieth (ordinal number)",
+                  "raw": "H2572\tH2572 =\tH2572\tחֲמִשִּׁים\tcha.mish.shim\tH:N\tfifty\t1) fifty<br>1a) fifty (cardinal number)<br>1b) a multiple of fifty (with other numbers)<br>1c) fiftieth (ordinal number)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H2572=חֲמִשִּׁים=fifty}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L וַ/חֲמִשִּֽׁים\\׃\\ \\פ va./cha.mi.Shim and/ fifty H9002/{H2572}\\H9016\\ \\H9017 HC/Acmpa H2572 H9002=ו=and/{H2572=חֲמִשִּׁים=fifty}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 26,
           "text": "Here is the number of men from the tribe of Judah.\nAll of the men who were able to serve in the army were counted. They were 20 years old or more. They were listed by name. They were listed in keeping with the records of their tribes and families.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 27,
           "text": "The number from the tribe of Judah was 74,600.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵאֽוֹת\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "me.'ot",
+                "wordIndex": 3
+              },
+              {
+                "text": "hundred<s>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3967}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAcfpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L מֵאֽוֹת\\׃\\ \\פ me.'ot hundred<s> {H3967}\\H9016\\ \\H9017 HAcfpa H3967 {H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 28,
           "text": "Here is the number of men from the tribe of Issachar.\nAll of the men who were able to serve in the army were counted. They were 20 years old or more. They were listed by name. They were listed in keeping with the records of their tribes and families.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 29,
           "text": "The number from the tribe of Issachar was 54,400.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵאֽוֹת\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "me.'ot",
+                "wordIndex": 3
+              },
+              {
+                "text": "hundred<s>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3967}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAcfpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L מֵאֽוֹת\\׃\\ \\פ me.'ot hundred<s> {H3967}\\H9016\\ \\H9017 HAcfpa H3967 {H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 30,
           "text": "Here is the number of men from the tribe of Zebulun.\nAll of the men who were able to serve in the army were counted. They were 20 years old or more. They were listed by name. They were listed in keeping with the records of their tribes and families.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 31,
           "text": "The number from the tribe of Zebulun was 57,400.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵאֽוֹת\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "me.'ot",
+                "wordIndex": 3
+              },
+              {
+                "text": "hundred<s>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3967}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAcfpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L מֵאֽוֹת\\׃\\ \\פ me.'ot hundred<s> {H3967}\\H9016\\ \\H9017 HAcfpa H3967 {H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 32,
           "text": "Here is the number of men from the tribe of Ephraim, the son of Joseph.\nAll of the men who were able to serve in the army were counted. They were 20 years old or more. They were listed by name. They were listed in keeping with the records of their tribes and families.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 33,
           "text": "The number from the tribe of Ephraim was 40,500.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵאֽוֹת\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "me.'ot",
+                "wordIndex": 3
+              },
+              {
+                "text": "hundred<s>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3967}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAcfpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L מֵאֽוֹת\\׃\\ \\פ me.'ot hundred<s> {H3967}\\H9016\\ \\H9017 HAcfpa H3967 {H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 34,
           "text": "Here is the number of men from the tribe of Manasseh, the son of Joseph.\nAll of the men who were able to serve in the army were counted. They were 20 years old or more. They were listed by name. They were listed in keeping with the records of their tribes and families.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 35,
           "text": "The number from the tribe of Manasseh was 32,200.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/מָאתָֽיִם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "u./ma.Ta.yim",
+                "wordIndex": 3
+              },
+              {
+                "text": "and/",
+                "wordIndex": 4
+              },
+              {
+                "text": "two",
+                "wordIndex": 5
+              },
+              {
+                "text": "hundred",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/{H3967}\\H9016\\",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HC/Acfda",
+                "wordIndex": 9
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L וּ/מָאתָֽיִם\\׃\\ \\פ u./ma.Ta.yim and/ two hundred H9002/{H3967}\\H9016\\ \\H9017 HC/Acfda H3967 H9002=ו=and/{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 36,
           "text": "Here is the number of men from the tribe of Benjamin.\nAll of the men who were able to serve in the army were counted. They were 20 years old or more. They were listed by name. They were listed in keeping with the records of their tribes and families.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 37,
           "text": "The number from the tribe of Benjamin was 35,400.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵאֽוֹת\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "me.'ot",
+                "wordIndex": 3
+              },
+              {
+                "text": "hundred<s>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3967}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAcfpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L מֵאֽוֹת\\׃\\ \\פ me.'ot hundred<s> {H3967}\\H9016\\ \\H9017 HAcfpa H3967 {H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 38,
           "text": "Here is the number of men from the tribe of Dan.\nAll of the men who were able to serve in the army were counted. They were 20 years old or more. They were listed by name. They were listed in keeping with the records of their tribes and families.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 39,
           "text": "The number from the tribe of Dan was 62,700.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵאֽוֹת\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "me.'ot",
+                "wordIndex": 3
+              },
+              {
+                "text": "hundred<s>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3967}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAcfpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L מֵאֽוֹת\\׃\\ \\פ me.'ot hundred<s> {H3967}\\H9016\\ \\H9017 HAcfpa H3967 {H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 40,
           "text": "Here is the number of men from the tribe of Asher.\nAll of the men who were able to serve in the army were counted. They were 20 years old or more. They were listed by name. They were listed in keeping with the records of their tribes and families.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 41,
           "text": "The number from the tribe of Asher was 41,500.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵאֽוֹת\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "me.'ot",
+                "wordIndex": 3
+              },
+              {
+                "text": "hundred<s>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3967}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAcfpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L מֵאֽוֹת\\׃\\ \\פ me.'ot hundred<s> {H3967}\\H9016\\ \\H9017 HAcfpa H3967 {H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 42,
           "text": "Here is the number of men from the tribe of Naphtali.\nAll of the men who were able to serve in the army were counted. They were 20 years old or more. They were listed by name. They were listed in keeping with the records of their tribes and families.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צָבָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "tza.Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "warfare",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6635H}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6635H",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H6635H=צָבָא=:",
+                "wordIndex": 7
+              },
+              {
+                "text": "war»army:2_war}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L צָבָֽא\\׃ tza.Va' warfare {H6635H}\\H9016 HNcmsa H6635H {H6635H=צָבָא=: war»army:2_war}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 43,
           "text": "The number from the tribe of Naphtali was 53,400.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵאֽוֹת\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "me.'ot",
+                "wordIndex": 3
+              },
+              {
+                "text": "hundred<s>",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H3967}\\H9016\\",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HAcfpa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3967",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "{H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3967",
+                  "lemma": "מֵאָה",
+                  "translit": "me.ah",
+                  "morph": "H:N-F",
+                  "gloss": "hundred 1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)",
+                  "raw": "H3967\tH3967 =\tH3967\tמֵאָה\tme.ah\tH:N-F\thundred\t1) hundred<br>1a) as simple number<br>1b) as part of larger number<br>1c) as a fraction-one one-hundredth (1/100)<BR>Aramaic equivalent: <i>me.ah</i> (מְאָה \"hundred\" H3969)"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L מֵאֽוֹת\\׃\\ \\פ me.'ot hundred<s> {H3967}\\H9016\\ \\H9017 HAcfpa H3967 {H3967=מֵאָה=hundred}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 1,
           "verse": 44,
           "text": "Those were the men Moses and Aaron counted. The 12 leaders of Israel helped them. There was one leader from each tribe.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָיֽוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha.Yu",
+                "wordIndex": 2
+              },
+              {
+                "text": "they",
+                "wordIndex": 3
+              },
+              {
+                "text": "were",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H1961}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H1961",
+                  "lemma": "הָיָה",
+                  "translit": "ha.yah",
+                  "morph": "H:V",
+                  "gloss": "to be 1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone",
+                  "raw": "H1961\tH1961 =\tH1961\tהָיָה\tha.yah\tH:V\tto be\t1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone"
+                }
+              },
+              {
+                "text": "HVqp3cp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1961",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1961",
+                  "lemma": "הָיָה",
+                  "translit": "ha.yah",
+                  "morph": "H:V",
+                  "gloss": "to be 1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone",
+                  "raw": "H1961\tH1961 =\tH1961\tהָיָה\tha.yah\tH:V\tto be\t1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone"
+                }
+              },
+              {
+                "text": "{H1961=הָיָה=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1961",
+                  "lemma": "הָיָה",
+                  "translit": "ha.yah",
+                  "morph": "H:V",
+                  "gloss": "to be 1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone",
+                  "raw": "H1961\tH1961 =\tH1961\tהָיָה\tha.yah\tH:V\tto be\t1) to be, become, come to pass, exist, happen, fall out<br>1a) (Qal)<br>1a1) ---<br>1a1a) to happen, fall out, occur, take place, come about, come to pass<br>1a1b) to come about, come to pass<br>1a2) to come into being, become<br>1a2a) to arise, appear, come<br>1a2b) to become<br>1a2b1) to become<br>1a2b2) to become like<br>1a2b3) to be instituted, be established<br>1a3) to be<br>1a3a) to exist, be in existence<br>1a3b) to abide, remain, continue (with word of place or time)<br>1a3c) to stand, lie, be in, be at, be situated (with word of locality)<br>1a3d) to accompany, be with<br>1b) (Niphal)<br>1b1) to occur, come to pass, be done, be brought about<br>1b2) to be done, be finished, be gone"
+                }
+              },
+              {
+                "text": "be}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L הָיֽוּ\\׃ ha.Yu they were {H1961}\\H9016 HVqp3cp H1961 {H1961=הָיָה=to be}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 45,
           "text": "The men who were counted were able to serve in Israel’s army. All of them were 20 years old or more. They were counted family by family.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/יִשְׂרָאֵֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./Yis.ra.'El",
+                "wordIndex": 2
+              },
+              {
+                "text": "in/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Israel",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9003/{H3478}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Npl",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3478_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#15=L בְּ/יִשְׂרָאֵֽל\\׃ be./Yis.ra.'El in/ Israel H9003/{H3478}\\H9016 HR/Npl H3478_B H9003=ב=in/{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 1,
           "verse": 46,
           "text": "The total number was 603,550.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/חֲמִשִּֽׁים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./cha.mi.Shim",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "fifty",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9002/{H2572}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Acmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2572",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2572",
+                  "lemma": "חֲמִשִּׁים",
+                  "translit": "cha.mish.shim",
+                  "morph": "H:N",
+                  "gloss": "fifty 1) fifty<br>1a) fifty (cardinal number)<br>1b) a multiple of fifty (with other numbers)<br>1c) fiftieth (ordinal number)",
+                  "raw": "H2572\tH2572 =\tH2572\tחֲמִשִּׁים\tcha.mish.shim\tH:N\tfifty\t1) fifty<br>1a) fifty (cardinal number)<br>1b) a multiple of fifty (with other numbers)<br>1c) fiftieth (ordinal number)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H2572=חֲמִשִּׁים=fifty}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#11=L וַ/חֲמִשִּֽׁים\\׃ va./cha.mi.Shim and/ fifty H9002/{H2572}\\H9016 HC/Acmpa H2572 H9002=ו=and/{H2572=חֲמִשִּׁים=fifty}\\H9016=׃=verseEnd"
+          }
         }
       ]
     }

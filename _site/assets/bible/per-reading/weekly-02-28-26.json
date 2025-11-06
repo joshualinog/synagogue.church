@@ -7,85 +7,1123 @@
           "chapter": 9,
           "verse": 1,
           "text": "Yahweh spoke to Moses in the desert of Sinai, in the second year after they came out from the land of Egypt, in the first month, saying,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L לֵ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 2,
           "text": "“Let the Israelites observe the Passover at its appointed time.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/מוֹעֲדֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./mo.'a.D/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "at/",
+                "wordIndex": 3
+              },
+              {
+                "text": "appointed",
+                "wordIndex": 4
+              },
+              {
+                "text": "time/",
+                "wordIndex": 5
+              },
+              {
+                "text": "its",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9003/{H4150G}/H9023\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H4150G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4150",
+                  "lemma": "מוֹעֵד",
+                  "translit": "mo.ed",
+                  "morph": "H:N-M",
+                  "gloss": "meeting: signal appointed : signal_appointed<br>1) appointed place, appointed time, meeting<br>1a) appointed time<br>1a1) appointed time (general)<br>1a2) sacred season, set feast, appointed season<br>1b) appointed meeting<br>1c) appointed place<br>1d) appointed sign or signal<br>1e) tent of meeting",
+                  "raw": "H4150\tH4150J = a Meaning of\tH4150I\tמוֹעֵד\tmo.ed\tH:N-M\tmeeting: signal appointed\t: signal_appointed<br>1) appointed place, appointed time, meeting<br>1a) appointed time<br>1a1) appointed time (general)<br>1a2) sacred season, set feast, appointed season<br>1b) appointed meeting<br>1c) appointed place<br>1d) appointed sign or signal<br>1e) tent of meeting"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H4150G=מוֹעֵד=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "time_appointed»meeting:3_time_appointed}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L בְּ/מוֹעֲדֽ/וֹ\\׃ be./mo.'a.D/o at/ appointed time/ its H9003/{H4150G}/H9023\\H9016 HR/Ncmsc/Sp3ms H4150G H9003=ב=in/{H4150G=מוֹעֵד=: time_appointed»meeting:3_time_appointed}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 3,
           "text": "On the fourteenth day of this month at twilight you will perform it at its appointed time according to all its decrees; and according to all its stipulations you will observe it.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֹתֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'o.T/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "<obj.>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "it",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0853}/H9033\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              },
+              {
+                "text": "HTo/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0853_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              },
+              {
+                "text": "{H0853=אֵת=[Obj.]}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L אֹתֽ/וֹ\\׃ 'o.T/o <obj.>/ it {H0853}/H9033\\H9016 HTo/Sp3ms H0853_B {H0853=אֵת=[Obj.]}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 4,
           "text": "So Moses spoke to the Israelites to observe the Passover.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/פָּֽסַח\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Pa.sach",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "passover",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H6453}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ntmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6453",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6453",
+                  "lemma": "פֶּ֫סַח",
+                  "translit": "pe.sach",
+                  "morph": "H:N-M",
+                  "gloss": "Passover Passover, <br>1a) sacrifice of passover<br>1b) animal victim of the passover<br>1c) festival of the passover<br><BR>Also named: <i>pascha</i> (πάσχα \"Passover lamb\" G3957) <BR>",
+                  "raw": "H6453\tH6453 =\tH6453\tפֶּ֫סַח\tpe.sach\tH:N-M\tPassover\tPassover, <br>1a) sacrifice of passover<br>1b) animal victim of the passover<br>1c) festival of the passover<br><BR>Also named: <i>pascha</i> (πάσχα \"Passover lamb\" G3957) <BR>"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H6453=פֶּ֫סַח=Passover»Passover@Exo.12.11-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L הַ/פָּֽסַח\\׃ ha./Pa.sach the/ passover H9009/{H6453}\\H9016 HTd/Ntmsa H6453 H9009=ה=the/{H6453=פֶּ֫סַח=Passover»Passover@Exo.12.11-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 5,
           "text": "And they observed the Passover on the fourteenth day of the month at twilight in the desert of Sinai. According to all that Yahweh commanded Moses, thus the Israelites did.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִשְׂרָאֵֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yis.ra.'El",
+                "wordIndex": 2
+              },
+              {
+                "text": "Israel",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3478}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3478",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#22=L יִשְׂרָאֵֽל\\׃ Yis.ra.'El Israel {H3478}\\H9016 HNpl H3478 {H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 6,
           "text": "And it happened, men who were unclean by a dead person were not able to perform the Passover on that day. And they came before Moses and Aaron on that day.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/הֽוּא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Hu'",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "that",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H1931}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Pp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1931_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L הַ/הֽוּא\\׃ ha./Hu' <the>/ that H9009/{H1931}\\H9016 HTd/Pp3ms H1931_B H9009=ה=the/{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 7,
           "text": "And those men said to him, “Although we are unclean by a dead person, why are we hindered from presenting the offering of Yahweh at its appointed time in the midst of the Israelites?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִשְׂרָאֵֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yis.ra.'El",
+                "wordIndex": 2
+              },
+              {
+                "text": "Israel",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3478}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3478",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L יִשְׂרָאֵֽל\\׃ Yis.ra.'El Israel {H3478}\\H9016 HNpl H3478 {H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 8,
           "text": "Moses said to them, “Stay. I will hear what Yahweh commands to you.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/כֶֽם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "la./Khem",
+                "wordIndex": 3
+              },
+              {
+                "text": "of",
+                "wordIndex": 4
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 5
+              },
+              {
+                "text": "you",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9005/{H9036}\\H9016\\",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HRd/Sp2mp",
+                "wordIndex": 9
+              },
+              {
+                "text": "H9036",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9036",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Op2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural",
+                  "raw": "H9036\tH9036 =\tH9036\tכֶם\tkhem\tOp2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L לָ/כֶֽם\\׃\\ \\פ la./Khem of <the>/ you H9005/{H9036}\\H9016\\ \\H9017 HRd/Sp2mp H9036 H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 9,
           "verse": 9,
           "text": "And Yahweh spoke to Moses, saying,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵּ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L לֵּ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 10,
           "text": "“Speak to the Israelites, saying, ‘Each man that is unclean by a dead person or is on a far journey, you or your descendants, he will observe the Passover of Yahweh.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לַ/יהוָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Yah.weh",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H3068G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Npt",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3068G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#20=L לַ/יהוָֽה\\׃ la./Yah.weh to/ Yahweh H9005/{H3068G}\\H9016 HR/Npt H3068G H9005=ל=to/{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 11,
           "text": "On the second month on the fourteenth day at twilight they will observe it; they will eat it with unleavened bread and bitter plants.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יֹאכְלֻֽ/הוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "yo.khe.Lu./hu",
+                "wordIndex": 2
+              },
+              {
+                "text": "they",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "eat/",
+                "wordIndex": 5
+              },
+              {
+                "text": "it",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H0398}/H9033\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "HVqi3mp/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H0398",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "{H0398=אָכַל=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "eat}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L יֹאכְלֻֽ/הוּ\\׃ yo.khe.Lu./hu they will eat/ it {H0398}/H9033\\H9016 HVqi3mp/Sp3ms H0398 {H0398=אָכַל=to eat}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 12,
           "text": "They will leave none of it until morning, and they will not break a bone in it; they will observe it according to every decree of the Passover.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֹתֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'o.T/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "<obj.>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "it",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0853}/H9033\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              },
+              {
+                "text": "HTo/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0853",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              },
+              {
+                "text": "{H0853=אֵת=[Obj.]}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L אֹתֽ/וֹ\\׃ 'o.T/o <obj.>/ it {H0853}/H9033\\H9016 HTo/Sp3ms H0853 {H0853=אֵת=[Obj.]}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 13,
           "text": "But the man who is clean and not on a journey, and he fails to observe the Passover, that person will be cut off from the people because he did not present the offering of Yahweh on its appointed time. That man will bear his guilt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#24=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/הֽוּא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Hu'",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "that",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H1931}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Pp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1931_C",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#24=L הַ/הֽוּא\\׃ ha./Hu' <the>/ that H9009/{H1931}\\H9016 HTd/Pp3ms H1931_C H9009=ה=the/{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 14,
           "text": "If an alien dwells with you he will observe the Passover of Yahweh according to the decree of the Passover and according to its stipulation; thus you will have one decree for you, for the alien and for the native of the land.’”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אָֽרֶץ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "ha./'A.retz",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "land",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H0776G}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L הָ/אָֽרֶץ\\׃\\ \\פ ha./'A.retz the/ land H9009/{H0776G}\\H9016\\ \\H9017 HTd/Ncfsa H0776G H9009=ה=the/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ],
       "nirv": [
@@ -93,85 +1131,1123 @@
           "chapter": 9,
           "verse": 1,
           "text": "The Lord spoke to Moses in the Desert of Sinai. It was the first month of the second year after the people came out of Egypt. He said,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L לֵ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 2,
           "text": "“Tell the people of Israel to celebrate the Passover Feast. Have them do it at the appointed time.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּ/מוֹעֲדֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be./mo.'a.D/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "at/",
+                "wordIndex": 3
+              },
+              {
+                "text": "appointed",
+                "wordIndex": 4
+              },
+              {
+                "text": "time/",
+                "wordIndex": 5
+              },
+              {
+                "text": "its",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9003/{H4150G}/H9023\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HR/Ncmsc/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H4150G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4150",
+                  "lemma": "מוֹעֵד",
+                  "translit": "mo.ed",
+                  "morph": "H:N-M",
+                  "gloss": "meeting: signal appointed : signal_appointed<br>1) appointed place, appointed time, meeting<br>1a) appointed time<br>1a1) appointed time (general)<br>1a2) sacred season, set feast, appointed season<br>1b) appointed meeting<br>1c) appointed place<br>1d) appointed sign or signal<br>1e) tent of meeting",
+                  "raw": "H4150\tH4150J = a Meaning of\tH4150I\tמוֹעֵד\tmo.ed\tH:N-M\tmeeting: signal appointed\t: signal_appointed<br>1) appointed place, appointed time, meeting<br>1a) appointed time<br>1a1) appointed time (general)<br>1a2) sacred season, set feast, appointed season<br>1b) appointed meeting<br>1c) appointed place<br>1d) appointed sign or signal<br>1e) tent of meeting"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H4150G=מוֹעֵד=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "time_appointed»meeting:3_time_appointed}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L בְּ/מוֹעֲדֽ/וֹ\\׃ be./mo.'a.D/o at/ appointed time/ its H9003/{H4150G}/H9023\\H9016 HR/Ncmsc/Sp3ms H4150G H9003=ב=in/{H4150G=מוֹעֵד=: time_appointed»meeting:3_time_appointed}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 3,
           "text": "Celebrate it when the sun goes down on the 14th day of this month. Obey all of its rules and laws.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֹתֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'o.T/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "<obj.>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "it",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0853}/H9033\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              },
+              {
+                "text": "HTo/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0853_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              },
+              {
+                "text": "{H0853=אֵת=[Obj.]}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L אֹתֽ/וֹ\\׃ 'o.T/o <obj.>/ it {H0853}/H9033\\H9016 HTo/Sp3ms H0853_B {H0853=אֵת=[Obj.]}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 4,
           "text": "So Moses told the people of Israel to celebrate the Passover Feast.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#07=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/פָּֽסַח\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Pa.sach",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "passover",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H6453}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ntmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6453",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6453",
+                  "lemma": "פֶּ֫סַח",
+                  "translit": "pe.sach",
+                  "morph": "H:N-M",
+                  "gloss": "Passover Passover, <br>1a) sacrifice of passover<br>1b) animal victim of the passover<br>1c) festival of the passover<br><BR>Also named: <i>pascha</i> (πάσχα \"Passover lamb\" G3957) <BR>",
+                  "raw": "H6453\tH6453 =\tH6453\tפֶּ֫סַח\tpe.sach\tH:N-M\tPassover\tPassover, <br>1a) sacrifice of passover<br>1b) animal victim of the passover<br>1c) festival of the passover<br><BR>Also named: <i>pascha</i> (πάσχα \"Passover lamb\" G3957) <BR>"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H6453=פֶּ֫סַח=Passover»Passover@Exo.12.11-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#07=L הַ/פָּֽסַח\\׃ ha./Pa.sach the/ passover H9009/{H6453}\\H9016 HTd/Ntmsa H6453 H9009=ה=the/{H6453=פֶּ֫סַח=Passover»Passover@Exo.12.11-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 5,
           "text": "They did it in the Desert of Sinai. They celebrated it when the sun went down on the 14th day of the first month. The people of Israel did everything just as the Lord had commanded Moses.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִשְׂרָאֵֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yis.ra.'El",
+                "wordIndex": 2
+              },
+              {
+                "text": "Israel",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3478}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3478",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#22=L יִשְׂרָאֵֽל\\׃ Yis.ra.'El Israel {H3478}\\H9016 HNpl H3478 {H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 6,
           "text": "But some of them couldn’t celebrate the Passover Feast on that day. That’s because they weren’t “clean.” They had gone near a dead body. So they came to Moses and Aaron that same day.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/הֽוּא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Hu'",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "that",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H1931}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Pp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1931_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L הַ/הֽוּא\\׃ ha./Hu' <the>/ that H9009/{H1931}\\H9016 HTd/Pp3ms H1931_B H9009=ה=the/{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 7,
           "text": "They said to Moses, “We went near a dead body. So we aren’t ‘clean.’ But why should we be kept from bringing the Lord’s offering at the appointed time? Why shouldn’t we bring it along with the other people of Israel?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִשְׂרָאֵֽל\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Yis.ra.'El",
+                "wordIndex": 2
+              },
+              {
+                "text": "Israel",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3478}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3478",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              },
+              {
+                "text": "{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3478",
+                  "lemma": "יִשְׂרָאֵל",
+                  "translit": "yis.ra.el",
+                  "morph": "N:N-M-P",
+                  "gloss": "Israel A man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>",
+                  "raw": "H3478\tH3478 =\tH3478\tיִשְׂרָאֵל\tyis.ra.el\tN:N-M-P\tIsrael\tA man living at the time of the Patriarchs, first mentioned at Gen.25.26; <br> son of: Isaac (H3327) and Rebekah (H7259); <br> brother of: Esau (H6215); married to Rachel (H7354), Leah (H3812), Zilpah (H2153) and Bilhah (H1090A); <br> father of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah (H3063), Dan (H1835H), Naphtali (H5321), Gad (H1410), Asher (H0836), Issachar (H3485), Zebulun (H2074), Dinah (H1783), Joseph (H3130) and Benjamin (H1144); also called Jacob frequently <BR> § Israel = \"God prevails\"<br>1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel<br>2) the name of the descendants and the nation of the descendants of Jacob<br>2a) the name of the nation until the death of Solomon and the split<br>2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah<br>2c) the name of the nation after the return from exile<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L יִשְׂרָאֵֽל\\׃ Yis.ra.'El Israel {H3478}\\H9016 HNpl H3478 {H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 8,
           "text": "Moses answered them, “Wait until I find out what the Lord wants you to do.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/כֶֽם\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "la./Khem",
+                "wordIndex": 3
+              },
+              {
+                "text": "of",
+                "wordIndex": 4
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 5
+              },
+              {
+                "text": "you",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9005/{H9036}\\H9016\\",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HRd/Sp2mp",
+                "wordIndex": 9
+              },
+              {
+                "text": "H9036",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9036",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Op2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural",
+                  "raw": "H9036\tH9036 =\tH9036\tכֶם\tkhem\tOp2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L לָ/כֶֽם\\׃\\ \\פ la./Khem of <the>/ you H9005/{H9036}\\H9016\\ \\H9017 HRd/Sp2mp H9036 H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         },
         {
           "chapter": 9,
           "verse": 9,
           "text": "Then the Lord spoke to Moses. He said,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֵּ/אמֹֽר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./Mor",
+                "wordIndex": 2
+              },
+              {
+                "text": "<to>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "saying",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H0559}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0559",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0559",
+                  "lemma": "אָמַר",
+                  "translit": "a.mar",
+                  "morph": "H:V",
+                  "gloss": "to say 1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)",
+                  "raw": "H0559\tH0559 =\tH0559\tאָמַר\ta.mar\tH:V\tto say\t1) to say, speak, utter<br>1a) (Qal) to say, to answer, to say in one's heart, to think, to command, to promise, to intend<br>1b) (Niphal) to be told, to be said, to be called<br>1c) (Hithpael) to boast, to act proudly<br>1d) (Hiphil) to avow, to avouch<BR>Aramaic equivalent: <i>a.mar</i> (אֲמַר \"to say\" H0560)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H0559=אָמַר=to",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "say}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L לֵּ/אמֹֽר\\׃ le./Mor <to>/ saying H9005/{H0559}\\H9016 HR/Vqcc H0559 H9005=ל=to/{H0559=אָמַר=to say}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 10,
           "text": "“Tell the people of Israel, ‘Suppose any of you or your children are not “clean” because you have gone near a dead body. Or suppose you are away on a journey. You can still celebrate the Lord’s Passover.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לַ/יהוָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Yah.weh",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9005/{H3068G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Npt",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3068G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#20=L לַ/יהוָֽה\\׃ la./Yah.weh to/ Yahweh H9005/{H3068G}\\H9016 HR/Npt H3068G H9005=ל=to/{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 11,
           "text": "“‘I want you to celebrate it on the 14th day of the second month. You have to do it when the sun goes down. You have to eat the lamb together with bread that is made without yeast. Eat it with bitter plants.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יֹאכְלֻֽ/הוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "yo.khe.Lu./hu",
+                "wordIndex": 2
+              },
+              {
+                "text": "they",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "eat/",
+                "wordIndex": 5
+              },
+              {
+                "text": "it",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H0398}/H9033\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "HVqi3mp/Sp3ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H0398",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "{H0398=אָכַל=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H0398",
+                  "lemma": "אָכַל",
+                  "translit": "a.khal",
+                  "morph": "H:V",
+                  "gloss": "to eat 1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)",
+                  "raw": "H0398\tH0398 =\tH0398\tאָכַל\ta.khal\tH:V\tto eat\t1) to eat, devour, burn up, feed<br>1a) (Qal)<br>1a1) to eat (human subject)<br>1a2) to eat, devour (of beasts and birds)<br>1a3) to devour, consume (of fire)<br>1a4) to devour, slay (of sword)<br>1a5) to devour, consume, destroy (inanimate subjects - ie, pestilence, drought)<br>1a6) to devour (of oppression)<br>1b) (Niphal)<br>1b1) to be eaten (by men)<br>1b2) to be devoured, consumed (of fire)<br>1b3) to be wasted, destroyed (of flesh)<br>1c) (Pual)<br>1c1) to cause to eat, feed with<br>1c2) to cause to devour<br>1d) (Hiphil)<br>1d1) to feed<br>1d2) to cause to eat<br>1e) (Piel)<br>1e1) consume<BR>Aramaic equivalent: <i>a.khal</i> (אֲכַל \"to devour\" H0399)"
+                }
+              },
+              {
+                "text": "eat}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9033",
+                  "lemma": "וֹ",
+                  "translit": "o",
+                  "morph": "Os3m",
+                  "gloss": "him Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular",
+                  "raw": "H9033\tH9033 =\tH9033\tוֹ\to\tOs3m\thim\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L יֹאכְלֻֽ/הוּ\\׃ yo.khe.Lu./hu they will eat/ it {H0398}/H9033\\H9016 HVqi3mp/Sp3ms H0398 {H0398=אָכַל=to eat}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 12,
           "text": "Do not leave any of it until morning. Do not break any of its bones. When you celebrate the Passover Feast, follow all of the rules.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֹתֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'o.T/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "<obj.>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "it",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0853}/H9033\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              },
+              {
+                "text": "HTo/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0853",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              },
+              {
+                "text": "{H0853=אֵת=[Obj.]}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0853",
+                  "lemma": "אֵת",
+                  "translit": "et",
+                  "morph": "H:Part",
+                  "gloss": "[Obj.] sign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)",
+                  "raw": "H0853\tH0853 =\tH0853\tאֵת\tet\tH:Part\t[Obj.]\tsign of the definite direct object, not translated in English but generally preceding and indicating the accusative<BR>Aramaic equivalent: <i>yat</i> (יָת \"whom\" H3487)"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L אֹתֽ/וֹ\\׃ 'o.T/o <obj.>/ it {H0853}/H9033\\H9016 HTo/Sp3ms H0853 {H0853=אֵת=[Obj.]}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 13,
           "text": "“‘But suppose a man is “clean.” He is not on a journey. And he fails to celebrate the Passover Feast. Then he must be cut off from the community of Israel. He did not bring the Lord’s offering at the appointed time. He will be punished for his sin.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#24=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/הֽוּא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Hu'",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "that",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H1931}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Pp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1931_C",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1931",
+                  "lemma": "הוּא",
+                  "translit": "hu",
+                  "morph": "H:PerP-CS",
+                  "gloss": "he/she/it pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)",
+                  "raw": "H1931\tH1931 =\tH1931\tהוּא\thu\tH:PerP-CS\the/she/it\tpron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2) that (with article)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#24=L הַ/הֽוּא\\׃ ha./Hu' <the>/ that H9009/{H1931}\\H9016 HTd/Pp3ms H1931_C H9009=ה=the/{H1931=הוּא=he;_she;_it}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 9,
           "verse": 14,
           "text": "“‘What if there is an outsider living among you? And what if he wants to celebrate the Lord’s Passover? Then he must obey its rules and laws. You must have the same laws for outsiders as you do for the people of Israel.’”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אָֽרֶץ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "ha./'A.retz",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "land",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H0776G}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L הָ/אָֽרֶץ\\׃\\ \\פ ha./'A.retz the/ land H9009/{H0776G}\\H9016\\ \\H9017 HTd/Ncfsa H0776G H9009=ה=the/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ]
     }

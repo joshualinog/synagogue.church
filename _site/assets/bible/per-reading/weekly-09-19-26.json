@@ -7,49 +7,489 @@
           "chapter": 22,
           "verse": 13,
           "text": "Balaam got up in the morning, and he said to the princes of Balak, “Go to your land, because Yahweh refused to allow me to go with you.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עִמָּ/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'i.ma./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "with/",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5973A}/H9036\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HRd/Sp2mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5973A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H5973A=עִם=with}/H9036=Op2m=you\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#16=L עִמָּ/כֶֽם\\׃ 'i.ma./Khem with/ you {H5973A}/H9036\\H9016 HRd/Sp2mp H5973A {H5973A=עִם=with}/H9036=Op2m=you\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 22,
           "verse": 14,
           "text": "The princes of Moab got up and went to Balak, and they said, “Balaam refused to come with us.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עִמָּֽ/נוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'i.Ma./nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "with/",
+                "wordIndex": 3
+              },
+              {
+                "text": "us",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5973A}/H9035\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HRd/Sp1bp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5973A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H5973A=עִם=with}/H9035=Op1c=us\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#11=L עִמָּֽ/נוּ\\׃ 'i.Ma./nu with/ us {H5973A}/H9035\\H9016 HRd/Sp1bp H5973A {H5973A=עִם=with}/H9035=Op1c=us\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 22,
           "verse": 15,
           "text": "Balak again sent many princes, who were more honored than the former.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵ/אֵֽלֶּה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "me./'E.leh",
+                "wordIndex": 2
+              },
+              {
+                "text": "more",
+                "wordIndex": 3
+              },
+              {
+                "text": "than/",
+                "wordIndex": 4
+              },
+              {
+                "text": "these",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9006/{H0428}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "HR/Tm",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0428",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0428",
+                  "lemma": "אֵ֫לֶּה",
+                  "translit": "el.leh",
+                  "morph": "H:DemP",
+                  "gloss": "these 1) these<br>1a) used before antecedent<br>1b) used following antecedent<BR>Aramaic equivalent: <i>el.leh</i> (אֵלֶּה \"these\" H0429)",
+                  "raw": "H0428\tH0428 =\tH0428\tאֵ֫לֶּה\tel.leh\tH:DemP\tthese\t1) these<br>1a) used before antecedent<br>1b) used following antecedent<BR>Aramaic equivalent: <i>el.leh</i> (אֵלֶּה \"these\" H0429)"
+                }
+              },
+              {
+                "text": "H9006=מ=from/{H0428=אֵ֫לֶּה=these}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L מֵ/אֵֽלֶּה\\׃ me./'E.leh more than/ these H9006/{H0428}\\H9016 HR/Tm H0428 H9006=מ=from/{H0428=אֵ֫לֶּה=these}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 22,
           "verse": 16,
           "text": "They came to Balaam and said to him, “Thus says Balak son of Zippor, ‘Please, let nothing keep you from coming to me",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֵלָֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.La/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "me",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0413}/H9030\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0413",
+                  "lemma": "אֶל",
+                  "translit": "el",
+                  "morph": "H:Prep",
+                  "gloss": "to(wards) 1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)",
+                  "raw": "H0413\tH0413 =\tH0413\tאֶל\tel\tH:Prep\tto(wards)\t1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)"
+                }
+              },
+              {
+                "text": "HRd/Sp1bs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0413_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0413",
+                  "lemma": "אֶל",
+                  "translit": "el",
+                  "morph": "H:Prep",
+                  "gloss": "to(wards) 1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)",
+                  "raw": "H0413\tH0413 =\tH0413\tאֶל\tel\tH:Prep\tto(wards)\t1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)"
+                }
+              },
+              {
+                "text": "{H0413=אֶל=to(wards)}/H9030=Os1c=me\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0413",
+                  "lemma": "אֶל",
+                  "translit": "el",
+                  "morph": "H:Prep",
+                  "gloss": "to(wards) 1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)",
+                  "raw": "H0413\tH0413 =\tH0413\tאֶל\tel\tH:Prep\tto(wards)\t1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L אֵלָֽ/י\\׃ 'e.La/i to/ me {H0413}/H9030\\H9016 HRd/Sp1bs H0413_B {H0413=אֶל=to(wards)}/H9030=Os1c=me\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 22,
           "verse": 17,
           "text": "because I will surely honor you greatly, and all that you say to me I will do. Please, come; curse this people for me.’”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/זֶּֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Zeh",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "this",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2088}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Tm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2088",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2088",
+                  "lemma": "זֶה",
+                  "translit": "zeh",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2088\tH2088 =\tH2088\tזֶה\tzeh\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L הַ/זֶּֽה\\׃ ha./Zeh <the>/ this H9009/{H2088}\\H9016 HTd/Tm H2088 H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 22,
           "verse": 18,
           "text": "Balaam answered and said to the servants of Balak, “Even though Balak gives to me his house full of silver and gold, I am not able to go beyond the command of Yahweh my God to do a little or a lot.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#25=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "גְדוֹלָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ge.do.Lah",
+                "wordIndex": 2
+              },
+              {
+                "text": "a",
+                "wordIndex": 3
+              },
+              {
+                "text": "large",
+                "wordIndex": 4
+              },
+              {
+                "text": "[thing]",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H1419A}\\H9016",
+                "wordIndex": 6
+              },
+              {
+                "text": "HAafsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1419A",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H1419A=גַּל=:",
+                "wordIndex": 9
+              },
+              {
+                "text": "large»great:1_large}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#25=L גְדוֹלָֽה\\׃ ge.do.Lah a large [thing] {H1419A}\\H9016 HAafsa H1419A {H1419A=גַּל=: large»great:1_large}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 22,
           "verse": 19,
           "text": "And now please, you also stay here the night, and let me find out again what Yahweh will say with me.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עִמִּֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'i.M/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "with/",
+                "wordIndex": 3
+              },
+              {
+                "text": "me",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5973A}/H9030\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HRd/Sp1bs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5973A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H5973A=עִם=with}/H9030=Os1c=me\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#13=L עִמִּֽ/י\\׃ 'i.M/i with/ me {H5973A}/H9030\\H9016 HRd/Sp1bs H5973A {H5973A=עִם=with}/H9030=Os1c=me\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 22,
           "verse": 20,
           "text": "And God came to Balaam at night, and he said to him, “If the men have come to call you, get up and go with them; but only the word that I will speak to you, you will do.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תַעֲשֶֽׂה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ta.'a.Seh",
+                "wordIndex": 2
+              },
+              {
+                "text": "you",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "do",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H6213A}\\H9016",
+                "wordIndex": 6
+              },
+              {
+                "text": "HVqi2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H6213A",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H6213A=עָשָׂה=:",
+                "wordIndex": 9
+              },
+              {
+                "text": "do»to",
+                "wordIndex": 10
+              },
+              {
+                "text": "make:2_do;_perform}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#23=L תַעֲשֶֽׂה\\׃ ta.'a.Seh you will do {H6213A}\\H9016 HVqi2ms H6213A {H6213A=עָשָׂה=: do»to make:2_do;_perform}\\H9016=׃=verseEnd"
+          }
         }
       ],
       "nirv": [
@@ -57,49 +497,489 @@
           "chapter": 22,
           "verse": 13,
           "text": "The next morning Balaam got up. He said to Balak’s princes, “Go back to your own country. The Lord won’t let me go with you.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עִמָּ/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'i.ma./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "with/",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5973A}/H9036\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HRd/Sp2mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5973A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H5973A=עִם=with}/H9036=Op2m=you\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#16=L עִמָּ/כֶֽם\\׃ 'i.ma./Khem with/ you {H5973A}/H9036\\H9016 HRd/Sp2mp H5973A {H5973A=עִם=with}/H9036=Op2m=you\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 22,
           "verse": 14,
           "text": "So the princes of Moab returned to Balak. They said, “Balaam wouldn’t come with us.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עִמָּֽ/נוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'i.Ma./nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "with/",
+                "wordIndex": 3
+              },
+              {
+                "text": "us",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5973A}/H9035\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HRd/Sp1bp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5973A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H5973A=עִם=with}/H9035=Op1c=us\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#11=L עִמָּֽ/נוּ\\׃ 'i.Ma./nu with/ us {H5973A}/H9035\\H9016 HRd/Sp1bp H5973A {H5973A=עִם=with}/H9035=Op1c=us\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 22,
           "verse": 15,
           "text": "Then Balak sent other princes. They were more important than the first ones. And there were more of them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מֵ/אֵֽלֶּה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "me./'E.leh",
+                "wordIndex": 2
+              },
+              {
+                "text": "more",
+                "wordIndex": 3
+              },
+              {
+                "text": "than/",
+                "wordIndex": 4
+              },
+              {
+                "text": "these",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9006/{H0428}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              },
+              {
+                "text": "HR/Tm",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0428",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0428",
+                  "lemma": "אֵ֫לֶּה",
+                  "translit": "el.leh",
+                  "morph": "H:DemP",
+                  "gloss": "these 1) these<br>1a) used before antecedent<br>1b) used following antecedent<BR>Aramaic equivalent: <i>el.leh</i> (אֵלֶּה \"these\" H0429)",
+                  "raw": "H0428\tH0428 =\tH0428\tאֵ֫לֶּה\tel.leh\tH:DemP\tthese\t1) these<br>1a) used before antecedent<br>1b) used following antecedent<BR>Aramaic equivalent: <i>el.leh</i> (אֵלֶּה \"these\" H0429)"
+                }
+              },
+              {
+                "text": "H9006=מ=from/{H0428=אֵ֫לֶּה=these}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9006",
+                  "lemma": "/מ",
+                  "translit": "m",
+                  "morph": "Prefix",
+                  "gloss": "from Prefix mem: from",
+                  "raw": "H9006\tH9006 =\tH9006\t/מ\tm\tPrefix\tfrom\tPrefix mem: from"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L מֵ/אֵֽלֶּה\\׃ me./'E.leh more than/ these H9006/{H0428}\\H9016 HR/Tm H0428 H9006=מ=from/{H0428=אֵ֫לֶּה=these}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 22,
           "verse": 16,
           "text": "They came to Balaam. They said,\n“Balak, the son of Zippor, says, ‘Don’t let anything keep you from coming to me.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֵלָֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.La/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "me",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0413}/H9030\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0413",
+                  "lemma": "אֶל",
+                  "translit": "el",
+                  "morph": "H:Prep",
+                  "gloss": "to(wards) 1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)",
+                  "raw": "H0413\tH0413 =\tH0413\tאֶל\tel\tH:Prep\tto(wards)\t1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)"
+                }
+              },
+              {
+                "text": "HRd/Sp1bs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0413_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0413",
+                  "lemma": "אֶל",
+                  "translit": "el",
+                  "morph": "H:Prep",
+                  "gloss": "to(wards) 1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)",
+                  "raw": "H0413\tH0413 =\tH0413\tאֶל\tel\tH:Prep\tto(wards)\t1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)"
+                }
+              },
+              {
+                "text": "{H0413=אֶל=to(wards)}/H9030=Os1c=me\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0413",
+                  "lemma": "אֶל",
+                  "translit": "el",
+                  "morph": "H:Prep",
+                  "gloss": "to(wards) 1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)",
+                  "raw": "H0413\tH0413 =\tH0413\tאֶל\tel\tH:Prep\tto(wards)\t1) to, toward, unto (of motion)<br>2) into (limit is actually entered)<br>2a) in among<br>3) toward (of direction, not necessarily physical motion)<br>4) against (motion or direction of a hostile character)<br>5) in addition to, to<br>6) concerning, in regard to, in reference to, on account of<br>7) according to (rule or standard)<br>8) at, by, against (of one's presence)<br>9) in between, in within, to within, unto (idea of motion to)"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L אֵלָֽ/י\\׃ 'e.La/i to/ me {H0413}/H9030\\H9016 HRd/Sp1bs H0413_B {H0413=אֶל=to(wards)}/H9030=Os1c=me\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 22,
           "verse": 17,
           "text": "I’ll make you very rich. I’ll do anything you say. Come. Put a curse on those people for me.’”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/זֶּֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Zeh",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "this",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2088}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Tm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2088",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2088",
+                  "lemma": "זֶה",
+                  "translit": "zeh",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2088\tH2088 =\tH2088\tזֶה\tzeh\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, another, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L הַ/זֶּֽה\\׃ ha./Zeh <the>/ this H9009/{H2088}\\H9016 HTd/Tm H2088 H9009=ה=the/{H2088=זֶה=this}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 22,
           "verse": 18,
           "text": "But Balaam gave them his answer. He said, “Balak could give me his palace filled with silver and gold. Even then, I still couldn’t do anything at all that goes beyond what the Lord my God commands.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#25=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "גְדוֹלָֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ge.do.Lah",
+                "wordIndex": 2
+              },
+              {
+                "text": "a",
+                "wordIndex": 3
+              },
+              {
+                "text": "large",
+                "wordIndex": 4
+              },
+              {
+                "text": "[thing]",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H1419A}\\H9016",
+                "wordIndex": 6
+              },
+              {
+                "text": "HAafsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1419A",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H1419A=גַּל=:",
+                "wordIndex": 9
+              },
+              {
+                "text": "large»great:1_large}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#25=L גְדוֹלָֽה\\׃ ge.do.Lah a large [thing] {H1419A}\\H9016 HAafsa H1419A {H1419A=גַּל=: large»great:1_large}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 22,
           "verse": 19,
           "text": "Stay here tonight, just as the others did. I’ll find out what else the Lord will tell me.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עִמִּֽ/י\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'i.M/i",
+                "wordIndex": 2
+              },
+              {
+                "text": "with/",
+                "wordIndex": 3
+              },
+              {
+                "text": "me",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5973A}/H9030\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HRd/Sp1bs",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5973A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H5973A=עִם=with}/H9030=Os1c=me\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#13=L עִמִּֽ/י\\׃ 'i.M/i with/ me {H5973A}/H9030\\H9016 HRd/Sp1bs H5973A {H5973A=עִם=with}/H9030=Os1c=me\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 22,
           "verse": 20,
           "text": "That night God came to Balaam. He said, “These men have come to get you. So go with them. But do only what I tell you to do.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#23=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "תַעֲשֶֽׂה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ta.'a.Seh",
+                "wordIndex": 2
+              },
+              {
+                "text": "you",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "do",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H6213A}\\H9016",
+                "wordIndex": 6
+              },
+              {
+                "text": "HVqi2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H6213A",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H6213A=עָשָׂה=:",
+                "wordIndex": 9
+              },
+              {
+                "text": "do»to",
+                "wordIndex": 10
+              },
+              {
+                "text": "make:2_do;_perform}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#23=L תַעֲשֶֽׂה\\׃ ta.'a.Seh you will do {H6213A}\\H9016 HVqi2ms H6213A {H6213A=עָשָׂה=: do»to make:2_do;_perform}\\H9016=׃=verseEnd"
+          }
         }
       ]
     }

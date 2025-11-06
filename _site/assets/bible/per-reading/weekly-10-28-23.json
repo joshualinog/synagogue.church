@@ -7,49 +7,633 @@
           "chapter": 12,
           "verse": 21,
           "text": "And Moses called all the elders of Israel, and he said to them, “Select and take for yourselves sheep for your clans and slaughter the Passover sacrifice.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/פָּֽסַח\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Pa.sach",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "passover",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H6453}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ntmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6453",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6453",
+                  "lemma": "פֶּ֫סַח",
+                  "translit": "pe.sach",
+                  "morph": "H:N-M",
+                  "gloss": "Passover Passover, <br>1a) sacrifice of passover<br>1b) animal victim of the passover<br>1c) festival of the passover<br><BR>Also named: <i>pascha</i> (πάσχα \"Passover lamb\" G3957) <BR>",
+                  "raw": "H6453\tH6453 =\tH6453\tפֶּ֫סַח\tpe.sach\tH:N-M\tPassover\tPassover, <br>1a) sacrifice of passover<br>1b) animal victim of the passover<br>1c) festival of the passover<br><BR>Also named: <i>pascha</i> (πάσχα \"Passover lamb\" G3957) <BR>"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H6453=פֶּ֫סַח=Passover»Passover@Exo.12.11-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L הַ/פָּֽסַח\\׃ ha./Pa.sach the/ passover H9009/{H6453}\\H9016 HTd/Ntmsa H6453 H9009=ה=the/{H6453=פֶּ֫סַח=Passover»Passover@Exo.12.11-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 12,
           "verse": 22,
           "text": "And take a bunch of hyssop and dip it into the blood that is in the basin and apply some of the blood that is in the basin to the lintel and the two doorposts. And you will not go out, anyone from the doorway of his house, until morning.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#25=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בֹּֽקֶר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Bo.ker",
+                "wordIndex": 2
+              },
+              {
+                "text": "morning",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1242}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1242",
+                  "lemma": "בֹּ֫קֶר",
+                  "translit": "bo.qer",
+                  "morph": "H:N-M",
+                  "gloss": "morning 1) morning, break of day<br>1a) morning<br>1a1) of end of night<br>1a2) of coming of daylight<br>1a3) of coming of sunrise<br>1a4) of beginning of day<br>1a5) of bright joy after night of distress (fig.)<br>1b) morrow, next day, next morning",
+                  "raw": "H1242\tH1242 =\tH1242\tבֹּ֫קֶר\tbo.qer\tH:N-M\tmorning\t1) morning, break of day<br>1a) morning<br>1a1) of end of night<br>1a2) of coming of daylight<br>1a3) of coming of sunrise<br>1a4) of beginning of day<br>1a5) of bright joy after night of distress (fig.)<br>1b) morrow, next day, next morning"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1242",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1242",
+                  "lemma": "בֹּ֫קֶר",
+                  "translit": "bo.qer",
+                  "morph": "H:N-M",
+                  "gloss": "morning 1) morning, break of day<br>1a) morning<br>1a1) of end of night<br>1a2) of coming of daylight<br>1a3) of coming of sunrise<br>1a4) of beginning of day<br>1a5) of bright joy after night of distress (fig.)<br>1b) morrow, next day, next morning",
+                  "raw": "H1242\tH1242 =\tH1242\tבֹּ֫קֶר\tbo.qer\tH:N-M\tmorning\t1) morning, break of day<br>1a) morning<br>1a1) of end of night<br>1a2) of coming of daylight<br>1a3) of coming of sunrise<br>1a4) of beginning of day<br>1a5) of bright joy after night of distress (fig.)<br>1b) morrow, next day, next morning"
+                }
+              },
+              {
+                "text": "{H1242=בֹּ֫קֶר=morning}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1242",
+                  "lemma": "בֹּ֫קֶר",
+                  "translit": "bo.qer",
+                  "morph": "H:N-M",
+                  "gloss": "morning 1) morning, break of day<br>1a) morning<br>1a1) of end of night<br>1a2) of coming of daylight<br>1a3) of coming of sunrise<br>1a4) of beginning of day<br>1a5) of bright joy after night of distress (fig.)<br>1b) morrow, next day, next morning",
+                  "raw": "H1242\tH1242 =\tH1242\tבֹּ֫קֶר\tbo.qer\tH:N-M\tmorning\t1) morning, break of day<br>1a) morning<br>1a1) of end of night<br>1a2) of coming of daylight<br>1a3) of coming of sunrise<br>1a4) of beginning of day<br>1a5) of bright joy after night of distress (fig.)<br>1b) morrow, next day, next morning"
+                }
+              }
+            ],
+            "originalVerseText": "#25=L בֹּֽקֶר\\׃ Bo.ker morning {H1242}\\H9016 HNcmsa H1242 {H1242=בֹּ֫קֶר=morning}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 12,
           "verse": 23,
           "text": "And Yahweh will go through to strike Egypt, and he will see the blood on the lintel and on the two doorposts, and Yahweh will pass over the doorway and will not allow the destroyer to come to your houses to strike you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#24=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לִ/נְגֹּֽף\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "li/n.Gof",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "strike",
+                "wordIndex": 4
+              },
+              {
+                "text": "[you]",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H5062}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5062_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H5062",
+                  "lemma": "נָגַף",
+                  "translit": "na.gaph",
+                  "morph": "H:V",
+                  "gloss": "to strike 1) to strike, smite<br>1a) (Qal) to strike, smite<br>1b) (Niphal) to be stricken, be smitten<br>1c) (Hithpael) to stumble",
+                  "raw": "H5062\tH5062 =\tH5062\tנָגַף\tna.gaph\tH:V\tto strike\t1) to strike, smite<br>1a) (Qal) to strike, smite<br>1b) (Niphal) to be stricken, be smitten<br>1c) (Hithpael) to stumble"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H5062=נָגַף=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "strike}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#24=L לִ/נְגֹּֽף\\׃ li/n.Gof to/ strike [you] H9005/{H5062}\\H9016 HR/Vqcc H5062_B H9005=ל=to/{H5062=נָגַף=to strike}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 12,
           "verse": 24,
           "text": "“And you will keep this event as a rule for you and for your children forever.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עוֹלָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "o.Lam",
+                "wordIndex": 2
+              },
+              {
+                "text": "perpetuity",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5769G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5769G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "{H5769G=עוֹלָם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L עוֹלָֽם\\׃ o.Lam perpetuity {H5769G}\\H9016 HNcmsa H5769G {H5769G=עוֹלָם=: enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 12,
           "verse": 25,
           "text": "And when you come into the land that Yahweh will give to you, as he said, you will keep this religious custom.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/זֹּֽאת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Zot",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "this",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2063}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Tm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2063",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2063",
+                  "lemma": "זֹאת",
+                  "translit": "zot",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2063\tH2063 =\tH2063\tזֹאת\tzot\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2063=זֹאת=this}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L הַ/זֹּֽאת\\׃ ha./Zot <the>/ this H9009/{H2063}\\H9016 HTd/Tm H2063 H9009=ה=the/{H2063=זֹאת=this}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 12,
           "verse": 26,
           "text": "And when your children say to you, ‘What is this religious custom for you?’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "you",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9036}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9036",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9036",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Op2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural",
+                  "raw": "H9036\tH9036 =\tH9036\tכֶם\tkhem\tOp2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#09=L לָ/כֶֽם\\׃ la./Khem to <the>/ you H9005/{H9036}\\H9016 HRd/Sp2mp H9036 H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 12,
           "verse": 27,
           "text": "you will say, ‘It is a Passover sacrifice for Yahweh, who passed over the houses of the Israelites in Egypt when he struck Egypt; and he delivered our houses.’” And the people knelt down and they worshiped.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/יִּֽשְׁתַּחֲוּֽוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va/i.Yish.ta.cha.Vu",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "they",
+                "wordIndex": 4
+              },
+              {
+                "text": "bowed",
+                "wordIndex": 5
+              },
+              {
+                "text": "down",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H7812}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vvw3mp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H7812",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H7812",
+                  "lemma": "שָׁחָה",
+                  "translit": "sha.chah",
+                  "morph": "H:V",
+                  "gloss": "to bow 1) to bow down<br>1a) (Qal) to bow down<br>1b)(Hiphil) to depress (fig)<br>1c) (Hithpael)<br>1c1) to bow down, prostrate oneself<br>1c1a) before superior in homage<br>1c1b) before God in worship<br>1c1c) before false gods<br>1c1d) before angel",
+                  "raw": "H7812\tH7812 =\tH7812\tשָׁחָה\tsha.chah\tH:V\tto bow\t1) to bow down<br>1a) (Qal) to bow down<br>1b)(Hiphil) to depress (fig)<br>1c) (Hithpael)<br>1c1) to bow down, prostrate oneself<br>1c1a) before superior in homage<br>1c1b) before God in worship<br>1c1c) before false gods<br>1c1d) before angel"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H7812=שָׁחָה=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "bow}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L וַ/יִּֽשְׁתַּחֲוּֽוּ\\׃ va/i.Yish.ta.cha.Vu and/ they bowed down H9001/{H7812}\\H9016 Hc/Vvw3mp H7812 H9001=ו=&/{H7812=שָׁחָה=to bow}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 12,
           "verse": 28,
           "text": "And the Israelites went, and they did as Yahweh had commanded Moses and Aaron; so they did.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עָשֽׂוּ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Su",
+                "wordIndex": 3
+              },
+              {
+                "text": "they",
+                "wordIndex": 4
+              },
+              {
+                "text": "did",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H6213A}\\H9016\\",
+                "wordIndex": 6
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HVqp3cp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H6213A_B",
+                "wordIndex": 9
+              },
+              {
+                "text": "{H6213A=עָשָׂה=:",
+                "wordIndex": 10
+              },
+              {
+                "text": "do»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "make:2_do;_perform}\\H9016=׃=verseEnd\\",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L עָשֽׂוּ\\׃\\ \\ס 'a.Su they did {H6213A}\\H9016\\ \\H9018 HVqp3cp H6213A_B {H6213A=עָשָׂה=: do»to make:2_do;_perform}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         }
       ],
       "nirv": [
@@ -57,49 +641,633 @@
           "chapter": 12,
           "verse": 21,
           "text": "Then Moses sent for all of the elders of Israel. He said to them, “Go at once. Choose the animals for your families. Each family must kill a Passover lamb.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/פָּֽסַח\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Pa.sach",
+                "wordIndex": 2
+              },
+              {
+                "text": "the/",
+                "wordIndex": 3
+              },
+              {
+                "text": "passover",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H6453}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ntmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H6453",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6453",
+                  "lemma": "פֶּ֫סַח",
+                  "translit": "pe.sach",
+                  "morph": "H:N-M",
+                  "gloss": "Passover Passover, <br>1a) sacrifice of passover<br>1b) animal victim of the passover<br>1c) festival of the passover<br><BR>Also named: <i>pascha</i> (πάσχα \"Passover lamb\" G3957) <BR>",
+                  "raw": "H6453\tH6453 =\tH6453\tפֶּ֫סַח\tpe.sach\tH:N-M\tPassover\tPassover, <br>1a) sacrifice of passover<br>1b) animal victim of the passover<br>1c) festival of the passover<br><BR>Also named: <i>pascha</i> (πάσχα \"Passover lamb\" G3957) <BR>"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H6453=פֶּ֫סַח=Passover»Passover@Exo.12.11-Heb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L הַ/פָּֽסַח\\׃ ha./Pa.sach the/ passover H9009/{H6453}\\H9016 HTd/Ntmsa H6453 H9009=ה=the/{H6453=פֶּ֫סַח=Passover»Passover@Exo.12.11-Heb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 12,
           "verse": 22,
           "text": "Get a branch of a hyssop plant. Dip it into the blood in the bowl. Put some of the blood on the top and on both sides of the doorframe. None of you can go out the door of your house until morning.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#25=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בֹּֽקֶר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Bo.ker",
+                "wordIndex": 2
+              },
+              {
+                "text": "morning",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H1242}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H1242",
+                  "lemma": "בֹּ֫קֶר",
+                  "translit": "bo.qer",
+                  "morph": "H:N-M",
+                  "gloss": "morning 1) morning, break of day<br>1a) morning<br>1a1) of end of night<br>1a2) of coming of daylight<br>1a3) of coming of sunrise<br>1a4) of beginning of day<br>1a5) of bright joy after night of distress (fig.)<br>1b) morrow, next day, next morning",
+                  "raw": "H1242\tH1242 =\tH1242\tבֹּ֫קֶר\tbo.qer\tH:N-M\tmorning\t1) morning, break of day<br>1a) morning<br>1a1) of end of night<br>1a2) of coming of daylight<br>1a3) of coming of sunrise<br>1a4) of beginning of day<br>1a5) of bright joy after night of distress (fig.)<br>1b) morrow, next day, next morning"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H1242",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H1242",
+                  "lemma": "בֹּ֫קֶר",
+                  "translit": "bo.qer",
+                  "morph": "H:N-M",
+                  "gloss": "morning 1) morning, break of day<br>1a) morning<br>1a1) of end of night<br>1a2) of coming of daylight<br>1a3) of coming of sunrise<br>1a4) of beginning of day<br>1a5) of bright joy after night of distress (fig.)<br>1b) morrow, next day, next morning",
+                  "raw": "H1242\tH1242 =\tH1242\tבֹּ֫קֶר\tbo.qer\tH:N-M\tmorning\t1) morning, break of day<br>1a) morning<br>1a1) of end of night<br>1a2) of coming of daylight<br>1a3) of coming of sunrise<br>1a4) of beginning of day<br>1a5) of bright joy after night of distress (fig.)<br>1b) morrow, next day, next morning"
+                }
+              },
+              {
+                "text": "{H1242=בֹּ֫קֶר=morning}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1242",
+                  "lemma": "בֹּ֫קֶר",
+                  "translit": "bo.qer",
+                  "morph": "H:N-M",
+                  "gloss": "morning 1) morning, break of day<br>1a) morning<br>1a1) of end of night<br>1a2) of coming of daylight<br>1a3) of coming of sunrise<br>1a4) of beginning of day<br>1a5) of bright joy after night of distress (fig.)<br>1b) morrow, next day, next morning",
+                  "raw": "H1242\tH1242 =\tH1242\tבֹּ֫קֶר\tbo.qer\tH:N-M\tmorning\t1) morning, break of day<br>1a) morning<br>1a1) of end of night<br>1a2) of coming of daylight<br>1a3) of coming of sunrise<br>1a4) of beginning of day<br>1a5) of bright joy after night of distress (fig.)<br>1b) morrow, next day, next morning"
+                }
+              }
+            ],
+            "originalVerseText": "#25=L בֹּֽקֶר\\׃ Bo.ker morning {H1242}\\H9016 HNcmsa H1242 {H1242=בֹּ֫קֶר=morning}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 12,
           "verse": 23,
           "text": "“The Lord will go through the land to strike the Egyptians down. He’ll see the blood on the top and sides of the doorframe. He will pass over that house. He won’t let the destroying angel enter your homes to kill you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#24=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לִ/נְגֹּֽף\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "li/n.Gof",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "strike",
+                "wordIndex": 4
+              },
+              {
+                "text": "[you]",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H5062}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5062_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H5062",
+                  "lemma": "נָגַף",
+                  "translit": "na.gaph",
+                  "morph": "H:V",
+                  "gloss": "to strike 1) to strike, smite<br>1a) (Qal) to strike, smite<br>1b) (Niphal) to be stricken, be smitten<br>1c) (Hithpael) to stumble",
+                  "raw": "H5062\tH5062 =\tH5062\tנָגַף\tna.gaph\tH:V\tto strike\t1) to strike, smite<br>1a) (Qal) to strike, smite<br>1b) (Niphal) to be stricken, be smitten<br>1c) (Hithpael) to stumble"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H5062=נָגַף=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "strike}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#24=L לִ/נְגֹּֽף\\׃ li/n.Gof to/ strike [you] H9005/{H5062}\\H9016 HR/Vqcc H5062_B H9005=ל=to/{H5062=נָגַף=to strike}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 12,
           "verse": 24,
           "text": "“Obey all of these directions. It’s a law for you and your children after you for all time to come.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עוֹלָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "o.Lam",
+                "wordIndex": 2
+              },
+              {
+                "text": "perpetuity",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5769G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5769G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "{H5769G=עוֹלָם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L עוֹלָֽם\\׃ o.Lam perpetuity {H5769G}\\H9016 HNcmsa H5769G {H5769G=עוֹלָם=: enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 12,
           "verse": 25,
           "text": "The Lord will give you the land, just as he promised. When you enter it, keep this holy day.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/זֹּֽאת\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ha./Zot",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "this",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H2063}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Tm",
+                "wordIndex": 6
+              },
+              {
+                "text": "H2063",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H2063",
+                  "lemma": "זֹאת",
+                  "translit": "zot",
+                  "morph": "H:DemP",
+                  "gloss": "this 1) this, this one, here, which, this...that, the one...the other, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how",
+                  "raw": "H2063\tH2063 =\tH2063\tזֹאת\tzot\tH:DemP\tthis\t1) this, this one, here, which, this...that, the one...the other, such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other, another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this, such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8) now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter<br>1f3) thus and thus<br>1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus<br>1f5) from here, hence, on one side...on the other side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2063=זֹאת=this}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L הַ/זֹּֽאת\\׃ ha./Zot <the>/ this H9009/{H2063}\\H9016 HTd/Tm H2063 H9009=ה=the/{H2063=זֹאת=this}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 12,
           "verse": 26,
           "text": "“Your children will ask you, ‘What does this holy day mean to you?’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "you",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9036}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9036",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9036",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Op2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural",
+                  "raw": "H9036\tH9036 =\tH9036\tכֶם\tkhem\tOp2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#09=L לָ/כֶֽם\\׃ la./Khem to <the>/ you H9005/{H9036}\\H9016 HRd/Sp2mp H9036 H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 12,
           "verse": 27,
           "text": "Tell them, ‘It’s the Passover sacrifice in honor of the Lord. He passed over the houses of the people of Israel in Egypt. He spared our homes when he struck the Egyptians down.’”\nThen the people of Israel bowed down and worshiped.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וַ/יִּֽשְׁתַּחֲוּֽוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va/i.Yish.ta.cha.Vu",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "they",
+                "wordIndex": 4
+              },
+              {
+                "text": "bowed",
+                "wordIndex": 5
+              },
+              {
+                "text": "down",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9001/{H7812}\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vvw3mp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H7812",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H7812",
+                  "lemma": "שָׁחָה",
+                  "translit": "sha.chah",
+                  "morph": "H:V",
+                  "gloss": "to bow 1) to bow down<br>1a) (Qal) to bow down<br>1b)(Hiphil) to depress (fig)<br>1c) (Hithpael)<br>1c1) to bow down, prostrate oneself<br>1c1a) before superior in homage<br>1c1b) before God in worship<br>1c1c) before false gods<br>1c1d) before angel",
+                  "raw": "H7812\tH7812 =\tH7812\tשָׁחָה\tsha.chah\tH:V\tto bow\t1) to bow down<br>1a) (Qal) to bow down<br>1b)(Hiphil) to depress (fig)<br>1c) (Hithpael)<br>1c1) to bow down, prostrate oneself<br>1c1a) before superior in homage<br>1c1b) before God in worship<br>1c1c) before false gods<br>1c1d) before angel"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H7812=שָׁחָה=to",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "bow}\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L וַ/יִּֽשְׁתַּחֲוּֽוּ\\׃ va/i.Yish.ta.cha.Vu and/ they bowed down H9001/{H7812}\\H9016 Hc/Vvw3mp H7812 H9001=ו=&/{H7812=שָׁחָה=to bow}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 12,
           "verse": 28,
           "text": "They did just what the Lord commanded Moses and Aaron.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עָשֽׂוּ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "'a.Su",
+                "wordIndex": 3
+              },
+              {
+                "text": "they",
+                "wordIndex": 4
+              },
+              {
+                "text": "did",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H6213A}\\H9016\\",
+                "wordIndex": 6
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HVqp3cp",
+                "wordIndex": 8
+              },
+              {
+                "text": "H6213A_B",
+                "wordIndex": 9
+              },
+              {
+                "text": "{H6213A=עָשָׂה=:",
+                "wordIndex": 10
+              },
+              {
+                "text": "do»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "make:2_do;_perform}\\H9016=׃=verseEnd\\",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L עָשֽׂוּ\\׃\\ \\ס 'a.Su they did {H6213A}\\H9016\\ \\H9018 HVqp3cp H6213A_B {H6213A=עָשָׂה=: do»to make:2_do;_perform}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         }
       ]
     }

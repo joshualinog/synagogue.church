@@ -7,37 +7,483 @@
           "chapter": 28,
           "verse": 58,
           "text": "“If you do not diligently observe all the words of this law written in this scroll by revering this glorious and awesome name, Yahweh your God,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֱלֹהֶֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.lo.Hei./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "God/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0430G}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0430G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L אֱלֹהֶֽי/ךָ\\׃ 'e.lo.Hei./kha God/ your {H0430G}/H9021\\H9016 HNcmpc/Sp2ms H0430G {H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 59,
           "text": "then Yahweh shall overwhelm you with your plagues and the plagues of your offspring, severe plagues and lasting illnesses, grievous and enduring.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/נֶאֱמָנִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./ne.'e.ma.Nim",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "lasting",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9002/{H0539}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/VNrmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0539_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0539",
+                  "lemma": "אָמַן",
+                  "translit": "a.man",
+                  "morph": "H:V",
+                  "gloss": "be faithful 1) to support, confirm, be faithful<br>1a) (Qal)<br>1a1) to support, confirm, be faithful, uphold, nourish<br>1a1a) foster-father (subst.)<br>1a1b) foster-mother, nurse<br>1a1c) pillars, supporters of the door<br>1b) (Niphal)<br>1b1) to be established, be faithful, be carried, make firm<br>1b1a) to be carried by a nurse<br>1b1b) made firm, sure, lasting<br>1b1c) confirmed, established, sure<br>1b1d) verified, confirmed<br>1b1e) reliable, faithful, trusty<br>1c) (Hiphil)<br>1c1) to stand firm, to trust, to be certain, to believe in<br>1c1a) stand firm<br>1c1b) trust, believe<BR>Aramaic equivalent: <i>a.man</i> (אֲמַן \"to trust\" H0540)",
+                  "raw": "H0539\tH0539 =\tH0539\tאָמַן\ta.man\tH:V\tbe faithful\t1) to support, confirm, be faithful<br>1a) (Qal)<br>1a1) to support, confirm, be faithful, uphold, nourish<br>1a1a) foster-father (subst.)<br>1a1b) foster-mother, nurse<br>1a1c) pillars, supporters of the door<br>1b) (Niphal)<br>1b1) to be established, be faithful, be carried, make firm<br>1b1a) to be carried by a nurse<br>1b1b) made firm, sure, lasting<br>1b1c) confirmed, established, sure<br>1b1d) verified, confirmed<br>1b1e) reliable, faithful, trusty<br>1c) (Hiphil)<br>1c1) to stand firm, to trust, to be certain, to believe in<br>1c1a) stand firm<br>1c1b) trust, believe<BR>Aramaic equivalent: <i>a.man</i> (אֲמַן \"to trust\" H0540)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H0539=אָמַן=be",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "faithful}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L וְ/נֶאֱמָנִֽים\\׃ ve./ne.'e.ma.Nim and/ lasting H9002/{H0539}\\H9016 HC/VNrmpa H0539_B H9002=ו=and/{H0539=אָמַן=be faithful}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 60,
           "text": "And he shall bring back upon you all the diseases of Egypt concerning which you were in dread because of them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּֽ/ךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ba/kh",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9003/{H9031}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9031_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9031",
+                  "lemma": "ךָּ",
+                  "translit": "ka",
+                  "morph": "Os2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine singular",
+                  "raw": "H9031\tH9031 =\tH9031\tךָּ\tka\tOs2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine singular"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H9031=Os2m=you}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#11=L בָּֽ/ךְ\\׃ Ba/kh to/ you H9003/{H9031}\\H9016 HRd/Sp2ms H9031_B H9003=ב=in/{H9031=Os2m=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 61,
           "text": "Also any illness and any plague that is not written in the scroll of this law, he shall bring them, Yahweh, upon you until you are destroyed.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הִשָּׁמְדָֽ/ךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hi.sha.me.Da/kh",
+                "wordIndex": 2
+              },
+              {
+                "text": "being",
+                "wordIndex": 3
+              },
+              {
+                "text": "destroyed/",
+                "wordIndex": 4
+              },
+              {
+                "text": "you",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H8045}/H9041\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H8045",
+                  "lemma": "שָׁמַד",
+                  "translit": "sha.mad",
+                  "morph": "H:V",
+                  "gloss": "to destroy 1) to destroy, exterminate, be destroyed, be exterminated<br>1a) (Niphal)<br>1a1) to be annihilated, be exterminated<br>1a2) to be destroyed, be devastated<br>1b) (Hiphil)<br>1b1) to annihilate, exterminate<br>1b2) to destroy<BR>Aramaic equivalent: <i>she.mad</i> (שְׁמַד \"to destroy\" H8046)",
+                  "raw": "H8045\tH8045 =\tH8045\tשָׁמַד\tsha.mad\tH:V\tto destroy\t1) to destroy, exterminate, be destroyed, be exterminated<br>1a) (Niphal)<br>1a1) to be annihilated, be exterminated<br>1a2) to be destroyed, be devastated<br>1b) (Hiphil)<br>1b1) to annihilate, exterminate<br>1b2) to destroy<BR>Aramaic equivalent: <i>she.mad</i> (שְׁמַד \"to destroy\" H8046)"
+                }
+              },
+              {
+                "text": "HVNcc/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H8045",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H8045",
+                  "lemma": "שָׁמַד",
+                  "translit": "sha.mad",
+                  "morph": "H:V",
+                  "gloss": "to destroy 1) to destroy, exterminate, be destroyed, be exterminated<br>1a) (Niphal)<br>1a1) to be annihilated, be exterminated<br>1a2) to be destroyed, be devastated<br>1b) (Hiphil)<br>1b1) to annihilate, exterminate<br>1b2) to destroy<BR>Aramaic equivalent: <i>she.mad</i> (שְׁמַד \"to destroy\" H8046)",
+                  "raw": "H8045\tH8045 =\tH8045\tשָׁמַד\tsha.mad\tH:V\tto destroy\t1) to destroy, exterminate, be destroyed, be exterminated<br>1a) (Niphal)<br>1a1) to be annihilated, be exterminated<br>1a2) to be destroyed, be devastated<br>1b) (Hiphil)<br>1b1) to annihilate, exterminate<br>1b2) to destroy<BR>Aramaic equivalent: <i>she.mad</i> (שְׁמַד \"to destroy\" H8046)"
+                }
+              },
+              {
+                "text": "{H8045=שָׁמַד=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H8045",
+                  "lemma": "שָׁמַד",
+                  "translit": "sha.mad",
+                  "morph": "H:V",
+                  "gloss": "to destroy 1) to destroy, exterminate, be destroyed, be exterminated<br>1a) (Niphal)<br>1a1) to be annihilated, be exterminated<br>1a2) to be destroyed, be devastated<br>1b) (Hiphil)<br>1b1) to annihilate, exterminate<br>1b2) to destroy<BR>Aramaic equivalent: <i>she.mad</i> (שְׁמַד \"to destroy\" H8046)",
+                  "raw": "H8045\tH8045 =\tH8045\tשָׁמַד\tsha.mad\tH:V\tto destroy\t1) to destroy, exterminate, be destroyed, be exterminated<br>1a) (Niphal)<br>1a1) to be annihilated, be exterminated<br>1a2) to be destroyed, be devastated<br>1b) (Hiphil)<br>1b1) to annihilate, exterminate<br>1b2) to destroy<BR>Aramaic equivalent: <i>she.mad</i> (שְׁמַד \"to destroy\" H8046)"
+                }
+              },
+              {
+                "text": "destroy}/H9041=Ss2m=you\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9041",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ss2m",
+                  "gloss": "you Personal subject pronoun -  suffix for some adverbs and infinitives:  2nd person masculine singular",
+                  "raw": "H9041\tH9041 =\tH9041\tךָ\tkha\tSs2m\tyou\tPersonal subject pronoun -  suffix for some adverbs and infinitives:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L הִשָּׁמְדָֽ/ךְ\\׃ hi.sha.me.Da/kh being destroyed/ you {H8045}/H9041\\H9016 HVNcc/Sp2ms H8045 {H8045=שָׁמַד=to destroy}/H9041=Ss2m=you\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 62,
           "text": "And you shall remain only a few people in place of the fact you were formerly as the stars of heaven as far as number is concerned, because you did not listen to the voice of Yahweh your God.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֱלֹהֶֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.lo.Hei./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "God/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0430G}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0430G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L אֱלֹהֶֽי/ךָ\\׃ 'e.lo.Hei./kha God/ your {H0430G}/H9021\\H9016 HNcmpc/Sp2ms H0430G {H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 63,
           "text": "And then as Yahweh delighted over you to make you prosperous to make you numerous, so Yahweh shall delight over you to exterminate you and to destroy you, and so you shall be plucked from the land that you are going there to take possession of it.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#25=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/רִשְׁתָּֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./rish.Ta/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "take",
+                "wordIndex": 4
+              },
+              {
+                "text": "possession",
+                "wordIndex": 5
+              },
+              {
+                "text": "of/",
+                "wordIndex": 6
+              },
+              {
+                "text": "it",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9005/{H3423H}/H9034\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc/Sp3fs",
+                "wordIndex": 9
+              },
+              {
+                "text": "H3423H",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H3423",
+                  "lemma": "יָרַשׁ",
+                  "translit": "ya.rash",
+                  "morph": "H:V",
+                  "gloss": "to possess: poor : poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit",
+                  "raw": "H3423\tH3423I = a Meaning of\tH3423G\tיָרַשׁ\tya.rash\tH:V\tto possess: poor\t: poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H3423H=יָרַשׁ=:",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "take»to",
+                "wordIndex": 12
+              },
+              {
+                "text": "possess:2_take;_conquer;_drive_out}/H9034=Os3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9034",
+                  "lemma": "הָ",
+                  "translit": "ha",
+                  "morph": "Os3f",
+                  "gloss": "her Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular",
+                  "raw": "H9034\tH9034 =\tH9034\tהָ\tha\tOs3f\ther\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#25=L לְ/רִשְׁתָּֽ/הּ\\׃ le./rish.Ta/h to/ take possession of/ it H9005/{H3423H}/H9034\\H9016 HR/Vqcc/Sp3fs H3423H H9005=ל=to/{H3423H=יָרַשׁ=: take»to possess:2_take;_conquer;_drive_out}/H9034=Os3f=her\\H9016=׃=verseEnd"
+          }
         }
       ],
       "nirv": [
@@ -45,37 +491,483 @@
           "chapter": 28,
           "verse": 58,
           "text": "Be careful to follow all of the words of this law. They are written in this scroll. Have respect for the glorious and wonderful name of the Lord your God. If you don’t,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֱלֹהֶֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.lo.Hei./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "God/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0430G}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0430G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              }
+            ],
+            "originalVerseText": "#21=L אֱלֹהֶֽי/ךָ\\׃ 'e.lo.Hei./kha God/ your {H0430G}/H9021\\H9016 HNcmpc/Sp2ms H0430G {H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 59,
           "text": "he will send terrible plagues on you and your children after you. He’ll send horrible and lasting troubles. He’ll make you very sick for a long time.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/נֶאֱמָנִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./ne.'e.ma.Nim",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "lasting",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9002/{H0539}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/VNrmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0539_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0539",
+                  "lemma": "אָמַן",
+                  "translit": "a.man",
+                  "morph": "H:V",
+                  "gloss": "be faithful 1) to support, confirm, be faithful<br>1a) (Qal)<br>1a1) to support, confirm, be faithful, uphold, nourish<br>1a1a) foster-father (subst.)<br>1a1b) foster-mother, nurse<br>1a1c) pillars, supporters of the door<br>1b) (Niphal)<br>1b1) to be established, be faithful, be carried, make firm<br>1b1a) to be carried by a nurse<br>1b1b) made firm, sure, lasting<br>1b1c) confirmed, established, sure<br>1b1d) verified, confirmed<br>1b1e) reliable, faithful, trusty<br>1c) (Hiphil)<br>1c1) to stand firm, to trust, to be certain, to believe in<br>1c1a) stand firm<br>1c1b) trust, believe<BR>Aramaic equivalent: <i>a.man</i> (אֲמַן \"to trust\" H0540)",
+                  "raw": "H0539\tH0539 =\tH0539\tאָמַן\ta.man\tH:V\tbe faithful\t1) to support, confirm, be faithful<br>1a) (Qal)<br>1a1) to support, confirm, be faithful, uphold, nourish<br>1a1a) foster-father (subst.)<br>1a1b) foster-mother, nurse<br>1a1c) pillars, supporters of the door<br>1b) (Niphal)<br>1b1) to be established, be faithful, be carried, make firm<br>1b1a) to be carried by a nurse<br>1b1b) made firm, sure, lasting<br>1b1c) confirmed, established, sure<br>1b1d) verified, confirmed<br>1b1e) reliable, faithful, trusty<br>1c) (Hiphil)<br>1c1) to stand firm, to trust, to be certain, to believe in<br>1c1a) stand firm<br>1c1b) trust, believe<BR>Aramaic equivalent: <i>a.man</i> (אֲמַן \"to trust\" H0540)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H0539=אָמַן=be",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "faithful}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L וְ/נֶאֱמָנִֽים\\׃ ve./ne.'e.ma.Nim and/ lasting H9002/{H0539}\\H9016 HC/VNrmpa H0539_B H9002=ו=and/{H0539=אָמַן=be faithful}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 60,
           "text": "He’ll bring on you all of the sicknesses you were afraid of getting when you were in Egypt. You won’t be able to get rid of them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּֽ/ךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ba/kh",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9003/{H9031}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9031_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9031",
+                  "lemma": "ךָּ",
+                  "translit": "ka",
+                  "morph": "Os2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine singular",
+                  "raw": "H9031\tH9031 =\tH9031\tךָּ\tka\tOs2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine singular"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H9031=Os2m=you}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#11=L בָּֽ/ךְ\\׃ Ba/kh to/ you H9003/{H9031}\\H9016 HRd/Sp2ms H9031_B H9003=ב=in/{H9031=Os2m=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 61,
           "text": "The Lord will also bring on you all of the other kinds of sickness and trouble I haven’t written down in this Scroll of the Law. You will be destroyed.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הִשָּׁמְדָֽ/ךְ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hi.sha.me.Da/kh",
+                "wordIndex": 2
+              },
+              {
+                "text": "being",
+                "wordIndex": 3
+              },
+              {
+                "text": "destroyed/",
+                "wordIndex": 4
+              },
+              {
+                "text": "you",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H8045}/H9041\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H8045",
+                  "lemma": "שָׁמַד",
+                  "translit": "sha.mad",
+                  "morph": "H:V",
+                  "gloss": "to destroy 1) to destroy, exterminate, be destroyed, be exterminated<br>1a) (Niphal)<br>1a1) to be annihilated, be exterminated<br>1a2) to be destroyed, be devastated<br>1b) (Hiphil)<br>1b1) to annihilate, exterminate<br>1b2) to destroy<BR>Aramaic equivalent: <i>she.mad</i> (שְׁמַד \"to destroy\" H8046)",
+                  "raw": "H8045\tH8045 =\tH8045\tשָׁמַד\tsha.mad\tH:V\tto destroy\t1) to destroy, exterminate, be destroyed, be exterminated<br>1a) (Niphal)<br>1a1) to be annihilated, be exterminated<br>1a2) to be destroyed, be devastated<br>1b) (Hiphil)<br>1b1) to annihilate, exterminate<br>1b2) to destroy<BR>Aramaic equivalent: <i>she.mad</i> (שְׁמַד \"to destroy\" H8046)"
+                }
+              },
+              {
+                "text": "HVNcc/Sp2ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H8045",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H8045",
+                  "lemma": "שָׁמַד",
+                  "translit": "sha.mad",
+                  "morph": "H:V",
+                  "gloss": "to destroy 1) to destroy, exterminate, be destroyed, be exterminated<br>1a) (Niphal)<br>1a1) to be annihilated, be exterminated<br>1a2) to be destroyed, be devastated<br>1b) (Hiphil)<br>1b1) to annihilate, exterminate<br>1b2) to destroy<BR>Aramaic equivalent: <i>she.mad</i> (שְׁמַד \"to destroy\" H8046)",
+                  "raw": "H8045\tH8045 =\tH8045\tשָׁמַד\tsha.mad\tH:V\tto destroy\t1) to destroy, exterminate, be destroyed, be exterminated<br>1a) (Niphal)<br>1a1) to be annihilated, be exterminated<br>1a2) to be destroyed, be devastated<br>1b) (Hiphil)<br>1b1) to annihilate, exterminate<br>1b2) to destroy<BR>Aramaic equivalent: <i>she.mad</i> (שְׁמַד \"to destroy\" H8046)"
+                }
+              },
+              {
+                "text": "{H8045=שָׁמַד=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H8045",
+                  "lemma": "שָׁמַד",
+                  "translit": "sha.mad",
+                  "morph": "H:V",
+                  "gloss": "to destroy 1) to destroy, exterminate, be destroyed, be exterminated<br>1a) (Niphal)<br>1a1) to be annihilated, be exterminated<br>1a2) to be destroyed, be devastated<br>1b) (Hiphil)<br>1b1) to annihilate, exterminate<br>1b2) to destroy<BR>Aramaic equivalent: <i>she.mad</i> (שְׁמַד \"to destroy\" H8046)",
+                  "raw": "H8045\tH8045 =\tH8045\tשָׁמַד\tsha.mad\tH:V\tto destroy\t1) to destroy, exterminate, be destroyed, be exterminated<br>1a) (Niphal)<br>1a1) to be annihilated, be exterminated<br>1a2) to be destroyed, be devastated<br>1b) (Hiphil)<br>1b1) to annihilate, exterminate<br>1b2) to destroy<BR>Aramaic equivalent: <i>she.mad</i> (שְׁמַד \"to destroy\" H8046)"
+                }
+              },
+              {
+                "text": "destroy}/H9041=Ss2m=you\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9041",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ss2m",
+                  "gloss": "you Personal subject pronoun -  suffix for some adverbs and infinitives:  2nd person masculine singular",
+                  "raw": "H9041\tH9041 =\tH9041\tךָ\tkha\tSs2m\tyou\tPersonal subject pronoun -  suffix for some adverbs and infinitives:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L הִשָּׁמְדָֽ/ךְ\\׃ hi.sha.me.Da/kh being destroyed/ you {H8045}/H9041\\H9016 HVNcc/Sp2ms H8045 {H8045=שָׁמַד=to destroy}/H9041=Ss2m=you\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 62,
           "text": "At one time you were as many as the stars in the sky. But there will only be a few of you left. That’s because you didn’t obey the Lord your God.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֱלֹהֶֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.lo.Hei./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "God/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0430G}/H9021\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp2ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0430G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              },
+              {
+                "text": "{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0430",
+                  "lemma": "אֱלֹהִים",
+                  "translit": "e.lo.him",
+                  "morph": "H:N-M",
+                  "gloss": "(Gibeath)-elohim <BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)",
+                  "raw": "H0430\tH0430I = a Part of\tH1389G\tאֱלֹהִים\te.lo.him\tH:N-M\t(Gibeath)-elohim\t<BR>Combined with <i>giv.ah</i> (גִּבְעָה \"Gibeath\" H1389)"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L אֱלֹהֶֽי/ךָ\\׃ 'e.lo.Hei./kha God/ your {H0430G}/H9021\\H9016 HNcmpc/Sp2ms H0430G {H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 28,
           "verse": 63,
           "text": "It pleased the Lord to give you success and to increase your numbers. But it will please him just as much to wipe you out and destroy you. You will be removed from the land you are entering to take as your own.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#25=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לְ/רִשְׁתָּֽ/הּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "le./rish.Ta/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "to/",
+                "wordIndex": 3
+              },
+              {
+                "text": "take",
+                "wordIndex": 4
+              },
+              {
+                "text": "possession",
+                "wordIndex": 5
+              },
+              {
+                "text": "of/",
+                "wordIndex": 6
+              },
+              {
+                "text": "it",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9005/{H3423H}/H9034\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HR/Vqcc/Sp3fs",
+                "wordIndex": 9
+              },
+              {
+                "text": "H3423H",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H3423",
+                  "lemma": "יָרַשׁ",
+                  "translit": "ya.rash",
+                  "morph": "H:V",
+                  "gloss": "to possess: poor : poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit",
+                  "raw": "H3423\tH3423I = a Meaning of\tH3423G\tיָרַשׁ\tya.rash\tH:V\tto possess: poor\t: poor/conquered<br>1) to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir<br>1a) (Qal)<br>1a1) to take possession of<br>1a2) to inherit<br>1a3) to impoverish, come to poverty, be poor<br>1b) (Niphal) to be dispossessed, be impoverished, come to poverty<br>1c) (Piel) to devour<br>1d) (Hiphil)<br>1d1) to cause to possess or inherit<br>1d2) to cause others to possess or inherit<br>1d3) to impoverish<br>1d4) to dispossess<br>1d5) to destroy, bring to ruin, disinherit"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H3423H=יָרַשׁ=:",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "take»to",
+                "wordIndex": 12
+              },
+              {
+                "text": "possess:2_take;_conquer;_drive_out}/H9034=Os3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9034",
+                  "lemma": "הָ",
+                  "translit": "ha",
+                  "morph": "Os3f",
+                  "gloss": "her Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular",
+                  "raw": "H9034\tH9034 =\tH9034\tהָ\tha\tOs3f\ther\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#25=L לְ/רִשְׁתָּֽ/הּ\\׃ le./rish.Ta/h to/ take possession of/ it H9005/{H3423H}/H9034\\H9016 HR/Vqcc/Sp3fs H3423H H9005=ל=to/{H3423H=יָרַשׁ=: take»to possess:2_take;_conquer;_drive_out}/H9034=Os3f=her\\H9016=׃=verseEnd"
+          }
         }
       ]
     }

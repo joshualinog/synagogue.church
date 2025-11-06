@@ -7,85 +7,1111 @@
           "chapter": 13,
           "verse": 5,
           "text": "And Lot, who went with Abram, also had herds and tents.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/אֹהָלִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./'o.ha.Lim",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "tents",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9002/{H0168G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Ncmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0168G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0168",
+                  "lemma": "אֹ֫הֶל",
+                  "translit": "o.hel",
+                  "morph": "H:N-M",
+                  "gloss": "tent: home : home<br>1) tent<br>1a) nomad's tent, and thus symbolic of wilderness life, transience<br>1b) dwelling, home, habitation<br>1c) the sacred tent of Jehovah (the tabernacle)",
+                  "raw": "H0168\tH0168H = a Meaning of\tH0168G\tאֹ֫הֶל\to.hel\tH:N-M\ttent: home\t: home<br>1) tent<br>1a) nomad's tent, and thus symbolic of wilderness life, transience<br>1b) dwelling, home, habitation<br>1c) the sacred tent of Jehovah (the tabernacle)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H0168G=אֹ֫הֶל=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "tent»tent:1_tent}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L וְ/אֹהָלִֽים\\׃ ve./'o.ha.Lim and/ tents H9002/{H0168G}\\H9016 HC/Ncmpa H0168G H9002=ו=and/{H0168G=אֹ֫הֶל=: tent»tent:1_tent}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 6,
           "text": "And the land could not support them so as to live together, because their possessions were so many that they were not able to live together.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יַחְדָּֽו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "yach.Dav",
+                "wordIndex": 2
+              },
+              {
+                "text": "together",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3162B}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HD",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3162B_B",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H3162B=יָחְדָּו=together}\\H9016=׃=verseEnd",
+                "wordIndex": 7
+              }
+            ],
+            "originalVerseText": "#14=L יַחְדָּֽו\\׃ yach.Dav together {H3162B}\\H9016 HD H3162B_B {H3162B=יָחְדָּו=together}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 7,
           "text": "And there was a quarrel between the herdsmen of the livestock of Abram and the herdsmen of the livestock of Lot. Now at that time the Canaanites and the Perizzites were living in the land.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּ/אָֽרֶץ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba./'A.retz",
+                "wordIndex": 2
+              },
+              {
+                "text": "in",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "land",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H0776G}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Ncfsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L בָּ/אָֽרֶץ\\׃ ba./'A.retz in the/ land H9003/{H0776G}\\H9016 HRd/Ncfsa H0776G H9003=ב=in/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 8,
           "text": "Then Abram said to Lot, “Please, let there not be quarreling between me and you, and between my shepherds and your shepherds, for we men are brothers.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֲנָֽחְנוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.Na.che.nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "we",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0587}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0587",
+                  "lemma": "אֲנַ֫חְנוּ",
+                  "translit": "a.nach.nu",
+                  "morph": "H:PerP-CP",
+                  "gloss": "we we (first pers. pl. -usually used for emphasis)",
+                  "raw": "H0587\tH0587 =\tH0587\tאֲנַ֫חְנוּ\ta.nach.nu\tH:PerP-CP\twe\twe (first pers. pl. -usually used for emphasis)"
+                }
+              },
+              {
+                "text": "HPp1bp",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0587",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0587",
+                  "lemma": "אֲנַ֫חְנוּ",
+                  "translit": "a.nach.nu",
+                  "morph": "H:PerP-CP",
+                  "gloss": "we we (first pers. pl. -usually used for emphasis)",
+                  "raw": "H0587\tH0587 =\tH0587\tאֲנַ֫חְנוּ\ta.nach.nu\tH:PerP-CP\twe\twe (first pers. pl. -usually used for emphasis)"
+                }
+              },
+              {
+                "text": "{H0587=אֲנַ֫חְנוּ=we}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0587",
+                  "lemma": "אֲנַ֫חְנוּ",
+                  "translit": "a.nach.nu",
+                  "morph": "H:PerP-CP",
+                  "gloss": "we we (first pers. pl. -usually used for emphasis)",
+                  "raw": "H0587\tH0587 =\tH0587\tאֲנַ֫חְנוּ\ta.nach.nu\tH:PerP-CP\twe\twe (first pers. pl. -usually used for emphasis)"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L אֲנָֽחְנוּ\\׃ 'a.Na.che.nu we {H0587}\\H9016 HPp1bp H0587 {H0587=אֲנַ֫חְנוּ=we}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 9,
           "text": "Is not the whole land before you? Separate yourself from me. If you want what is on the left, then I will go right; if you want what is on the right, I will go left.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/אַשְׂמְאִֽילָה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./'as.me.'I.lah",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "I",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "go",
+                "wordIndex": 6
+              },
+              {
+                "text": "left",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9002/{H8041}\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Vhc1cs",
+                "wordIndex": 9
+              },
+              {
+                "text": "H8041",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H8041",
+                  "lemma": "שִׂמְאֵל",
+                  "translit": "sa.mal",
+                  "morph": "H:V",
+                  "gloss": "to go left 1) to take the left, go to the left<br>1a) (Hiphil)<br>1a1) to go to the left<br>1a2) to turn (aside) to the left (fig)<br>1a3) to use the left hand",
+                  "raw": "H8041\tH8041 =\tH8041\tשִׂמְאֵל\tsa.mal\tH:V\tto go left\t1) to take the left, go to the left<br>1a) (Hiphil)<br>1a1) to go to the left<br>1a2) to turn (aside) to the left (fig)<br>1a3) to use the left hand"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H8041=שִׂמְאֵל=to",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "go",
+                "wordIndex": 12
+              },
+              {
+                "text": "left}\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L וְ/אַשְׂמְאִֽילָה\\׃ ve./'as.me.'I.lah and/ I will go left H9002/{H8041}\\H9016 HC/Vhc1cs H8041 H9002=ו=and/{H8041=שִׂמְאֵל=to go left}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 10,
           "text": "And Lot lifted up his eyes and saw the whole plain of the Jordan, that all of it was well-watered land—this was before Yahweh destroyed Sodom and Gomorrah—like the garden of Yahweh, like the land of Egypt in the direction of Zoar.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#25=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צֹֽעַר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Tzo.'ar",
+                "wordIndex": 2
+              },
+              {
+                "text": "Zoar",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6820}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6820",
+                  "lemma": "צֹ֫עַר",
+                  "translit": "tso.ar",
+                  "morph": "N:N--L",
+                  "gloss": "Zoar <BR> § Zoar = \"insignificance\"<br> a city at the southeast end of the Dead Sea grouped with Sodom and Gomorrah as being one of the 5 cities slated for destruction by God; spared at Lot's plea as his place of refuge<br>",
+                  "raw": "H6820\tH6820 =\tH6820\tצֹ֫עַר\ttso.ar\tN:N--L\tZoar\t <BR> § Zoar = \"insignificance\"<br> a city at the southeast end of the Dead Sea grouped with Sodom and Gomorrah as being one of the 5 cities slated for destruction by God; spared at Lot's plea as his place of refuge<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6820",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6820",
+                  "lemma": "צֹ֫עַר",
+                  "translit": "tso.ar",
+                  "morph": "N:N--L",
+                  "gloss": "Zoar <BR> § Zoar = \"insignificance\"<br> a city at the southeast end of the Dead Sea grouped with Sodom and Gomorrah as being one of the 5 cities slated for destruction by God; spared at Lot's plea as his place of refuge<br>",
+                  "raw": "H6820\tH6820 =\tH6820\tצֹ֫עַר\ttso.ar\tN:N--L\tZoar\t <BR> § Zoar = \"insignificance\"<br> a city at the southeast end of the Dead Sea grouped with Sodom and Gomorrah as being one of the 5 cities slated for destruction by God; spared at Lot's plea as his place of refuge<br>"
+                }
+              },
+              {
+                "text": "{H6820=צֹ֫עַר=Zoar»Zoar@Gen.13.10-Jer}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6820",
+                  "lemma": "צֹ֫עַר",
+                  "translit": "tso.ar",
+                  "morph": "N:N--L",
+                  "gloss": "Zoar <BR> § Zoar = \"insignificance\"<br> a city at the southeast end of the Dead Sea grouped with Sodom and Gomorrah as being one of the 5 cities slated for destruction by God; spared at Lot's plea as his place of refuge<br>",
+                  "raw": "H6820\tH6820 =\tH6820\tצֹ֫עַר\ttso.ar\tN:N--L\tZoar\t <BR> § Zoar = \"insignificance\"<br> a city at the southeast end of the Dead Sea grouped with Sodom and Gomorrah as being one of the 5 cities slated for destruction by God; spared at Lot's plea as his place of refuge<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#25=L צֹֽעַר\\׃ Tzo.'ar Zoar {H6820}\\H9016 HNpl H6820 {H6820=צֹ֫עַר=Zoar»Zoar@Gen.13.10-Jer}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 11,
           "text": "So Lot chose for himself all the plain of the Jordan. And Lot journeyed from the east, and so they separated from each other.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָחִֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.Chi/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "brother/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0251G}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0251G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "{H0251G=אָח=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "male-sibling»brother:1_male-sibling}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L אָחִֽי/ו\\׃ 'a.Chi/v brother/ his {H0251G}/H9023\\H9016 HNcmsc/Sp3ms H0251G {H0251G=אָח=: male-sibling»brother:1_male-sibling}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 12,
           "text": "Abram settled in the land of Canaan, and Lot settled in the cities of the plain. And he pitched his tent toward Sodom.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "סְדֹֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "se.Dom",
+                "wordIndex": 2
+              },
+              {
+                "text": "Sodom",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5467}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5467",
+                  "lemma": "סְדֹם",
+                  "translit": "se.dom",
+                  "morph": "N:N--L",
+                  "gloss": "Sodom Sodom = \"burning\"<br> a Canaanite city, usually paired with Gomorrah, located in the area of the Dead Sea and the Jordan river; both cities destroyed by God in judgment<BR>Also named: <i>Sodoma</i> (Σόδομα \"Sodom\" G4670)",
+                  "raw": "H5467\tH5467 =\tH5467\tסְדֹם\tse.dom\tN:N--L\tSodom\tSodom = \"burning\"<br> a Canaanite city, usually paired with Gomorrah, located in the area of the Dead Sea and the Jordan river; both cities destroyed by God in judgment<BR>Also named: <i>Sodoma</i> (Σόδομα \"Sodom\" G4670) "
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5467",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5467",
+                  "lemma": "סְדֹם",
+                  "translit": "se.dom",
+                  "morph": "N:N--L",
+                  "gloss": "Sodom Sodom = \"burning\"<br> a Canaanite city, usually paired with Gomorrah, located in the area of the Dead Sea and the Jordan river; both cities destroyed by God in judgment<BR>Also named: <i>Sodoma</i> (Σόδομα \"Sodom\" G4670)",
+                  "raw": "H5467\tH5467 =\tH5467\tסְדֹם\tse.dom\tN:N--L\tSodom\tSodom = \"burning\"<br> a Canaanite city, usually paired with Gomorrah, located in the area of the Dead Sea and the Jordan river; both cities destroyed by God in judgment<BR>Also named: <i>Sodoma</i> (Σόδομα \"Sodom\" G4670) "
+                }
+              },
+              {
+                "text": "{H5467=סְדֹם=Sodom»Sodom@Gen.10.19-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5467",
+                  "lemma": "סְדֹם",
+                  "translit": "se.dom",
+                  "morph": "N:N--L",
+                  "gloss": "Sodom Sodom = \"burning\"<br> a Canaanite city, usually paired with Gomorrah, located in the area of the Dead Sea and the Jordan river; both cities destroyed by God in judgment<BR>Also named: <i>Sodoma</i> (Σόδομα \"Sodom\" G4670)",
+                  "raw": "H5467\tH5467 =\tH5467\tסְדֹם\tse.dom\tN:N--L\tSodom\tSodom = \"burning\"<br> a Canaanite city, usually paired with Gomorrah, located in the area of the Dead Sea and the Jordan river; both cities destroyed by God in judgment<BR>Also named: <i>Sodoma</i> (Σόδομα \"Sodom\" G4670) "
+                }
+              }
+            ],
+            "originalVerseText": "#11=L סְדֹֽם\\׃ se.Dom Sodom {H5467}\\H9016 HNpl H5467 {H5467=סְדֹם=Sodom»Sodom@Gen.10.19-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 13,
           "text": "Now the men of Sodom were extremely wicked sinners against Yahweh.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מְאֹֽד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "me.'Od",
+                "wordIndex": 2
+              },
+              {
+                "text": "exceedingly",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3966}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3966",
+                  "lemma": "מְאֹד",
+                  "translit": "me.od",
+                  "morph": "H:A",
+                  "gloss": "much adv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness",
+                  "raw": "H3966\tH3966 =\tH3966\tמְאֹד\tme.od\tH:A\tmuch\tadv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness"
+                }
+              },
+              {
+                "text": "HAcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3966",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3966",
+                  "lemma": "מְאֹד",
+                  "translit": "me.od",
+                  "morph": "H:A",
+                  "gloss": "much adv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness",
+                  "raw": "H3966\tH3966 =\tH3966\tמְאֹד\tme.od\tH:A\tmuch\tadv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness"
+                }
+              },
+              {
+                "text": "{H3966=מְאֹד=much}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3966",
+                  "lemma": "מְאֹד",
+                  "translit": "me.od",
+                  "morph": "H:A",
+                  "gloss": "much adv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness",
+                  "raw": "H3966\tH3966 =\tH3966\tמְאֹד\tme.od\tH:A\tmuch\tadv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L מְאֹֽד\\׃ me.'Od exceedingly {H3966}\\H9016 HAcmsa H3966 {H3966=מְאֹד=much}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 14,
           "text": "And Yahweh said to Abram after Lot had separated from him, “Now, lift up your eyes and look from the place where you are to the north, and to the south, and to the east and to the west,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וָ/יָֽמָּ/ה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./Ya.ma/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "west/",
+                "wordIndex": 4
+              },
+              {
+                "text": "-ward",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9002/{H3220H}/H9011\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Ncmsa/Sd",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3220H",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3220",
+                  "lemma": "יָם",
+                  "translit": "yam",
+                  "morph": "H:N-M",
+                  "gloss": "(Mt. Ephron in the) West This name means  sea, seaward, westward<BR>Another name of <i>eph.ron</i> (עֶפְרוֹן \"(Mount )Ephron\" H6085H)",
+                  "raw": "H3220\tH3220I = a Name of\tH6085H\tיָם\tyam\tH:N-M\t(Mt. Ephron in the) West\tThis name means  sea, seaward, westward<BR>Another name of <i>eph.ron</i> (עֶפְרוֹן \"(Mount )Ephron\" H6085H)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H3220H=יָם=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "west»sea:2_west}/H9011=ה=to\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9011",
+                  "lemma": "ה/",
+                  "translit": "hé",
+                  "morph": "Suffix",
+                  "gloss": "[to] Suffix hé – directional: \"towards\"",
+                  "raw": "H9011\tH9011 =\tH9011\tה/\thé\tSuffix\t[to]\tSuffix hé – directional: \"towards\""
+                }
+              }
+            ],
+            "originalVerseText": "#21=L וָ/יָֽמָּ/ה\\׃ va./Ya.ma/h and/ west/ -ward H9002/{H3220H}/H9011\\H9016 HC/Ncmsa/Sd H3220H H9002=ו=and/{H3220H=יָם=: west»sea:2_west}/H9011=ה=to\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 15,
           "text": "for all the land which you see I will give to you, and to your descendants, forever.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עוֹלָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "o.Lam",
+                "wordIndex": 2
+              },
+              {
+                "text": "perpetuity",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5769G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5769G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "{H5769G=עוֹלָם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L עוֹלָֽם\\׃ o.Lam perpetuity {H5769G}\\H9016 HNcmsa H5769G {H5769G=עוֹלָם=: enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 16,
           "text": "I will make your descendants like the dust of the earth which, if anyone were able to count the dust of the earth, your descendants would be so counted.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִמָּנֶֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "yi.ma.Neh",
+                "wordIndex": 2
+              },
+              {
+                "text": "it",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "numbered",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H4487}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4487",
+                  "lemma": "מָנָה",
+                  "translit": "ma.nah",
+                  "morph": "H:V",
+                  "gloss": "to count 1) to count, reckon, number, assign, tell, appoint, prepare<br>1a) (Qal)<br>1a1) to count, number<br>1a2) reckon, assign, appoint<br>1b) (Niphal)<br>1b1) to be counted, be numbered<br>1b2) to be reckoned, be assigned<br>1c) (Piel) to appoint, ordain<br>1d) (Pual) appointed (participle)<BR>Aramaic equivalent: <i>me.nah</i> (מְנָה \"to reckon/appoint\" H4483)",
+                  "raw": "H4487\tH4487 =\tH4487\tמָנָה\tma.nah\tH:V\tto count\t1) to count, reckon, number, assign, tell, appoint, prepare<br>1a) (Qal)<br>1a1) to count, number<br>1a2) reckon, assign, appoint<br>1b) (Niphal)<br>1b1) to be counted, be numbered<br>1b2) to be reckoned, be assigned<br>1c) (Piel) to appoint, ordain<br>1d) (Pual) appointed (participle)<BR>Aramaic equivalent: <i>me.nah</i> (מְנָה \"to reckon/appoint\" H4483)"
+                }
+              },
+              {
+                "text": "HVNi3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4487_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4487",
+                  "lemma": "מָנָה",
+                  "translit": "ma.nah",
+                  "morph": "H:V",
+                  "gloss": "to count 1) to count, reckon, number, assign, tell, appoint, prepare<br>1a) (Qal)<br>1a1) to count, number<br>1a2) reckon, assign, appoint<br>1b) (Niphal)<br>1b1) to be counted, be numbered<br>1b2) to be reckoned, be assigned<br>1c) (Piel) to appoint, ordain<br>1d) (Pual) appointed (participle)<BR>Aramaic equivalent: <i>me.nah</i> (מְנָה \"to reckon/appoint\" H4483)",
+                  "raw": "H4487\tH4487 =\tH4487\tמָנָה\tma.nah\tH:V\tto count\t1) to count, reckon, number, assign, tell, appoint, prepare<br>1a) (Qal)<br>1a1) to count, number<br>1a2) reckon, assign, appoint<br>1b) (Niphal)<br>1b1) to be counted, be numbered<br>1b2) to be reckoned, be assigned<br>1c) (Piel) to appoint, ordain<br>1d) (Pual) appointed (participle)<BR>Aramaic equivalent: <i>me.nah</i> (מְנָה \"to reckon/appoint\" H4483)"
+                }
+              },
+              {
+                "text": "{H4487=מָנָה=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4487",
+                  "lemma": "מָנָה",
+                  "translit": "ma.nah",
+                  "morph": "H:V",
+                  "gloss": "to count 1) to count, reckon, number, assign, tell, appoint, prepare<br>1a) (Qal)<br>1a1) to count, number<br>1a2) reckon, assign, appoint<br>1b) (Niphal)<br>1b1) to be counted, be numbered<br>1b2) to be reckoned, be assigned<br>1c) (Piel) to appoint, ordain<br>1d) (Pual) appointed (participle)<BR>Aramaic equivalent: <i>me.nah</i> (מְנָה \"to reckon/appoint\" H4483)",
+                  "raw": "H4487\tH4487 =\tH4487\tמָנָה\tma.nah\tH:V\tto count\t1) to count, reckon, number, assign, tell, appoint, prepare<br>1a) (Qal)<br>1a1) to count, number<br>1a2) reckon, assign, appoint<br>1b) (Niphal)<br>1b1) to be counted, be numbered<br>1b2) to be reckoned, be assigned<br>1c) (Piel) to appoint, ordain<br>1d) (Pual) appointed (participle)<BR>Aramaic equivalent: <i>me.nah</i> (מְנָה \"to reckon/appoint\" H4483)"
+                }
+              },
+              {
+                "text": "count}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L יִמָּנֶֽה\\׃ yi.ma.Neh it will numbered {H4487}\\H9016 HVNi3ms H4487_B {H4487=מָנָה=to count}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 17,
           "text": "Arise, go through the length of the land and through its breadth, for I will give it to you.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֶתְּנֶֽ/נָּה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'et.te.Ne./nah",
+                "wordIndex": 2
+              },
+              {
+                "text": "I",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "give/",
+                "wordIndex": 5
+              },
+              {
+                "text": "it",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H5414G}/H9034\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5414",
+                  "lemma": "נָתַן",
+                  "translit": "na.tan",
+                  "morph": "H:V",
+                  "gloss": "to give: if only! : if_only[wishing]<br>1) to give, put, set<br>1a) (Qal)<br>1a1) to give, bestow, grant, permit, ascribe, employ, devote, consecrate, dedicate, pay wages, sell, exchange, lend, commit, entrust, give over, deliver up, yield produce, occasion, produce, requite to, report, mention, utter, stretch out, extend<br>1a2) to put, set, put on, put upon, set, appoint, assign, designate<br>1a3) to make, constitute<br>1b) (Niphal)<br>1b1) to be given, be bestowed, be provided, be entrusted to, be granted to, be permitted, be issued, be published, be uttered, be assigned<br>1b2) to be set, be put, be made, be inflicted<br>1c) (Hophal)<br>1c1) to be given, be bestowed, be given up, be delivered up<br>1c2) to be put upon",
+                  "raw": "H5414\tH5414Q = a Meaning of\tH5414G\tנָתַן\tna.tan\tH:V\tto give: if only!\t: if_only[wishing]<br>1) to give, put, set<br>1a) (Qal)<br>1a1) to give, bestow, grant, permit, ascribe, employ, devote, consecrate, dedicate, pay wages, sell, exchange, lend, commit, entrust, give over, deliver up, yield produce, occasion, produce, requite to, report, mention, utter, stretch out, extend<br>1a2) to put, set, put on, put upon, set, appoint, assign, designate<br>1a3) to make, constitute<br>1b) (Niphal)<br>1b1) to be given, be bestowed, be provided, be entrusted to, be granted to, be permitted, be issued, be published, be uttered, be assigned<br>1b2) to be set, be put, be made, be inflicted<br>1c) (Hophal)<br>1c1) to be given, be bestowed, be given up, be delivered up<br>1c2) to be put upon"
+                }
+              },
+              {
+                "text": "HVqi1cs/Sp3fs",
+                "wordIndex": 8
+              },
+              {
+                "text": "H5414G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H5414",
+                  "lemma": "נָתַן",
+                  "translit": "na.tan",
+                  "morph": "H:V",
+                  "gloss": "to give: if only! : if_only[wishing]<br>1) to give, put, set<br>1a) (Qal)<br>1a1) to give, bestow, grant, permit, ascribe, employ, devote, consecrate, dedicate, pay wages, sell, exchange, lend, commit, entrust, give over, deliver up, yield produce, occasion, produce, requite to, report, mention, utter, stretch out, extend<br>1a2) to put, set, put on, put upon, set, appoint, assign, designate<br>1a3) to make, constitute<br>1b) (Niphal)<br>1b1) to be given, be bestowed, be provided, be entrusted to, be granted to, be permitted, be issued, be published, be uttered, be assigned<br>1b2) to be set, be put, be made, be inflicted<br>1c) (Hophal)<br>1c1) to be given, be bestowed, be given up, be delivered up<br>1c2) to be put upon",
+                  "raw": "H5414\tH5414Q = a Meaning of\tH5414G\tנָתַן\tna.tan\tH:V\tto give: if only!\t: if_only[wishing]<br>1) to give, put, set<br>1a) (Qal)<br>1a1) to give, bestow, grant, permit, ascribe, employ, devote, consecrate, dedicate, pay wages, sell, exchange, lend, commit, entrust, give over, deliver up, yield produce, occasion, produce, requite to, report, mention, utter, stretch out, extend<br>1a2) to put, set, put on, put upon, set, appoint, assign, designate<br>1a3) to make, constitute<br>1b) (Niphal)<br>1b1) to be given, be bestowed, be provided, be entrusted to, be granted to, be permitted, be issued, be published, be uttered, be assigned<br>1b2) to be set, be put, be made, be inflicted<br>1c) (Hophal)<br>1c1) to be given, be bestowed, be given up, be delivered up<br>1c2) to be put upon"
+                }
+              },
+              {
+                "text": "{H5414G=נָתַן=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H5414",
+                  "lemma": "נָתַן",
+                  "translit": "na.tan",
+                  "morph": "H:V",
+                  "gloss": "to give: if only! : if_only[wishing]<br>1) to give, put, set<br>1a) (Qal)<br>1a1) to give, bestow, grant, permit, ascribe, employ, devote, consecrate, dedicate, pay wages, sell, exchange, lend, commit, entrust, give over, deliver up, yield produce, occasion, produce, requite to, report, mention, utter, stretch out, extend<br>1a2) to put, set, put on, put upon, set, appoint, assign, designate<br>1a3) to make, constitute<br>1b) (Niphal)<br>1b1) to be given, be bestowed, be provided, be entrusted to, be granted to, be permitted, be issued, be published, be uttered, be assigned<br>1b2) to be set, be put, be made, be inflicted<br>1c) (Hophal)<br>1c1) to be given, be bestowed, be given up, be delivered up<br>1c2) to be put upon",
+                  "raw": "H5414\tH5414Q = a Meaning of\tH5414G\tנָתַן\tna.tan\tH:V\tto give: if only!\t: if_only[wishing]<br>1) to give, put, set<br>1a) (Qal)<br>1a1) to give, bestow, grant, permit, ascribe, employ, devote, consecrate, dedicate, pay wages, sell, exchange, lend, commit, entrust, give over, deliver up, yield produce, occasion, produce, requite to, report, mention, utter, stretch out, extend<br>1a2) to put, set, put on, put upon, set, appoint, assign, designate<br>1a3) to make, constitute<br>1b) (Niphal)<br>1b1) to be given, be bestowed, be provided, be entrusted to, be granted to, be permitted, be issued, be published, be uttered, be assigned<br>1b2) to be set, be put, be made, be inflicted<br>1c) (Hophal)<br>1c1) to be given, be bestowed, be given up, be delivered up<br>1c2) to be put upon"
+                }
+              },
+              {
+                "text": "give»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "give:1_give;_deliver;_send;_produce}/H9034=Os3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9034",
+                  "lemma": "הָ",
+                  "translit": "ha",
+                  "morph": "Os3f",
+                  "gloss": "her Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular",
+                  "raw": "H9034\tH9034 =\tH9034\tהָ\tha\tOs3f\ther\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L אֶתְּנֶֽ/נָּה\\׃ 'et.te.Ne./nah I will give/ it {H5414G}/H9034\\H9016 HVqi1cs/Sp3fs H5414G {H5414G=נָתַן=: give»to give:1_give;_deliver;_send;_produce}/H9034=Os3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 18,
           "text": "So Abram pitched his tent, and he came and settled at the oaks of Mamre, which were at Hebron. And there he built an altar to Yahweh.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לַֽ/יהוָֽה\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "la./Yah.weh",
+                "wordIndex": 3
+              },
+              {
+                "text": "to/",
+                "wordIndex": 4
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H3068G}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HR/Npt",
+                "wordIndex": 8
+              },
+              {
+                "text": "H3068G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L לַֽ/יהוָֽה\\׃\\ \\פ la./Yah.weh to/ Yahweh H9005/{H3068G}\\H9016\\ \\H9017 HR/Npt H3068G H9005=ל=to/{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ],
       "nirv": [
@@ -93,85 +1119,1111 @@
           "chapter": 13,
           "verse": 5,
           "text": "Lot was moving around with Abram. Lot also had flocks and herds and tents.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/אֹהָלִֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./'o.ha.Lim",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "tents",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9002/{H0168G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Ncmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0168G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0168",
+                  "lemma": "אֹ֫הֶל",
+                  "translit": "o.hel",
+                  "morph": "H:N-M",
+                  "gloss": "tent: home : home<br>1) tent<br>1a) nomad's tent, and thus symbolic of wilderness life, transience<br>1b) dwelling, home, habitation<br>1c) the sacred tent of Jehovah (the tabernacle)",
+                  "raw": "H0168\tH0168H = a Meaning of\tH0168G\tאֹ֫הֶל\to.hel\tH:N-M\ttent: home\t: home<br>1) tent<br>1a) nomad's tent, and thus symbolic of wilderness life, transience<br>1b) dwelling, home, habitation<br>1c) the sacred tent of Jehovah (the tabernacle)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H0168G=אֹ֫הֶל=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "tent»tent:1_tent}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#09=L וְ/אֹהָלִֽים\\׃ ve./'o.ha.Lim and/ tents H9002/{H0168G}\\H9016 HC/Ncmpa H0168G H9002=ו=and/{H0168G=אֹ֫הֶל=: tent»tent:1_tent}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 6,
           "text": "But the land didn’t have enough food for both of them. They had large herds and many servants. So they weren’t able to stay together.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יַחְדָּֽו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "yach.Dav",
+                "wordIndex": 2
+              },
+              {
+                "text": "together",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3162B}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HD",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3162B_B",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H3162B=יָחְדָּו=together}\\H9016=׃=verseEnd",
+                "wordIndex": 7
+              }
+            ],
+            "originalVerseText": "#14=L יַחְדָּֽו\\׃ yach.Dav together {H3162B}\\H9016 HD H3162B_B {H3162B=יָחְדָּו=together}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 7,
           "text": "The people who took care of Abram’s herds and those who took care of Lot’s herds began to argue.\nThe Canaanites and Perizzites were also living in the land at that time.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#15=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָּ/אָֽרֶץ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba./'A.retz",
+                "wordIndex": 2
+              },
+              {
+                "text": "in",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "land",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H0776G}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Ncfsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#15=L בָּ/אָֽרֶץ\\׃ ba./'A.retz in the/ land H9003/{H0776G}\\H9016 HRd/Ncfsa H0776G H9003=ב=in/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 8,
           "text": "So Abram said to Lot, “Let’s not argue with each other. The people who take care of your herds and those who take care of mine shouldn’t argue with one another. After all, we’re part of the same family.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֲנָֽחְנוּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.Na.che.nu",
+                "wordIndex": 2
+              },
+              {
+                "text": "we",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0587}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0587",
+                  "lemma": "אֲנַ֫חְנוּ",
+                  "translit": "a.nach.nu",
+                  "morph": "H:PerP-CP",
+                  "gloss": "we we (first pers. pl. -usually used for emphasis)",
+                  "raw": "H0587\tH0587 =\tH0587\tאֲנַ֫חְנוּ\ta.nach.nu\tH:PerP-CP\twe\twe (first pers. pl. -usually used for emphasis)"
+                }
+              },
+              {
+                "text": "HPp1bp",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0587",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0587",
+                  "lemma": "אֲנַ֫חְנוּ",
+                  "translit": "a.nach.nu",
+                  "morph": "H:PerP-CP",
+                  "gloss": "we we (first pers. pl. -usually used for emphasis)",
+                  "raw": "H0587\tH0587 =\tH0587\tאֲנַ֫חְנוּ\ta.nach.nu\tH:PerP-CP\twe\twe (first pers. pl. -usually used for emphasis)"
+                }
+              },
+              {
+                "text": "{H0587=אֲנַ֫חְנוּ=we}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0587",
+                  "lemma": "אֲנַ֫חְנוּ",
+                  "translit": "a.nach.nu",
+                  "morph": "H:PerP-CP",
+                  "gloss": "we we (first pers. pl. -usually used for emphasis)",
+                  "raw": "H0587\tH0587 =\tH0587\tאֲנַ֫חְנוּ\ta.nach.nu\tH:PerP-CP\twe\twe (first pers. pl. -usually used for emphasis)"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L אֲנָֽחְנוּ\\׃ 'a.Na.che.nu we {H0587}\\H9016 HPp1bp H0587 {H0587=אֲנַ֫חְנוּ=we}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 9,
           "text": "“Isn’t the whole land in front of you? Let’s separate. If you go to the left, I’ll go to the right. If you go to the right, I’ll go to the left.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/אַשְׂמְאִֽילָה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./'as.me.'I.lah",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "I",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "go",
+                "wordIndex": 6
+              },
+              {
+                "text": "left",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9002/{H8041}\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Vhc1cs",
+                "wordIndex": 9
+              },
+              {
+                "text": "H8041",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H8041",
+                  "lemma": "שִׂמְאֵל",
+                  "translit": "sa.mal",
+                  "morph": "H:V",
+                  "gloss": "to go left 1) to take the left, go to the left<br>1a) (Hiphil)<br>1a1) to go to the left<br>1a2) to turn (aside) to the left (fig)<br>1a3) to use the left hand",
+                  "raw": "H8041\tH8041 =\tH8041\tשִׂמְאֵל\tsa.mal\tH:V\tto go left\t1) to take the left, go to the left<br>1a) (Hiphil)<br>1a1) to go to the left<br>1a2) to turn (aside) to the left (fig)<br>1a3) to use the left hand"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H8041=שִׂמְאֵל=to",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "go",
+                "wordIndex": 12
+              },
+              {
+                "text": "left}\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L וְ/אַשְׂמְאִֽילָה\\׃ ve./'as.me.'I.lah and/ I will go left H9002/{H8041}\\H9016 HC/Vhc1cs H8041 H9002=ו=and/{H8041=שִׂמְאֵל=to go left}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 10,
           "text": "Lot looked up. He saw that the whole Jordan River valley had plenty of water. It was like the garden of the Lord. It was like the land of Egypt near Zoar. That was before the Lord destroyed Sodom and Gomorrah.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#25=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "צֹֽעַר\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Tzo.'ar",
+                "wordIndex": 2
+              },
+              {
+                "text": "Zoar",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H6820}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H6820",
+                  "lemma": "צֹ֫עַר",
+                  "translit": "tso.ar",
+                  "morph": "N:N--L",
+                  "gloss": "Zoar <BR> § Zoar = \"insignificance\"<br> a city at the southeast end of the Dead Sea grouped with Sodom and Gomorrah as being one of the 5 cities slated for destruction by God; spared at Lot's plea as his place of refuge<br>",
+                  "raw": "H6820\tH6820 =\tH6820\tצֹ֫עַר\ttso.ar\tN:N--L\tZoar\t <BR> § Zoar = \"insignificance\"<br> a city at the southeast end of the Dead Sea grouped with Sodom and Gomorrah as being one of the 5 cities slated for destruction by God; spared at Lot's plea as his place of refuge<br>"
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H6820",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H6820",
+                  "lemma": "צֹ֫עַר",
+                  "translit": "tso.ar",
+                  "morph": "N:N--L",
+                  "gloss": "Zoar <BR> § Zoar = \"insignificance\"<br> a city at the southeast end of the Dead Sea grouped with Sodom and Gomorrah as being one of the 5 cities slated for destruction by God; spared at Lot's plea as his place of refuge<br>",
+                  "raw": "H6820\tH6820 =\tH6820\tצֹ֫עַר\ttso.ar\tN:N--L\tZoar\t <BR> § Zoar = \"insignificance\"<br> a city at the southeast end of the Dead Sea grouped with Sodom and Gomorrah as being one of the 5 cities slated for destruction by God; spared at Lot's plea as his place of refuge<br>"
+                }
+              },
+              {
+                "text": "{H6820=צֹ֫עַר=Zoar»Zoar@Gen.13.10-Jer}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H6820",
+                  "lemma": "צֹ֫עַר",
+                  "translit": "tso.ar",
+                  "morph": "N:N--L",
+                  "gloss": "Zoar <BR> § Zoar = \"insignificance\"<br> a city at the southeast end of the Dead Sea grouped with Sodom and Gomorrah as being one of the 5 cities slated for destruction by God; spared at Lot's plea as his place of refuge<br>",
+                  "raw": "H6820\tH6820 =\tH6820\tצֹ֫עַר\ttso.ar\tN:N--L\tZoar\t <BR> § Zoar = \"insignificance\"<br> a city at the southeast end of the Dead Sea grouped with Sodom and Gomorrah as being one of the 5 cities slated for destruction by God; spared at Lot's plea as his place of refuge<br>"
+                }
+              }
+            ],
+            "originalVerseText": "#25=L צֹֽעַר\\׃ Tzo.'ar Zoar {H6820}\\H9016 HNpl H6820 {H6820=צֹ֫עַר=Zoar»Zoar@Gen.13.10-Jer}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 11,
           "text": "So Lot chose the whole Jordan River valley for himself. Then he started out toward the east.\nThe two men separated.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#14=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָחִֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.Chi/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "brother/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0251G}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0251G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "{H0251G=אָח=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "male-sibling»brother:1_male-sibling}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#14=L אָחִֽי/ו\\׃ 'a.Chi/v brother/ his {H0251G}/H9023\\H9016 HNcmsc/Sp3ms H0251G {H0251G=אָח=: male-sibling»brother:1_male-sibling}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 12,
           "text": "Abram lived in the land of Canaan. Lot lived among the cities of the Jordan River valley. He set up his tents near Sodom.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "סְדֹֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "se.Dom",
+                "wordIndex": 2
+              },
+              {
+                "text": "Sodom",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5467}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5467",
+                  "lemma": "סְדֹם",
+                  "translit": "se.dom",
+                  "morph": "N:N--L",
+                  "gloss": "Sodom Sodom = \"burning\"<br> a Canaanite city, usually paired with Gomorrah, located in the area of the Dead Sea and the Jordan river; both cities destroyed by God in judgment<BR>Also named: <i>Sodoma</i> (Σόδομα \"Sodom\" G4670)",
+                  "raw": "H5467\tH5467 =\tH5467\tסְדֹם\tse.dom\tN:N--L\tSodom\tSodom = \"burning\"<br> a Canaanite city, usually paired with Gomorrah, located in the area of the Dead Sea and the Jordan river; both cities destroyed by God in judgment<BR>Also named: <i>Sodoma</i> (Σόδομα \"Sodom\" G4670) "
+                }
+              },
+              {
+                "text": "HNpl",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5467",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5467",
+                  "lemma": "סְדֹם",
+                  "translit": "se.dom",
+                  "morph": "N:N--L",
+                  "gloss": "Sodom Sodom = \"burning\"<br> a Canaanite city, usually paired with Gomorrah, located in the area of the Dead Sea and the Jordan river; both cities destroyed by God in judgment<BR>Also named: <i>Sodoma</i> (Σόδομα \"Sodom\" G4670)",
+                  "raw": "H5467\tH5467 =\tH5467\tסְדֹם\tse.dom\tN:N--L\tSodom\tSodom = \"burning\"<br> a Canaanite city, usually paired with Gomorrah, located in the area of the Dead Sea and the Jordan river; both cities destroyed by God in judgment<BR>Also named: <i>Sodoma</i> (Σόδομα \"Sodom\" G4670) "
+                }
+              },
+              {
+                "text": "{H5467=סְדֹם=Sodom»Sodom@Gen.10.19-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5467",
+                  "lemma": "סְדֹם",
+                  "translit": "se.dom",
+                  "morph": "N:N--L",
+                  "gloss": "Sodom Sodom = \"burning\"<br> a Canaanite city, usually paired with Gomorrah, located in the area of the Dead Sea and the Jordan river; both cities destroyed by God in judgment<BR>Also named: <i>Sodoma</i> (Σόδομα \"Sodom\" G4670)",
+                  "raw": "H5467\tH5467 =\tH5467\tסְדֹם\tse.dom\tN:N--L\tSodom\tSodom = \"burning\"<br> a Canaanite city, usually paired with Gomorrah, located in the area of the Dead Sea and the Jordan river; both cities destroyed by God in judgment<BR>Also named: <i>Sodoma</i> (Σόδομα \"Sodom\" G4670) "
+                }
+              }
+            ],
+            "originalVerseText": "#11=L סְדֹֽם\\׃ se.Dom Sodom {H5467}\\H9016 HNpl H5467 {H5467=סְדֹם=Sodom»Sodom@Gen.10.19-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 13,
           "text": "The men of Sodom were evil. They were sinning greatly against the Lord.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מְאֹֽד\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "me.'Od",
+                "wordIndex": 2
+              },
+              {
+                "text": "exceedingly",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3966}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3966",
+                  "lemma": "מְאֹד",
+                  "translit": "me.od",
+                  "morph": "H:A",
+                  "gloss": "much adv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness",
+                  "raw": "H3966\tH3966 =\tH3966\tמְאֹד\tme.od\tH:A\tmuch\tadv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness"
+                }
+              },
+              {
+                "text": "HAcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3966",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3966",
+                  "lemma": "מְאֹד",
+                  "translit": "me.od",
+                  "morph": "H:A",
+                  "gloss": "much adv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness",
+                  "raw": "H3966\tH3966 =\tH3966\tמְאֹד\tme.od\tH:A\tmuch\tadv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness"
+                }
+              },
+              {
+                "text": "{H3966=מְאֹד=much}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3966",
+                  "lemma": "מְאֹד",
+                  "translit": "me.od",
+                  "morph": "H:A",
+                  "gloss": "much adv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness",
+                  "raw": "H3966\tH3966 =\tH3966\tמְאֹד\tme.od\tH:A\tmuch\tadv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly, greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2) up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L מְאֹֽד\\׃ me.'Od exceedingly {H3966}\\H9016 HAcmsa H3966 {H3966=מְאֹד=much}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 14,
           "text": "The Lord spoke to Abram after Lot had left him. He said, “Look up from where you are. Look north and south. Look east and west.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#21=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וָ/יָֽמָּ/ה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "va./Ya.ma/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "west/",
+                "wordIndex": 4
+              },
+              {
+                "text": "-ward",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9002/{H3220H}/H9011\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Ncmsa/Sd",
+                "wordIndex": 7
+              },
+              {
+                "text": "H3220H",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H3220",
+                  "lemma": "יָם",
+                  "translit": "yam",
+                  "morph": "H:N-M",
+                  "gloss": "(Mt. Ephron in the) West This name means  sea, seaward, westward<BR>Another name of <i>eph.ron</i> (עֶפְרוֹן \"(Mount )Ephron\" H6085H)",
+                  "raw": "H3220\tH3220I = a Name of\tH6085H\tיָם\tyam\tH:N-M\t(Mt. Ephron in the) West\tThis name means  sea, seaward, westward<BR>Another name of <i>eph.ron</i> (עֶפְרוֹן \"(Mount )Ephron\" H6085H)"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H3220H=יָם=:",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "west»sea:2_west}/H9011=ה=to\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9011",
+                  "lemma": "ה/",
+                  "translit": "hé",
+                  "morph": "Suffix",
+                  "gloss": "[to] Suffix hé – directional: \"towards\"",
+                  "raw": "H9011\tH9011 =\tH9011\tה/\thé\tSuffix\t[to]\tSuffix hé – directional: \"towards\""
+                }
+              }
+            ],
+            "originalVerseText": "#21=L וָ/יָֽמָּ/ה\\׃ va./Ya.ma/h and/ west/ -ward H9002/{H3220H}/H9011\\H9016 HC/Ncmsa/Sd H3220H H9002=ו=and/{H3220H=יָם=: west»sea:2_west}/H9011=ה=to\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 15,
           "text": "I will give you all of the land that you see. I will give it to you and your children after you forever.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עוֹלָֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "o.Lam",
+                "wordIndex": 2
+              },
+              {
+                "text": "perpetuity",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H5769G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "HNcmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H5769G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "{H5769G=עוֹלָם=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5769",
+                  "lemma": "עוֹלָם",
+                  "translit": "o.lam",
+                  "morph": "H:N-M",
+                  "gloss": "forever: antiquity : old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity",
+                  "raw": "H5769\tH5769J = in Hebrew of\tH5769G\tעוֹלָם\to.lam\tH:N-M\tforever: antiquity\t: old/ancient<br>1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity"
+                }
+              },
+              {
+                "text": "enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L עוֹלָֽם\\׃ o.Lam perpetuity {H5769G}\\H9016 HNcmsa H5769G {H5769G=עוֹלָם=: enduring»forever:1_enduring;_eternal}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 16,
           "text": "“I will make your children like the dust of the earth. Can dust be counted? If it can, then your children can be counted.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יִמָּנֶֽה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "yi.ma.Neh",
+                "wordIndex": 2
+              },
+              {
+                "text": "it",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "numbered",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H4487}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4487",
+                  "lemma": "מָנָה",
+                  "translit": "ma.nah",
+                  "morph": "H:V",
+                  "gloss": "to count 1) to count, reckon, number, assign, tell, appoint, prepare<br>1a) (Qal)<br>1a1) to count, number<br>1a2) reckon, assign, appoint<br>1b) (Niphal)<br>1b1) to be counted, be numbered<br>1b2) to be reckoned, be assigned<br>1c) (Piel) to appoint, ordain<br>1d) (Pual) appointed (participle)<BR>Aramaic equivalent: <i>me.nah</i> (מְנָה \"to reckon/appoint\" H4483)",
+                  "raw": "H4487\tH4487 =\tH4487\tמָנָה\tma.nah\tH:V\tto count\t1) to count, reckon, number, assign, tell, appoint, prepare<br>1a) (Qal)<br>1a1) to count, number<br>1a2) reckon, assign, appoint<br>1b) (Niphal)<br>1b1) to be counted, be numbered<br>1b2) to be reckoned, be assigned<br>1c) (Piel) to appoint, ordain<br>1d) (Pual) appointed (participle)<BR>Aramaic equivalent: <i>me.nah</i> (מְנָה \"to reckon/appoint\" H4483)"
+                }
+              },
+              {
+                "text": "HVNi3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H4487_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4487",
+                  "lemma": "מָנָה",
+                  "translit": "ma.nah",
+                  "morph": "H:V",
+                  "gloss": "to count 1) to count, reckon, number, assign, tell, appoint, prepare<br>1a) (Qal)<br>1a1) to count, number<br>1a2) reckon, assign, appoint<br>1b) (Niphal)<br>1b1) to be counted, be numbered<br>1b2) to be reckoned, be assigned<br>1c) (Piel) to appoint, ordain<br>1d) (Pual) appointed (participle)<BR>Aramaic equivalent: <i>me.nah</i> (מְנָה \"to reckon/appoint\" H4483)",
+                  "raw": "H4487\tH4487 =\tH4487\tמָנָה\tma.nah\tH:V\tto count\t1) to count, reckon, number, assign, tell, appoint, prepare<br>1a) (Qal)<br>1a1) to count, number<br>1a2) reckon, assign, appoint<br>1b) (Niphal)<br>1b1) to be counted, be numbered<br>1b2) to be reckoned, be assigned<br>1c) (Piel) to appoint, ordain<br>1d) (Pual) appointed (participle)<BR>Aramaic equivalent: <i>me.nah</i> (מְנָה \"to reckon/appoint\" H4483)"
+                }
+              },
+              {
+                "text": "{H4487=מָנָה=to",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H4487",
+                  "lemma": "מָנָה",
+                  "translit": "ma.nah",
+                  "morph": "H:V",
+                  "gloss": "to count 1) to count, reckon, number, assign, tell, appoint, prepare<br>1a) (Qal)<br>1a1) to count, number<br>1a2) reckon, assign, appoint<br>1b) (Niphal)<br>1b1) to be counted, be numbered<br>1b2) to be reckoned, be assigned<br>1c) (Piel) to appoint, ordain<br>1d) (Pual) appointed (participle)<BR>Aramaic equivalent: <i>me.nah</i> (מְנָה \"to reckon/appoint\" H4483)",
+                  "raw": "H4487\tH4487 =\tH4487\tמָנָה\tma.nah\tH:V\tto count\t1) to count, reckon, number, assign, tell, appoint, prepare<br>1a) (Qal)<br>1a1) to count, number<br>1a2) reckon, assign, appoint<br>1b) (Niphal)<br>1b1) to be counted, be numbered<br>1b2) to be reckoned, be assigned<br>1c) (Piel) to appoint, ordain<br>1d) (Pual) appointed (participle)<BR>Aramaic equivalent: <i>me.nah</i> (מְנָה \"to reckon/appoint\" H4483)"
+                }
+              },
+              {
+                "text": "count}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L יִמָּנֶֽה\\׃ yi.ma.Neh it will numbered {H4487}\\H9016 HVNi3ms H4487_B {H4487=מָנָה=to count}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 17,
           "text": "Go. Walk through the land. See how long and wide it is. I am giving it to you.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#08=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֶתְּנֶֽ/נָּה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'et.te.Ne./nah",
+                "wordIndex": 2
+              },
+              {
+                "text": "I",
+                "wordIndex": 3
+              },
+              {
+                "text": "will",
+                "wordIndex": 4
+              },
+              {
+                "text": "give/",
+                "wordIndex": 5
+              },
+              {
+                "text": "it",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H5414G}/H9034\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5414",
+                  "lemma": "נָתַן",
+                  "translit": "na.tan",
+                  "morph": "H:V",
+                  "gloss": "to give: if only! : if_only[wishing]<br>1) to give, put, set<br>1a) (Qal)<br>1a1) to give, bestow, grant, permit, ascribe, employ, devote, consecrate, dedicate, pay wages, sell, exchange, lend, commit, entrust, give over, deliver up, yield produce, occasion, produce, requite to, report, mention, utter, stretch out, extend<br>1a2) to put, set, put on, put upon, set, appoint, assign, designate<br>1a3) to make, constitute<br>1b) (Niphal)<br>1b1) to be given, be bestowed, be provided, be entrusted to, be granted to, be permitted, be issued, be published, be uttered, be assigned<br>1b2) to be set, be put, be made, be inflicted<br>1c) (Hophal)<br>1c1) to be given, be bestowed, be given up, be delivered up<br>1c2) to be put upon",
+                  "raw": "H5414\tH5414Q = a Meaning of\tH5414G\tנָתַן\tna.tan\tH:V\tto give: if only!\t: if_only[wishing]<br>1) to give, put, set<br>1a) (Qal)<br>1a1) to give, bestow, grant, permit, ascribe, employ, devote, consecrate, dedicate, pay wages, sell, exchange, lend, commit, entrust, give over, deliver up, yield produce, occasion, produce, requite to, report, mention, utter, stretch out, extend<br>1a2) to put, set, put on, put upon, set, appoint, assign, designate<br>1a3) to make, constitute<br>1b) (Niphal)<br>1b1) to be given, be bestowed, be provided, be entrusted to, be granted to, be permitted, be issued, be published, be uttered, be assigned<br>1b2) to be set, be put, be made, be inflicted<br>1c) (Hophal)<br>1c1) to be given, be bestowed, be given up, be delivered up<br>1c2) to be put upon"
+                }
+              },
+              {
+                "text": "HVqi1cs/Sp3fs",
+                "wordIndex": 8
+              },
+              {
+                "text": "H5414G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H5414",
+                  "lemma": "נָתַן",
+                  "translit": "na.tan",
+                  "morph": "H:V",
+                  "gloss": "to give: if only! : if_only[wishing]<br>1) to give, put, set<br>1a) (Qal)<br>1a1) to give, bestow, grant, permit, ascribe, employ, devote, consecrate, dedicate, pay wages, sell, exchange, lend, commit, entrust, give over, deliver up, yield produce, occasion, produce, requite to, report, mention, utter, stretch out, extend<br>1a2) to put, set, put on, put upon, set, appoint, assign, designate<br>1a3) to make, constitute<br>1b) (Niphal)<br>1b1) to be given, be bestowed, be provided, be entrusted to, be granted to, be permitted, be issued, be published, be uttered, be assigned<br>1b2) to be set, be put, be made, be inflicted<br>1c) (Hophal)<br>1c1) to be given, be bestowed, be given up, be delivered up<br>1c2) to be put upon",
+                  "raw": "H5414\tH5414Q = a Meaning of\tH5414G\tנָתַן\tna.tan\tH:V\tto give: if only!\t: if_only[wishing]<br>1) to give, put, set<br>1a) (Qal)<br>1a1) to give, bestow, grant, permit, ascribe, employ, devote, consecrate, dedicate, pay wages, sell, exchange, lend, commit, entrust, give over, deliver up, yield produce, occasion, produce, requite to, report, mention, utter, stretch out, extend<br>1a2) to put, set, put on, put upon, set, appoint, assign, designate<br>1a3) to make, constitute<br>1b) (Niphal)<br>1b1) to be given, be bestowed, be provided, be entrusted to, be granted to, be permitted, be issued, be published, be uttered, be assigned<br>1b2) to be set, be put, be made, be inflicted<br>1c) (Hophal)<br>1c1) to be given, be bestowed, be given up, be delivered up<br>1c2) to be put upon"
+                }
+              },
+              {
+                "text": "{H5414G=נָתַן=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H5414",
+                  "lemma": "נָתַן",
+                  "translit": "na.tan",
+                  "morph": "H:V",
+                  "gloss": "to give: if only! : if_only[wishing]<br>1) to give, put, set<br>1a) (Qal)<br>1a1) to give, bestow, grant, permit, ascribe, employ, devote, consecrate, dedicate, pay wages, sell, exchange, lend, commit, entrust, give over, deliver up, yield produce, occasion, produce, requite to, report, mention, utter, stretch out, extend<br>1a2) to put, set, put on, put upon, set, appoint, assign, designate<br>1a3) to make, constitute<br>1b) (Niphal)<br>1b1) to be given, be bestowed, be provided, be entrusted to, be granted to, be permitted, be issued, be published, be uttered, be assigned<br>1b2) to be set, be put, be made, be inflicted<br>1c) (Hophal)<br>1c1) to be given, be bestowed, be given up, be delivered up<br>1c2) to be put upon",
+                  "raw": "H5414\tH5414Q = a Meaning of\tH5414G\tנָתַן\tna.tan\tH:V\tto give: if only!\t: if_only[wishing]<br>1) to give, put, set<br>1a) (Qal)<br>1a1) to give, bestow, grant, permit, ascribe, employ, devote, consecrate, dedicate, pay wages, sell, exchange, lend, commit, entrust, give over, deliver up, yield produce, occasion, produce, requite to, report, mention, utter, stretch out, extend<br>1a2) to put, set, put on, put upon, set, appoint, assign, designate<br>1a3) to make, constitute<br>1b) (Niphal)<br>1b1) to be given, be bestowed, be provided, be entrusted to, be granted to, be permitted, be issued, be published, be uttered, be assigned<br>1b2) to be set, be put, be made, be inflicted<br>1c) (Hophal)<br>1c1) to be given, be bestowed, be given up, be delivered up<br>1c2) to be put upon"
+                }
+              },
+              {
+                "text": "give»to",
+                "wordIndex": 11
+              },
+              {
+                "text": "give:1_give;_deliver;_send;_produce}/H9034=Os3f=her\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9034",
+                  "lemma": "הָ",
+                  "translit": "ha",
+                  "morph": "Os3f",
+                  "gloss": "her Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular",
+                  "raw": "H9034\tH9034 =\tH9034\tהָ\tha\tOs3f\ther\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#08=L אֶתְּנֶֽ/נָּה\\׃ 'et.te.Ne./nah I will give/ it {H5414G}/H9034\\H9016 HVqi1cs/Sp3fs H5414G {H5414G=נָתַן=: give»to give:1_give;_deliver;_send;_produce}/H9034=Os3f=her\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 13,
           "verse": 18,
           "text": "So Abram moved his tents. He went to live near the large trees of Mamre at Hebron. There he built an altar to honor the Lord.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לַֽ/יהוָֽה\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "la./Yah.weh",
+                "wordIndex": 3
+              },
+              {
+                "text": "to/",
+                "wordIndex": 4
+              },
+              {
+                "text": "Yahweh",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H3068G}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HR/Npt",
+                "wordIndex": 8
+              },
+              {
+                "text": "H3068G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3068",
+                  "lemma": "יְהֹוָה",
+                  "translit": "ye.ho.vah",
+                  "morph": "N:N--T",
+                  "gloss": "(Jerusalem of) the Lord <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)",
+                  "raw": "H3068\tH3068I = a Part of\tH3389\tיְהֹוָה\tye.ho.vah\tN:N--T\t(Jerusalem of) the Lord\t<BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם \"Jerusalem\" H3389)"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L לַֽ/יהוָֽה\\׃\\ \\פ la./Yah.weh to/ Yahweh H9005/{H3068G}\\H9016\\ \\H9017 HR/Npt H3068G H9005=ל=to/{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ]
     }

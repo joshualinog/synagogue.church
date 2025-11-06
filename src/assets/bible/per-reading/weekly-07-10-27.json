@@ -7,73 +7,997 @@
           "chapter": 11,
           "verse": 10,
           "text": "For the fact is that the land that you are about to go into to take possession of it is not like the land of Egypt, from which you have come out of, where you sow your seed and you give water by your foot, as in a vegetable garden.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יָּרָֽק\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hai./ya.Rak",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "vegetable[s]",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H3419}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3419",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3419",
+                  "lemma": "יָרָק",
+                  "translit": "ya.raq",
+                  "morph": "H:N-M",
+                  "gloss": "herb herbs, herbage, vegetables, garden greens",
+                  "raw": "H3419\tH3419 =\tH3419\tיָרָק\tya.raq\tH:N-M\therb\therbs, herbage, vegetables, garden greens"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3419=יָרָק=herb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#22=L הַ/יָּרָֽק\\׃ hai./ya.Rak <the>/ vegetable[s] H9009/{H3419}\\H9016 HTd/Ncmsa H3419 H9009=ה=the/{H3419=יָרָק=herb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 11,
           "verse": 11,
           "text": "But the land that you are about to cross into to take possession of it is a land of hills and valleys, and by the rain of the heaven it drinks water,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מָּֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ma.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "water",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4325G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4325G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              },
+              {
+                "text": "{H4325G=מַי=water}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              }
+            ],
+            "originalVerseText": "#13=L מָּֽיִם\\׃ Ma.yim water {H4325G}\\H9016 HNcmpa H4325G {H4325G=מַי=water}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 11,
           "verse": 12,
           "text": "a land that Yahweh your God is caring for it; continually the eyes of Yahweh your God are on it, from the beginning of the year up to the end of the year.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שָׁנָֽה\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "sha.Nah",
+                "wordIndex": 3
+              },
+              {
+                "text": "a",
+                "wordIndex": 4
+              },
+              {
+                "text": "year",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H8141}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H8141",
+                  "lemma": "שָׁנָה",
+                  "translit": "sha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "year 1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)",
+                  "raw": "H8141\tH8141 =\tH8141\tשָׁנָה\tsha.neh\tH:N-F\tyear\t1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HNcfsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H8141_B",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H8141",
+                  "lemma": "שָׁנָה",
+                  "translit": "sha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "year 1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)",
+                  "raw": "H8141\tH8141 =\tH8141\tשָׁנָה\tsha.neh\tH:N-F\tyear\t1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)"
+                }
+              },
+              {
+                "text": "{H8141=שָׁנָה=year}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H8141",
+                  "lemma": "שָׁנָה",
+                  "translit": "sha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "year 1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)",
+                  "raw": "H8141\tH8141 =\tH8141\tשָׁנָה\tsha.neh\tH:N-F\tyear\t1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L שָׁנָֽה\\׃\\ \\ס sha.Nah a year {H8141}\\H9016\\ \\H9018 HNcfsa H8141_B {H8141=שָׁנָה=year}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 11,
           "verse": 13,
           "text": "“And it will happen that if you listen carefully to my commandments that I am commanding you today, to love Yahweh your God, and to serve him with all of your heart and with all of your soul,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "נַפְשְׁ/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "naf.she./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "being/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5315G}/H9026\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H5315",
+                  "lemma": "נֶ֫פֶשׁ",
+                  "translit": "ne.phesh",
+                  "morph": "H:N-F",
+                  "gloss": "soul: neck 1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain",
+                  "raw": "H5315\tH5315N = a Meaning of\tH5315G\tנֶ֫פֶשׁ\tne.phesh\tH:N-F\tsoul: neck\t1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain"
+                }
+              },
+              {
+                "text": "HNcfsc/Sp2mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5315G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5315",
+                  "lemma": "נֶ֫פֶשׁ",
+                  "translit": "ne.phesh",
+                  "morph": "H:N-F",
+                  "gloss": "soul: neck 1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain",
+                  "raw": "H5315\tH5315N = a Meaning of\tH5315G\tנֶ֫פֶשׁ\tne.phesh\tH:N-F\tsoul: neck\t1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain"
+                }
+              },
+              {
+                "text": "{H5315G=נֶ֫פֶשׁ=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H5315",
+                  "lemma": "נֶ֫פֶשׁ",
+                  "translit": "ne.phesh",
+                  "morph": "H:N-F",
+                  "gloss": "soul: neck 1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain",
+                  "raw": "H5315\tH5315N = a Meaning of\tH5315G\tנֶ֫פֶשׁ\tne.phesh\tH:N-F\tsoul: neck\t1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain"
+                }
+              },
+              {
+                "text": "soul»soul:1_soul;_heart}/H9026=Pp2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9026",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Pp2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural",
+                  "raw": "H9026\tH9026 =\tH9026\tכֶם\tkhem\tPp2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L נַפְשְׁ/כֶֽם\\׃ naf.she./Khem being/ your {H5315G}/H9026\\H9016 HNcfsc/Sp2mp H5315G {H5315G=נֶ֫פֶשׁ=: soul»soul:1_soul;_heart}/H9026=Pp2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 11,
           "verse": 14,
           "text": "then ‘I will send the rain for your land in its season, early rain and later rain, and you will gather your grain and your wine and your olive oil.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/יִצְהָרֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./yitz.ha.Re./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "fresh",
+                "wordIndex": 4
+              },
+              {
+                "text": "oil/",
+                "wordIndex": 5
+              },
+              {
+                "text": "your",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/{H3323}/H9021\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Ncmsc/Sp2ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H3323",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3323",
+                  "lemma": "יִצְהָר",
+                  "translit": "yits.har",
+                  "morph": "H:N-M",
+                  "gloss": "oil fresh oil, shining (pure) oil",
+                  "raw": "H3323\tH3323 =\tH3323\tיִצְהָר\tyits.har\tH:N-M\toil\tfresh oil, shining (pure) oil"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H3323=יִצְהָר=oil}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L וְ/יִצְהָרֶֽ/ךָ\\׃ ve./yitz.ha.Re./kha and/ fresh oil/ your H9002/{H3323}/H9021\\H9016 HC/Ncmsc/Sp2ms H3323 H9002=ו=and/{H3323=יִצְהָר=oil}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 11,
           "verse": 15,
           "text": "And I will give vegetation in your field for your livestock, and you will eat your fill.’",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/שָׂבָֽעְתָּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./sa.Va.'e.ta",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "be",
+                "wordIndex": 6
+              },
+              {
+                "text": "satisfied",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9001/{H7646}\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqq2ms",
+                "wordIndex": 9
+              },
+              {
+                "text": "H7646",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H7646",
+                  "lemma": "שָׂבֵעַ",
+                  "translit": "sa.va",
+                  "morph": "H:V",
+                  "gloss": "to satisfy 1) to be satisfied, be sated, be fulfilled, be surfeited<br>1a) (Qal)<br>1a1) to be sated (with food)<br>1a2) to be sated, be satisfied with, be fulfilled, be filled, have one's fill of (have desire satisfied)<br>1a3) to have in excess, be surfeited, be surfeited with<br>1a3a) to be weary of (fig)<br>1b) (Piel) to satisfy<br>1c) (Hiphil)<br>1c1) to satisfy<br>1c2) to enrich<br>1c3) to sate, glut (with the undesired)",
+                  "raw": "H7646\tH7646 =\tH7646\tשָׂבֵעַ\tsa.va\tH:V\tto satisfy\t1) to be satisfied, be sated, be fulfilled, be surfeited<br>1a) (Qal)<br>1a1) to be sated (with food)<br>1a2) to be sated, be satisfied with, be fulfilled, be filled, have one's fill of (have desire satisfied)<br>1a3) to have in excess, be surfeited, be surfeited with<br>1a3a) to be weary of (fig)<br>1b) (Piel) to satisfy<br>1c) (Hiphil)<br>1c1) to satisfy<br>1c2) to enrich<br>1c3) to sate, glut (with the undesired)"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H7646=שָׂבֵעַ=to",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "satisfy}\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L וְ/שָׂבָֽעְתָּ\\׃ ve./sa.Va.'e.ta and/ you will be satisfied H9001/{H7646}\\H9016 Hc/Vqq2ms H7646 H9001=ו=&/{H7646=שָׂבֵעַ=to satisfy}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 11,
           "verse": 16,
           "text": "Take care so that your heart is not easily deceived, and you turn away, and you serve other gods, and you bow down to them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/הֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Hem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "them",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9038}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9038",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9038",
+                  "lemma": "הֶם",
+                  "translit": "hem",
+                  "morph": "Op3m",
+                  "gloss": "them Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural",
+                  "raw": "H9038\tH9038 =\tH9038\tהֶם\them\tOp3m\tthem\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9038=Op3m=them}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#11=L לָ/הֶֽם\\׃ la./Hem to <the>/ them H9005/{H9038}\\H9016 HRd/Sp3mp H9038 H9005=ל=to/{H9038=Op3m=them}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 11,
           "verse": 17,
           "text": "And then the anger of Yahweh will be kindled against you, and he will shut up the heavens, and there shall not be rain, and so the ground will not give its produce, and you will perish quickly from the good land that Yahweh is giving to you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#24=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "you",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9036}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9036_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9036",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Op2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural",
+                  "raw": "H9036\tH9036 =\tH9036\tכֶם\tkhem\tOp2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#24=L לָ/כֶֽם\\׃ la./Khem to <the>/ you H9005/{H9036}\\H9016 HRd/Sp2mp H9036_B H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 11,
           "verse": 18,
           "text": "“And you shall put these, my words, on your heart and on your inner self, and you shall bind them as a sign on your hand and let them be as an emblem between your eyes.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עֵינֵי/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'ei.nei./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "eyes/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5869A}/H9026\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HNcfdc/Sp2mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5869A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H5869A=עַ֫יִן=:",
+                "wordIndex": 8
+              },
+              {
+                "text": "eye»eye:1_eye}/H9026=Pp2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9026",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Pp2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural",
+                  "raw": "H9026\tH9026 =\tH9026\tכֶם\tkhem\tPp2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L עֵינֵי/כֶֽם\\׃ 'ei.nei./Khem eyes/ your {H5869A}/H9026\\H9016 HNcfdc/Sp2mp H5869A {H5869A=עַ֫יִן=: eye»eye:1_eye}/H9026=Pp2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 11,
           "verse": 19,
           "text": "And you shall teach them to your children by talking about them when you sit in your house and when you travel on the road and when you lie down and when you get up.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/בְ/קוּמֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./ve./ku.Me./cha",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "when/",
+                "wordIndex": 4
+              },
+              {
+                "text": "rising",
+                "wordIndex": 5
+              },
+              {
+                "text": "up/",
+                "wordIndex": 6
+              },
+              {
+                "text": "you",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9002/H9003/{H6965B}/H9041\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/R/Vqcc/Sp2ms",
+                "wordIndex": 9
+              },
+              {
+                "text": "H6965B",
+                "wordIndex": 10
+              },
+              {
+                "text": "H9002=ו=and/H9003=ב=in/{H6965B=קוּם=:",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "rise»to",
+                "wordIndex": 12
+              },
+              {
+                "text": "arise:1_rise;_get_going}/H9041=Ss2m=you\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9041",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ss2m",
+                  "gloss": "you Personal subject pronoun -  suffix for some adverbs and infinitives:  2nd person masculine singular",
+                  "raw": "H9041\tH9041 =\tH9041\tךָ\tkha\tSs2m\tyou\tPersonal subject pronoun -  suffix for some adverbs and infinitives:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L וּ/בְ/קוּמֶֽ/ךָ\\׃ u./ve./ku.Me./cha and/ when/ rising up/ you H9002/H9003/{H6965B}/H9041\\H9016 HC/R/Vqcc/Sp2ms H6965B H9002=ו=and/H9003=ב=in/{H6965B=קוּם=: rise»to arise:1_rise;_get_going}/H9041=Ss2m=you\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 11,
           "verse": 20,
           "text": "And you shall write them on the doorframes of your house and on your gates,",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/בִ/שְׁעָרֶֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./vi/sh.'a.Rei./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "on/",
+                "wordIndex": 4
+              },
+              {
+                "text": "gates/",
+                "wordIndex": 5
+              },
+              {
+                "text": "your",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/H9003/{H8179G}/H9021\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/R/Ncmpc/Sp2ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H8179G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H8179",
+                  "lemma": "שַׁ֫עַר",
+                  "translit": "sha.ar",
+                  "morph": "H:N-M",
+                  "gloss": "gate: town : town<br>1) gate<br>1a) gate (of entrance)<br>1b) gate (of space inside gate, i.e. marketplace, public meeting place)<br>1b1) city, town<br>1c) gate (of palace, royal castle, temple, court of tabernacle)<br>1d) heaven",
+                  "raw": "H8179\tH8179H = a Meaning of\tH8179G\tשַׁ֫עַר\tsha.ar\tH:N-M\tgate: town\t: town<br>1) gate<br>1a) gate (of entrance)<br>1b) gate (of space inside gate, i.e. marketplace, public meeting place)<br>1b1) city, town<br>1c) gate (of palace, royal castle, temple, court of tabernacle)<br>1d) heaven"
+                }
+              },
+              {
+                "text": "H9002=ו=and/H9003=ב=in/{H8179G=שַׁ֫עַר=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "gate»gate:1_gate}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L וּ/בִ/שְׁעָרֶֽי/ךָ\\׃ u./vi/sh.'a.Rei./kha and/ on/ gates/ your H9002/H9003/{H8179G}/H9021\\H9016 HC/R/Ncmpc/Sp2ms H8179G H9002=ו=and/H9003=ב=in/{H8179G=שַׁ֫עַר=: gate»gate:1_gate}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 11,
           "verse": 21,
           "text": "so that they may multiply your days and the days of your children on the land that Yahweh swore to your ancestors to give it to them as long as heaven endures over the earth.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אָֽרֶץ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "ha./'A.retz",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "earth",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H0776G}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L הָ/אָֽרֶץ\\׃\\ \\ס ha./'A.retz the/ earth H9009/{H0776G}\\H9016\\ \\H9018 HTd/Ncfsa H0776G H9009=ה=the/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         }
       ],
       "nirv": [
@@ -81,73 +1005,997 @@
           "chapter": 11,
           "verse": 10,
           "text": "You will enter it and take it over.\nIt isn’t like the land of Egypt. That’s where you came from. You planted your seeds there. You had to water them, just as you have to water a vegetable garden.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#22=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/יָּרָֽק\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "hai./ya.Rak",
+                "wordIndex": 2
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 3
+              },
+              {
+                "text": "vegetable[s]",
+                "wordIndex": 4
+              },
+              {
+                "text": "H9009/{H3419}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "HTd/Ncmsa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H3419",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3419",
+                  "lemma": "יָרָק",
+                  "translit": "ya.raq",
+                  "morph": "H:N-M",
+                  "gloss": "herb herbs, herbage, vegetables, garden greens",
+                  "raw": "H3419\tH3419 =\tH3419\tיָרָק\tya.raq\tH:N-M\therb\therbs, herbage, vegetables, garden greens"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H3419=יָרָק=herb}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              }
+            ],
+            "originalVerseText": "#22=L הַ/יָּרָֽק\\׃ hai./ya.Rak <the>/ vegetable[s] H9009/{H3419}\\H9016 HTd/Ncmsa H3419 H9009=ה=the/{H3419=יָרָק=herb}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 11,
           "verse": 11,
           "text": "But you will soon go across the Jordan River. The land you are going to take over has mountains and valleys in it. It drinks rain from heaven.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מָּֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ma.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "water",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H4325G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H4325G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              },
+              {
+                "text": "{H4325G=מַי=water}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              }
+            ],
+            "originalVerseText": "#13=L מָּֽיִם\\׃ Ma.yim water {H4325G}\\H9016 HNcmpa H4325G {H4325G=מַי=water}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 11,
           "verse": 12,
           "text": "It’s a land the Lord your God takes care of. His eyes always look on it with favor. He watches over it from the beginning of the year to its end.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "שָׁנָֽה\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "sha.Nah",
+                "wordIndex": 3
+              },
+              {
+                "text": "a",
+                "wordIndex": 4
+              },
+              {
+                "text": "year",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H8141}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H8141",
+                  "lemma": "שָׁנָה",
+                  "translit": "sha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "year 1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)",
+                  "raw": "H8141\tH8141 =\tH8141\tשָׁנָה\tsha.neh\tH:N-F\tyear\t1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HNcfsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H8141_B",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H8141",
+                  "lemma": "שָׁנָה",
+                  "translit": "sha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "year 1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)",
+                  "raw": "H8141\tH8141 =\tH8141\tשָׁנָה\tsha.neh\tH:N-F\tyear\t1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)"
+                }
+              },
+              {
+                "text": "{H8141=שָׁנָה=year}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H8141",
+                  "lemma": "שָׁנָה",
+                  "translit": "sha.neh",
+                  "morph": "H:N-F",
+                  "gloss": "year 1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)",
+                  "raw": "H8141\tH8141 =\tH8141\tשָׁנָה\tsha.neh\tH:N-F\tyear\t1) year<br>1a) as division of time<br>1b) as measure of time<br>1c) as indication of age<br>1d) a lifetime (of years of life)<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה \"year\" H8140)"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#16=L שָׁנָֽה\\׃\\ \\ס sha.Nah a year {H8141}\\H9016\\ \\H9018 HNcfsa H8141_B {H8141=שָׁנָה=year}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         },
         {
           "chapter": 11,
           "verse": 13,
           "text": "So be faithful. Obey the commands the Lord your God is giving you today. Love him. Serve him with all your heart and with all your soul.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "נַפְשְׁ/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "naf.she./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "being/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5315G}/H9026\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H5315",
+                  "lemma": "נֶ֫פֶשׁ",
+                  "translit": "ne.phesh",
+                  "morph": "H:N-F",
+                  "gloss": "soul: neck 1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain",
+                  "raw": "H5315\tH5315N = a Meaning of\tH5315G\tנֶ֫פֶשׁ\tne.phesh\tH:N-F\tsoul: neck\t1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain"
+                }
+              },
+              {
+                "text": "HNcfsc/Sp2mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5315G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H5315",
+                  "lemma": "נֶ֫פֶשׁ",
+                  "translit": "ne.phesh",
+                  "morph": "H:N-F",
+                  "gloss": "soul: neck 1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain",
+                  "raw": "H5315\tH5315N = a Meaning of\tH5315G\tנֶ֫פֶשׁ\tne.phesh\tH:N-F\tsoul: neck\t1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain"
+                }
+              },
+              {
+                "text": "{H5315G=נֶ֫פֶשׁ=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H5315",
+                  "lemma": "נֶ֫פֶשׁ",
+                  "translit": "ne.phesh",
+                  "morph": "H:N-F",
+                  "gloss": "soul: neck 1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain",
+                  "raw": "H5315\tH5315N = a Meaning of\tH5315G\tנֶ֫פֶשׁ\tne.phesh\tH:N-F\tsoul: neck\t1) soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion<br>1a) that which breathes, the breathing substance or being, soul, the inner being of man<br>1b) living being<br>1c) living being (with life in the blood)<br>1d) the man himself, self, person or individual<br>1e) seat of the appetites<br>1f) seat of emotions and passions<br>1g) activity of mind<br>1g1) uncertain<br>1h) activity of the will<br>1h1) uncertain<br>1i) activity of the character<br>1i1) uncertain"
+                }
+              },
+              {
+                "text": "soul»soul:1_soul;_heart}/H9026=Pp2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9026",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Pp2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural",
+                  "raw": "H9026\tH9026 =\tH9026\tכֶם\tkhem\tPp2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L נַפְשְׁ/כֶֽם\\׃ naf.she./Khem being/ your {H5315G}/H9026\\H9016 HNcfsc/Sp2mp H5315G {H5315G=נֶ֫פֶשׁ=: soul»soul:1_soul;_heart}/H9026=Pp2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 11,
           "verse": 14,
           "text": "Then the Lord will send rain on your land at the right time. He’ll send rain in the fall and in the spring. You will be able to gather your grain. You will also be able to make olive oil and fresh wine.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/יִצְהָרֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./yitz.ha.Re./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "fresh",
+                "wordIndex": 4
+              },
+              {
+                "text": "oil/",
+                "wordIndex": 5
+              },
+              {
+                "text": "your",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/{H3323}/H9021\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/Ncmsc/Sp2ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H3323",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H3323",
+                  "lemma": "יִצְהָר",
+                  "translit": "yits.har",
+                  "morph": "H:N-M",
+                  "gloss": "oil fresh oil, shining (pure) oil",
+                  "raw": "H3323\tH3323 =\tH3323\tיִצְהָר\tyits.har\tH:N-M\toil\tfresh oil, shining (pure) oil"
+                }
+              },
+              {
+                "text": "H9002=ו=and/{H3323=יִצְהָר=oil}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L וְ/יִצְהָרֶֽ/ךָ\\׃ ve./yitz.ha.Re./kha and/ fresh oil/ your H9002/{H3323}/H9021\\H9016 HC/Ncmsc/Sp2ms H3323 H9002=ו=and/{H3323=יִצְהָר=oil}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 11,
           "verse": 15,
           "text": "He’ll provide grass in the fields for your cattle. You will have plenty to eat.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#06=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וְ/שָׂבָֽעְתָּ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ve./sa.Va.'e.ta",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "you",
+                "wordIndex": 4
+              },
+              {
+                "text": "will",
+                "wordIndex": 5
+              },
+              {
+                "text": "be",
+                "wordIndex": 6
+              },
+              {
+                "text": "satisfied",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9001/{H7646}\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "Hc/Vqq2ms",
+                "wordIndex": 9
+              },
+              {
+                "text": "H7646",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H7646",
+                  "lemma": "שָׂבֵעַ",
+                  "translit": "sa.va",
+                  "morph": "H:V",
+                  "gloss": "to satisfy 1) to be satisfied, be sated, be fulfilled, be surfeited<br>1a) (Qal)<br>1a1) to be sated (with food)<br>1a2) to be sated, be satisfied with, be fulfilled, be filled, have one's fill of (have desire satisfied)<br>1a3) to have in excess, be surfeited, be surfeited with<br>1a3a) to be weary of (fig)<br>1b) (Piel) to satisfy<br>1c) (Hiphil)<br>1c1) to satisfy<br>1c2) to enrich<br>1c3) to sate, glut (with the undesired)",
+                  "raw": "H7646\tH7646 =\tH7646\tשָׂבֵעַ\tsa.va\tH:V\tto satisfy\t1) to be satisfied, be sated, be fulfilled, be surfeited<br>1a) (Qal)<br>1a1) to be sated (with food)<br>1a2) to be sated, be satisfied with, be fulfilled, be filled, have one's fill of (have desire satisfied)<br>1a3) to have in excess, be surfeited, be surfeited with<br>1a3a) to be weary of (fig)<br>1b) (Piel) to satisfy<br>1c) (Hiphil)<br>1c1) to satisfy<br>1c2) to enrich<br>1c3) to sate, glut (with the undesired)"
+                }
+              },
+              {
+                "text": "H9001=ו=&/{H7646=שָׂבֵעַ=to",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9001",
+                  "lemma": "/וַ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "& Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)",
+                  "raw": "H9001\tH9001 =\tH9001\t/וַ\tv\tH:Conj\t&\tVerbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)"
+                }
+              },
+              {
+                "text": "satisfy}\\H9016=׃=verseEnd",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#06=L וְ/שָׂבָֽעְתָּ\\׃ ve./sa.Va.'e.ta and/ you will be satisfied H9001/{H7646}\\H9016 Hc/Vqq2ms H7646 H9001=ו=&/{H7646=שָׂבֵעַ=to satisfy}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 11,
           "verse": 16,
           "text": "But be careful. Don’t let anyone tempt you to do something wrong. Don’t turn away and worship other gods. Don’t bow down to them.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/הֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Hem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "them",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9038}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp3mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9038",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9038",
+                  "lemma": "הֶם",
+                  "translit": "hem",
+                  "morph": "Op3m",
+                  "gloss": "them Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural",
+                  "raw": "H9038\tH9038 =\tH9038\tהֶם\them\tOp3m\tthem\tPersonal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9038=Op3m=them}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#11=L לָ/הֶֽם\\׃ la./Hem to <the>/ them H9005/{H9038}\\H9016 HRd/Sp3mp H9038 H9005=ל=to/{H9038=Op3m=them}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 11,
           "verse": 17,
           "text": "If you do, the Lord’s anger will burn against you. He’ll close up the sky. It won’t rain. The ground won’t produce its crops. Soon you will die. You won’t live to enjoy the good land the Lord is giving you.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#24=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לָ/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "la./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "to",
+                "wordIndex": 3
+              },
+              {
+                "text": "<the>/",
+                "wordIndex": 4
+              },
+              {
+                "text": "you",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9005/{H9036}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              },
+              {
+                "text": "HRd/Sp2mp",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9036_B",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9036",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Op2m",
+                  "gloss": "you Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural",
+                  "raw": "H9036\tH9036 =\tH9036\tכֶם\tkhem\tOp2m\tyou\tPersonal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural"
+                }
+              },
+              {
+                "text": "H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9005",
+                  "lemma": "/ל",
+                  "translit": "l",
+                  "morph": "Prefix",
+                  "gloss": "to/for Prefix lamed: to",
+                  "raw": "H9005\tH9005 =\tH9005\t/ל\tl\tPrefix\tto/for\tPrefix lamed: to "
+                }
+              }
+            ],
+            "originalVerseText": "#24=L לָ/כֶֽם\\׃ la./Khem to <the>/ you H9005/{H9036}\\H9016 HRd/Sp2mp H9036_B H9005=ל=to/{H9036=Op2m=you}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 11,
           "verse": 18,
           "text": "So keep my words in your hearts and minds. Write them down and tie them on your hands as a reminder. Also tie them on your foreheads.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עֵינֵי/כֶֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'ei.nei./Khem",
+                "wordIndex": 2
+              },
+              {
+                "text": "eyes/",
+                "wordIndex": 3
+              },
+              {
+                "text": "your",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H5869A}/H9026\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HNcfdc/Sp2mp",
+                "wordIndex": 6
+              },
+              {
+                "text": "H5869A",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H5869A=עַ֫יִן=:",
+                "wordIndex": 8
+              },
+              {
+                "text": "eye»eye:1_eye}/H9026=Pp2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9026",
+                  "lemma": "כֶם",
+                  "translit": "khem",
+                  "morph": "Pp2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural",
+                  "raw": "H9026\tH9026 =\tH9026\tכֶם\tkhem\tPp2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L עֵינֵי/כֶֽם\\׃ 'ei.nei./Khem eyes/ your {H5869A}/H9026\\H9016 HNcfdc/Sp2mp H5869A {H5869A=עַ֫יִן=: eye»eye:1_eye}/H9026=Pp2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 11,
           "verse": 19,
           "text": "Teach them to your children. Talk about them when you are at home. Talk about them when you walk along the road. Speak about them when you go to bed. And speak about them when you get up.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#12=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/בְ/קוּמֶֽ/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./ve./ku.Me./cha",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "when/",
+                "wordIndex": 4
+              },
+              {
+                "text": "rising",
+                "wordIndex": 5
+              },
+              {
+                "text": "up/",
+                "wordIndex": 6
+              },
+              {
+                "text": "you",
+                "wordIndex": 7
+              },
+              {
+                "text": "H9002/H9003/{H6965B}/H9041\\H9016",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/R/Vqcc/Sp2ms",
+                "wordIndex": 9
+              },
+              {
+                "text": "H6965B",
+                "wordIndex": 10
+              },
+              {
+                "text": "H9002=ו=and/H9003=ב=in/{H6965B=קוּם=:",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "rise»to",
+                "wordIndex": 12
+              },
+              {
+                "text": "arise:1_rise;_get_going}/H9041=Ss2m=you\\H9016=׃=verseEnd",
+                "wordIndex": 13,
+                "lex": {
+                  "code": "H9041",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ss2m",
+                  "gloss": "you Personal subject pronoun -  suffix for some adverbs and infinitives:  2nd person masculine singular",
+                  "raw": "H9041\tH9041 =\tH9041\tךָ\tkha\tSs2m\tyou\tPersonal subject pronoun -  suffix for some adverbs and infinitives:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#12=L וּ/בְ/קוּמֶֽ/ךָ\\׃ u./ve./ku.Me./cha and/ when/ rising up/ you H9002/H9003/{H6965B}/H9041\\H9016 HC/R/Vqcc/Sp2ms H6965B H9002=ו=and/H9003=ב=in/{H6965B=קוּם=: rise»to arise:1_rise;_get_going}/H9041=Ss2m=you\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 11,
           "verse": 20,
           "text": "Write them on the doorframes of your houses. Also write them on your gates.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#05=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "וּ/בִ/שְׁעָרֶֽי/ךָ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "u./vi/sh.'a.Rei./kha",
+                "wordIndex": 2
+              },
+              {
+                "text": "and/",
+                "wordIndex": 3
+              },
+              {
+                "text": "on/",
+                "wordIndex": 4
+              },
+              {
+                "text": "gates/",
+                "wordIndex": 5
+              },
+              {
+                "text": "your",
+                "wordIndex": 6
+              },
+              {
+                "text": "H9002/H9003/{H8179G}/H9021\\H9016",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "HC/R/Ncmpc/Sp2ms",
+                "wordIndex": 8
+              },
+              {
+                "text": "H8179G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H8179",
+                  "lemma": "שַׁ֫עַר",
+                  "translit": "sha.ar",
+                  "morph": "H:N-M",
+                  "gloss": "gate: town : town<br>1) gate<br>1a) gate (of entrance)<br>1b) gate (of space inside gate, i.e. marketplace, public meeting place)<br>1b1) city, town<br>1c) gate (of palace, royal castle, temple, court of tabernacle)<br>1d) heaven",
+                  "raw": "H8179\tH8179H = a Meaning of\tH8179G\tשַׁ֫עַר\tsha.ar\tH:N-M\tgate: town\t: town<br>1) gate<br>1a) gate (of entrance)<br>1b) gate (of space inside gate, i.e. marketplace, public meeting place)<br>1b1) city, town<br>1c) gate (of palace, royal castle, temple, court of tabernacle)<br>1d) heaven"
+                }
+              },
+              {
+                "text": "H9002=ו=and/H9003=ב=in/{H8179G=שַׁ֫עַר=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9002",
+                  "lemma": "/וְ",
+                  "translit": "v",
+                  "morph": "H:Conj",
+                  "gloss": "and Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)",
+                  "raw": "H9002\tH9002 =\tH9002\t/וְ\tv\tH:Conj\tand\tConjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)"
+                }
+              },
+              {
+                "text": "gate»gate:1_gate}/H9021=Ps2m=your\\H9016=׃=verseEnd",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9021",
+                  "lemma": "ךָ",
+                  "translit": "kha",
+                  "morph": "Ps2m",
+                  "gloss": "your Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular",
+                  "raw": "H9021\tH9021 =\tH9021\tךָ\tkha\tPs2m\tyour\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#05=L וּ/בִ/שְׁעָרֶֽי/ךָ\\׃ u./vi/sh.'a.Rei./kha and/ on/ gates/ your H9002/H9003/{H8179G}/H9021\\H9016 HC/R/Ncmpc/Sp2ms H8179G H9002=ו=and/H9003=ב=in/{H8179G=שַׁ֫עַר=: gate»gate:1_gate}/H9021=Ps2m=your\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 11,
           "verse": 21,
           "text": "Then you and your children will live for a long time in the land. The Lord took an oath and promised to give the land to Abraham, Isaac and Jacob. Your family line will continue as long as the heavens remain above the earth.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הָ/אָֽרֶץ\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\ס",
+                "wordIndex": 2
+              },
+              {
+                "text": "ha./'A.retz",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "earth",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H0776G}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9018",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              },
+              {
+                "text": "HTd/Ncfsa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H0776G",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H0776",
+                  "lemma": "אֶ֫רֶץ",
+                  "translit": "e.rets",
+                  "morph": "H:N-F",
+                  "gloss": "land: soil : soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan",
+                  "raw": "H0776\tH0776H =\tH0776H\tאֶ֫רֶץ\te.rets\tH:N-F\tland: soil\t: soil<br>1) land, earth<br>1a) earth<br>1a1) whole earth (as opposed to a part)<br>1a2) earth (as opposed to heaven)<br>1a3) earth (inhabitants)<br>1b) land<br>1b1) country, territory<br>1b2) district, region<br>1b3) tribal territory<br>1b4) piece of ground<br>1b5) land of Canaan, Israel<br>1b6) inhabitants of land<br>1b7) Sheol, land without return, (under) world<br>1b8) city (-state)<br>1c) ground, surface of the earth<br>1c1) ground<br>1c2) soil<br>1d) (in phrases)<br>1d1) people of the land<br>1d2) space or distance of country (in measurements of distance)<br>1d3) level or plain country<br>1d4) land of the living<br>1d5) end(s) of the earth<br>1e) (almost wholly late in usage)<br>1e1) lands, countries<br>1e1a) often in contrast to Canaan"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H0776G=אֶ֫רֶץ=:",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd\\",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              },
+              {
+                "text": "\\H9018=ס=section",
+                "wordIndex": 12,
+                "lex": {
+                  "code": "H9018",
+                  "lemma": "ס",
+                  "translit": "S",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Sameq paragraph: ends a lectionary section",
+                  "raw": "H9018\tH9018 =\tH9018\tס\tS\tPunct.\t[¶]\tPunctuation Sameq paragraph: ends a lectionary section"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L הָ/אָֽרֶץ\\׃\\ \\ס ha./'A.retz the/ earth H9009/{H0776G}\\H9016\\ \\H9018 HTd/Ncfsa H0776G H9009=ה=the/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}\\H9016=׃=verseEnd\\ \\H9018=ס=section"
+          }
         }
       ]
     }

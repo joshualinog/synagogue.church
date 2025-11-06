@@ -128,12 +128,38 @@
 
 <div class="prose max-w-3xl mx-auto py-6">
   
+    
+    <!-- INTERLINEAR DEBUG: torah leb verses=0 -->
+    <!-- INTERLINEAR DEBUG: gospel leb verses=0 -->
     <div class="bible-passages" data-slug="weekly-04-24-27">
-      <h2 class="text-xl font-bold">Torah — ?</h2>
+      <div class="flex items-center gap-3 mb-4">
+      </div>
+      
+      <h2 class="text-2xl font-bold">Torah — ?</h2>
       <div class="bible-block" data-section="torah">
         <div class="version-group">
           <h3 class="sr-only">LEB translation</h3>
           <div class="version leb">
+            
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="version-group mt-4">
+          <h3 class="sr-only">Original language (Greek)</h3>
+          <div class="version interlinear-version server-interlinear hidden">
+            
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="version-group mt-4">
+          <h3 class="sr-only">Original language (Hebrew)</h3>
+          <div class="version interlinear-version server-interlinear hidden">
             
               
             
@@ -151,7 +177,7 @@
         </div>
       </div>
 
-      <h2 class="text-xl font-bold mt-6">Gospel — ?</h2>
+      <h2 class="text-2xl font-bold mt-6">Gospel — ?</h2>
       <div class="bible-block" data-section="gospel">
         <div class="version-group">
           <h3 class="sr-only">LEB translation</h3>
@@ -174,6 +200,26 @@
     </div>
   
 </div>
+
+<script>
+// Minimal interlinear toggle: show/hide server-rendered interlinear blocks
+document.addEventListener('DOMContentLoaded', function(){
+  var btns = document.querySelectorAll('.interlinear-toggle');
+  btns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      var root = btn.closest('.bible-passages');
+      if (!root) return;
+      var showing = root.classList.toggle('show-interlinear');
+      // show/hide both inline interlinear blocks and the interlinear 'version' panels
+      root.querySelectorAll('.interlinear, .interlinear-version, .server-interlinear').forEach(function(el){
+        if (showing) el.classList.remove('hidden'); else el.classList.add('hidden');
+      });
+      btn.innerText = showing ? 'Hide interlinear' : 'Show interlinear';
+      btn.setAttribute('aria-pressed', showing ? 'true' : 'false');
+    });
+  });
+});
+</script>
 
   </section>
 

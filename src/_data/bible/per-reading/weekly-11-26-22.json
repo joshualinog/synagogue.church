@@ -7,85 +7,975 @@
           "chapter": 37,
           "verse": 23,
           "text": "And it happened that as Joseph came to his brothers they stripped Joseph of his robe, the robe with long sleeves, that was upon him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עָלָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.La/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "[was]",
+                "wordIndex": 3
+              },
+              {
+                "text": "on/",
+                "wordIndex": 4
+              },
+              {
+                "text": "him",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H5921A}/H9033\\H9016",
+                "wordIndex": 6
+              },
+              {
+                "text": "HRd/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5921A",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H5921A=עַל=upon}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 9
+              }
+            ],
+            "originalVerseText": "#16=L עָלָֽי/ו\\׃ 'a.La/v [was] on/ him {H5921A}/H9033\\H9016 HRd/Sp3ms H5921A {H5921A=עַל=upon}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 24,
           "text": "And they took him and threw him into the pit (the pit was empty; there was no water in it).",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ma.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "[was]",
+                "wordIndex": 3
+              },
+              {
+                "text": "water",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4325G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4325G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              },
+              {
+                "text": "{H4325G=מַי=water}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              }
+            ],
+            "originalVerseText": "#09=L מָֽיִם\\׃ Ma.yim [was] water {H4325G}\\H9016 HNcmpa H4325G {H4325G=מַי=water}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 25,
           "text": "Then they sat down to eat some food. And they lifted up their eyes and looked, and behold, a caravan of Ishmaelites was coming from Gilead. And their camels were carrying aromatic gum and balm and spices on the way to Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיְמָ/ה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mitz.Ra.ye.ma/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "Egypt/",
+                "wordIndex": 3
+              },
+              {
+                "text": "towards",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4714G}/H9011\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "HNpl/Sd",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}/H9011=ה=to\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L מִצְרָֽיְמָ/ה\\׃ mitz.Ra.ye.ma/h Egypt/ towards {H4714G}/H9011\\H9016 HNpl/Sd H4714G {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}/H9011=ה=to\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 26,
           "text": "Then Judah said to his brothers, “What profit is there if we kill our brother and conceal his blood?",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "דָּמֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "da.M/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "blood/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H1818}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H1818",
+                  "lemma": "דָּם",
+                  "translit": "dam",
+                  "morph": "H:N-M",
+                  "gloss": "blood 1) blood<br>1a) of wine (fig.)",
+                  "raw": "H1818\tH1818 =\tH1818\tדָּם\tdam\tH:N-M\tblood\t1) blood<br>1a) of wine (fig.)"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1818",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1818",
+                  "lemma": "דָּם",
+                  "translit": "dam",
+                  "morph": "H:N-M",
+                  "gloss": "blood 1) blood<br>1a) of wine (fig.)",
+                  "raw": "H1818\tH1818 =\tH1818\tדָּם\tdam\tH:N-M\tblood\t1) blood<br>1a) of wine (fig.)"
+                }
+              },
+              {
+                "text": "{H1818=דָּם=blood}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1818",
+                  "lemma": "דָּם",
+                  "translit": "dam",
+                  "morph": "H:N-M",
+                  "gloss": "blood 1) blood<br>1a) of wine (fig.)",
+                  "raw": "H1818\tH1818 =\tH1818\tדָּם\tdam\tH:N-M\tblood\t1) blood<br>1a) of wine (fig.)"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L דָּמֽ/וֹ\\׃ da.M/o blood/ his {H1818}/H9023\\H9016 HNcmsc/Sp3ms H1818 {H1818=דָּם=blood}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 27,
           "text": "Come, let us sell him to the Ishmaelites, but our hand shall not be against him, for he is our brother, our own flesh.” And his brothers agreed.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֶחָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.Cha/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "brothers/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0251G}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0251G_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "{H0251G=אָח=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "male-sibling»brother:1_male-sibling}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L אֶחָֽי/ו\\׃ 'e.Cha/v brothers/ his {H0251G}/H9023\\H9016 HNcmpc/Sp3ms H0251G_B {H0251G=אָח=: male-sibling»brother:1_male-sibling}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 28,
           "text": "Then Midianite traders passed by. And they drew Joseph up and brought him up from the pit, and they sold Joseph to the Ishmaelites for twenty pieces of silver. And they brought Joseph to Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיְמָ/ה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mitz.Ra.ye.ma/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "Egypt/",
+                "wordIndex": 3
+              },
+              {
+                "text": "towards",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4714G}/H9011\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "HNpl/Sd",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}/H9011=ה=to\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L מִצְרָֽיְמָ/ה\\׃ mitz.Ra.ye.ma/h Egypt/ towards {H4714G}/H9011\\H9016 HNpl/Sd H4714G {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}/H9011=ה=to\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 29,
           "text": "Then Reuben returned to the pit and, behold, Joseph was not in the pit. And he tore his clothes.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּגָדָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be.ga.Da/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "clothes/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0899B}/H9023\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HNcmpc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0899B",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H0899B=בֶּ֫גֶד=garment}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#11=L בְּגָדָֽי/ו\\׃ be.ga.Da/v clothes/ his {H0899B}/H9023\\H9016 HNcmpc/Sp3ms H0899B {H0899B=בֶּ֫גֶד=garment}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 30,
           "text": "And he returned to his brothers and said, “The boy is gone! Now I, what can I do?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "going",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0935G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0935",
+                  "lemma": "בּוֹא",
+                  "translit": "bo",
+                  "morph": "H:V",
+                  "gloss": "to come (in): bring : bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put",
+                  "raw": "H0935\tH0935P = a Meaning of\tH0935G\tבּוֹא\tbo\tH:V\tto come (in): bring\t: bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put"
+                }
+              },
+              {
+                "text": "HVqrmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0935G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0935",
+                  "lemma": "בּוֹא",
+                  "translit": "bo",
+                  "morph": "H:V",
+                  "gloss": "to come (in): bring : bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put",
+                  "raw": "H0935\tH0935P = a Meaning of\tH0935G\tבּוֹא\tbo\tH:V\tto come (in): bring\t: bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put"
+                }
+              },
+              {
+                "text": "{H0935G=בּוֹא=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0935",
+                  "lemma": "בּוֹא",
+                  "translit": "bo",
+                  "morph": "H:V",
+                  "gloss": "to come (in): bring : bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put",
+                  "raw": "H0935\tH0935P = a Meaning of\tH0935G\tבּוֹא\tbo\tH:V\tto come (in): bring\t: bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put"
+                }
+              },
+              {
+                "text": "come»to",
+                "wordIndex": 8
+              },
+              {
+                "text": "come",
+                "wordIndex": 9
+              },
+              {
+                "text": "(in):1_come;_go_in}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L בָֽא\\׃ Va' going {H0935G}\\H9016 HVqrmsa H0935G {H0935G=בּוֹא=: come»to come (in):1_come;_go_in}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 31,
           "text": "Then they took the robe of Joseph and slaughtered a goat, and dipped the robe in the blood.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בַּ/דָּֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba./Dam",
+                "wordIndex": 2
+              },
+              {
+                "text": "in",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "blood",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H1818}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Ncmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1818",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1818",
+                  "lemma": "דָּם",
+                  "translit": "dam",
+                  "morph": "H:N-M",
+                  "gloss": "blood 1) blood<br>1a) of wine (fig.)",
+                  "raw": "H1818\tH1818 =\tH1818\tדָּם\tdam\tH:N-M\tblood\t1) blood<br>1a) of wine (fig.)"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H1818=דָּם=blood}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#11=L בַּ/דָּֽם\\׃ ba./Dam in the/ blood H9003/{H1818}\\H9016 HRd/Ncmsa H1818 H9003=ב=in/{H1818=דָּם=blood}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 32,
           "text": "Then they sent the robe with long sleeves and they brought it to their father and said, “We found this; please examine it. Is it the robe of your son or not?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֹֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Lo'",
+                "wordIndex": 2
+              },
+              {
+                "text": "not",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3808}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3808",
+                  "lemma": "לֹא",
+                  "translit": "lo",
+                  "morph": "H:Neg",
+                  "gloss": "not 1) not, no<br>1a) not (with verb-absolute prohibition)<br>1b) not (with modifier-negation)<br>1c) nothing (subst)<br>1d) without (with particle)<br>1e) before (of time)<BR>Aramaic equivalent: <i>la</i> (לָא \"not\" H3809)",
+                  "raw": "H3808\tH3808 =\tH3808\tלֹא\tlo\tH:Neg\tnot\t1) not, no<br>1a) not (with verb-absolute prohibition)<br>1b) not (with modifier-negation)<br>1c) nothing (subst)<br>1d) without (with particle)<br>1e) before (of time)<BR>Aramaic equivalent: <i>la</i> (לָא \"not\" H3809)"
+                }
+              },
+              {
+                "text": "HTn",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3808",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3808",
+                  "lemma": "לֹא",
+                  "translit": "lo",
+                  "morph": "H:Neg",
+                  "gloss": "not 1) not, no<br>1a) not (with verb-absolute prohibition)<br>1b) not (with modifier-negation)<br>1c) nothing (subst)<br>1d) without (with particle)<br>1e) before (of time)<BR>Aramaic equivalent: <i>la</i> (לָא \"not\" H3809)",
+                  "raw": "H3808\tH3808 =\tH3808\tלֹא\tlo\tH:Neg\tnot\t1) not, no<br>1a) not (with verb-absolute prohibition)<br>1b) not (with modifier-negation)<br>1c) nothing (subst)<br>1d) without (with particle)<br>1e) before (of time)<BR>Aramaic equivalent: <i>la</i> (לָא \"not\" H3809)"
+                }
+              },
+              {
+                "text": "{H3808=לֹא=not}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3808",
+                  "lemma": "לֹא",
+                  "translit": "lo",
+                  "morph": "H:Neg",
+                  "gloss": "not 1) not, no<br>1a) not (with verb-absolute prohibition)<br>1b) not (with modifier-negation)<br>1c) nothing (subst)<br>1d) without (with particle)<br>1e) before (of time)<BR>Aramaic equivalent: <i>la</i> (לָא \"not\" H3809)",
+                  "raw": "H3808\tH3808 =\tH3808\tלֹא\tlo\tH:Neg\tnot\t1) not, no<br>1a) not (with verb-absolute prohibition)<br>1b) not (with modifier-negation)<br>1c) nothing (subst)<br>1d) without (with particle)<br>1e) before (of time)<BR>Aramaic equivalent: <i>la</i> (לָא \"not\" H3809)"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L לֹֽא\\׃ Lo' not {H3808}\\H9016 HTn H3808 {H3808=לֹא=not}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 33,
           "text": "And he recognized it and said, “The robe of my son! A wild animal has devoured him! Joseph is surely torn to pieces!”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יוֹסֵֽף\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "yo.Sef",
+                "wordIndex": 2
+              },
+              {
+                "text": "Joseph",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3130G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3130",
+                  "lemma": "יוֹסֵף",
+                  "translit": "yo.seph",
+                  "morph": "N:N-M-P",
+                  "gloss": "Joseph A man living at the time of Exile and Return, only mentioned at Neh.12.14<BR> § Joseph = \"Jehovah has added\"<br>1) the eldest son of Jacob by Rachel<br>2) father of Igal, who represented the tribe of Issachar among the spies<br>3) a son of Asaph<br>4) a man who took a foreign wife in the time of Ezra<br>5) a priest of the family of Shebaniah in the time of Nehemiah",
+                  "raw": "H3130\tH3130K =\tH3130K\tיוֹסֵף\tyo.seph\tN:N-M-P\tJoseph\tA man living at the time of Exile and Return, only mentioned at Neh.12.14<BR> § Joseph = \"Jehovah has added\"<br>1) the eldest son of Jacob by Rachel<br>2) father of Igal, who represented the tribe of Issachar among the spies<br>3) a son of Asaph<br>4) a man who took a foreign wife in the time of Ezra<br>5) a priest of the family of Shebaniah in the time of Nehemiah"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3130G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3130",
+                  "lemma": "יוֹסֵף",
+                  "translit": "yo.seph",
+                  "morph": "N:N-M-P",
+                  "gloss": "Joseph A man living at the time of Exile and Return, only mentioned at Neh.12.14<BR> § Joseph = \"Jehovah has added\"<br>1) the eldest son of Jacob by Rachel<br>2) father of Igal, who represented the tribe of Issachar among the spies<br>3) a son of Asaph<br>4) a man who took a foreign wife in the time of Ezra<br>5) a priest of the family of Shebaniah in the time of Nehemiah",
+                  "raw": "H3130\tH3130K =\tH3130K\tיוֹסֵף\tyo.seph\tN:N-M-P\tJoseph\tA man living at the time of Exile and Return, only mentioned at Neh.12.14<BR> § Joseph = \"Jehovah has added\"<br>1) the eldest son of Jacob by Rachel<br>2) father of Igal, who represented the tribe of Issachar among the spies<br>3) a son of Asaph<br>4) a man who took a foreign wife in the time of Ezra<br>5) a priest of the family of Shebaniah in the time of Nehemiah"
+                }
+              },
+              {
+                "text": "{H3130G=יוֹסֵף=Joseph»Joseph@Gen.30.24-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3130",
+                  "lemma": "יוֹסֵף",
+                  "translit": "yo.seph",
+                  "morph": "N:N-M-P",
+                  "gloss": "Joseph A man living at the time of Exile and Return, only mentioned at Neh.12.14<BR> § Joseph = \"Jehovah has added\"<br>1) the eldest son of Jacob by Rachel<br>2) father of Igal, who represented the tribe of Issachar among the spies<br>3) a son of Asaph<br>4) a man who took a foreign wife in the time of Ezra<br>5) a priest of the family of Shebaniah in the time of Nehemiah",
+                  "raw": "H3130\tH3130K =\tH3130K\tיוֹסֵף\tyo.seph\tN:N-M-P\tJoseph\tA man living at the time of Exile and Return, only mentioned at Neh.12.14<BR> § Joseph = \"Jehovah has added\"<br>1) the eldest son of Jacob by Rachel<br>2) father of Igal, who represented the tribe of Issachar among the spies<br>3) a son of Asaph<br>4) a man who took a foreign wife in the time of Ezra<br>5) a priest of the family of Shebaniah in the time of Nehemiah"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L יוֹסֵֽף\\׃ yo.Sef Joseph {H3130G}\\H9016 HNpm H3130G {H3130G=יוֹסֵף=Joseph»Joseph@Gen.30.24-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 34,
           "text": "And Jacob tore his clothes and put sackcloth on his loins and mourned for his son many days.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "רַבִּֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ra.Bim",
+                "wordIndex": 2
+              },
+              {
+                "text": "many",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H7227A}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HAampa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H7227A",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H7227A=רַב=many}\\H9016=׃=verseEnd",
+                "wordIndex": 7
+              }
+            ],
+            "originalVerseText": "#11=L רַבִּֽים\\׃ ra.Bim many {H7227A}\\H9016 HAampa H7227A {H7227A=רַב=many}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 35,
           "text": "And all his sons and daughters tried to console him, but he refused to be consoled. And he said, “No, I shall go down to my son, to Sheol, mourning.” And his father wept for him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָבִֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.Vi/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "father/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0001G}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0001",
+                  "lemma": "אָב",
+                  "translit": "av",
+                  "morph": "N:N-M-P",
+                  "gloss": "father of The father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;",
+                  "raw": "H0001\tH0001I = a Part of\tH0022G\tאָב\tav\tN:N-M-P\tfather of\tThe father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0001G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0001",
+                  "lemma": "אָב",
+                  "translit": "av",
+                  "morph": "N:N-M-P",
+                  "gloss": "father of The father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;",
+                  "raw": "H0001\tH0001I = a Part of\tH0022G\tאָב\tav\tN:N-M-P\tfather of\tThe father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;"
+                }
+              },
+              {
+                "text": "{H0001G=אָב=father}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0001",
+                  "lemma": "אָב",
+                  "translit": "av",
+                  "morph": "N:N-M-P",
+                  "gloss": "father of The father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;",
+                  "raw": "H0001\tH0001I = a Part of\tH0022G\tאָב\tav\tN:N-M-P\tfather of\tThe father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L אָבִֽי/ו\\׃ 'a.Vi/v father/ his {H0001G}/H9023\\H9016 HNcmsc/Sp3ms H0001G {H0001G=אָב=father}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 36,
           "text": "And the Midianites sold him in Egypt to Potiphar, a court official of Pharaoh, a commander of the imperial guard.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/טַּבָּחִֽים\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "ha./ta.ba.Chim",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "bodyguards",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H2876}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2876",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2876",
+                  "lemma": "טַבָּח",
+                  "translit": "tab.bach",
+                  "morph": "H:N-M",
+                  "gloss": "guard 1) executioner, cook, bodyguard, guardsman<br>1a) cook (who also killed the animal for food)<br>1b) guardsmen, bodyguard<BR>Aramaic equivalent: <i>tab.bach</i> (טַבָּח \"guardsman\" H2877)",
+                  "raw": "H2876\tH2876 =\tH2876\tטַבָּח\ttab.bach\tH:N-M\tguard\t1) executioner, cook, bodyguard, guardsman<br>1a) cook (who also killed the animal for food)<br>1b) guardsmen, bodyguard<BR>Aramaic equivalent: <i>tab.bach</i> (טַבָּח \"guardsman\" H2877)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2876=טַבָּח=guard}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הַ/טַּבָּחִֽים\\׃\\ \\פ ha./ta.ba.Chim the/ bodyguards H9009/{H2876}\\H9016\\ \\H9017 HTd/Ncmpa H2876 H9009=ה=the/{H2876=טַבָּח=guard}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ],
       "nirv": [
@@ -93,85 +983,975 @@
           "chapter": 37,
           "verse": 23,
           "text": "When Joseph came to his brothers, he was wearing his beautiful robe. They took it away from him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#16=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "עָלָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.La/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "[was]",
+                "wordIndex": 3
+              },
+              {
+                "text": "on/",
+                "wordIndex": 4
+              },
+              {
+                "text": "him",
+                "wordIndex": 5
+              },
+              {
+                "text": "{H5921A}/H9033\\H9016",
+                "wordIndex": 6
+              },
+              {
+                "text": "HRd/Sp3ms",
+                "wordIndex": 7
+              },
+              {
+                "text": "H5921A",
+                "wordIndex": 8
+              },
+              {
+                "text": "{H5921A=עַל=upon}/H9033=Os3m=him\\H9016=׃=verseEnd",
+                "wordIndex": 9
+              }
+            ],
+            "originalVerseText": "#16=L עָלָֽי/ו\\׃ 'a.La/v [was] on/ him {H5921A}/H9033\\H9016 HRd/Sp3ms H5921A {H5921A=עַל=upon}/H9033=Os3m=him\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 24,
           "text": "And they threw him into the well. The well was empty. There wasn’t any water in it.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#09=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מָֽיִם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Ma.yim",
+                "wordIndex": 2
+              },
+              {
+                "text": "[was]",
+                "wordIndex": 3
+              },
+              {
+                "text": "water",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4325G}\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              },
+              {
+                "text": "HNcmpa",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4325G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              },
+              {
+                "text": "{H4325G=מַי=water}\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4325",
+                  "lemma": "מַי",
+                  "translit": "ma.yim",
+                  "morph": "H:N-M",
+                  "gloss": "Water (Gate) <BR> This name means water, refreshment",
+                  "raw": "H4325\tH4325H =\tH4325H\tמַי\tma.yim\tH:N-M\tWater (Gate)\t<BR> This name means water, refreshment "
+                }
+              }
+            ],
+            "originalVerseText": "#09=L מָֽיִם\\׃ Ma.yim [was] water {H4325G}\\H9016 HNcmpa H4325G {H4325G=מַי=water}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 25,
           "text": "Then they sat down to eat their meal. As they did, they saw some Ishmaelite traders coming from Gilead. Their camels were loaded with spices, lotion and myrrh. They were on their way to take them down to Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#19=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיְמָ/ה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mitz.Ra.ye.ma/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "Egypt/",
+                "wordIndex": 3
+              },
+              {
+                "text": "towards",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4714G}/H9011\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "HNpl/Sd",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}/H9011=ה=to\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#19=L מִצְרָֽיְמָ/ה\\׃ mitz.Ra.ye.ma/h Egypt/ towards {H4714G}/H9011\\H9016 HNpl/Sd H4714G {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}/H9011=ה=to\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 26,
           "text": "Judah said to his brothers, “What will we gain if we kill our brother and try to cover up what we’ve done?",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "דָּמֽ/וֹ\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "da.M/o",
+                "wordIndex": 2
+              },
+              {
+                "text": "blood/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H1818}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H1818",
+                  "lemma": "דָּם",
+                  "translit": "dam",
+                  "morph": "H:N-M",
+                  "gloss": "blood 1) blood<br>1a) of wine (fig.)",
+                  "raw": "H1818\tH1818 =\tH1818\tדָּם\tdam\tH:N-M\tblood\t1) blood<br>1a) of wine (fig.)"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H1818",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H1818",
+                  "lemma": "דָּם",
+                  "translit": "dam",
+                  "morph": "H:N-M",
+                  "gloss": "blood 1) blood<br>1a) of wine (fig.)",
+                  "raw": "H1818\tH1818 =\tH1818\tדָּם\tdam\tH:N-M\tblood\t1) blood<br>1a) of wine (fig.)"
+                }
+              },
+              {
+                "text": "{H1818=דָּם=blood}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1818",
+                  "lemma": "דָּם",
+                  "translit": "dam",
+                  "morph": "H:N-M",
+                  "gloss": "blood 1) blood<br>1a) of wine (fig.)",
+                  "raw": "H1818\tH1818 =\tH1818\tדָּם\tdam\tH:N-M\tblood\t1) blood<br>1a) of wine (fig.)"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L דָּמֽ/וֹ\\׃ da.M/o blood/ his {H1818}/H9023\\H9016 HNcmsc/Sp3ms H1818 {H1818=דָּם=blood}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 27,
           "text": "Come. Let’s sell him to these traders. Let’s not harm him ourselves. After all, he’s our brother. He’s our own flesh and blood.” Judah’s brothers agreed with him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#13=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אֶחָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'e.Cha/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "brothers/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0251G}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "HNcmpc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0251G_B",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "{H0251G=אָח=:",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0251",
+                  "lemma": "אָח",
+                  "translit": "ach",
+                  "morph": "H:N-M",
+                  "gloss": "brother: compatriot : compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance",
+                  "raw": "H0251\tH0251I = a Meaning of\tH0251G\tאָח\tach\tH:N-M\tbrother: compatriot\t: compatriot<br>1) brother<br>1a) brother of same parents<br>1b) half-brother (same father)<br>1c) relative, kinship, same tribe<br>1d) each to the other (reciprocal relationship)<br>1e) (fig.) of resemblance"
+                }
+              },
+              {
+                "text": "male-sibling»brother:1_male-sibling}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9023",
+                  "lemma": "הוּ",
+                  "translit": "hu",
+                  "morph": "Ps3m",
+                  "gloss": "his Personal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular",
+                  "raw": "H9023\tH9023 =\tH9023\tהוּ\thu\tPs3m\this\tPersonal possessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular"
+                }
+              }
+            ],
+            "originalVerseText": "#13=L אֶחָֽי/ו\\׃ 'e.Cha/v brothers/ his {H0251G}/H9023\\H9016 HNcmpc/Sp3ms H0251G_B {H0251G=אָח=: male-sibling»brother:1_male-sibling}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 28,
           "text": "The traders from Midian came by. Joseph’s brothers pulled him up out of the well. They sold him to the Ishmaelite traders for eight ounces of silver. Then the traders took him to Egypt.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#20=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "מִצְרָֽיְמָ/ה\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "mitz.Ra.ye.ma/h",
+                "wordIndex": 2
+              },
+              {
+                "text": "Egypt/",
+                "wordIndex": 3
+              },
+              {
+                "text": "towards",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H4714G}/H9011\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "HNpl/Sd",
+                "wordIndex": 6
+              },
+              {
+                "text": "H4714G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              },
+              {
+                "text": "{H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}/H9011=ה=to\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H4714",
+                  "lemma": "מִצְרַ֫יִם",
+                  "translit": "mits.ra.yim",
+                  "morph": "N:N--L",
+                  "gloss": "(Brook of) Egypt <BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt",
+                  "raw": "H4714\tH4714J = a Part of\tH7883G\tמִצְרַ֫יִם\tmits.ra.yim\tN:N--L\t(Brook of) Egypt\t<BR>Combined with <i>shi.chor</i> (שִׁיחוֹר \"Shihor\" H7883)<BR> § Egypt = \"land of the Copts\"<br> a country at the northeastern section of Africa, adjacent to Palestine, and through which the Nile flows<br>Egyptians = \"double straits\"<br>adj<br>2) the inhabitants or natives of Egypt"
+                }
+              }
+            ],
+            "originalVerseText": "#20=L מִצְרָֽיְמָ/ה\\׃ mitz.Ra.ye.ma/h Egypt/ towards {H4714G}/H9011\\H9016 HNpl/Sd H4714G {H4714G=מִצְרַ֫יִם=Egypt»Egypt@Gen.12.10-Rev}/H9011=ה=to\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 29,
           "text": "Later, Reuben came back to the empty well. He saw that Joseph wasn’t there. He was so upset that he tore his clothes.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בְּגָדָֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "be.ga.Da/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "clothes/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0899B}/H9023\\H9016",
+                "wordIndex": 5
+              },
+              {
+                "text": "HNcmpc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0899B",
+                "wordIndex": 7
+              },
+              {
+                "text": "{H0899B=בֶּ֫גֶד=garment}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8
+              }
+            ],
+            "originalVerseText": "#11=L בְּגָדָֽי/ו\\׃ be.ga.Da/v clothes/ his {H0899B}/H9023\\H9016 HNcmpc/Sp3ms H0899B {H0899B=בֶּ֫גֶד=garment}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 30,
           "text": "He went back to his brothers and said, “The boy isn’t there! Now what should I do?”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בָֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Va'",
+                "wordIndex": 2
+              },
+              {
+                "text": "going",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H0935G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H0935",
+                  "lemma": "בּוֹא",
+                  "translit": "bo",
+                  "morph": "H:V",
+                  "gloss": "to come (in): bring : bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put",
+                  "raw": "H0935\tH0935P = a Meaning of\tH0935G\tבּוֹא\tbo\tH:V\tto come (in): bring\t: bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put"
+                }
+              },
+              {
+                "text": "HVqrmsa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H0935G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H0935",
+                  "lemma": "בּוֹא",
+                  "translit": "bo",
+                  "morph": "H:V",
+                  "gloss": "to come (in): bring : bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put",
+                  "raw": "H0935\tH0935P = a Meaning of\tH0935G\tבּוֹא\tbo\tH:V\tto come (in): bring\t: bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put"
+                }
+              },
+              {
+                "text": "{H0935G=בּוֹא=:",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0935",
+                  "lemma": "בּוֹא",
+                  "translit": "bo",
+                  "morph": "H:V",
+                  "gloss": "to come (in): bring : bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put",
+                  "raw": "H0935\tH0935P = a Meaning of\tH0935G\tבּוֹא\tbo\tH:V\tto come (in): bring\t: bring/take_in<br>1) to go in, enter, come, go, come in<br>1a) (Qal)<br>1a1) to enter, come in<br>1a2) to come<br>1a2a) to come with<br>1a2b) to come upon, fall or light upon, attack (enemy)<br>1a2c) to come to pass<br>1a3) to attain to<br>1a4) to be enumerated<br>1a5) to go<br>1b) (Hiphil)<br>1b1) to lead in<br>1b2) to carry in<br>1b3) to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon<br>1b4) to bring to pass<br>1c) (Hophal)<br>1c1) to be brought, brought in<br>1c2) to be introduced, be put"
+                }
+              },
+              {
+                "text": "come»to",
+                "wordIndex": 8
+              },
+              {
+                "text": "come",
+                "wordIndex": 9
+              },
+              {
+                "text": "(in):1_come;_go_in}\\H9016=׃=verseEnd",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9016",
+                  "lemma": ":",
+                  "translit": ":",
+                  "morph": "Punct.",
+                  "gloss": "[.] Punctuation Sof-Pasuq: ends a verse",
+                  "raw": "H9016\tH9016 =\tH9016\t:\t:\tPunct.\t[.]\tPunctuation Sof-Pasuq: ends a verse"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L בָֽא\\׃ Va' going {H0935G}\\H9016 HVqrmsa H0935G {H0935G=בּוֹא=: come»to come (in):1_come;_go_in}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 31,
           "text": "Then they got Joseph’s beautiful robe. They killed a goat and dipped the robe in the blood.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "בַּ/דָּֽם\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ba./Dam",
+                "wordIndex": 2
+              },
+              {
+                "text": "in",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "blood",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9003/{H1818}\\H9016",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              },
+              {
+                "text": "HRd/Ncmsa",
+                "wordIndex": 7
+              },
+              {
+                "text": "H1818",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H1818",
+                  "lemma": "דָּם",
+                  "translit": "dam",
+                  "morph": "H:N-M",
+                  "gloss": "blood 1) blood<br>1a) of wine (fig.)",
+                  "raw": "H1818\tH1818 =\tH1818\tדָּם\tdam\tH:N-M\tblood\t1) blood<br>1a) of wine (fig.)"
+                }
+              },
+              {
+                "text": "H9003=ב=in/{H1818=דָּם=blood}\\H9016=׃=verseEnd",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H9003",
+                  "lemma": "/ב",
+                  "translit": "b",
+                  "morph": "Prefix",
+                  "gloss": "in/on/with Prefix beth: in, among, with,",
+                  "raw": "H9003\tH9003 =\tH9003\t/ב\tb\tPrefix\tin/on/with\tPrefix beth: in, among, with, "
+                }
+              }
+            ],
+            "originalVerseText": "#11=L בַּ/דָּֽם\\׃ ba./Dam in the/ blood H9003/{H1818}\\H9016 HRd/Ncmsa H1818 H9003=ב=in/{H1818=דָּם=blood}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 32,
           "text": "They took it back to their father. They said, “We found this. Take a look at it. See if it’s your son’s robe.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#17=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "לֹֽא\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "Lo'",
+                "wordIndex": 2
+              },
+              {
+                "text": "not",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3808}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3808",
+                  "lemma": "לֹא",
+                  "translit": "lo",
+                  "morph": "H:Neg",
+                  "gloss": "not 1) not, no<br>1a) not (with verb-absolute prohibition)<br>1b) not (with modifier-negation)<br>1c) nothing (subst)<br>1d) without (with particle)<br>1e) before (of time)<BR>Aramaic equivalent: <i>la</i> (לָא \"not\" H3809)",
+                  "raw": "H3808\tH3808 =\tH3808\tלֹא\tlo\tH:Neg\tnot\t1) not, no<br>1a) not (with verb-absolute prohibition)<br>1b) not (with modifier-negation)<br>1c) nothing (subst)<br>1d) without (with particle)<br>1e) before (of time)<BR>Aramaic equivalent: <i>la</i> (לָא \"not\" H3809)"
+                }
+              },
+              {
+                "text": "HTn",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3808",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3808",
+                  "lemma": "לֹא",
+                  "translit": "lo",
+                  "morph": "H:Neg",
+                  "gloss": "not 1) not, no<br>1a) not (with verb-absolute prohibition)<br>1b) not (with modifier-negation)<br>1c) nothing (subst)<br>1d) without (with particle)<br>1e) before (of time)<BR>Aramaic equivalent: <i>la</i> (לָא \"not\" H3809)",
+                  "raw": "H3808\tH3808 =\tH3808\tלֹא\tlo\tH:Neg\tnot\t1) not, no<br>1a) not (with verb-absolute prohibition)<br>1b) not (with modifier-negation)<br>1c) nothing (subst)<br>1d) without (with particle)<br>1e) before (of time)<BR>Aramaic equivalent: <i>la</i> (לָא \"not\" H3809)"
+                }
+              },
+              {
+                "text": "{H3808=לֹא=not}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3808",
+                  "lemma": "לֹא",
+                  "translit": "lo",
+                  "morph": "H:Neg",
+                  "gloss": "not 1) not, no<br>1a) not (with verb-absolute prohibition)<br>1b) not (with modifier-negation)<br>1c) nothing (subst)<br>1d) without (with particle)<br>1e) before (of time)<BR>Aramaic equivalent: <i>la</i> (לָא \"not\" H3809)",
+                  "raw": "H3808\tH3808 =\tH3808\tלֹא\tlo\tH:Neg\tnot\t1) not, no<br>1a) not (with verb-absolute prohibition)<br>1b) not (with modifier-negation)<br>1c) nothing (subst)<br>1d) without (with particle)<br>1e) before (of time)<BR>Aramaic equivalent: <i>la</i> (לָא \"not\" H3809)"
+                }
+              }
+            ],
+            "originalVerseText": "#17=L לֹֽא\\׃ Lo' not {H3808}\\H9016 HTn H3808 {H3808=לֹא=not}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 33,
           "text": "Jacob recognized it. He said, “It’s my son’s robe! A wild animal has eaten him up. Joseph must have been torn to pieces.”",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "יוֹסֵֽף\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "yo.Sef",
+                "wordIndex": 2
+              },
+              {
+                "text": "Joseph",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H3130G}\\H9016",
+                "wordIndex": 4,
+                "lex": {
+                  "code": "H3130",
+                  "lemma": "יוֹסֵף",
+                  "translit": "yo.seph",
+                  "morph": "N:N-M-P",
+                  "gloss": "Joseph A man living at the time of Exile and Return, only mentioned at Neh.12.14<BR> § Joseph = \"Jehovah has added\"<br>1) the eldest son of Jacob by Rachel<br>2) father of Igal, who represented the tribe of Issachar among the spies<br>3) a son of Asaph<br>4) a man who took a foreign wife in the time of Ezra<br>5) a priest of the family of Shebaniah in the time of Nehemiah",
+                  "raw": "H3130\tH3130K =\tH3130K\tיוֹסֵף\tyo.seph\tN:N-M-P\tJoseph\tA man living at the time of Exile and Return, only mentioned at Neh.12.14<BR> § Joseph = \"Jehovah has added\"<br>1) the eldest son of Jacob by Rachel<br>2) father of Igal, who represented the tribe of Issachar among the spies<br>3) a son of Asaph<br>4) a man who took a foreign wife in the time of Ezra<br>5) a priest of the family of Shebaniah in the time of Nehemiah"
+                }
+              },
+              {
+                "text": "HNpm",
+                "wordIndex": 5
+              },
+              {
+                "text": "H3130G",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H3130",
+                  "lemma": "יוֹסֵף",
+                  "translit": "yo.seph",
+                  "morph": "N:N-M-P",
+                  "gloss": "Joseph A man living at the time of Exile and Return, only mentioned at Neh.12.14<BR> § Joseph = \"Jehovah has added\"<br>1) the eldest son of Jacob by Rachel<br>2) father of Igal, who represented the tribe of Issachar among the spies<br>3) a son of Asaph<br>4) a man who took a foreign wife in the time of Ezra<br>5) a priest of the family of Shebaniah in the time of Nehemiah",
+                  "raw": "H3130\tH3130K =\tH3130K\tיוֹסֵף\tyo.seph\tN:N-M-P\tJoseph\tA man living at the time of Exile and Return, only mentioned at Neh.12.14<BR> § Joseph = \"Jehovah has added\"<br>1) the eldest son of Jacob by Rachel<br>2) father of Igal, who represented the tribe of Issachar among the spies<br>3) a son of Asaph<br>4) a man who took a foreign wife in the time of Ezra<br>5) a priest of the family of Shebaniah in the time of Nehemiah"
+                }
+              },
+              {
+                "text": "{H3130G=יוֹסֵף=Joseph»Joseph@Gen.30.24-Rev}\\H9016=׃=verseEnd",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H3130",
+                  "lemma": "יוֹסֵף",
+                  "translit": "yo.seph",
+                  "morph": "N:N-M-P",
+                  "gloss": "Joseph A man living at the time of Exile and Return, only mentioned at Neh.12.14<BR> § Joseph = \"Jehovah has added\"<br>1) the eldest son of Jacob by Rachel<br>2) father of Igal, who represented the tribe of Issachar among the spies<br>3) a son of Asaph<br>4) a man who took a foreign wife in the time of Ezra<br>5) a priest of the family of Shebaniah in the time of Nehemiah",
+                  "raw": "H3130\tH3130K =\tH3130K\tיוֹסֵף\tyo.seph\tN:N-M-P\tJoseph\tA man living at the time of Exile and Return, only mentioned at Neh.12.14<BR> § Joseph = \"Jehovah has added\"<br>1) the eldest son of Jacob by Rachel<br>2) father of Igal, who represented the tribe of Issachar among the spies<br>3) a son of Asaph<br>4) a man who took a foreign wife in the time of Ezra<br>5) a priest of the family of Shebaniah in the time of Nehemiah"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L יוֹסֵֽף\\׃ yo.Sef Joseph {H3130G}\\H9016 HNpm H3130G {H3130G=יוֹסֵף=Joseph»Joseph@Gen.30.24-Rev}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 34,
           "text": "Jacob tore his clothes. He put on black clothes. Then he sobbed over his son for many days.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#11=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "רַבִּֽים\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "ra.Bim",
+                "wordIndex": 2
+              },
+              {
+                "text": "many",
+                "wordIndex": 3
+              },
+              {
+                "text": "{H7227A}\\H9016",
+                "wordIndex": 4
+              },
+              {
+                "text": "HAampa",
+                "wordIndex": 5
+              },
+              {
+                "text": "H7227A",
+                "wordIndex": 6
+              },
+              {
+                "text": "{H7227A=רַב=many}\\H9016=׃=verseEnd",
+                "wordIndex": 7
+              }
+            ],
+            "originalVerseText": "#11=L רַבִּֽים\\׃ ra.Bim many {H7227A}\\H9016 HAampa H7227A {H7227A=רַב=many}\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 35,
           "text": "All of Jacob’s other sons and daughters came to comfort him. But they weren’t able to. He said, “I’ll be full of sorrow when I go down into the grave to be with my son.” So Joseph’s father sobbed over him.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#18=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "אָבִֽי/ו\\׃",
+                "wordIndex": 1
+              },
+              {
+                "text": "'a.Vi/v",
+                "wordIndex": 2
+              },
+              {
+                "text": "father/",
+                "wordIndex": 3
+              },
+              {
+                "text": "his",
+                "wordIndex": 4
+              },
+              {
+                "text": "{H0001G}/H9023\\H9016",
+                "wordIndex": 5,
+                "lex": {
+                  "code": "H0001",
+                  "lemma": "אָב",
+                  "translit": "av",
+                  "morph": "N:N-M-P",
+                  "gloss": "father of The father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;",
+                  "raw": "H0001\tH0001I = a Part of\tH0022G\tאָב\tav\tN:N-M-P\tfather of\tThe father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;"
+                }
+              },
+              {
+                "text": "HNcmsc/Sp3ms",
+                "wordIndex": 6
+              },
+              {
+                "text": "H0001G",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H0001",
+                  "lemma": "אָב",
+                  "translit": "av",
+                  "morph": "N:N-M-P",
+                  "gloss": "father of The father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;",
+                  "raw": "H0001\tH0001I = a Part of\tH0022G\tאָב\tav\tN:N-M-P\tfather of\tThe father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;"
+                }
+              },
+              {
+                "text": "{H0001G=אָב=father}/H9023=Ps3m=his\\H9016=׃=verseEnd",
+                "wordIndex": 8,
+                "lex": {
+                  "code": "H0001",
+                  "lemma": "אָב",
+                  "translit": "av",
+                  "morph": "N:N-M-P",
+                  "gloss": "father of The father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;",
+                  "raw": "H0001\tH0001I = a Part of\tH0022G\tאָב\tav\tN:N-M-P\tfather of\tThe father of Gibeon, also known as Abiel - a man of the tribe of Benjamin living at the time of United Monarchy, first mentioned at 1Sa.9.1; <br> son of: Zeror (H6872C); married to Maacah (H4601N); <br> father of: Kish (H7027G), Ner (H5369G), Abdon (H5658J), Zur (H6698I), Baal (H1168B), Nadab (H5070J), Gedor (H1446I), Ahio (H0283I), Zecher (H2144) and Mikloth (H4732G); also called Jeiel (Ketiv: Jeuel; KJV: Jehiel) at 1Ch.9.35;  Ner at 1Ch.8.33; 9.39;"
+                }
+              }
+            ],
+            "originalVerseText": "#18=L אָבִֽי/ו\\׃ 'a.Vi/v father/ his {H0001G}/H9023\\H9016 HNcmsc/Sp3ms H0001G {H0001G=אָב=father}/H9023=Ps3m=his\\H9016=׃=verseEnd"
+          }
         },
         {
           "chapter": 37,
           "verse": 36,
           "text": "But the traders from Midian sold Joseph to Potiphar in Egypt. Potiphar was one of Pharaoh’s officials. He was the captain of the palace guard.",
-          "isHeading": false
+          "isHeading": false,
+          "interlinear": {
+            "tokens": [
+              {
+                "text": "#10=L",
+                "wordIndex": 0
+              },
+              {
+                "text": "הַ/טַּבָּחִֽים\\׃\\",
+                "wordIndex": 1
+              },
+              {
+                "text": "\\פ",
+                "wordIndex": 2
+              },
+              {
+                "text": "ha./ta.ba.Chim",
+                "wordIndex": 3
+              },
+              {
+                "text": "the/",
+                "wordIndex": 4
+              },
+              {
+                "text": "bodyguards",
+                "wordIndex": 5
+              },
+              {
+                "text": "H9009/{H2876}\\H9016\\",
+                "wordIndex": 6,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9017",
+                "wordIndex": 7,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              },
+              {
+                "text": "HTd/Ncmpa",
+                "wordIndex": 8
+              },
+              {
+                "text": "H2876",
+                "wordIndex": 9,
+                "lex": {
+                  "code": "H2876",
+                  "lemma": "טַבָּח",
+                  "translit": "tab.bach",
+                  "morph": "H:N-M",
+                  "gloss": "guard 1) executioner, cook, bodyguard, guardsman<br>1a) cook (who also killed the animal for food)<br>1b) guardsmen, bodyguard<BR>Aramaic equivalent: <i>tab.bach</i> (טַבָּח \"guardsman\" H2877)",
+                  "raw": "H2876\tH2876 =\tH2876\tטַבָּח\ttab.bach\tH:N-M\tguard\t1) executioner, cook, bodyguard, guardsman<br>1a) cook (who also killed the animal for food)<br>1b) guardsmen, bodyguard<BR>Aramaic equivalent: <i>tab.bach</i> (טַבָּח \"guardsman\" H2877)"
+                }
+              },
+              {
+                "text": "H9009=ה=the/{H2876=טַבָּח=guard}\\H9016=׃=verseEnd\\",
+                "wordIndex": 10,
+                "lex": {
+                  "code": "H9009",
+                  "lemma": "/ה",
+                  "translit": "ha",
+                  "morph": "Prefix",
+                  "gloss": "[the] Prefix hé article: \"the\" for a subject, not object",
+                  "raw": "H9009\tH9009 =\tH9009\t/ה\tha\tPrefix\t[the]\tPrefix hé article: \"the\" for a subject, not object"
+                }
+              },
+              {
+                "text": "\\H9017=פ=para",
+                "wordIndex": 11,
+                "lex": {
+                  "code": "H9017",
+                  "lemma": "פ",
+                  "translit": "P",
+                  "morph": "Punct.",
+                  "gloss": "[¶] Punctuation Pe paragraph: ends a literary section",
+                  "raw": "H9017\tH9017 =\tH9017\tפ\tP\tPunct.\t[¶]\tPunctuation Pe paragraph: ends a literary section"
+                }
+              }
+            ],
+            "originalVerseText": "#10=L הַ/טַּבָּחִֽים\\׃\\ \\פ ha./ta.ba.Chim the/ bodyguards H9009/{H2876}\\H9016\\ \\H9017 HTd/Ncmpa H2876 H9009=ה=the/{H2876=טַבָּח=guard}\\H9016=׃=verseEnd\\ \\H9017=פ=para"
+          }
         }
       ]
     }

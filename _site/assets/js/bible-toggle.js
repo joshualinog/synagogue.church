@@ -18,6 +18,12 @@
       "nirv-btn px-3 py-1 rounded bg-white text-gray-900 border mr-2";
     wrapper.appendChild(leb);
     wrapper.appendChild(nirv);
+    // Interlinear button sits to the right of NIRV and behaves as a "version":
+    const inter = document.createElement("button");
+    inter.textContent = "Interlinear";
+    inter.dataset.version = "interlinear";
+    inter.className = "inter-btn px-3 py-1 rounded bg-white text-gray-900 border";
+    wrapper.appendChild(inter);
     return wrapper;
   }
 
@@ -109,6 +115,33 @@
           torahBlock.innerHTML = original.torah;
         if (gospelBlock && original.gospel !== null)
           gospelBlock.innerHTML = original.gospel;
+        return;
+      }
+
+      if (ver === "interlinear") {
+        // When interlinear is selected: unselect and hide LEB/NIRV and reveal server-rendered interlinear panels.
+        // Swap button styles
+        buttons.querySelectorAll("button").forEach((b) => {
+          if (b.dataset && b.dataset.version === ver) {
+            b.classList.remove("bg-white", "text-gray-900", "border");
+            b.classList.add("bg-gray-900", "text-white");
+          } else {
+            b.classList.remove("bg-gray-900", "text-white");
+            b.classList.add("bg-white", "text-gray-900", "border");
+          }
+        });
+
+        // Hide standard .version blocks and show .server-interlinear blocks
+        const torah = document.querySelector('.bible-block[data-section="torah"]');
+        const gospel = document.querySelector('.bible-block[data-section="gospel"]');
+        [torah, gospel].forEach((block) => {
+          if (!block) return;
+          // hide regular translation versions
+          block.querySelectorAll('.version.leb, .version.nirv').forEach(el => el.classList.add('hidden'));
+          // reveal server-side interlinear panels
+          block.querySelectorAll('.server-interlinear').forEach(el => el.classList.remove('hidden'));
+        });
+
         return;
       }
 
