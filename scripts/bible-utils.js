@@ -185,11 +185,47 @@ function collectVerses(bibleObj, specs) {
         const t = text.trim();
         let isHeading = false;
         if (t) {
+          const startsWithQuote = /^['"“‘]/.test(t);
+          // If the verse begins with a quotation mark, it is likely speech
+          // broken across lines in the source. In that case, avoid using
+          // the newline-based heuristic which can falsely classify the
+          // first line of quoted speech as a heading.
           // If the stored text contains a newline, check whether the first
           // line looks like a short section heading followed by substantive
           // verse text on the next line. This is the safer / preferred case
           // for classifying headings.
-          if (t.indexOf("\n") !== -1) {
+          // If the current verse contains line breaks, avoid flagging it as
+          // a heading when it's part of quoted speech that began in the
+          // previous verse (common in LEB where opening quote appears in
+          // an earlier verse). Check the previous verse text in the
+          // chapter to detect an unterminated opening quote.
+          // Scan backwards through earlier verses in this chapter to see if
+          // an opening quote was started and not yet closed before the
+          // current verse. If so, treat the current verse as a continuation
+          // of quoted speech and skip newline-based heading detection.
+          let prevLooksLikeOpenQuote = false;
+          try {
+            for (let k = v - 1; k >= 1; k--) {
+              const rawK = (chapterObj && chapterObj["" + k]) || "";
+              const tK = (rawK || "").toString().trim();
+              if (!tK) continue;
+              const starts = /^['"“‘]/.test(tK);
+              const ends = /['"”’]$/.test(tK);
+              if (starts && !ends) {
+                // Found an earlier verse that opens a quote and doesn't
+                // close it; assume the quote continues into current verse.
+                prevLooksLikeOpenQuote = true;
+                break;
+              }
+              // If we find a verse that closes a quote, stop scanning —
+              // the quoted block has ended before current verse.
+              if (ends) break;
+            }
+          } catch (e) {
+            prevLooksLikeOpenQuote = false;
+          }
+
+          if (t.indexOf("\n") !== -1 && !startsWithQuote && !prevLooksLikeOpenQuote) {
             const parts = t
               .split(/\r?\n/)
               .map((s) => s.trim())
@@ -216,7 +252,12 @@ function collectVerses(bibleObj, specs) {
           if (!isHeading) {
             const startsWithQuote = /^['"“‘]/.test(t);
             const endsWithQuote = /['"”’]$/.test(t);
-            const short = t.length > 0 && t.length <= 100;
+            // Make the legacy/fallback heuristic stricter: only very short
+            // fragments should be considered headings. Many translations (e.g.
+            // LEB) begin verses with an opening quote and don't include a
+            // matching closing quote until later verses — lowering the length
+            // threshold reduces false positives.
+            const short = t.length > 0 && t.length <= 40;
             const fewSentencePunct = (t.match(/[.!?]/g) || []).length === 0;
             if (
               startsWithQuote &&
