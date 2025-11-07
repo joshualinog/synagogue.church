@@ -107,17 +107,14 @@ function buildJsonFromDb(dbPath) {
       continue;
 
     let stored = (text || "").toString();
-    if (stored) {
-      const parts = stored.split(/\r?\n/);
-      if (parts.length > 1) {
-        const first = parts[0].trim();
-        const rest = parts.slice(1).join("\n").trim();
-        const startsWithQuote = /^['"“‘]/.test(first);
-        const shortLine = first.length > 0 && first.length < 120;
-        const fewPunct = (first.match(/[.!?]/g) || []).length === 0;
-        if (rest && shortLine && (startsWithQuote || fewPunct)) stored = rest;
-      }
-    }
+
+    // Preserve the raw extracted text exactly as it appears in the source.
+    // All heading/first-line heuristics and reporting have been removed to
+    // ensure we do not accidentally drop legitimate verse text. If in the
+    // future a non-destructive display transform is required, implement it as
+    // a separate step downstream that reads `unformatted` and emits a
+    // presentation-specific field without changing the canonical JSON.
+    // (No further action required here.)
 
     out[book] = out[book] || {};
     out[book][String(chapter)] = out[book][String(chapter)] || {};
