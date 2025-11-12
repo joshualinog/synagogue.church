@@ -71,3 +71,19 @@ section.relative img[alt="bg-img"] {
 		overflow-x: hidden;
 	}
 }
+
+/* passage reading classes */
+.prose{
+	& h2{
+		@apply text-3xl font-black lowercase;
+	}
+}
+div.verse{
+	@apply mb-4;
+}
+.verse-num{
+	@apply font-black text-xl ;
+}
+.verse-text{
+	@apply text-xl leading-9 font-light ;
+}
