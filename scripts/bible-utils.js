@@ -137,6 +137,8 @@ function parsePassage(passageStr) {
 }
 
 function collectVerses(bibleObj, specs) {
+  // Simplified collector: copy raw verse text exactly and do NOT attempt
+  // to identify or remove headings. Always emit `isHeading: false`.
   if (!specs) return [];
   const list = Array.isArray(specs) ? specs : [specs];
   const verses = [];
@@ -177,99 +179,10 @@ function collectVerses(bibleObj, specs) {
         if (seen.has(id)) continue;
         seen.add(id);
         const rawText = (chapterObj && chapterObj["" + v]) || "";
+        // Preserve the exact contents stored in the bible JSON.
         const text = (rawText || "").toString();
-        // Heuristic: many source files store section headings as strings that
-        // begin with a leading quote but do NOT include a closing quote (e.g.
-        // "The Great Commission). Treat those as headings so templates can
-        // render them separately instead of as numbered verses.
-        const t = text.trim();
-        let isHeading = false;
-        if (t) {
-          const startsWithQuote = /^['"“‘]/.test(t);
-          // If the verse begins with a quotation mark, it is likely speech
-          // broken across lines in the source. In that case, avoid using
-          // the newline-based heuristic which can falsely classify the
-          // first line of quoted speech as a heading.
-          // If the stored text contains a newline, check whether the first
-          // line looks like a short section heading followed by substantive
-          // verse text on the next line. This is the safer / preferred case
-          // for classifying headings.
-          // If the current verse contains line breaks, avoid flagging it as
-          // a heading when it's part of quoted speech that began in the
-          // previous verse (common in LEB where opening quote appears in
-          // an earlier verse). Check the previous verse text in the
-          // chapter to detect an unterminated opening quote.
-          // Scan backwards through earlier verses in this chapter to see if
-          // an opening quote was started and not yet closed before the
-          // current verse. If so, treat the current verse as a continuation
-          // of quoted speech and skip newline-based heading detection.
-          let prevLooksLikeOpenQuote = false;
-          try {
-            for (let k = v - 1; k >= 1; k--) {
-              const rawK = (chapterObj && chapterObj["" + k]) || "";
-              const tK = (rawK || "").toString().trim();
-              if (!tK) continue;
-              const starts = /^['"“‘]/.test(tK);
-              const ends = /['"”’]$/.test(tK);
-              if (starts && !ends) {
-                // Found an earlier verse that opens a quote and doesn't
-                // close it; assume the quote continues into current verse.
-                prevLooksLikeOpenQuote = true;
-                break;
-              }
-              // If we find a verse that closes a quote, stop scanning —
-              // the quoted block has ended before current verse.
-              if (ends) break;
-            }
-          } catch (e) {
-            prevLooksLikeOpenQuote = false;
-          }
-
-          if (t.indexOf("\n") !== -1 && !startsWithQuote && !prevLooksLikeOpenQuote) {
-            const parts = t
-              .split(/\r?\n/)
-              .map((s) => s.trim())
-              .filter(Boolean);
-            if (parts.length >= 2) {
-              const first = parts[0];
-              const rest = parts.slice(1).join(" ");
-              const firstShort =
-                first.length > 0 &&
-                first.length <= 120 &&
-                first.split(/\s+/).length <= 12;
-              const restLooksLikeSentence =
-                rest.length >= 20 && /[a-zA-Z0-9]/.test(rest);
-              const fewPunct = (first.match(/[.!?]/g) || []).length === 0;
-              if (firstShort && restLooksLikeSentence && fewPunct) {
-                isHeading = true;
-              }
-            }
-          }
-
-          // Fallback legacy heuristic: only flag as heading if the text is
-          // quite short, starts with an opening quote and does NOT end with
-          // a closing quote, and doesn't contain sentence punctuation.
-          if (!isHeading) {
-            const startsWithQuote = /^['"“‘]/.test(t);
-            const endsWithQuote = /['"”’]$/.test(t);
-            // Make the legacy/fallback heuristic stricter: only very short
-            // fragments should be considered headings. Many translations (e.g.
-            // LEB) begin verses with an opening quote and don't include a
-            // matching closing quote until later verses — lowering the length
-            // threshold reduces false positives.
-            const short = t.length > 0 && t.length <= 40;
-            const fewSentencePunct = (t.match(/[.!?]/g) || []).length === 0;
-            if (
-              startsWithQuote &&
-              !endsWithQuote &&
-              short &&
-              fewSentencePunct
-            ) {
-              isHeading = true;
-            }
-          }
-        }
-        verses.push({ chapter: ch, verse: v, text, isHeading });
+        // Do not attempt any heading detection — keep text as-is and set isHeading:false
+        verses.push({ chapter: ch, verse: v, text, isHeading: false });
       }
     }
   }
