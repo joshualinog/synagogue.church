@@ -5396,6 +5396,36 @@ section.relative img[alt="bg-img"] {
 		overflow-x: hidden;
 	}
 }
+
+/* passage reading classes */
+.prose{
+	& h2{
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+  }
+	& h2{
+    font-weight: 900;
+  }
+	& h2{
+    text-transform: lowercase;
+  }
+& h2 {
+	font-weight: 900;
+}
+}
+div.verse{
+  margin-bottom: 1rem;
+}
+.verse-num{
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+	font-weight: 900;
+}
+.verse-text{
+  font-size: 1.25rem;
+  line-height: 2.25rem;
+	font-weight: 300;
+}
 .marker\:text-sky-400 *::marker{
   color: rgb(56 189 248 );
 }
