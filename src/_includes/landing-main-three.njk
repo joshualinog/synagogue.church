@@ -8,6 +8,13 @@
 		<div class="container mx-auto">
 			<h2 class="text-8xl font-extrabold mb-8 lowercase {% if side == 'left' %}text-left{% else %}text-right{% endif %}">{{ item.name }}</h2>
 			{% include "top-card.njk" %}
+			{# below is the focus include based on item.focusContent #}
+			{% if item.focusContent %}
+			<div class="container focus-content pt-12">
+				<hr class="border-{{item.textColor}} border-8 mb-8">
+				{% include item.focusContent %}
+			</div>
+			{% endif %}
 		</div>
 	</section>
 {% endfor %}

@@ -5,7 +5,9 @@
     "short": "Gather",
     "description": "Calling out to each other by name, gather here for our meeting times.",
     "link": "#gather",
-    "color": "blue"
+    "focusContent": "main-three/gather.njk",
+    "color": "blue",
+    "textColor": "black"
   },
   {
     "name": "Pray",
@@ -13,7 +15,9 @@
     "short": "Pray",
     "description": "Calling out to God by name, gather here for our meeting times.",
     "link": "#pray",
-    "color": "red"
+    "focusContent": "main-three/pray.njk",
+    "color": "red",
+    "textColor": "white"
   },
   {
     "name": "Read",
@@ -21,6 +25,8 @@
     "short": "Read",
     "description": "Calling out the Scriptures to make these gatherings more and more love filled meeting times.",
     "link": "#read",
-    "color": "green"
+    "focusContent": "main-three/read.njk",
+    "color": "green",
+    "textColor": "black"
   }
 ]
