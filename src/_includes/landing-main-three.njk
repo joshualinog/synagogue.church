@@ -1,0 +1,13 @@
+{% for item in mainThree %}
+	{% if loop.index0 % 2 == 0 %}
+		{% set side = 'left' %}
+	{% else %}
+		{% set side = 'right' %}
+	{% endif %}
+	<section class="bg-{{ item.color }}-500 py-16 {{ item.name }} px-8" id="{{ item.name | slugify }}">
+		<div class="container mx-auto">
+			<h2 class="text-8xl font-extrabold mb-8 lowercase {% if side == 'left' %}text-left{% else %}text-right{% endif %}">{{ item.name }}</h2>
+			{% include "top-card.njk" %}
+		</div>
+	</section>
+{% endfor %}
