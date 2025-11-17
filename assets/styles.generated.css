@@ -5570,6 +5570,16 @@ div.verse{
   }
 
 
+  .sm\:min-w-\[180px\]{
+    min-width: 180px;
+  }
+
+
+  .sm\:max-w-\[520px\]{
+    max-width: 520px;
+  }
+
+
   .sm\:py-1{
     padding-top: 0.25rem;
     padding-bottom: 0.25rem;
@@ -5650,6 +5660,11 @@ div.verse{
 
   .lg\:h-\[780px\]{
     height: 780px;
+  }
+
+
+  .lg\:w-2\/5{
+    width: 40%;
   }
 
 
