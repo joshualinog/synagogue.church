@@ -62,30 +62,66 @@
     </nav>
   </div>
 </div>
-<footer id="mobile-menu" class="fixed bottom-0 left-0 w-full bg-white border-t border-gray-200 shadow-lg z-50 flex flex-col items-center py-6 gap-4 lg:hidden transition-all duration-300 ease-in-out translate-y-full invisible opacity-0">
+<footer id="mobile-menu" class="fixed inset-x-0 bottom-0 w-full bg-white border-t border-gray-200 shadow-lg z-50 flex flex-col items-center py-6 gap-4 lg:hidden transition-transform duration-300 ease-in-out translate-y-full invisible opacity-0 transform rounded-t-2xl max-h-[80vh] overflow-auto">
+  <button id="mobile-menu-close" aria-label="Close menu" class="absolute top-3 right-4 text-gray-900 text-2xl leading-none">&times;</button>
   <ul class="flex flex-col gap-4 w-full items-center">
     <li><a href="#" class="antialiased font-sans text-base leading-relaxed flex items-center gap-2 font-medium text-gray-900">Page</a></li>
     <li><a href="#" class="antialiased font-sans text-base leading-relaxed flex items-center gap-2 font-medium text-gray-900">Account</a></li>
     <li><a href="https://www.material-tailwind.com/docs/react/installation" target="_blank" class="antialiased font-sans text-base leading-relaxed flex items-center gap-2 font-medium text-gray-900">Docs</a></li>
     <li><a href="#" class="antialiased font-sans text-base leading-relaxed flex items-center gap-2 font-medium text-gray-900">Log in</a></li>
-    <li><a href="https://www.material-tailwind.com/blocks" target="_blank" class="antialiased font-sans text-base leading-relaxed flex items-center gap-2 font-medium text-white bg-gray-900 px-4 py-2 rounded-lg">Blocks</a></li>
+    <li><a href="#public-reading-short" class="antialiased font-sans text-base leading-relaxed flex items-center gap-2 font-medium text-white bg-gray-900 px-4 py-2 rounded-lg">Public Reading</a></li>
   </ul>
 </footer>
 
 <script>
-  const toggle = document.getElementById('mobile-menu-toggle');
-  const menu = document.getElementById('mobile-menu');
-  let open = false;
-  toggle.addEventListener('click', () => {
-    open = !open;
-    if (open) {
+  (function() {
+    const toggle = document.getElementById('mobile-menu-toggle');
+    const menu = document.getElementById('mobile-menu');
+    const closeBtn = document.getElementById('mobile-menu-close');
+    let open = false;
+
+    function openMenu() {
+      if (!menu) return;
       menu.classList.remove('translate-y-full', 'invisible', 'opacity-0');
       menu.classList.add('translate-y-0', 'visible', 'opacity-100');
-    } else {
+      open = true;
+    }
+
+    function closeMenu() {
+      if (!menu) return;
       menu.classList.add('translate-y-full', 'invisible', 'opacity-0');
       menu.classList.remove('translate-y-0', 'visible', 'opacity-100');
+      open = false;
     }
-  });
+
+    if (toggle) {
+      toggle.addEventListener('click', (e) => {
+        e.stopPropagation();
+        if (open) closeMenu(); else openMenu();
+      });
+    }
+
+    if (closeBtn) {
+      closeBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        closeMenu();
+      });
+    }
+
+    // Close when clicking outside the menu or the toggle
+    document.addEventListener('click', (e) => {
+      if (!open) return;
+      const t = e.target;
+      if (!menu.contains(t) && !(toggle && toggle.contains(t))) {
+        closeMenu();
+      }
+    });
+
+    // Close on Escape key
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && open) closeMenu();
+    });
+  })();
 </script>
       </div>
     </nav>
@@ -333,6 +369,14 @@
 	
 </div>
 
+			
+			
+			<div class="container focus-content pt-12">
+				<hr class="border-black border-8 mb-8">
+				
+
+			</div>
+			
 		</div>
 	</section>
 
@@ -380,6 +424,14 @@
 	
 </div>
 
+			
+			
+			<div class="container focus-content pt-12">
+				<hr class="border-white border-8 mb-8">
+				
+
+			</div>
+			
 		</div>
 	</section>
 
@@ -427,11 +479,23 @@
 	
 </div>
 
+			
+			
+			<div class="container focus-content pt-12">
+				<hr class="border-black border-8 mb-8">
+				
+
+<h4 class="font-light text-xl mb-4">Take me to the weekly reading! </h4>
+<a href="#public-reading-short" class="bg-yellow-300 text-black font-bold px-4 py-1 rounded-full border-2 border-black text-xl shadow">Weekly Reading!</a>
+
+
+			</div>
+			
 		</div>
 	</section>
 
 
-  <section class="p-8 public-reading-short">
+  <section class="p-8 public-reading-short" id="public-reading-short">
     <span class="pl-8 py-2 font-black lowercase text-4xl">public reading </span>
     <a href="/public-reading/weekly-11-22-25/" aria-label="Open this week's reading for 11/22/25"><h2 class="text-2xl font-extralight pl-8 mb-8 mt-1">This Week's Reading <br><span class=" text-6xl font-extralight inline-block pt-2">11/22/25</span></h2></a>
 

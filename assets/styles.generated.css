@@ -676,6 +676,10 @@ video {
 .sticky{
   position: sticky;
 }
+.inset-x-0{
+  left: 0px;
+  right: 0px;
+}
 .bottom-0{
   bottom: 0px;
 }
@@ -691,6 +695,9 @@ video {
 .right-0{
   right: 0px;
 }
+.right-4{
+  right: 1rem;
+}
 .top-0{
   top: 0px;
 }
@@ -699,6 +706,9 @@ video {
 }
 .top-2{
   top: 0.5rem;
+}
+.top-3{
+  top: 0.75rem;
 }
 .top-4{
   top: 1rem;
@@ -836,6 +846,9 @@ video {
 }
 .max-h-\[40px\]{
   max-height: 40px;
+}
+.max-h-\[80vh\]{
+  max-height: 80vh;
 }
 .min-h-\[220px\]{
   min-height: 220px;
@@ -1021,6 +1034,10 @@ video {
 .rounded-xl{
   border-radius: 0.75rem;
 }
+.rounded-t-2xl{
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}
 .rounded-bl-\[100px\]{
   border-bottom-left-radius: 100px;
 }
@@ -1032,6 +1049,9 @@ video {
 }
 .border-2{
   border-width: 2px;
+}
+.border-8{
+  border-width: 8px;
 }
 .border-b{
   border-bottom-width: 1px;
@@ -3858,6 +3878,9 @@ video {
 .pr-4{
   padding-right: 1rem;
 }
+.pt-12{
+  padding-top: 3rem;
+}
 .pt-2{
   padding-top: 0.5rem;
 }
@@ -3967,6 +3990,9 @@ video {
 }
 .\!leading-snug{
   line-height: 1.375 !important;
+}
+.leading-none{
+  line-height: 1;
 }
 .leading-normal{
   line-height: 1.5;
