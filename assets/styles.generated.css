@@ -587,6 +587,18 @@ video {
 .container{
   width: 100%;
 }
+@media (min-width: 320px){
+
+
+  .\!container{
+    max-width: 320px !important;
+  }
+
+
+  .container{
+    max-width: 320px;
+  }
+}
 @media (min-width: 640px){
 
 
@@ -5588,11 +5600,23 @@ div.verse{
   --tw-bg-opacity: 1;
   background-color: rgb(253 186 116 / var(--tw-bg-opacity, 1));
 }
+@media (min-width: 320px){
+
+
+  .xs\:ml-8{
+    margin-left: 2rem;
+  }
+}
 @media (min-width: 640px){
 
 
   .sm\:mb-0{
     margin-bottom: 0px;
+  }
+
+
+  .sm\:ml-0{
+    margin-left: 0px;
   }
 
 
@@ -5612,6 +5636,11 @@ div.verse{
   }
 }
 @media (min-width: 768px){
+
+
+  .md\:ml-8{
+    margin-left: 2rem;
+  }
 
 
   .md\:mt-28{
