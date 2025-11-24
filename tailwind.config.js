@@ -10,7 +10,11 @@ module.exports = {
     { pattern: /border-(blue|red|green)-(100|200|300|400|500|600)/ },
   ],
   theme: {
-    extend: {},
+    extend: {
+      screens: {
+        xs: '320px',
+      },
+    },
   },
   plugins: [],
 };
