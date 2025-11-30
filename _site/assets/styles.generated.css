@@ -5606,11 +5606,6 @@ div.verse{
   .xs\:ml-8{
     margin-left: 2rem;
   }
-
-
-  .xs\:text-center{
-    text-align: center;
-  }
 }
 @media (min-width: 640px){
 
@@ -5643,13 +5638,13 @@ div.verse{
 @media (min-width: 768px){
 
 
-  .md\:mt-28{
-    margin-top: 7rem;
+  .md\:ml-8{
+    margin-left: 2rem;
   }
 
 
-  .md\:ml-8{
-    margin-left: 2rem;
+  .md\:mt-28{
+    margin-top: 7rem;
   }
 
 

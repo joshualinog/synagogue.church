@@ -1,9 +1,31 @@
 const readings = require("./publicreading.json");
 
+function parseDateToComparable(dateStr) {
+  if (!dateStr) return null;
+  const s = String(dateStr).trim();
+  const m = s.match(/^(\d{1,2})\/(\d{1,2})\/(\d{2,4})$/);
+  if (m) {
+    let mm = parseInt(m[1], 10);
+    let dd = parseInt(m[2], 10);
+    let yy = parseInt(m[3], 10);
+    if (yy < 100) yy = 2000 + yy;
+    return yy * 10000 + mm * 100 + dd;
+  }
+  const d = new Date(s);
+  if (!isNaN(d)) {
+    const yy = d.getFullYear();
+    const mm = d.getMonth() + 1;
+    const dd = d.getDate();
+    return yy * 10000 + mm * 100 + dd;
+  }
+  return null;
+}
+
 function getNextSaturday() {
   const today = new Date();
   today.setHours(0, 0, 0, 0); // Ensure midnight
   const dayOfWeek = today.getDay();
+  // Calculate days until Saturday (0 if today is Saturday).
   const offset = (6 - dayOfWeek + 7) % 7;
   const nextSaturday = new Date(today);
   nextSaturday.setDate(today.getDate() + offset);
@@ -21,8 +43,9 @@ module.exports = () => {
     console.log("[nextReading.js] publicreading.json is not an array.");
     return null;
   }
-  // Find the object with matching 'date' property
-  const found = readings.find((obj) => obj.date === nextDate);
+  // Find the object with matching 'date' property. Compare by numeric YYYYMMDD
+  const nextCmp = parseDateToComparable(nextDate);
+  const found = readings.find((obj) => parseDateToComparable(obj.date) === nextCmp);
   if (found) {
     console.log("[nextReading.js] Found object with date:", found);
   } else {
