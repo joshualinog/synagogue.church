@@ -36,6 +36,15 @@ body {
 }
 
 
+/* Reusable yellow pill button used by public reading labels and CTAs */
+.yellow-pill-button {
+	@apply bg-yellow-300 text-black font-bold px-4 py-1 rounded-full border-2 border-black text-sm shadow inline-flex items-center;
+}
+.yellow-pill-button:focus-visible {
+	@apply outline-2 outline-offset-2 outline-black;
+}
+
+
 
 /* elements */
  p{
