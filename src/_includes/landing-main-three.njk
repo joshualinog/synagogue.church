@@ -1,17 +1,24 @@
 {% for item in mainThree %}
-	{% if loop.index0 % 2 == 0 %}
+	{# {% if loop.index0 % 2 == 0 %}
 		{% set side = 'left' %}
 	{% else %}
 		{% set side = 'right' %}
-	{% endif %}
-	<section class="bg-{{ item.color }}-500 py-16 {{ item.name }} px-8" id="{{ item.name | slugify }}">
-		<div class="container mx-auto">
-			<h2 class="text-8xl font-extrabold mb-8 lowercase {% if side == 'left' %}text-left{% else %}text-right{% endif %}">{{ item.name }}</h2>
-			{% include "top-card.njk" %}
+	{% endif %} #}
+	<section class="bg-{{ item.color }}-500 py-12 {{ item.name }}" id="{{ item.name | slugify }}">
+		<div class="container px-4">
+			<h2 class="text-8xl font-extrabold mb-6 lowercase text-left">{{ item.name }}</h2>
+		</div>
+		<div class="w-full">
+			{% include "main-three/main-three-left-image.njk" %}
+		</div>
+		<div class="w-full px-4">
+			{% include "main-image-page-section.njk" %}
+		</div>
+		{# {% include "top-card.njk" %} #}
 			{# below is the focus include based on item.focusContent #}
 			{% if item.focusContent %}
-			<div class="container focus-content pt-12">
-				<hr class="border-{{item.textColor}} border-8 mb-8">
+			<div class="focus-content pt-8 max-w-4xl mx-auto">
+				<hr class="border-{{item.textColor}} border-8 mb-6">
 				{% include item.focusContent %}
 			</div>
 			{% endif %}
