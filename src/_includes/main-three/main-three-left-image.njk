@@ -20,7 +20,7 @@
               <p>{{ item.tagline or item.quote }}</p>
               {% endif %}
             </blockquote>
-            <figcaption class="mt-6 text-sm/6 text-gray-300"><strong class="font-semibold text-white">{{ item.short or item.name }}</strong>{{ item.quoteMeta ? ', ' ~ item.quoteMeta : '' }}</figcaption>
+            <figcaption class="mt-6 text-sm/6 text-gray-300"><strong class="font-semibold text-white">{{ item.short or item.name }}</strong>{% if item.quoteMeta %}, {{ item.quoteMeta }}{% endif %}</figcaption>
           </figure>
         </div>
       </div>

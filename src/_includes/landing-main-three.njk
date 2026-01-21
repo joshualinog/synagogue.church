@@ -9,10 +9,14 @@
 			<h2 class="text-8xl font-extrabold mb-6 lowercase text-left">{{ item.name }}</h2>
 		</div>
 		<div class="w-full">
+			<!-- PARENT: LEFT INCLUDE START -->
 			{% include "main-three/main-three-left-image.njk" %}
+			<!-- PARENT: LEFT INCLUDE END -->
 		</div>
 		<div class="w-full px-4">
+			<!-- PARENT: RIGHT INCLUDE START -->
 			{% include "main-image-page-section.njk" %}
+			<!-- PARENT: RIGHT INCLUDE END -->
 		</div>
 		{# {% include "top-card.njk" %} #}
 			{# below is the focus include based on item.focusContent #}
