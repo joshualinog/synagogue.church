@@ -876,8 +876,8 @@ video {
 .h-10{
   height: 2.5rem;
 }
-.h-12{
-  height: 3rem;
+.h-14{
+  height: 3.5rem;
 }
 .h-32{
   height: 8rem;
@@ -3890,6 +3890,15 @@ video {
 .p-8{
   padding: 2rem;
 }
+.p-\[5px\]{
+  padding: 5px;
+}
+.p-\[px\]{
+  padding: px;
+}
+.p-\[70px\]{
+  padding: 70px;
+}
 .px-2{
   padding-left: 0.5rem;
   padding-right: 0.5rem;
@@ -3960,11 +3969,11 @@ video {
 .pb-4{
   padding-bottom: 1rem;
 }
+.pb-64{
+  padding-bottom: 16rem;
+}
 .pb-8{
   padding-bottom: 2rem;
-}
-.pb-9{
-  padding-bottom: 2.25rem;
 }
 .pl-4{
   padding-left: 1rem;
@@ -4002,11 +4011,38 @@ video {
 .pt-4{
   padding-top: 1rem;
 }
-.pt-64{
-  padding-top: 16rem;
-}
 .pt-8{
   padding-top: 2rem;
+}
+.pt-9{
+  padding-top: 2.25rem;
+}
+.pb-\[70px\]{
+  padding-bottom: 70px;
+}
+.pb-\[1\]{
+  padding-bottom: 1;
+}
+.pb-\[10r\]{
+  padding-bottom: 10r;
+}
+.pb-\[10rem\]{
+  padding-bottom: 10rem;
+}
+.pb-\[12rem\]{
+  padding-bottom: 12rem;
+}
+.pt-\[\]{
+  padding-top: ;
+}
+.pt-\[1rem\]{
+  padding-top: 1rem;
+}
+.pb-\[15rem\]{
+  padding-bottom: 15rem;
+}
+.pb-\[20rem\]{
+  padding-bottom: 20rem;
 }
 .text-left{
   text-align: left;
@@ -4082,6 +4118,10 @@ video {
 .text-xs{
   font-size: 0.75rem;
   line-height: 1rem;
+}
+.text-7xl{
+  font-size: 4.5rem;
+  line-height: 1;
 }
 .font-black{
   font-weight: 900;
@@ -5848,8 +5888,24 @@ div.verse{
   }
 
 
+  .sm\:pb-\[\]{
+    padding-bottom: ;
+  }
+
+
+  .sm\:pb-\[25rem\]{
+    padding-bottom: 25rem;
+  }
+
+
   .sm\:text-5xl{
     font-size: 3rem;
+    line-height: 1;
+  }
+
+
+  .sm\:text-8xl{
+    font-size: 6rem;
     line-height: 1;
   }
 }
