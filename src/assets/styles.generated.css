@@ -876,9 +876,6 @@ video {
 .h-10{
   height: 2.5rem;
 }
-.h-14{
-  height: 3.5rem;
-}
 .h-32{
   height: 8rem;
 }
@@ -932,9 +929,6 @@ video {
 }
 .w-\[420px\]{
   width: 420px;
-}
-.w-auto{
-  width: auto;
 }
 .w-full{
   width: 100%;
@@ -3890,15 +3884,6 @@ video {
 .p-8{
   padding: 2rem;
 }
-.p-\[5px\]{
-  padding: 5px;
-}
-.p-\[px\]{
-  padding: px;
-}
-.p-\[70px\]{
-  padding: 70px;
-}
 .px-2{
   padding-left: 0.5rem;
   padding-right: 0.5rem;
@@ -3969,11 +3954,11 @@ video {
 .pb-4{
   padding-bottom: 1rem;
 }
-.pb-64{
-  padding-bottom: 16rem;
-}
 .pb-8{
   padding-bottom: 2rem;
+}
+.pb-\[20rem\]{
+  padding-bottom: 20rem;
 }
 .pl-4{
   padding-left: 1rem;
@@ -4014,35 +3999,8 @@ video {
 .pt-8{
   padding-top: 2rem;
 }
-.pt-9{
-  padding-top: 2.25rem;
-}
-.pb-\[70px\]{
-  padding-bottom: 70px;
-}
-.pb-\[1\]{
-  padding-bottom: 1;
-}
-.pb-\[10r\]{
-  padding-bottom: 10r;
-}
-.pb-\[10rem\]{
-  padding-bottom: 10rem;
-}
-.pb-\[12rem\]{
-  padding-bottom: 12rem;
-}
-.pt-\[\]{
-  padding-top: ;
-}
 .pt-\[1rem\]{
   padding-top: 1rem;
-}
-.pb-\[15rem\]{
-  padding-bottom: 15rem;
-}
-.pb-\[20rem\]{
-  padding-bottom: 20rem;
 }
 .text-left{
   text-align: left;
@@ -4083,6 +4041,10 @@ video {
   font-size: 3.75rem;
   line-height: 1;
 }
+.text-7xl{
+  font-size: 4.5rem;
+  line-height: 1;
+}
 .text-8xl{
   font-size: 6rem;
   line-height: 1;
@@ -4118,10 +4080,6 @@ video {
 .text-xs{
   font-size: 0.75rem;
   line-height: 1rem;
-}
-.text-7xl{
-  font-size: 4.5rem;
-  line-height: 1;
 }
 .font-black{
   font-weight: 900;
@@ -5467,11 +5425,6 @@ video {
   --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color), 0 1px 2px -1px var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
-.shadow-2xl{
-  --tw-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25);
-  --tw-shadow-colored: 0 25px 50px -12px var(--tw-shadow-color);
-  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
-}
 .shadow-lg{
   --tw-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color), 0 4px 6px -4px var(--tw-shadow-color);
@@ -5503,14 +5456,6 @@ video {
 }
 .blur-\[118px\]{
   --tw-blur: blur(118px);
-  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
-}
-.brightness-125{
-  --tw-brightness: brightness(1.25);
-  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
-}
-.saturate-0{
-  --tw-saturate: saturate(0);
   filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
 }
 .filter{
@@ -5883,18 +5828,13 @@ div.verse{
   }
 
 
-  .sm\:pt-20{
-    padding-top: 5rem;
-  }
-
-
-  .sm\:pb-\[\]{
-    padding-bottom: ;
-  }
-
-
   .sm\:pb-\[25rem\]{
     padding-bottom: 25rem;
+  }
+
+
+  .sm\:pt-20{
+    padding-top: 5rem;
   }
 
 
@@ -6170,11 +6110,6 @@ div.verse{
   }
 
 
-  .lg\:pb-8{
-    padding-bottom: 2rem;
-  }
-
-
   .lg\:pl-24{
     padding-left: 6rem;
   }
@@ -6244,17 +6179,6 @@ div.verse{
   }
 
 
-  .xl\:px-10{
-    padding-left: 2.5rem;
-    padding-right: 2.5rem;
-  }
-
-
-  .xl\:pb-10{
-    padding-bottom: 2.5rem;
-  }
-
-
   .xl\:pl-32{
     padding-left: 8rem;
   }
@@ -6295,37 +6219,6 @@ div.verse{
   .dark\:text-white{
     --tw-text-opacity: 1;
     color: rgb(255 255 255 / var(--tw-text-opacity, 1));
-  }
-
-
-  .dark\:shadow-none{
-    --tw-shadow: 0 0 #0000;
-    --tw-shadow-colored: 0 0 #0000;
-    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
-  }
-
-
-  .dark\:after\:pointer-events-none::after{
-    content: var(--tw-content);
-    pointer-events: none;
-  }
-
-
-  .dark\:after\:absolute::after{
-    content: var(--tw-content);
-    position: absolute;
-  }
-
-
-  .dark\:after\:inset-0::after{
-    content: var(--tw-content);
-    inset: 0px;
-  }
-
-
-  .dark\:after\:rounded-3xl::after{
-    content: var(--tw-content);
-    border-radius: 1.5rem;
   }
 
 
