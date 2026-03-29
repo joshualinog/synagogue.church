@@ -1,80 +1,380 @@
 {
+  "template": "default",
+  "isFestival": false,
   "torah": {
     "passage": "Exodus 34:4-9; Exodus 34:23-27; Deuteronomy 31:9-13; Zechariah 14:12-21",
+    "chunks": [
+      "Exodus 34:4-9",
+      "Exodus 34:23-27",
+      "Deuteronomy 31:9-13",
+      "Zechariah 14:12-21"
+    ],
     "versions": {
       "leb": [
         {
+          "book": "Exod",
           "chapter": 34,
           "verse": 4,
           "text": "And Moses cut two stone tablets like the first ones, and he started early in the morning, and he went up to Mount Sinai, as Yahweh had commanded him, and he took in his hand the two stone tablets.",
           "isHeading": false
         },
         {
+          "book": "Exod",
           "chapter": 34,
           "verse": 5,
           "text": "And Yahweh descended in the cloud, and he stood with him there, and he proclaimed the name of Yahweh.",
           "isHeading": false
         },
         {
+          "book": "Exod",
           "chapter": 34,
           "verse": 6,
           "text": "And Yahweh passed over before him, and he proclaimed, “Yahweh, Yahweh, God, who is compassionate and gracious, slow to anger, and abounding with loyal love and faithfulness,",
           "isHeading": false
         },
         {
+          "book": "Exod",
           "chapter": 34,
           "verse": 7,
           "text": "keeping loyal love to the thousands, forgiving iniquity and transgression and sin, and he does not leave utterly unpunished, punishing the guilt of fathers on sons and on sons of sons on third and fourth generations.”",
           "isHeading": false
         },
         {
+          "book": "Exod",
           "chapter": 34,
           "verse": 8,
           "text": "And Moses hurried and knelt down to the earth and worshiped.",
           "isHeading": false
         },
         {
+          "book": "Exod",
           "chapter": 34,
           "verse": 9,
           "text": "And he said, “Please, if I have found favor in your eyes, Lord, let my Lord, please, go among us—indeed it is a stiff-necked people—and forgive our iniquity and our sin and take us as your possession.”",
+          "isHeading": false
+        },
+        {
+          "book": "Exod",
+          "chapter": 34,
+          "verse": 23,
+          "text": "Three times in the year all your males will appear before the Lord, Yahweh, the God of Israel,",
+          "isHeading": false
+        },
+        {
+          "book": "Exod",
+          "chapter": 34,
+          "verse": 24,
+          "text": "because I will evict nations before you, and I will enlarge your territory, and no one will covet your land when you go up to appear before Yahweh your God three times in the year.",
+          "isHeading": false
+        },
+        {
+          "book": "Exod",
+          "chapter": 34,
+          "verse": 25,
+          "text": "“You will not slaughter the blood of my sacrifice on food with yeast, and the sacrifice of the Feast of the Passover will not stay overnight to the morning.",
+          "isHeading": false
+        },
+        {
+          "book": "Exod",
+          "chapter": 34,
+          "verse": 26,
+          "text": "The beginning of the firstfruits of your land you will bring to the house of Yahweh your God. You will not boil a young goat in its mother’s milk.”",
+          "isHeading": false
+        },
+        {
+          "book": "Exod",
+          "chapter": 34,
+          "verse": 27,
+          "text": "And Yahweh said to Moses, “Write for yourself these words, because according to these words I have made a covenant with you and with Israel.”",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 9,
+          "text": "So Moses wrote this law, and he gave it to the priests, the descendants of Levi, the ones carrying the ark of the covenant of Yahweh, and to all the elders of Israel.",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 10,
+          "text": "Then Moses commanded them, saying, “At the end of seven years, in the time of the year for canceling debts during the Feast of Booths,",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 11,
+          "text": "when all Israel comes to appear before Yahweh their God at the place that he will choose, you shall read this law before all Israel in their hearing.",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 12,
+          "text": "Assemble the people, the men and the women and the little children and your aliens that are in your towns, so that they may hear and so that they may learn and they may revere Yahweh your God, and they shall diligently observe all the words of this law.",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 13,
+          "text": "And then their children, who have not known, they too may hear, and they may learn to revere Yahweh their God all the days that you live on the land that you are crossing the Jordan to get there to take possession of it.”",
+          "isHeading": false
+        },
+        {
+          "book": "Zech",
+          "chapter": 14,
+          "verse": 12,
+          "text": "And this will be the plague with which Yahweh will strike all the peoples that fight against Jerusalem: their flesh will rot while they are standing on their feet; their eyes will rot in their sockets, and their tongues will rot in their mouths.",
+          "isHeading": false
+        },
+        {
+          "book": "Zech",
+          "chapter": 14,
+          "verse": 13,
+          "text": "And then on that day a great panic from Yahweh will fall on them, and they will seize one another’s hand, and the hand of the one will be raised against the hand of another.",
+          "isHeading": false
+        },
+        {
+          "book": "Zech",
+          "chapter": 14,
+          "verse": 14,
+          "text": "And Judah also will fight at Jerusalem. And the wealth of all the surrounding nations will be collected—gold and silver, and garments in great abundance.",
+          "isHeading": false
+        },
+        {
+          "book": "Zech",
+          "chapter": 14,
+          "verse": 15,
+          "text": "Like this plague will be the plague on the horse, the mule, the camel, and the donkey, and every kind of animal in those camps.",
+          "isHeading": false
+        },
+        {
+          "book": "Zech",
+          "chapter": 14,
+          "verse": 16,
+          "text": "And then every survivor from all those nations coming against Jerusalem will go up year after year to worship the king, Yahweh of hosts, and celebrate the Feast of Booths.",
+          "isHeading": false
+        },
+        {
+          "book": "Zech",
+          "chapter": 14,
+          "verse": 17,
+          "text": "And then whoever of the clans of the earth does not go up to Jerusalem to worship the king, Yahweh of hosts, it will not rain on them.",
+          "isHeading": false
+        },
+        {
+          "book": "Zech",
+          "chapter": 14,
+          "verse": 18,
+          "text": "And if the clan of Egypt will not go up and come in, on them will be that plague Yahweh inflicts on the nations that do not go up to celebrate the Feast of Booths.",
+          "isHeading": false
+        },
+        {
+          "book": "Zech",
+          "chapter": 14,
+          "verse": 19,
+          "text": "This will be the punishment of Egypt and the punishment of all the nations that do not go up to celebrate the Feast of Booths.",
+          "isHeading": false
+        },
+        {
+          "book": "Zech",
+          "chapter": 14,
+          "verse": 20,
+          "text": "On that day there will be inscribed on the bells of the horses, “Holy to Yahweh.” And the cooking pots in the house of Yahweh will be holy like the sacrificial basins before the altar.",
+          "isHeading": false
+        },
+        {
+          "book": "Zech",
+          "chapter": 14,
+          "verse": 21,
+          "text": "And every cooking pot in Jerusalem and in Judah will be holy to Yahweh of hosts, and all those who sacrifice will come and will take from them, and will cook in them, and there will be no longer a trader in the house of Yahweh of hosts on that day.",
           "isHeading": false
         }
       ],
       "nirv": [
         {
+          "book": "Exod",
           "chapter": 34,
           "verse": 4,
           "text": "So Moses carved out two stone tablets that were just like the first ones. Early in the morning he went up Mount Sinai. He carried the two tablets in his hands. He did as the Lord had commanded him to do.",
           "isHeading": false
         },
         {
+          "book": "Exod",
           "chapter": 34,
           "verse": 5,
           "text": "Then the Lord came down in the cloud. He stood there with Moses and announced his name, The Lord.",
           "isHeading": false
         },
         {
+          "book": "Exod",
           "chapter": 34,
           "verse": 6,
           "text": "As he passed in front of Moses, he called out. He said, “I am the Lord, the Lord. I am a God who is tender and kind. I am gracious. I am slow to get angry. I am faithful and full of love.",
           "isHeading": false
         },
         {
+          "book": "Exod",
           "chapter": 34,
           "verse": 7,
           "text": "I continue to show my love to thousands of people. I forgive those who do evil. I forgive those who refuse to obey. And I forgive those who sin. But I do not let guilty people go without punishing them. I punish the children, grandchildren and great-grandchildren for the sin of their parents.”",
           "isHeading": false
         },
         {
+          "book": "Exod",
           "chapter": 34,
           "verse": 8,
           "text": "Moses bowed down to the ground at once and worshiped.",
           "isHeading": false
         },
         {
+          "book": "Exod",
           "chapter": 34,
           "verse": 9,
           "text": "“Lord,” he said, “if you are pleased with me, then go with us. Even though these people are stubborn, forgive the evil things we have done. Forgive our sin. And accept us as your people.”",
+          "isHeading": false
+        },
+        {
+          "book": "Exod",
+          "chapter": 34,
+          "verse": 23,
+          "text": "“Three times a year all of your men must come to worship me. I am your Lord and King, the God of Israel.",
+          "isHeading": false
+        },
+        {
+          "book": "Exod",
+          "chapter": 34,
+          "verse": 24,
+          "text": "I will drive out nations ahead of you. I will increase your territory. Go up three times a year to worship me. While you are doing that, I will keep others from wanting to take any of your land for themselves. I am the Lord your God.",
+          "isHeading": false
+        },
+        {
+          "book": "Exod",
+          "chapter": 34,
+          "verse": 25,
+          "text": "“Do not include anything that is made with yeast when you offer me the blood of a sacrifice. You must not keep any of the meat from the sacrifice of the Passover Feast until morning.",
+          "isHeading": false
+        },
+        {
+          "book": "Exod",
+          "chapter": 34,
+          "verse": 26,
+          "text": "“Bring the best of the first share of your crops to my house. I am the Lord your God.\n“Do not cook a young goat in its mother’s milk.”",
+          "isHeading": false
+        },
+        {
+          "book": "Exod",
+          "chapter": 34,
+          "verse": 27,
+          "text": "Then the Lord said to Moses, “Write down the words I have spoken. I have made a covenant with you and with Israel in keeping with those words.”",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 9,
+          "text": "The Law Must Be Read\nI wrote down that law. I gave it to the priests, who are sons of Levi. They carried the ark of the covenant of the Lord. I also gave the law to all of the elders of Israel.",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 10,
+          "text": "Then I commanded them, “You must read this law at the end of every seven years. Do it in the year when you forgive people what they owe. Read it during the Feast of Booths.",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 11,
+          "text": "That’s when all of the people of Israel come to appear in front of the Lord your God at the holy tent. It will be at the place he will choose. You must read this law to them.",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 12,
+          "text": "“Gather the people together. Gather the men, women and children. Also bring together the outsiders who are living in your towns. Then they can listen and learn to have respect for the Lord your God. And they’ll be careful to obey all of the words of this law.",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 13,
+          "text": "Their children must hear it read too. They don’t know this law yet. They too must learn to have respect for the Lord your God. They must respect him as long as you live in the land. You are about to go across the Jordan River and take that land as your very own.”",
+          "isHeading": false
+        },
+        {
+          "book": "Zech",
+          "chapter": 14,
+          "verse": 12,
+          "text": "The Lord will punish all of the nations that fought against Jerusalem. He’ll strike them with a plague. It will make their bodies rot while they are still standing on their feet. Their eyes will rot in their heads. Their tongues will rot in their mouths.",
+          "isHeading": false
+        },
+        {
+          "book": "Zech",
+          "chapter": 14,
+          "verse": 13,
+          "text": "On that day the Lord will fill people with great panic. They will grab one another by the hand. And they’ll attack each other.",
+          "isHeading": false
+        },
+        {
+          "book": "Zech",
+          "chapter": 14,
+          "verse": 14,
+          "text": "Judah will also fight at Jerusalem. The wealth of all of the surrounding nations will be collected. Huge amounts of gold, silver and clothes will be gathered up.",
+          "isHeading": false
+        },
+        {
+          "book": "Zech",
+          "chapter": 14,
+          "verse": 15,
+          "text": "The same kind of plague will strike the horses, mules, camels and donkeys. In fact, it will strike all of the animals in the army camps.",
+          "isHeading": false
+        },
+        {
+          "book": "Zech",
+          "chapter": 14,
+          "verse": 16,
+          "text": "But some people from all of the nations that have attacked Jerusalem will still be left alive. All of them will go up there to worship the King. He is the Lord who rules over all. Year after year they will celebrate the Feast of Booths.",
+          "isHeading": false
+        },
+        {
+          "book": "Zech",
+          "chapter": 14,
+          "verse": 17,
+          "text": "Some nations might not go up to Jerusalem to worship the King. If they don’t, they won’t have any rain.",
+          "isHeading": false
+        },
+        {
+          "book": "Zech",
+          "chapter": 14,
+          "verse": 18,
+          "text": "The people of Egypt might not go up there to take part. Then they won’t have any rain either. That’s the plague the Lord will send on the nations that don’t go to celebrate the Feast of Booths.",
+          "isHeading": false
+        },
+        {
+          "book": "Zech",
+          "chapter": 14,
+          "verse": 19,
+          "text": "Egypt will be punished. So will all of the other nations that don’t celebrate the Feast.",
+          "isHeading": false
+        },
+        {
+          "book": "Zech",
+          "chapter": 14,
+          "verse": 20,
+          "text": "On that day holy to the Lord will be carved on the bells of the horses. The cooking pots in the Lord’s temple will be just like the sacred bowls in front of the altar for burnt offerings.",
+          "isHeading": false
+        },
+        {
+          "book": "Zech",
+          "chapter": 14,
+          "verse": 21,
+          "text": "Every pot in Jerusalem and Judah will be set apart to the Lord. All those who come to offer sacrifices will get some of the pots and cook in them. At that time there won’t be any Canaanites in the Lord’s temple. He is the Lord who rules over all.",
           "isHeading": false
         }
       ]
@@ -82,171 +382,202 @@
   },
   "gospel": {
     "passage": "John 7:25-52",
+    "chunks": [
+      "John 7:25-52"
+    ],
     "versions": {
       "leb": [
         {
+          "book": "John",
           "chapter": 7,
           "verse": 25,
           "text": "Is Jesus the Christ?\nThen some of the inhabitants of Jerusalem began to say, “Is this not the one whom they are seeking to kill?",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 26,
           "text": "And behold, he is speaking openly and they are saying nothing to him! Can it be that the rulers truly know that this man is the Christ?",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 27,
           "text": "Yet we know where this man is from, but the Christ, whenever he comes—no one knows where he is from!”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 28,
           "text": "Then Jesus cried out in the temple courts, teaching and saying, “You both know me and you know where I am from! And I have not come from myself, but the one who sent me is true, whom you do not know.",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 29,
           "text": "I know him, because I am from him and he sent me.”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 30,
           "text": "So they were seeking to seize him, and no one laid a hand on him, because his hour had not yet come.",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 31,
           "text": "But from the crowd many believed in him and were saying, “Whenever the Christ comes, he will not perform more signs than this man has done, will he?”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 32,
           "text": "The Pharisees heard the crowd murmuring these things about him, and the chief priests and the Pharisees sent officers in order to take him into custody .",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 33,
           "text": "Then Jesus said, “Yet a little time I am with you, and I am going to the one who sent me.",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 34,
           "text": "You will seek me and will not find me, and where I am, you cannot come.”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 35,
           "text": "So the Jews said to one another, “Where is this one going to go, that we will not find him? He is not going to go to the Dispersion among the Greeks and teach the Greeks, is he?",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 36,
           "text": "What is this saying that he said, ‘You will seek me and will not find me, and where I am, you cannot come’?”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 37,
           "text": "The Promise of the Spirit\nNow on the last day of the feast—the great day—Jesus stood and cried out, saying, “If anyone is thirsty, let him come to me, and let him drink,",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 38,
           "text": "the one who believes in me. Just as the scripture said, ‘Out of his belly will flow rivers of living water.’”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 39,
           "text": "Now he said this concerning the Spirit, whom those who believed in him were about to receive. For the Spirit was not yet given, because Jesus had not yet been glorified.)",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 40,
           "text": "Different Opinions About Jesus\nThen, when they heard these words, some from the crowd began to say, “This man is truly the Prophet!”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 41,
           "text": "Others were saying, “This man is the Christ!” But others were saying, “No, for the Christ does not come from Galilee, does he?",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 42,
           "text": "Has not the scripture said that the Christ comes from the descendants of David, and from Bethlehem, the village where David was?”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 43,
           "text": "So there was a division in the crowd because of him.",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 44,
           "text": "And some of them were wanting to seize him, but no one laid hands on him.",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 45,
           "text": "So the officers came to the chief priests and Pharisees. And they said to them, “Why did you not bring him?”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 46,
           "text": "The officers replied, “Never has a man spoken like this!”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 47,
           "text": "Then the Pharisees replied to them, “You have not also been deceived, have you?",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 48,
           "text": "None of the rulers or of the Pharisees have believed in him, have they?",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 49,
           "text": "But this crowd who does not know the law is accursed!”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 50,
           "text": "Nicodemus, the one who came to him previously—who was one of them—said to them,",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 51,
           "text": "“Our law does not condemn a man unless it first hears from him and knows what he is doing, does it?”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 52,
           "text": "They answered and said to him, “You are not also from Galilee, are you? Investigate and see that a prophet does not arise from Galilee!”",
@@ -255,174 +586,218 @@
       ],
       "nirv": [
         {
+          "book": "John",
           "chapter": 7,
           "verse": 25,
           "text": "Is Jesus the Christ?\nThen some of the people of Jerusalem began asking questions. They said, “Isn’t this the man some people are trying to kill?",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 26,
           "text": "Here he is! He is speaking openly. They aren’t saying a word to him. Have the authorities really decided that he is the Christ?",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 27,
           "text": "But we know where this man is from. When the Christ comes, no one will know where he is from.”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 28,
           "text": "Jesus was still teaching in the temple courtyard. He cried out, “Yes, you know me. And you know where I am from. I am not here on my own. The One who sent me is true. You do not know him.",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 29,
           "text": "But I know him. I am from him, and he sent me.”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 30,
           "text": "When he said this, they tried to arrest him. But no one laid a hand on him. His time had not yet come.",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 31,
           "text": "Still, many people in the crowd put their faith in him. They said, “How will it be when the Christ comes? Will he do more miraculous signs than this man?”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 32,
           "text": "The Pharisees heard the crowd whispering things like this about him. Then the chief priests and the Pharisees sent temple guards to arrest him.",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 33,
           "text": "Jesus said, “I am with you for only a short time. Then I will go to the One who sent me.",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 34,
           "text": "You will look for me, but you won’t find me. You can’t come where I am going.”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 35,
           "text": "The Jews said to one another, “Where does this man plan to go? Does he think we can’t find him? Will he go where our people live scattered among the Greeks? Will he go there to teach the Greeks?",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 36,
           "text": "What did he mean when he said, ‘You will look for me, but you won’t find me’? And, ‘You can’t come where I am going’?”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 37,
           "text": "It was the last and most important day of the Feast. Jesus stood up and spoke in a loud voice. He said, “Let anyone who is thirsty come to me and drink.",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 38,
           "text": "Does anyone believe in me? Then, just as Scripture says, streams of living water will flow from inside him.”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 39,
           "text": "When he said this, he meant the Holy Spirit. Those who believed in Jesus would receive the Spirit later. Up to that time, the Spirit had not been given. This was because Jesus had not yet received glory.",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 40,
           "text": "When some of the people heard his words, they said, “This man must be the Prophet we’ve been expecting.”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 41,
           "text": "Others said, “He is the Christ.”\nStill others asked, “How can the Christ come from Galilee?",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 42,
           "text": "Doesn’t Scripture say that the Christ will come from David’s family? Doesn’t it say that he will come from Bethlehem, the town where David lived?”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 43,
           "text": "So the people did not agree about who Jesus was.",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 44,
           "text": "Some wanted to arrest him. But no one laid a hand on him.",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 45,
           "text": "The Jewish Leaders Do Not Believe\nFinally the temple guards went back to the chief priests and the Pharisees. They asked the guards, “Why didn’t you bring him in?”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 46,
           "text": "“No one ever spoke the way this man does,” the guards replied.",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 47,
           "text": "“You mean he has fooled you also?” the Pharisees asked.",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 48,
           "text": "“Have any of the rulers or Pharisees believed in him?",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 49,
           "text": "No! But this mob knows nothing about the law. There is a curse on them.”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 50,
           "text": "Then Nicodemus, a Pharisee, spoke. He was the one who had gone to Jesus earlier. He asked,",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 51,
           "text": "“Does our law find someone guilty without hearing him first? Doesn’t it want to find out what he is doing?”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 7,
           "verse": 52,
           "text": "They replied, “Are you from Galilee too? Look into it. You will find that a prophet does not come out of Galilee.”",
           "isHeading": false
         }
       ]
+    }
+  },
+  "prophets": {
+    "passage": "",
+    "chunks": [],
+    "versions": {
+      "leb": [],
+      "nirv": []
+    }
+  },
+  "epistles": {
+    "passage": "",
+    "chunks": [],
+    "versions": {
+      "leb": [],
+      "nirv": []
     }
   }
 }

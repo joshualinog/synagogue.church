@@ -54,26 +54,43 @@ publicreading.forEach((r) => {
   const slug =
     r.slug || (r.date ? "weekly-" + r.date.replace(/\//g, "-") : null);
   if (!slug) return;
-  const pr = { torah: null, gospel: null };
 
-  const torahSpecs = parsePassage(r.torahPassage || r.torah || "");
-  const gospelSpecs = parsePassage(r.gospelPassage || r.gospel || "");
-
-  pr.torah = {
-    passage: r.torahPassage || r.torah || "",
-    versions: {
-      leb: collectVerses(leb, torahSpecs),
-      nirv: collectVerses(nirv, torahSpecs),
-    },
+  const isFestival = /(Pesach|Sukkot|Yom Kippur)/i.test(r.torahTitle || "");
+  const pr = {
+    template: isFestival ? "festival" : "default",
+    isFestival,
   };
 
-  pr.gospel = {
-    passage: r.gospelPassage || r.gospel || "",
-    versions: {
-      leb: collectVerses(leb, gospelSpecs),
-      nirv: collectVerses(nirv, gospelSpecs),
-    },
-  };
+  const sections = [
+    { key: "torah", label: "Torah", fields: ["torahPassage", "torah"] },
+    { key: "gospel", label: "Gospel", fields: ["gospelPassage", "gospel"] },
+    { key: "prophets", label: "Prophets", fields: ["prophetsPassage", "prophets"] },
+    { key: "epistles", label: "Epistles", fields: ["epistlesPassage", "epistles"] },
+  ];
+
+  for (const section of sections) {
+    const passage =
+      (section.fields
+        .map((f) => r[f])
+        .find((v) => v !== undefined && v !== null && String(v).trim() !== "") || "").trim();
+    const specs = parsePassage(passage);
+
+    const chunks = passage
+      ? passage
+          .split(/;/)
+          .map((c) => c.trim())
+          .filter(Boolean)
+      : [];
+
+    pr[section.key] = {
+      passage,
+      chunks,
+      versions: {
+        leb: specs.length > 0 ? collectVerses(leb, specs) : [],
+        nirv: specs.length > 0 ? collectVerses(nirv, specs) : [],
+      },
+    };
+  }
 
   const outPath = path.join(OUT_DIR, slug + ".json");
   fs.writeFileSync(outPath, JSON.stringify(pr, null, 2));

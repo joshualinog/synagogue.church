@@ -114,25 +114,46 @@ function parsePassage(passageStr) {
   // Returns an array of { book, startChapter, startVerse, endChapter, endVerse }
   if (!passageStr) return [];
   const s = passageStr.replace(/–/g, "-").trim();
-  // find book name (chars before first digit)
-  // split book name from the chapter/verse part by finding the first whitespace
-  // before a digit (the chapter number). This handles books like "1 Corinthians".
-  const m = s.match(/^(.+?)\s+(\d.*)$/);
-  if (!m) return [];
-  const book = normalizeBookName(m[1]);
-  const rest = m[2] || "";
-  // split on commas/semicolons for multiple ranges
-  const pieces = rest
-    .split(/[;,]/)
-    .map((p) => p.trim())
+
+  // split at semicolons into discrete book chunks first (e.g. "Luke 22:7-20; 1 Corinthians 5:6-8")
+  const segments = s
+    .split(/;/)
+    .map((part) => part.trim())
     .filter(Boolean);
+
   const specs = [];
-  for (const piece of pieces) {
-    // allow optional surrounding parentheses
-    const clean = piece.replace(/^\(|\)$/g, "").trim();
-    const spec = parseSingleRangePiece(book, clean);
-    if (spec) specs.push(spec);
+  let currentBook = null;
+
+  for (const segment of segments) {
+    // e.g. "Luke 22:7-20" or "1 Corinthians 5:6-8" or "22:7-20" when book is implied
+    const m = segment.match(/^(.+?)\s+(\d.*)$/);
+    let bookName;
+    let rangePart;
+    if (m) {
+      bookName = normalizeBookName(m[1]);
+      rangePart = m[2].trim();
+      currentBook = bookName;
+    } else if (currentBook) {
+      // continue with last known book
+      bookName = currentBook;
+      rangePart = segment;
+    } else {
+      continue;
+    }
+
+    // allow a book segment to have comma-separated subranges inside it
+    const pieces = rangePart
+      .split(/,/) // Keep commas for ranges within the same book
+      .map((p) => p.trim())
+      .filter(Boolean);
+
+    for (const piece of pieces) {
+      const clean = piece.replace(/^\(|\)$/g, "").trim();
+      const spec = parseSingleRangePiece(bookName, clean);
+      if (spec) specs.push(spec);
+    }
   }
+
   return specs;
 }
 
@@ -182,7 +203,7 @@ function collectVerses(bibleObj, specs) {
         // Preserve the exact contents stored in the bible JSON.
         const text = (rawText || "").toString();
         // Do not attempt any heading detection — keep text as-is and set isHeading:false
-        verses.push({ chapter: ch, verse: v, text, isHeading: false });
+        verses.push({ book: bookKey, chapter: ch, verse: v, text, isHeading: false });
       }
     }
   }

@@ -1,39 +1,50 @@
 {
+  "template": "default",
+  "isFestival": false,
   "torah": {
     "passage": "Deuteronomy 30:1 - 30:6",
+    "chunks": [
+      "Deuteronomy 30:1 - 30:6"
+    ],
     "versions": {
       "leb": [
         {
+          "book": "Deut",
           "chapter": 30,
           "verse": 1,
           "text": "“And then when all of these things come upon you, the blessing and the curse that I have set before you and you call them to mind among the nations there where Yahweh your God has scattered you,",
           "isHeading": false
         },
         {
+          "book": "Deut",
           "chapter": 30,
           "verse": 2,
           "text": "and you return to Yahweh and you listen to his voice according to all that I am commanding you today, both you and your children, with all your heart and with all your inner self,",
           "isHeading": false
         },
         {
+          "book": "Deut",
           "chapter": 30,
           "verse": 3,
           "text": "and Yahweh your God will restore your fortunes, and he will have compassion upon you, and he will again gather you together from all the peoples where Yahweh your God scattered you there.",
           "isHeading": false
         },
         {
+          "book": "Deut",
           "chapter": 30,
           "verse": 4,
           "text": "“Even if you are outcasts at the end of the heavens, even from there Yahweh your God shall gather you, and from there he shall bring you back.",
           "isHeading": false
         },
         {
+          "book": "Deut",
           "chapter": 30,
           "verse": 5,
           "text": "And Yahweh your God will bring you to the land that your ancestors had taken possession of, and he will make you successful, and he will make you more numerous than your ancestors.",
           "isHeading": false
         },
         {
+          "book": "Deut",
           "chapter": 30,
           "verse": 6,
           "text": "“And Yahweh your God will circumcise your heart and the heart of your offspring to love Yahweh your God with all your heart and with all your inner self so that you may live.",
@@ -42,36 +53,42 @@
       ],
       "nirv": [
         {
+          "book": "Deut",
           "chapter": 30,
           "verse": 1,
           "text": "The Lord Will Bless His People\nI have told you about all of those blessings and curses. The Lord will bring them on you. Then you will think carefully about them everywhere the Lord your God scatters you among the nations.",
           "isHeading": false
         },
         {
+          "book": "Deut",
           "chapter": 30,
           "verse": 2,
           "text": "You and your children will return to the Lord your God. You will obey him with all your heart and with all your soul. That will be in keeping with everything I’m commanding you today.",
           "isHeading": false
         },
         {
+          "book": "Deut",
           "chapter": 30,
           "verse": 3,
           "text": "When all of that happens, the Lord your God will bless you with great success again. He will be very kind to you. He’ll bring you back from all of the nations where he scattered you.",
           "isHeading": false
         },
         {
+          "book": "Deut",
           "chapter": 30,
           "verse": 4,
           "text": "Suppose you have been forced to go away to the farthest land on earth. The Lord your God will bring you back even from there.",
           "isHeading": false
         },
         {
+          "book": "Deut",
           "chapter": 30,
           "verse": 5,
           "text": "He will bring you to the land that belonged to your people long ago. You will take it over. He’ll make you better off than your people were. He’ll increase your numbers more than he increased theirs.",
           "isHeading": false
         },
         {
+          "book": "Deut",
           "chapter": 30,
           "verse": 6,
           "text": "The Lord your God will keep your hearts from being stubborn. He’ll do the same thing for your children and their children. Then you will love him with all your heart and with all your soul. And you will live.",
@@ -82,27 +99,34 @@
   },
   "gospel": {
     "passage": "Acts 20:28 - 20:31",
+    "chunks": [
+      "Acts 20:28 - 20:31"
+    ],
     "versions": {
       "leb": [
         {
+          "book": "Acts",
           "chapter": 20,
           "verse": 28,
           "text": "Be on guard for yourselves and for all the flock among which the Holy Spirit has appointed you as overseers, to shepherd the church of God which he obtained through the blood of his own Son.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 20,
           "verse": 29,
           "text": "I know that after my departure fierce wolves will come in among you, not sparing the flock.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 20,
           "verse": 30,
           "text": "And from among you yourselves men will arise, speaking perversions of the truth in order to draw away the disciples after them.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 20,
           "verse": 31,
           "text": "Therefore be on the alert, remembering that night and day for three years I did not stop warning each one of you with tears.",
@@ -111,30 +135,50 @@
       ],
       "nirv": [
         {
+          "book": "Acts",
           "chapter": 20,
           "verse": 28,
           "text": "“Keep watch over yourselves. Keep watch over all the believers. The Holy Spirit has made you leaders over them. Be shepherds of God’s church. He bought it with his own blood.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 20,
           "verse": 29,
           "text": "“I know that after I leave, wild wolves will come in among you. They won’t spare any of the sheep.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 20,
           "verse": 30,
           "text": "Even men from your own people will rise up and twist the truth. They want to get the believers to follow them.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 20,
           "verse": 31,
           "text": "So be on your guard! Remember that for three years I never stopped warning you. Night and day I warned each of you with tears.",
           "isHeading": false
         }
       ]
+    }
+  },
+  "prophets": {
+    "passage": "",
+    "chunks": [],
+    "versions": {
+      "leb": [],
+      "nirv": []
+    }
+  },
+  "epistles": {
+    "passage": "",
+    "chunks": [],
+    "versions": {
+      "leb": [],
+      "nirv": []
     }
   }
 }

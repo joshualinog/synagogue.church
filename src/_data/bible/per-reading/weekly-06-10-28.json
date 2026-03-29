@@ -1,44 +1,112 @@
 {
+  "template": "default",
+  "isFestival": false,
   "torah": {
     "passage": "Deuteronomy 31:7 - 31:9;Deuteronomy 31:10 - 31:13",
+    "chunks": [
+      "Deuteronomy 31:7 - 31:9",
+      "Deuteronomy 31:10 - 31:13"
+    ],
     "versions": {
       "leb": [
         {
+          "book": "Deut",
           "chapter": 31,
           "verse": 7,
           "text": "Then Moses summoned Joshua, and he said to him in the presence of all Israel, “Be strong and be courageous, for you will go with this people into the land that Yahweh swore to their ancestors to give to them, and you will give it to them as an inheritance.",
           "isHeading": false
         },
         {
+          "book": "Deut",
           "chapter": 31,
           "verse": 8,
           "text": "Yahweh is the one going before you; he will be with you, and he will not leave you alone, and he will not forsake you; you shall not be afraid, and you shall not be discouraged.”",
           "isHeading": false
         },
         {
+          "book": "Deut",
           "chapter": 31,
           "verse": 9,
           "text": "So Moses wrote this law, and he gave it to the priests, the descendants of Levi, the ones carrying the ark of the covenant of Yahweh, and to all the elders of Israel.",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 10,
+          "text": "Then Moses commanded them, saying, “At the end of seven years, in the time of the year for canceling debts during the Feast of Booths,",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 11,
+          "text": "when all Israel comes to appear before Yahweh their God at the place that he will choose, you shall read this law before all Israel in their hearing.",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 12,
+          "text": "Assemble the people, the men and the women and the little children and your aliens that are in your towns, so that they may hear and so that they may learn and they may revere Yahweh your God, and they shall diligently observe all the words of this law.",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 13,
+          "text": "And then their children, who have not known, they too may hear, and they may learn to revere Yahweh their God all the days that you live on the land that you are crossing the Jordan to get there to take possession of it.”",
           "isHeading": false
         }
       ],
       "nirv": [
         {
+          "book": "Deut",
           "chapter": 31,
           "verse": 7,
           "text": "Then I sent for Joshua. I spoke to him in front of all of the people of Israel. I said, “Be strong and brave. You must go with these people. They are going into the land the Lord promised with an oath to give to their fathers. You must divide it up among them. They will each receive their share.",
           "isHeading": false
         },
         {
+          "book": "Deut",
           "chapter": 31,
           "verse": 8,
           "text": "The Lord himself will go ahead of you. He will be with you. He will never leave you. He’ll never desert you. So don’t be afraid. Don’t lose hope.”",
           "isHeading": false
         },
         {
+          "book": "Deut",
           "chapter": 31,
           "verse": 9,
           "text": "The Law Must Be Read\nI wrote down that law. I gave it to the priests, who are sons of Levi. They carried the ark of the covenant of the Lord. I also gave the law to all of the elders of Israel.",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 10,
+          "text": "Then I commanded them, “You must read this law at the end of every seven years. Do it in the year when you forgive people what they owe. Read it during the Feast of Booths.",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 11,
+          "text": "That’s when all of the people of Israel come to appear in front of the Lord your God at the holy tent. It will be at the place he will choose. You must read this law to them.",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 12,
+          "text": "“Gather the people together. Gather the men, women and children. Also bring together the outsiders who are living in your towns. Then they can listen and learn to have respect for the Lord your God. And they’ll be careful to obey all of the words of this law.",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 13,
+          "text": "Their children must hear it read too. They don’t know this law yet. They too must learn to have respect for the Lord your God. They must respect him as long as you live in the land. You are about to go across the Jordan River and take that land as your very own.”",
           "isHeading": false
         }
       ]
@@ -46,83 +114,381 @@
   },
   "gospel": {
     "passage": "Acts 21:37 - 22:2;Acts 22:3 - 22:21",
+    "chunks": [
+      "Acts 21:37 - 22:2",
+      "Acts 22:3 - 22:21"
+    ],
     "versions": {
       "leb": [
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 37,
           "text": "Paul Permitted to Address the Crowd\nAnd as he was about to be brought into the barracks, Paul said to the military tribune, “Is it permitted for me to say something to you?” And he said, “Do you know Greek?",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 38,
           "text": "Then you are not the Egyptian who before these days raised a revolt and led out into the wilderness the four thousand men of the Assassins?”",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 39,
           "text": "But Paul said, “I am a Jewish man from Tarsus in Cilicia, a citizen of no unimportant city. Now I ask you, allow me to speak to the people.”",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 40,
           "text": "So when he permitted him, Paul, standing there on the steps, motioned with his hand to the people. And when there was a great silence, he addressed them in the Aramaic language, saying,",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 22,
           "verse": 1,
           "text": "“Men—brothers and fathers—listen to my defense to you now!”",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 22,
           "verse": 2,
           "text": "And when they heard that he was addressing them in the Aramaic language, they became even more silent. And he said,",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 3,
+          "text": "“I am a Jewish man born in Tarsus in Cilicia, but brought up in this city at the feet of Gamaliel, educated according to the exactness of the law received from our fathers, being zealous for God, just as all of you are today.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 4,
+          "text": "I persecuted this Way to the death, tying up and delivering to prison both men and women,",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 5,
+          "text": "as indeed the high priest and the whole council of elders can testify about me, from whom also I received letters to the brothers in Damascus, and was traveling there to lead away those who were there also tied up to Jerusalem so that they could be punished.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 6,
+          "text": "Paul Tells of His Conversion on the Damascus Road\n“And it happened that as I was traveling and approaching Damascus around noon, suddenly a very bright light from heaven flashed around me,",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 7,
+          "text": "and I fell to the ground and heard a voice saying to me, ‘Saul, Saul, why are you persecuting me?’",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 8,
+          "text": "And I answered, ‘Who are you, Lord?’ And he said to me, ‘I am Jesus the Nazarene whom you are persecuting.’",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 9,
+          "text": "(Now those who were with me saw the light but did not hear the voice of the one who was speaking to me.)",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 10,
+          "text": "So I said, ‘What should I do, Lord?’ And the Lord said to me, ‘Get up and proceed to Damascus, and there it will be told to you about all the things that have been appointed for you to do.’",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 11,
+          "text": "And as I could not see as a result of the brightness of that light, I arrived in Damascus led by the hand of those who were with me.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 12,
+          "text": "And a certain Ananias, a devout man according to the law, well spoken of by all the Jews who live there,",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 13,
+          "text": "came to me and stood by me and said to me, ‘Brother Saul, regain your sight!’ And at that same time I looked up at him and saw him.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 14,
+          "text": "And he said, ‘The God of our fathers has appointed you to know his will, and to see the Righteous One and to hear a voice from his mouth,",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 15,
+          "text": "because you will be a witness for him to all people of what you have seen and heard.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 16,
+          "text": "And now why are you delaying? Get up, be baptized, and wash away your sins, calling on his name!’",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 17,
+          "text": "“And it happened that when I returned to Jerusalem and I was praying in the temple courts, I was in a trance,",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 18,
+          "text": "and saw him saying to me, ‘Hurry and depart quickly from Jerusalem, because they will not accept your testimony about me.’",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 19,
+          "text": "And I said, ‘Lord, they themselves know that from synagogue to synagogue I was imprisoning and beating those who believed in you.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 20,
+          "text": "And when the blood of your witness Stephen was being shed, I myself also was standing near and was approving, and was guarding the cloaks of those who were killing him.’",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 21,
+          "text": "And he said to me, ‘Go, because I will send you far away to the Gentiles!’”",
           "isHeading": false
         }
       ],
       "nirv": [
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 37,
           "text": "Paul Speaks to the Crowd\nThe soldiers were about to take Paul into the fort. Then he asked the commander, “May I say something to you?”\n“Do you speak Greek?” he replied.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 38,
           "text": "“Aren’t you the Egyptian who turned some of our people against their leaders? Didn’t you lead 4,000 terrorists out into the desert some time ago?”",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 39,
           "text": "Paul answered, “I am a Jew from Tarsus in Cilicia. I am a citizen of an important city. Please let me speak to the people.”",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 40,
           "text": "The commander told him he could. So Paul stood on the steps and motioned to the crowd. When all of them were quiet, he spoke to them in the Aramaic language.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 22,
           "verse": 1,
           "text": "22 “Brothers and fathers,” Paul began, “listen to me now. I want to speak up for myself.”",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 22,
           "verse": 2,
           "text": "When they heard that he was speaking to them in Aramaic, they became very quiet.\nThen Paul said,",
           "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 3,
+          "text": "“I am a Jew. I was born in Tarsus in Cilicia. But I grew up here in Jerusalem. I was well trained by Gamaliel in the law of our people. I wanted to serve God as much as any of you do today.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 4,
+          "text": "I hurt the followers of the Way of Jesus. I sent many of them to their death. I arrested men and women. I threw them into prison.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 5,
+          "text": "The high priest and the whole Council can give witness to this. I even had some official letters they had written to their friends in Damascus. So I went there to bring these people as prisoners to Jerusalem to be punished.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 6,
+          "text": "“I had almost reached Damascus. About noon a bright light from heaven suddenly flashed around me.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 7,
+          "text": "I fell to the ground and heard a voice speak to me. ‘Saul! Saul!’ it said. ‘Why are you opposing me?’",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 8,
+          "text": "“‘Who are you, Lord?’ I asked.\n“‘I am Jesus of Nazareth,’ he replied. ‘I am the one you are opposing.’",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 9,
+          "text": "“The light was seen by my companions. But they didn’t understand the voice of the one speaking to me.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 10,
+          "text": "“‘What should I do, Lord?’ I asked.\n“‘Get up,’ the Lord said. ‘Go into Damascus. There you will be told everything you have been given to do.’",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 11,
+          "text": "The brightness of the light had blinded me. So my companions led me by the hand into Damascus.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 12,
+          "text": "“A man named Ananias came to see me. He was a godly Jew who obeyed the law. All the Jews living there respected him very much.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 13,
+          "text": "He stood beside me and said, ‘Brother Saul, receive your sight!’ At that very moment I was able to see him.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 14,
+          "text": "“Then he said, ‘The God of our people has chosen you. He wanted to tell you his plans for you. You have seen the Blameless One. You have heard words from his mouth.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 15,
+          "text": "Now you will give witness to all people about what you have seen and heard.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 16,
+          "text": "So what are you waiting for? Get up and call on his name. Be baptized. Have your sins washed away.’",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 17,
+          "text": "“I returned to Jerusalem and was praying at the temple. Then it seemed to me that I was dreaming.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 18,
+          "text": "I saw the Lord speaking to me. ‘Quick!’ he said. ‘Leave Jerusalem at once. These people will not accept your witness about me.’",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 19,
+          "text": "“‘Lord,’ I replied, ‘these people know what I used to do. I went from one synagogue to another and put believers in prison. I also beat them.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 20,
+          "text": "Stephen was a man who gave witness to others about you. I stood there when he was killed. I had agreed that he should die. I even guarded the coats of those who were killing him.’",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 22,
+          "verse": 21,
+          "text": "“Then the Lord said to me, ‘Go. I will send you far away to people who are not Jews.’”",
+          "isHeading": false
         }
       ]
+    }
+  },
+  "prophets": {
+    "passage": "",
+    "chunks": [],
+    "versions": {
+      "leb": [],
+      "nirv": []
+    }
+  },
+  "epistles": {
+    "passage": "",
+    "chunks": [],
+    "versions": {
+      "leb": [],
+      "nirv": []
     }
   }
 }

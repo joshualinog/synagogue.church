@@ -11,11 +11,30 @@
       <p>{{ reading.notes }}</p>
     {% endif %}
 
-    <h2>Passages</h2>
-    <ul>
-      <li><strong>Torah:</strong> {{ reading.torahPassage }}</li>
-      <li><strong>Gospel:</strong> {{ reading.gospelPassage }}</li>
-    </ul>
+    {% set isFestival = false %}
+    {% if reading.torahTitle %}
+      {% set titleLower = reading.torahTitle | lower %}
+      {% if "pesach" in titleLower or "sukkot" in titleLower or "yom kippur" in titleLower %}
+        {% set isFestival = true %}
+      {% endif %}
+    {% endif %}
+
+    {% if isFestival %}
+      <h2>Festival Readings</h2>
+      <ul>
+        {% if reading.torahPassage %}<li><strong>Torah:</strong> {{ reading.torahPassage }}</li>{% endif %}
+        {% if reading.gospelPassage %}<li><strong>Gospel:</strong> {{ reading.gospelPassage }}</li>{% endif %}
+        {% if reading.prophetsPassage %}<li><strong>Prophets:</strong> {{ reading.prophetsPassage }}</li>{% endif %}
+        {% if reading.epistlesPassage %}<li><strong>Epistles:</strong> {{ reading.epistlesPassage }}</li>{% endif %}
+      </ul>
+    {% else %}
+      <h2>Passages</h2>
+      <ul>
+        <li><strong>Torah:</strong> {{ reading.torahPassage }}</li>
+        <li><strong>Gospel:</strong> {{ reading.gospelPassage }}</li>
+      </ul>
+    {% endif %}
+
     {# Render the passages include which will show translations and provide a version toggle. #}
     {% include "public-reading/passages.njk" %}
   </section>

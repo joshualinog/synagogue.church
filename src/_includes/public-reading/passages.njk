@@ -23,104 +23,96 @@
 
 {# NOTE: temporary debug removed. We use top-level `bible` lookup first, which Eleventy exposes for nested _data dirs. #}
 
+{% macro renderSection(sectionKey, sectionLabel, sectionData) %}
+  {% if sectionData and sectionData.passage %}
+    <h2 class="text-xl font-bold mt-6">{{ sectionLabel }} — {{ sectionData.passage }}</h2>
+    <div class="bible-block" data-section="{{ sectionKey }}">
+      <div class="version-group">
+        <h3 class="sr-only">LEB translation</h3>
+        <div class="version leb">
+          {% if sectionData.versions.leb %}
+            {% set prevBook = "" %}
+            {% set chunkIndex = 0 %}
+            {% set sectionChunks = sectionData.chunks | default([]) %}
+            {% for v in sectionData.versions.leb %}
+              {% if v.book and v.book != prevBook %}
+                {% set headingText = sectionChunks[chunkIndex] or v.book %}
+                <h3 class="text-lg font-semibold mt-6">{{ headingText }}</h3>
+                {% set prevBook = v.book %}
+                {% set chunkIndex = chunkIndex + 1 %}
+              {% endif %}
+              {% if v.isHeading %}
+                <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
+              {% else %}
+                {% if v.text and v.text | trim %}
+                  <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
+                {% else %}
+                  <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+          {% else %}
+            <div class="text-sm text-gray-600">LEB not available for {{ slug }} ({{ sectionKey }}).</div>
+          {% endif %}
+        </div>
+      </div>
+
+      <div class="version-group mt-4">
+        <h3 class="sr-only">NIRV translation</h3>
+        <div class="version nirv server-nirv hidden">
+          {% if sectionData.versions.nirv %}
+            {% set prevBook = "" %}
+            {% set chunkIndex = 0 %}
+            {% set sectionChunks = sectionData.chunks | default([]) %}
+            {% for v in sectionData.versions.nirv %}
+              {% if v.book and v.book != prevBook %}
+                {% set headingText = sectionChunks[chunkIndex] or v.book %}
+                <h3 class="text-lg font-semibold mt-6">{{ headingText }}</h3>
+                {% set prevBook = v.book %}
+                {% set chunkIndex = chunkIndex + 1 %}
+              {% endif %}
+              {% if v.isHeading %}
+                <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
+              {% else %}
+                {% if v.text and v.text | trim %}
+                  <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
+                {% else %}
+                  <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+          {% else %}
+            <div class="text-sm text-gray-600">NIRV not available for {{ slug }} ({{ sectionKey }}).</div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endif %}
+{% endmacro %}
+
 <div class="prose max-w-3xl mx-auto py-6">
   {# Version switcher rendered server-side for SEO and no-JS fallback #}
   <div class="bible-version-switcher mb-4" role="tablist" aria-label="Bible version switcher">
     <button type="button" class="px-3 py-1 rounded bg-gray-900 text-white mr-2" data-version="leb" aria-pressed="true">LEB</button>
     <button type="button" class="px-3 py-1 rounded bg-white text-gray-900 border mr-2" data-version="nirv" aria-pressed="false">NIRV</button>
   </div>
+
   {% if pr %}
     <div class="bible-passages" data-slug="{{ slug }}">
-      <h2 class="text-xl font-bold">Torah — {{ pr.torah.passage }}</h2>
-      <div class="bible-block" data-section="torah">
-        <div class="version-group">
-          <h3 class="sr-only">LEB translation</h3>
-          <div class="version leb">
-            {% if pr.torah.versions.leb %}
-              {% for v in pr.torah.versions.leb %}
-                {% if v.isHeading %}
-                  <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
-                {% else %}
-                  {% if v.text and v.text | trim %}
-                    <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
-                  {% else %}
-                    <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
-                  {% endif %}
-                {% endif %}
-              {% endfor %}
-            {% else %}
-              <div class="text-sm text-gray-600">LEB not available for {{ slug }} (torah).</div>
-            {% endif %}
-          </div>
-        </div>
+      {% set chosenSections = ["torah", "gospel", "prophets", "epistles"] %}
+      {% set labels = { "torah": "Torah", "gospel": "Gospel", "prophets": "Prophets", "epistles": "Epistles" } %}
 
-        <div class="version-group mt-4">
-          <h3 class="sr-only">NIRV translation</h3>
-          {# Render NIRV server-side but keep it hidden; client toggle will fetch and show it on demand #}
-          <div class="version nirv server-nirv hidden">
-            {% if pr.torah.versions.nirv %}
-              {% for v in pr.torah.versions.nirv %}
-                {% if v.isHeading %}
-                  <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
-                {% else %}
-                  {% if v.text and v.text | trim %}
-                    <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
-                  {% else %}
-                    <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
-                  {% endif %}
-                {% endif %}
-              {% endfor %}
-            {% else %}
-              <div class="text-sm text-gray-600">NIRV not available for {{ slug }} (torah).</div>
-            {% endif %}
-          </div>
-        </div>
-      </div>
+      {% set anySectionRendered = false %}
+      {% for section in chosenSections %}
+        {% if pr[section] is defined and pr[section].passage %}
+          {% set anySectionRendered = true %}
+          {{ renderSection(section, labels[section], pr[section]) }}
+        {% endif %}
+      {% endfor %}
 
-      <h2 class="text-xl font-bold mt-6">Gospel — {{ pr.gospel.passage }}</h2>
-      <div class="bible-block" data-section="gospel">
-        <div class="version-group">
-          <h3 class="sr-only">LEB translation</h3>
-          <div class="version leb">
-            {% if pr.gospel.versions.leb %}
-              {% for v in pr.gospel.versions.leb %}
-                {% if v.isHeading %}
-                  <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
-                {% else %}
-                  {% if v.text and v.text | trim %}
-                    <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
-                  {% else %}
-                    <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
-                  {% endif %}
-                {% endif %}
-              {% endfor %}
-            {% else %}
-              <div class="text-sm text-gray-600">LEB not available for {{ slug }} (gospel).</div>
-            {% endif %}
-          </div>
-        </div>
-
-        <div class="version-group mt-4">
-          <h3 class="sr-only">NIRV translation</h3>
-          <div class="version nirv server-nirv hidden">
-            {% if pr.gospel.versions.nirv %}
-              {% for v in pr.gospel.versions.nirv %}
-                {% if v.isHeading %}
-                  <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
-                {% else %}
-                  {% if v.text and v.text | trim %}
-                    <div class="verse" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text">{{ v.text }}</span></div>
-                  {% else %}
-                    <div class="verse missing" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}"> <span class="verse-num font-bold">{{ v.chapter }}:{{ v.verse }}</span> <span class="verse-text text-gray-500 italic">Verse text not available.</span></div>
-                  {% endif %}
-                {% endif %}
-              {% endfor %}
-            {% else %}
-              <div class="text-sm text-gray-600">NIRV not available for {{ slug }} (gospel).</div>
-            {% endif %}
-          </div>
-        </div>
-      </div>
+      {% if not anySectionRendered %}
+        <div class="text-sm text-gray-600">Passages not available for {{ slug }} yet.</div>
+      {% endif %}
     </div>
   {% else %}
     <div class="text-sm text-gray-600">Passages not available for {{ slug }} yet.</div>

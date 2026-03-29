@@ -1,6 +1,11 @@
 {
+  "template": "default",
+  "isFestival": false,
   "torah": {
     "passage": "?",
+    "chunks": [
+      "?"
+    ],
     "versions": {
       "leb": [],
       "nirv": []
@@ -8,6 +13,25 @@
   },
   "gospel": {
     "passage": "?",
+    "chunks": [
+      "?"
+    ],
+    "versions": {
+      "leb": [],
+      "nirv": []
+    }
+  },
+  "prophets": {
+    "passage": "",
+    "chunks": [],
+    "versions": {
+      "leb": [],
+      "nirv": []
+    }
+  },
+  "epistles": {
+    "passage": "",
+    "chunks": [],
     "versions": {
       "leb": [],
       "nirv": []
