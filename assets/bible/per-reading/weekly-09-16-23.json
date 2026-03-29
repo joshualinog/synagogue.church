@@ -1,92 +1,511 @@
 {
+  "template": "default",
+  "isFestival": false,
   "torah": {
     "passage": "Leviticus 23:23-25; Genesis 7:5-6; Genesis 7:11; Genesis 8:13",
+    "chunks": [
+      "Leviticus 23:23-25",
+      "Genesis 7:5-6",
+      "Genesis 7:11",
+      "Genesis 8:13"
+    ],
     "versions": {
       "leb": [
         {
+          "book": "Lev",
           "chapter": 23,
           "verse": 23,
           "text": "The Feast of Trumpets\nThen Yahweh spoke to Moses, saying,",
           "isHeading": false
         },
         {
+          "book": "Lev",
           "chapter": 23,
           "verse": 24,
           "text": "“Speak to the Israelites, saying, ‘In the seventh month, on the first day of the month, you must have a rest period, a remembrance of the trumpet blast, a holy assembly.",
           "isHeading": false
         },
         {
+          "book": "Lev",
           "chapter": 23,
           "verse": 25,
           "text": "You must not do any regular work, and you shall present an offering made by fire to Yahweh.’”",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 7,
+          "verse": 5,
+          "text": "And Noah did according to all that Yahweh commanded him.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 7,
+          "verse": 6,
+          "text": "The Flood\nNoah was six hundred years old when the flood waters came upon the earth.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 7,
+          "verse": 11,
+          "text": "In the six hundredth year of the life of Noah, in the second month, on the seventeenth day of the month—on that day all the springs of the great deep were split open, and the windows of heaven were opened.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 8,
+          "verse": 13,
+          "text": "And it happened that, in the six hundred and first year, in the first month, on the first day of the month, the waters dried up from upon the earth. And Noah removed the covering of the ark and looked. And behold, the face of the ground was dried up.",
           "isHeading": false
         }
       ],
       "nirv": [
         {
+          "book": "Lev",
           "chapter": 23,
           "verse": 23,
           "text": "The Feast of Trumpets\nThe Lord spoke to Moses. He said,",
           "isHeading": false
         },
         {
+          "book": "Lev",
           "chapter": 23,
           "verse": 24,
           "text": "“Say to the people of Israel, ‘On the first day of the seventh month you must have a day of rest. It must be a special service that is announced with trumpet blasts.",
           "isHeading": false
         },
         {
+          "book": "Lev",
           "chapter": 23,
           "verse": 25,
           "text": "Do not do any regular work on that day. Instead, bring an offering that is made to me with fire.’”",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 7,
+          "verse": 5,
+          "text": "Noah did everything the Lord commanded him to do.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 7,
+          "verse": 6,
+          "text": "Noah was 600 years old when the flood came on the earth.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 7,
+          "verse": 11,
+          "text": "Noah was 600 years old. It was the 17th day of the second month of the year. On that day all of the springs at the bottom of the oceans burst open. God opened the windows of the skies.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 8,
+          "verse": 13,
+          "text": "It was the first day of the first month of Noah’s 601st year. The water had dried up from the earth. Then Noah removed the covering from the ark. He saw that the surface of the ground was dry.",
           "isHeading": false
         }
       ]
     }
   },
   "gospel": {
-    "passage": "Matthew 2:9-11; Matthew 24:29-44; Revelation 12:1-7 ",
+    "passage": "Matthew 2:9-11; Matthew 24:29-44; Revelation 12:1-7",
+    "chunks": [
+      "Matthew 2:9-11",
+      "Matthew 24:29-44",
+      "Revelation 12:1-7"
+    ],
     "versions": {
       "leb": [
         {
+          "book": "Matt",
           "chapter": 2,
           "verse": 9,
           "text": "After they listened to the king, they went out, and behold, the star which they had seen at its rising led them until it came and stood above the place where the child was.",
           "isHeading": false
         },
         {
+          "book": "Matt",
           "chapter": 2,
           "verse": 10,
           "text": "Now when they saw the star, they rejoiced with very great joy.",
           "isHeading": false
         },
         {
+          "book": "Matt",
           "chapter": 2,
           "verse": 11,
           "text": "And when they came into the house, they saw the child with Mary his mother, and they fell down and worshiped him. And opening their treasure boxes, they offered him gifts of gold and frankincense and myrrh.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 29,
+          "text": "The Arrival of the Son of Man\n“And immediately after the tribulation of those days,\n‘the sun will be darkened\nand the moon will not give its light,\nand the stars will fall from heaven,\nand the powers of heaven will be shaken.’",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 30,
+          "text": "And then the sign of the Son of Man will appear in heaven, and then all the tribes of the earth will mourn, and they will see the Son of Man arriving on the clouds of heaven with power and great glory.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 31,
+          "text": "And he will send out his angels with a loud trumpet call, and they will gather his elect together from the four winds, from one end of heaven to the other end of it.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 32,
+          "text": "The Parable of the Fig Tree\n“Now learn the parable from the fig tree: Whenever its branch has already become tender and puts forth its leaves, you know that summer is near.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 33,
+          "text": "So also you, when you see all these things, know that he is near, at the door.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 34,
+          "text": "Truly I say to you that this generation will never pass away until all these things take place!",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 35,
+          "text": "Heaven and earth will pass away, but my words will never pass away.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 36,
+          "text": "The Unknown Day and Hour\n“But concerning that day and hour no one knows—not even the angels of heaven nor the Son—except the Father alone.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 37,
+          "text": "For just as the days of Noah were, so the coming of the Son of Man will be.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 38,
+          "text": "For as in the days before the flood they were eating and drinking, marrying and giving in marriage, until the day Noah entered into the ark.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 39,
+          "text": "And they did not know anything until the deluge came and swept them all away. So also the coming of the Son of Man will be.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 40,
+          "text": "Then there will be two men in the field; one will be taken and one left.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 41,
+          "text": "Two women will be grinding at the mill; one will be taken and one left.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 42,
+          "text": "Therefore be on the alert, because you do not know what day your Lord is coming!",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 43,
+          "text": "But understand this: that if the master of the house had known what watch of the night the thief was coming, he would have stayed awake and would not have let his house be broken into.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 44,
+          "text": "For this reason you also must be ready, because the Son of Man is coming at an hour that you do not think he will come.",
+          "isHeading": false
+        },
+        {
+          "book": "Rev",
+          "chapter": 12,
+          "verse": 1,
+          "text": "The Woman and Her Son Versus the Dragon\nAnd a great sign appeared in heaven: a woman clothed with the sun and with the moon under her feet, and on her head a crown of twelve stars,",
+          "isHeading": false
+        },
+        {
+          "book": "Rev",
+          "chapter": 12,
+          "verse": 2,
+          "text": "and who was pregnant and was crying out because she was having birth pains, and was in torment to give birth.",
+          "isHeading": false
+        },
+        {
+          "book": "Rev",
+          "chapter": 12,
+          "verse": 3,
+          "text": "And another sign appeared in heaven, and behold, a great fiery red dragon, having seven heads and ten horns, and on his heads were seven royal headbands.",
+          "isHeading": false
+        },
+        {
+          "book": "Rev",
+          "chapter": 12,
+          "verse": 4,
+          "text": "And his tail swept away a third of the stars from heaven and threw them to the earth. And the dragon stood before the woman who was about to give birth, in order that whenever she gave birth to her child he could devour it.",
+          "isHeading": false
+        },
+        {
+          "book": "Rev",
+          "chapter": 12,
+          "verse": 5,
+          "text": "And she gave birth to a son, a male child, who is going to shepherd all the nations with an iron rod, and her child was snatched away to God and to his throne.",
+          "isHeading": false
+        },
+        {
+          "book": "Rev",
+          "chapter": 12,
+          "verse": 6,
+          "text": "And the woman fled into the wilderness, where she had a place prepared there by God, so that they could feed her there for one thousand two hundred sixty days.",
+          "isHeading": false
+        },
+        {
+          "book": "Rev",
+          "chapter": 12,
+          "verse": 7,
+          "text": "Satan Thrown Down from Heaven to Earth\nAnd there was war in heaven; Michael and his angels fought against the dragon, and the dragon and his angels fought back.",
           "isHeading": false
         }
       ],
       "nirv": [
         {
+          "book": "Matt",
           "chapter": 2,
           "verse": 9,
           "text": "After the Wise Men had listened to the king, they went on their way. The star they had seen when they were in the east went ahead of them. It finally stopped over the place where the child was.",
           "isHeading": false
         },
         {
+          "book": "Matt",
           "chapter": 2,
           "verse": 10,
           "text": "When they saw the star, they were filled with joy.",
           "isHeading": false
         },
         {
+          "book": "Matt",
           "chapter": 2,
           "verse": 11,
           "text": "The Wise Men went to the house. There they saw the child with his mother Mary. They bowed down and worshiped him. Then they opened their treasures. They gave him gold, incense and myrrh.",
           "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 29,
+          "text": "“Right after the terrible suffering of those days,\n“‘The sun will be darkened.\nThe moon will not shine.\nThe stars will fall from the sky.\nThe heavenly bodies will be shaken.’ (; )",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 30,
+          "text": "“At that time the sign of the Son of Man will appear in the sky. All the nations on earth will be sad. They will see the Son of Man coming on the clouds of the sky. He will come with power and great glory.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 31,
+          "text": "He will send his angels with a loud trumpet call. They will gather his chosen people from all four directions. They will bring them from one end of the heavens to the other.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 32,
+          "text": "“Learn a lesson from the fig tree. As soon as its twigs get tender and its leaves come out, you know that summer is near.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 33,
+          "text": "In the same way, when you see all those things happening, you know that the end is near. It is right at the door.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 34,
+          "text": "What I’m about to tell you is true. The people living at that time will certainly not pass away until all those things have happened.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 35,
+          "text": "Heaven and earth will pass away. But my words will never pass away.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 36,
+          "text": "The Day and Hour Are Not Known\n“No one knows about that day or hour. Not even the angels in heaven know. The Son does not know. Only the Father knows.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 37,
+          "text": "“Remember how it was in the days of Noah. It will be the same when the Son of Man comes.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 38,
+          "text": "“In the days before the flood, people were eating and drinking. They were getting married. They were giving their daughters to be married. They did all those things right up to the day Noah entered the ark.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 39,
+          "text": "They knew nothing about what would happen until the flood came and took them all away. That is how it will be when the Son of Man comes.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 40,
+          "text": "“Two men will be in the field. One will be taken and the other left.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 41,
+          "text": "Two women will be grinding with a hand mill. One will be taken and the other left.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 42,
+          "text": "“So keep watch. You do not know on what day your Lord will come.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 43,
+          "text": "You must understand something. Suppose the owner of the house knew what time of night the robber was coming. Then he would have kept watch. He would not have let his house be broken into.",
+          "isHeading": false
+        },
+        {
+          "book": "Matt",
+          "chapter": 24,
+          "verse": 44,
+          "text": "So you also must be ready. The Son of Man will come at an hour when you don’t expect him.",
+          "isHeading": false
+        },
+        {
+          "book": "Rev",
+          "chapter": 12,
+          "verse": 1,
+          "text": "The Woman and the Dragon\nA great and miraculous sign appeared in heaven. It was a woman wearing the sun like clothes. The moon was under her feet. On her head she wore a crown of 12 stars.",
+          "isHeading": false
+        },
+        {
+          "book": "Rev",
+          "chapter": 12,
+          "verse": 2,
+          "text": "She was pregnant. She cried out in pain because she was about to have a baby.",
+          "isHeading": false
+        },
+        {
+          "book": "Rev",
+          "chapter": 12,
+          "verse": 3,
+          "text": "Then another sign appeared in heaven. It was a huge red dragon. He had seven heads and ten horns. On his seven heads he wore seven crowns.",
+          "isHeading": false
+        },
+        {
+          "book": "Rev",
+          "chapter": 12,
+          "verse": 4,
+          "text": "His tail swept a third of the stars out of the sky. It threw them down to earth.\nThe dragon stood in front of the woman who was about to have a baby. He wanted to eat her child the moment it was born.",
+          "isHeading": false
+        },
+        {
+          "book": "Rev",
+          "chapter": 12,
+          "verse": 5,
+          "text": "She gave birth to a son. He will rule all the nations with an iron rod. Her child was taken up to God and to his throne.",
+          "isHeading": false
+        },
+        {
+          "book": "Rev",
+          "chapter": 12,
+          "verse": 6,
+          "text": "The woman escaped into the desert where God had a place prepared for her. There she would be taken care of for 1,260 days.",
+          "isHeading": false
+        },
+        {
+          "book": "Rev",
+          "chapter": 12,
+          "verse": 7,
+          "text": "There was war in heaven. Michael and his angels fought against the dragon. And the dragon and his angels fought back.",
+          "isHeading": false
         }
       ]
+    }
+  },
+  "prophets": {
+    "passage": "",
+    "chunks": [],
+    "versions": {
+      "leb": [],
+      "nirv": []
+    }
+  },
+  "epistles": {
+    "passage": "",
+    "chunks": [],
+    "versions": {
+      "leb": [],
+      "nirv": []
     }
   }
 }

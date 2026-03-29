@@ -1,92 +1,252 @@
 {
+  "template": "default",
+  "isFestival": false,
   "torah": {
     "passage": "Genesis 26:6 - 26:12; Genesis 26:13 - 26:22",
+    "chunks": [
+      "Genesis 26:6 - 26:12",
+      "Genesis 26:13 - 26:22"
+    ],
     "versions": {
       "leb": [
         {
+          "book": "Gen",
           "chapter": 26,
           "verse": 6,
           "text": "So Isaac settled in Gerar.",
           "isHeading": false
         },
         {
+          "book": "Gen",
           "chapter": 26,
           "verse": 7,
           "text": "When the men of the place asked concerning his wife, he said, “She is my sister,” for he was afraid to say, “my wife,” thinking “the men of the place will kill me on account of Rebekah, for she was beautiful.”",
           "isHeading": false
         },
         {
+          "book": "Gen",
           "chapter": 26,
           "verse": 8,
           "text": "And it happened that, when he had been there a long time, Abimelech the king of the Philistines looked through the window, and saw—behold—Isaac was fondling Rebekah his wife.",
           "isHeading": false
         },
         {
+          "book": "Gen",
           "chapter": 26,
           "verse": 9,
           "text": "And Abimelech called Isaac and said, “Surely she is your wife. Now why did you say ‘She is my sister’?” And Isaac said to him, “Because I thought I would die on account of her.”",
           "isHeading": false
         },
         {
+          "book": "Gen",
           "chapter": 26,
           "verse": 10,
           "text": "And Abimelech said, “What is this you have done to us? One of the people might easily have slept with your wife! Then you would have brought guilt upon us!”",
           "isHeading": false
         },
         {
+          "book": "Gen",
           "chapter": 26,
           "verse": 11,
           "text": "Then Abimelech instructed all the people, saying, “The one who touches this man or his wife shall certainly die.”",
           "isHeading": false
         },
         {
+          "book": "Gen",
           "chapter": 26,
           "verse": 12,
           "text": "And Isaac sowed in that land and reaped in that same year a hundredfold, and Yahweh blessed him.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 26,
+          "verse": 13,
+          "text": "And the man became wealthier and wealthier until he was exceedingly wealthy.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 26,
+          "verse": 14,
+          "text": "And he possessed sheep and cattle and many servants, so that the Philistines envied him.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 26,
+          "verse": 15,
+          "text": "And the Philistines stopped up all the wells that the servants of his father had dug in the days of Abraham his father. They filled them with earth.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 26,
+          "verse": 16,
+          "text": "And Abimelech said to Isaac, “Go away from us, for you have become much too powerful for us.”",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 26,
+          "verse": 17,
+          "text": "So Isaac departed from there and camped in the valley of Gerar, and settled there.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 26,
+          "verse": 18,
+          "text": "And Isaac dug again the wells of water which they had dug in the days of his father Abraham, which the Philistines had stopped up after the death of Abraham. And he gave to them the same names which his father had given them.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 26,
+          "verse": 19,
+          "text": "And when the servants of Isaac dug in the valley, they found a well of fresh water there.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 26,
+          "verse": 20,
+          "text": "Then the herdsmen of Gerar quarreled with the herdsmen of Isaac, saying, “The water is ours.” And he called the name of the well Esek, because they contended with him.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 26,
+          "verse": 21,
+          "text": "And they dug another well, and they quarreled over it also. And he called its name Sitnah.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 26,
+          "verse": 22,
+          "text": "Then he moved from there and dug another well, and they did not quarrel over it. And he called its name Rehoboth, and said, “Now Yahweh has made room for us, and we shall be fruitful in the land.”",
           "isHeading": false
         }
       ],
       "nirv": [
         {
+          "book": "Gen",
           "chapter": 26,
           "verse": 6,
           "text": "So Isaac stayed in Gerar.",
           "isHeading": false
         },
         {
+          "book": "Gen",
           "chapter": 26,
           "verse": 7,
           "text": "The men of that place asked him about his wife. He said, “She’s my sister.” He was afraid to say, “She’s my wife.” He thought, “The men of this place might kill me because of Rebekah. She’s a beautiful woman.”",
           "isHeading": false
         },
         {
+          "book": "Gen",
           "chapter": 26,
           "verse": 8,
           "text": "Isaac had been there a long time. One day Abimelech, the king of the Philistines, looked down from a window. He saw Isaac hugging and kissing his wife Rebekah.",
           "isHeading": false
         },
         {
+          "book": "Gen",
           "chapter": 26,
           "verse": 9,
           "text": "So Abimelech sent for Isaac. He said, “She’s really your wife, isn’t she? Why did you say, ‘She’s my sister’?”\nIsaac answered him, “I thought I might lose my life because of her.”",
           "isHeading": false
         },
         {
+          "book": "Gen",
           "chapter": 26,
           "verse": 10,
           "text": "Then Abimelech said, “What have you done to us? What if one of the men had sex with your wife? Then you would have made us guilty.”",
           "isHeading": false
         },
         {
+          "book": "Gen",
           "chapter": 26,
           "verse": 11,
           "text": "So Abimelech gave orders to all of the people. He said, “You can be sure that anyone who harms this man or his wife will be put to death.”",
           "isHeading": false
         },
         {
+          "book": "Gen",
           "chapter": 26,
           "verse": 12,
           "text": "Isaac planted crops in that land. That same year he gathered 100 times more than he planted. That was because the Lord blessed him.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 26,
+          "verse": 13,
+          "text": "Isaac became rich. His wealth continued to grow until he became very rich.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 26,
+          "verse": 14,
+          "text": "He had many flocks and herds and servants.\nIsaac had so much that the Philistines became jealous of him.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 26,
+          "verse": 15,
+          "text": "So they stopped up all of the wells the servants of his father Abraham had dug. They filled them with dirt.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 26,
+          "verse": 16,
+          "text": "Then Abimelech said to Isaac, “Move away from us. You have become too powerful for us.”",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 26,
+          "verse": 17,
+          "text": "So Isaac moved away from there. He camped in the Valley of Gerar and settled there.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 26,
+          "verse": 18,
+          "text": "Isaac opened up the wells again. They had been dug in the time of his father Abraham. The Philistines had stopped them up after Abraham died. Isaac gave the wells the same names his father had given them.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 26,
+          "verse": 19,
+          "text": "Isaac’s servants dug for wells in the valley. There they discovered a well of fresh water.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 26,
+          "verse": 20,
+          "text": "But the people of Gerar who took care of their herds argued with the people who took care of Isaac’s herds. “The water is ours!” the people of Gerar said. So Isaac named the well Esek. That’s because they argued with him.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 26,
+          "verse": 21,
+          "text": "Then Isaac’s servants dug another well. They argued about that one too. So he named it Sitnah.",
+          "isHeading": false
+        },
+        {
+          "book": "Gen",
+          "chapter": 26,
+          "verse": 22,
+          "text": "He moved on from there and dug another well. But no one argued about that one. So he named it Rehoboth. He said, “Now the Lord has given us room. Now we will do well in the land.”",
           "isHeading": false
         }
       ]
@@ -94,155 +254,367 @@
   },
   "gospel": {
     "passage": "John 8:48 - 8:59; John 9:1 - 9:12",
+    "chunks": [
+      "John 8:48 - 8:59",
+      "John 9:1 - 9:12"
+    ],
     "versions": {
       "leb": [
         {
+          "book": "John",
           "chapter": 8,
           "verse": 48,
           "text": "The Jews answered and said to him, “Do we not correctly say that you are a Samaritan and have a demon?”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 49,
           "text": "Jesus replied, “I do not have a demon, but I honor my Father, and you dishonor me!",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 50,
           "text": "But I do not seek my own glory. There is one who seeks and judges!",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 51,
           "text": "Truly, truly I say to you, if anyone keeps my word, he will never experience death forever.”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 52,
           "text": "The Jews said to him, “Now we know that you have a demon! Abraham and the prophets died, and you say, ‘If anyone keeps my word, he will never taste death forever.’",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 53,
           "text": "You are not greater than our father Abraham who died, are you? And the prophets died! Who do you make yourself to be?”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 54,
           "text": "Jesus replied, “If I glorify myself, my glory is nothing. The one who glorifies me is my Father, about whom you say, ‘He is our God.’",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 55,
           "text": "And you have not known him, but I know him. And if I were to say that I do not know him, I would be a liar like you! But I know him and I keep his word.",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 56,
           "text": "Abraham your father rejoiced that he would see my day, and he saw it and was glad.”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 57,
           "text": "So the Jews said to him, “You are not yet fifty years old, and have you seen Abraham?”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 58,
           "text": "Jesus said to them, “Truly, truly I say to you, before Abraham was, I am!”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 59,
           "text": "Then they picked up stones in order to throw them at him. But Jesus was hidden and went out of the temple courts.",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 1,
+          "text": "A Man Born Blind Is Given Sight\nAnd as he went away, he saw a man blind from birth.",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 2,
+          "text": "And his disciples asked him, saying, “Rabbi, who sinned, this man or his parents, that he should be born blind?”",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 3,
+          "text": "Jesus replied, “Neither this man sinned nor his parents, but it happened so that the works of God could be revealed in him.",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 4,
+          "text": "It is necessary for us to do the deeds of the one who sent me while it is day; night is coming, when no one can work!",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 5,
+          "text": "While I am in the world, I am the light of the world.”",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 6,
+          "text": "When he had said these things, he spat on the ground and made clay with the saliva, and smeared the clay on his eyes.",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 7,
+          "text": "And he said to him, “Go, wash in the pool of Siloam” (which is translated “sent”). So he went and washed and came back seeing.",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 8,
+          "text": "Then the neighbors and those who saw him previously (because he was a beggar) began to say, “Is this man not the one who used to sit and beg?”",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 9,
+          "text": "Others were saying, “It is this man”; others were saying, “No, but he is like him.” That one was saying, “I am he!”",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 10,
+          "text": "So they began to say to him, “How were your eyes opened?”",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 11,
+          "text": "He replied, “The man who is called Jesus made clay and smeared it on my eyes and said to me, ‘Go to Siloam and wash!’ So I went, and I washed, and I received sight.”",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 12,
+          "text": "And they said to him, “Where is that man?” He said, “I do not know.”",
           "isHeading": false
         }
       ],
       "nirv": [
         {
+          "book": "John",
           "chapter": 8,
           "verse": 48,
           "text": "Jesus Makes Claims About Himself\nThe Jews answered Jesus, “Aren’t we right when we say you are a Samaritan? Aren’t you controlled by a demon?”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 49,
           "text": "“I am not controlled by a demon,” said Jesus. “I honor my Father. You do not honor me.",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 50,
           "text": "I am not seeking glory for myself. But there is One who brings glory to me. He is the judge.",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 51,
           "text": "What I’m about to tell you is true. Anyone who obeys my word will never die.”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 52,
           "text": "Then the Jews cried out, “Now we know you are controlled by a demon! Abraham died. So did the prophets. But you say that anyone who obeys your word will never die.",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 53,
           "text": "Are you greater than our father Abraham? He died. So did the prophets. Who do you think you are?”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 54,
           "text": "Jesus replied, “If I bring glory to myself, my glory means nothing. You claim that my Father is your God. He is the one who brings glory to me.",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 55,
           "text": "You do not know him. But I know him. If I said I did not, I would be a liar like you. But I do know him. And I obey his word.",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 56,
           "text": "“Your father Abraham was filled with joy at the thought of seeing my day. He saw it and was glad.”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 57,
           "text": "“You are not even 50 years old,” the Jews said to Jesus. “And you have seen Abraham?”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 58,
           "text": "“What I’m about to tell you is true,” Jesus answered. “Before Abraham was born, I am!”",
           "isHeading": false
         },
         {
+          "book": "John",
           "chapter": 8,
           "verse": 59,
           "text": "When he said this, they picked up stones to kill him. But Jesus hid himself. He slipped away from the temple area.",
           "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 1,
+          "text": "Jesus Heals a Man Born Blind\nAs Jesus went along, he saw a man who was blind. He had been blind since he was born.",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 2,
+          "text": "Jesus’ disciples asked him, “Rabbi, who sinned? Was this man born blind because he sinned? Or did his parents sin?”",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 3,
+          "text": "“It isn’t because this man sinned,” said Jesus. “It isn’t because his parents sinned. This happened so that God’s work could be shown in his life.",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 4,
+          "text": "While it is still day, we must do the work of the One who sent me. Night is coming. Then no one can work.",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 5,
+          "text": "While I am in the world, I am the light of the world.”",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 6,
+          "text": "After he said this, he spit on the ground. He made some mud with the spit. Then he put the mud on the man’s eyes.",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 7,
+          "text": "“Go,” he told him. “Wash in the Pool of Siloam.” Siloam means Sent.\nSo the man went and washed. And he came home able to see.",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 8,
+          "text": "His neighbors and those who had earlier seen him begging asked questions. “Isn’t this the same man who used to sit and beg?” they asked.",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 9,
+          "text": "Some claimed that he was.\nOthers said, “No. He only looks like him.”\nBut the man who had been blind kept saying, “I am the man.”",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 10,
+          "text": "“Then how were your eyes opened?” they asked.",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 11,
+          "text": "He replied, “The man they call Jesus made some mud and put it on my eyes. He told me to go to Siloam and wash. So I went and washed. Then I could see.”",
+          "isHeading": false
+        },
+        {
+          "book": "John",
+          "chapter": 9,
+          "verse": 12,
+          "text": "“Where is this man?” they asked him.\n“I don’t know,” he said.",
+          "isHeading": false
         }
       ]
+    }
+  },
+  "prophets": {
+    "passage": "",
+    "chunks": [],
+    "versions": {
+      "leb": [],
+      "nirv": []
+    }
+  },
+  "epistles": {
+    "passage": "",
+    "chunks": [],
+    "versions": {
+      "leb": [],
+      "nirv": []
     }
   }
 }

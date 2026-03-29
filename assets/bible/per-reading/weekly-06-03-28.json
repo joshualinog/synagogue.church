@@ -1,44 +1,98 @@
 {
+  "template": "default",
+  "isFestival": false,
   "torah": {
     "passage": "Deuteronomy 31:1 - 31:3;Deuteronomy 31:4 - 31:6",
+    "chunks": [
+      "Deuteronomy 31:1 - 31:3",
+      "Deuteronomy 31:4 - 31:6"
+    ],
     "versions": {
       "leb": [
         {
+          "book": "Deut",
           "chapter": 31,
           "verse": 1,
           "text": "Succession, Deposition, and Recitation of Text\nAnd Moses went and spoke these words to all Israel.",
           "isHeading": false
         },
         {
+          "book": "Deut",
           "chapter": 31,
           "verse": 2,
           "text": "And he said to them, “I am a hundred and twenty years old today; I am not able to go out and to come in any longer, and Yahweh said to me, ‘You may not cross this Jordan.’",
           "isHeading": false
         },
         {
+          "book": "Deut",
           "chapter": 31,
           "verse": 3,
           "text": "Yahweh your God is about to cross before you; he will destroy these nations before you, and you shall dispossess them. Joshua will be crossing before you, just as Yahweh promised.",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 4,
+          "text": "And Yahweh will do to them just as he did to Sihon and to Og, kings of the Amorites, and to their land, which he destroyed with them.",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 5,
+          "text": "And Yahweh will deliver them to you before you, and you shall do to them according to every commandment that I have commanded you.",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 6,
+          "text": "Be strong and be courageous; you should not be afraid, and you should not be in dread from their presence, for Yahweh your God is the one going with you; he will not leave you alone and he will not forsake you.”",
           "isHeading": false
         }
       ],
       "nirv": [
         {
+          "book": "Deut",
           "chapter": 31,
           "verse": 1,
           "text": "Joshua Becomes the New Leader\nHere are the words I spoke to all of the people of Israel.",
           "isHeading": false
         },
         {
+          "book": "Deut",
           "chapter": 31,
           "verse": 2,
           "text": "I said, “I am now 120 years old. I’m not able to lead you anymore. The Lord has said to me, ‘You will not go across the Jordan River.’",
           "isHeading": false
         },
         {
+          "book": "Deut",
           "chapter": 31,
           "verse": 3,
           "text": "“The Lord your God himself will go across ahead of you. He’ll destroy the nations that are there in order to make room for you. You will take over their land. Joshua will also go across ahead of you, just as the Lord said he would.",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 4,
+          "text": "“The Lord will do to those nations what he did to Sihon and Og. He destroyed those Amorite kings along with their land.",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 5,
+          "text": "The Lord will hand those nations over to you. Then you must do to them everything I’ve commanded you to do.",
+          "isHeading": false
+        },
+        {
+          "book": "Deut",
+          "chapter": 31,
+          "verse": 6,
+          "text": "“Be strong and brave. Don’t be afraid of them. Don’t be terrified because of them. The Lord your God will go with you. He will never leave you. He’ll never desert you.”",
           "isHeading": false
         }
       ]
@@ -46,131 +100,311 @@
   },
   "gospel": {
     "passage": "Acts 21:17 - 21:26;Acts 21:27 - 21:36",
+    "chunks": [
+      "Acts 21:17 - 21:26",
+      "Acts 21:27 - 21:36"
+    ],
     "versions": {
       "leb": [
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 17,
           "text": "Paul Visits the Leaders of the Jerusalem Church\nAnd when we came to Jerusalem, the brothers welcomed us gladly.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 18,
           "text": "And on the next day Paul went in with us to James, and all the elders were present.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 19,
           "text": "And after greeting them, he began to relate one after the other the things which God had done among the Gentiles through his ministry.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 20,
           "text": "And when they heard this, they began to glorify God. And they said to him, “You see, brother, how many ten thousands there are among the Jews who have believed, and they are all zealous adherents of the law.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 21,
           "text": "And they have been informed about you that you are teaching all the Jews who are among the Gentiles the abandonment of Moses, telling them not to circumcise their children or to live according to our customs.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 22,
           "text": "What then is to be done? Doubtless they will all hear that you have come!",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 23,
           "text": "Therefore do this that we tell you: we have four men who have taken a vow upon themselves.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 24,
           "text": "Take these men and purify yourself along with them and pay their expenses so that they can shave their heads, and everyone will know that the things which they had been informed about you are nothing, but you yourself also agree with observing the law.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 25,
           "text": "But concerning the Gentiles who have believed, we have written a letter after deciding they should avoid food sacrificed to idols and blood and what has been strangled and sexual immorality.”",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 26,
           "text": "Then Paul took along the men on the next day, and after he had purified himself together with them, he entered into the temple courts, announcing the completion of the days of purification until the time the offering would be presented on behalf of each one of them.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 21,
+          "verse": 27,
+          "text": "Paul Arrested in the Temple Courts\nBut when the seven days were about to be completed, the Jews from Asia who had seen him in the temple courts stirred up the whole crowd and laid hands on him,",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 21,
+          "verse": 28,
+          "text": "shouting, “Israelite men, help! This is the man who is teaching everyone everywhere against the people and the law and this place! And furthermore he also brought Greeks into the temple, and has defiled this holy place!”",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 21,
+          "verse": 29,
+          "text": "(For they had previously seen Trophimus the Ephesian in the city with him, whom they thought that Paul had brought into the temple.)",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 21,
+          "verse": 30,
+          "text": "And the whole city was stirred up, and the people came running together, and they seized Paul and dragged him outside of the temple courts, and immediately the doors were shut.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 21,
+          "verse": 31,
+          "text": "And as they were seeking to kill him, a report came up to the military tribune of the cohort that all Jerusalem was in confusion.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 21,
+          "verse": 32,
+          "text": "He immediately took along soldiers and centurions and ran down to them. And when they saw the military tribune and the soldiers, they stopped beating Paul.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 21,
+          "verse": 33,
+          "text": "Then the military tribune came up and arrested him and ordered him to be bound with two chains, and inquired who he was and what it was that he had done.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 21,
+          "verse": 34,
+          "text": "But some in the crowd were shouting one thing and others another, and because he was not able to find out the truth on account of the commotion, he gave orders to bring him into the barracks.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 21,
+          "verse": 35,
+          "text": "And when he came to the steps, it happened that he had to be carried by the soldiers on account of the violence of the crowd,",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 21,
+          "verse": 36,
+          "text": "for the crowd of people was following them, shouting, “Away with him!”",
           "isHeading": false
         }
       ],
       "nirv": [
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 17,
           "text": "Paul Arrives in Jerusalem\nWhen we arrived in Jerusalem, the brothers and sisters gave us a warm welcome.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 18,
           "text": "The next day Paul and the rest of us went to see James. All the elders were there.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 19,
           "text": "Paul greeted them. Then he reported everything God had done among the non-Jews through his work.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 20,
           "text": "When they heard this, they praised God. Then they spoke to Paul. “Brother,” they said, “you see that thousands of Jews have become believers. All of them try very hard to obey the law.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 21,
           "text": "They have been told that you teach all the Jews who live among the non-Jews to turn away from Moses. They think that you teach them not to circumcise their children. They think that you teach them to give up our Jewish ways.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 22,
           "text": "“What should we do? They will certainly hear that you have come.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 23,
           "text": "So do what we tell you. There are four men with us who have made a promise to God.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 24,
           "text": "Take them with you. Join them in the Jewish practice that makes people pure and clean. Pay their expenses so they can have their heads shaved. Then everybody will know that these reports about you are not true in any way. They will know that you yourself obey the law.",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 25,
           "text": "“We have already given written directions to the believers who are not Jews. They must not eat food that has been offered to statues of gods. They must not drink blood. They must not eat the meat of animals that have been choked to death. And they must not commit sexual sins.”",
           "isHeading": false
         },
         {
+          "book": "Acts",
           "chapter": 21,
           "verse": 26,
           "text": "The next day Paul took the men with him. They all made themselves pure and clean in the usual way. Then Paul went to the temple. There he reported the date when the days of cleansing would end. At that time the proper offering would be made for each of them.",
           "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 21,
+          "verse": 27,
+          "text": "Paul Is Arrested\nThe seven days of cleansing were almost over. Some Jews from Asia Minor saw Paul at the temple. They stirred up the whole crowd. They arrested Paul.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 21,
+          "verse": 28,
+          "text": "“Men of Israel, help us!” they shouted. “This is the man who teaches everyone in all places against our people. He speaks against our law and against this holy place. Besides, he has brought Greeks into the temple area. He has made this holy place unclean.”",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 21,
+          "verse": 29,
+          "text": "They said this because they had seen Trophimus the Ephesian in the city with Paul. They thought Paul had brought him into the temple area.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 21,
+          "verse": 30,
+          "text": "The whole city was stirred up. People came running from all directions. They grabbed Paul and dragged him out of the temple. Right away the temple gates were shut.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 21,
+          "verse": 31,
+          "text": "The people were trying to kill Paul. But news reached the commander of the Roman troops. He heard that people were making trouble in the whole city of Jerusalem.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 21,
+          "verse": 32,
+          "text": "At once he took some officers and soldiers with him. They ran down to the crowd. The people causing the trouble saw the commander and his soldiers. So they stopped beating Paul.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 21,
+          "verse": 33,
+          "text": "The commander came up and arrested Paul. He ordered him to be held with two chains. Then he asked who Paul was and what he had done.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 21,
+          "verse": 34,
+          "text": "Some in the crowd shouted one thing, some another. But the commander couldn’t get the facts because of all the noise. So he ordered that Paul be taken into the fort.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 21,
+          "verse": 35,
+          "text": "Paul reached the steps. But then the mob became so wild that he had to be carried by the soldiers.",
+          "isHeading": false
+        },
+        {
+          "book": "Acts",
+          "chapter": 21,
+          "verse": 36,
+          "text": "The crowd that followed kept shouting, “Kill him!”",
+          "isHeading": false
         }
       ]
+    }
+  },
+  "prophets": {
+    "passage": "",
+    "chunks": [],
+    "versions": {
+      "leb": [],
+      "nirv": []
+    }
+  },
+  "epistles": {
+    "passage": "",
+    "chunks": [],
+    "versions": {
+      "leb": [],
+      "nirv": []
     }
   }
 }
