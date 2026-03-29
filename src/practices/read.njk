@@ -1,0 +1,26 @@
+---
+layout: layout.njk
+title: Read Practices
+permalink: /practices/read/
+---
+
+{% set list = practicesByMainThree['read'] or [] %}
+
+<div class="py-12">
+  <div class="container mx-auto px-4">
+    <h1 class="text-4xl font-extrabold mb-2">Read Practices</h1>
+    <p class="text-gray-600 mb-6">{{ list.length }} practices</p>
+
+    {% if list.length %}
+      <section class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {% for p in list %}
+          {% include "practice-card.njk" %}
+        {% endfor %}
+      </section>
+    {% else %}
+      <p class="text-sm text-gray-500">No practices found for Read yet.</p>
+    {% endif %}
+
+    <p class="mt-8"><a href="/practices/" class="text-sm font-medium">← Back to all practices</a></p>
+  </div>
+</div>

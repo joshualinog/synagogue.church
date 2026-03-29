@@ -1,0 +1,21 @@
+<article class="p-4 rounded-lg border border-gray-100 bg-white shadow-sm dark:bg-gray-900">
+  <div class="flex gap-4">
+    {% if p.image %}
+      <img src="{{ p.image }}" alt="{{ p.title }}" class="w-20 h-20 object-cover rounded" />
+    {% else %}
+      <div class="w-20 h-20 bg-gray-100 rounded"></div>
+    {% endif %}
+    <div class="flex-1">
+      <a href="/practices/{{ p.slug }}/" class="block font-semibold text-lg text-{{ (p.color or 'gray') }}-700">{{ p.title }}</a>
+      {% if p.description %}
+        <p class="text-sm text-gray-600 mt-1">{{ p.description }}</p>
+      {% endif %}
+      <div class="mt-2 text-sm text-gray-500">
+        {% if p.durationMinutes %}<span class="mr-2">{{ p.durationMinutes }}m</span>{% endif %}
+        {% if p.tags %}
+          <span>{{ p.tags | join(', ') }}</span>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</article>

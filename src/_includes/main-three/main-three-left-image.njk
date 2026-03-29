@@ -28,7 +28,7 @@
       <div>
         <div class="text-base/7 text-gray-700 lg:max-w-lg dark:text-gray-400">
           <p class="text-base/7 font-semibold text-{{ item.color }}-600 dark:text-{{ item.color }}-400">{{ item.tagline or item.subtitle or '' }}</p>
-          <h1 class="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl dark:text-white">{{ item.headline or item.name }}</h1>
+          <h1 class="mt-2 text-4xl font-extralight tracking-tight text-pretty text-{{item.textColor}} sm:text-5xl">{{ item.headline or item.name }}ing Practices</h1>
           <div class="max-w-xl">
             {% if item.description or item.extra %}
             <p class="mt-6">{{ item.description or item.extra }}</p>
@@ -36,6 +36,33 @@
             {% if item.blurb %}
               <p class="mt-8">{{ item.blurb }}</p>
             {% endif %}
+
+            {# Practices list: show up to 3 practices for this main three #}
+            {% set list = practicesByMainThree[item.name] or [] %}
+            {% if list.length %}
+              <div class="mt-6">
+                <h3 class="text-base font-semibold text-{{ item.color }}-600">{{ list.length }} practices</h3>
+                <ul class="mt-4 grid gap-4">
+                  {% for p in list | slice(0,3) %}
+                    <li class="flex items-start gap-4">
+                      {% if p.image %}
+                        <img src="{{ p.image }}" alt="{{ p.title }}" class="w-20 h-12 object-cover rounded" />
+                      {% endif %}
+                      <div>
+                        <a class="font-semibold" href="/practices/{{ p.slug }}">{{ p.title }}</a>
+                        {% if p.durationMinutes %}<div class="text-sm text-gray-500">{{ p.durationMinutes }}m</div>{% endif %}
+                      </div>
+                    </li>
+                  {% endfor %}
+                </ul>
+                {% if list.length > 3 %}
+                  <p class="mt-4"><a class="text-sm font-medium text-{{ item.color }}-600" href="/practices/{{ item.name }}">View all {{ list.length }} practices</a></p>
+                {% endif %}
+              </div>
+            {% else %}
+              <p class="mt-6 text-sm text-gray-500">No practices listed yet.</p>
+            {% endif %}
+
           </div>
         </div>
         {% if item.stats %}

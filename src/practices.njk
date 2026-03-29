@@ -1,0 +1,25 @@
+---
+layout: layout.njk
+title: Practices
+permalink: /practices/
+---
+
+<div class="py-12">
+  <div class="container mx-auto px-4">
+    <h1 class="text-4xl font-extrabold mb-6">Practices</h1>
+
+    <nav class="mb-6">
+      <ul class="flex gap-4">
+        {% for m in mainThree %}
+          <li><a href="/practices/{{ m.name }}/" class="text-{{ m.color }}-600 font-medium">{{ m.short }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+
+    <section class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      {% for p in practices %}
+        {% include "practice-card.njk" %}
+      {% endfor %}
+    </section>
+  </div>
+</div>
