@@ -210,9 +210,61 @@ function collectVerses(bibleObj, specs) {
   return verses;
 }
 
+/**
+ * Collect interlinear word arrays for the given passage specs.
+ * interlinearObj shape: { Book: { "ch": { "vs": [{orig,translit,gloss,strongs,morph}] } } }
+ * Returns: [{ book, chapter, verse, words: [{orig,translit,gloss,strongs,morph}] }]
+ */
+function collectInterlinearVerses(interlinearObj, specs) {
+  if (!specs) return [];
+  const list = Array.isArray(specs) ? specs : [specs];
+  const verses = [];
+  const seen = new Set();
+  for (const spec of list) {
+    if (!spec || !spec.book) continue;
+    const bookKey = findBookKey(spec.book, interlinearObj);
+    if (!bookKey) continue;
+    const bookObj = interlinearObj[bookKey];
+    if (!bookObj) continue;
+    const sc = spec.startChapter || 1;
+    const sv = spec.startVerse || 1;
+    const ec = spec.endChapter || sc;
+    for (let ch = sc; ch <= ec; ch++) {
+      const chStr = "" + ch;
+      const chapterObj = bookObj[chStr];
+      if (!chapterObj) continue;
+      let to;
+      if (ch === ec) {
+        if (spec.endVerse) to = spec.endVerse;
+        else {
+          const keys = Object.keys(chapterObj)
+            .map((k) => parseInt(k, 10))
+            .filter((n) => !isNaN(n));
+          to = keys.length ? Math.max(...keys) : 0;
+        }
+      } else {
+        const keys = Object.keys(chapterObj)
+          .map((k) => parseInt(k, 10))
+          .filter((n) => !isNaN(n));
+        to = keys.length ? Math.max(...keys) : 0;
+      }
+      const from = ch === sc ? sv : 1;
+      for (let v = from; v <= to; v++) {
+        const id = `${bookKey}:${ch}:${v}`;
+        if (seen.has(id)) continue;
+        seen.add(id);
+        const words = (chapterObj && chapterObj["" + v]) || [];
+        verses.push({ book: bookKey, chapter: ch, verse: v, words });
+      }
+    }
+  }
+  return verses;
+}
+
 module.exports = {
   normalizeBookName,
   parsePassage,
   collectVerses,
+  collectInterlinearVerses,
   findBookKey,
 };

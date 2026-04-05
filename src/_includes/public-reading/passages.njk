@@ -86,6 +86,44 @@
           {% endif %}
         </div>
       </div>
+
+      <div class="version-group mt-4">
+        <h3 class="sr-only">Interlinear original languages</h3>
+        <div class="version interlinear hidden">
+          {% if sectionData.versions.interlinear and sectionData.versions.interlinear | length %}
+            {% set prevBook = "" %}
+            {% set chunkIndex = 0 %}
+            {% set sectionChunks = sectionData.chunks | default([]) %}
+            {% for v in sectionData.versions.interlinear %}
+              {% if v.book and v.book != prevBook %}
+                {% set headingText = sectionChunks[chunkIndex] or v.book %}
+                <h3 class="text-lg font-semibold mt-6">{{ headingText }}</h3>
+                {% set prevBook = v.book %}
+                {% set chunkIndex = chunkIndex + 1 %}
+              {% endif %}
+              <div class="interlinear-verse mb-4" data-ch="{{ v.chapter }}" data-vs="{{ v.verse }}">
+                <span class="verse-num font-bold text-sm mr-2">{{ v.chapter }}:{{ v.verse }}</span>
+                <span class="interlinear-words inline-flex flex-wrap gap-x-3 gap-y-2" {% if sectionKey == "torah" or sectionKey == "prophets" %}dir="rtl"{% endif %}>
+                  {% if v.words and v.words | length %}
+                    {% for w in v.words %}
+                      <span class="interlinear-word inline-flex flex-col items-center text-center">
+                        <span class="orig text-[2rem] leading-snug" lang="{% if sectionKey == 'torah' or sectionKey == 'prophets' %}hbo{% else %}el{% endif %}">{{ w.orig }}</span>
+                        {% if w.translit %}<span class="translit text-xs text-gray-500 italic leading-tight">{{ w.translit }}</span>{% endif %}
+                        <span class="gloss text-xs font-medium leading-tight">{{ w.gloss }}</span>
+                        {% if w.strongs %}<button class="strongs text-xs text-blue-600 leading-tight hover:underline cursor-pointer bg-transparent border-0 p-0" onclick="openStrongsModal('{{ w.strongs }}')">{{ w.strongs }}</button>{% endif %}
+                      </span>
+                    {% endfor %}
+                  {% else %}
+                    <span class="text-sm text-gray-500 italic">Words not available for {{ v.chapter }}:{{ v.verse }}</span>
+                  {% endif %}
+                </span>
+              </div>
+            {% endfor %}
+          {% else %}
+            <div class="text-sm text-gray-600">Interlinear not available for {{ slug }} ({{ sectionKey }}). Run <code>fetch-stepbible-data.js</code> and <code>parse-stepbible.js</code> then rebuild.</div>
+          {% endif %}
+        </div>
+      </div>
     </div>
   {% endif %}
 {% endmacro %}
@@ -95,6 +133,7 @@
   <div class="bible-version-switcher mb-4" role="tablist" aria-label="Bible version switcher">
     <button type="button" class="px-3 py-1 rounded bg-gray-900 text-white mr-2" data-version="leb" aria-pressed="true">LEB</button>
     <button type="button" class="px-3 py-1 rounded bg-white text-gray-900 border mr-2" data-version="nirv" aria-pressed="false">NIRV</button>
+    <button type="button" class="px-3 py-1 rounded bg-white text-gray-900 border mr-2" data-version="interlinear" aria-pressed="false">INTERLINEAR</button>
   </div>
 
   {% if pr %}
