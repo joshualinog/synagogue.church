@@ -29,6 +29,93 @@ body {
 	font-weight: 900;
 }
 
+/* Strong's number modal */
+#strongs-modal {
+	border: none;
+	border-radius: 0.5rem;
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+	padding: 0;
+	max-width: 28rem;
+	width: calc(100% - 2rem);
+	font-family: var(--font-nunito-sans);
+}
+#strongs-modal::backdrop {
+	background: rgba(0, 0, 0, 0.45);
+}
+.strongs-modal-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0.75rem 1.25rem;
+	border-bottom: 1px solid #e5e7eb;
+}
+#strongs-modal-num {
+	font-weight: 700;
+	color: #1d4ed8;
+	font-size: 1.1rem;
+}
+#strongs-modal-close {
+	background: none;
+	border: none;
+	font-size: 1.5rem;
+	line-height: 1;
+	cursor: pointer;
+	color: #6b7280;
+	padding: 0 0.25rem;
+}
+#strongs-modal-close:hover {
+	color: #111827;
+}
+#strongs-modal-body {
+	padding: 1rem 1.25rem;
+	max-height: 24rem;
+	overflow-y: auto;
+}
+.strongs-row {
+	margin-bottom: 0.5rem;
+	font-size: 0.875rem;
+	line-height: 1.5;
+}
+.strongs-lemma {
+	font-size: 1.25rem;
+	margin-bottom: 0.75rem;
+}
+.strongs-lemma em {
+	font-size: 0.875rem;
+	color: #6b7280;
+}
+.strongs-label {
+	font-weight: 600;
+}
+.strongs-kjv {
+	color: #6b7280;
+	font-size: 0.8rem;
+}
+.strongs-loading, .strongs-empty {
+	color: #9ca3af;
+	font-style: italic;
+	font-size: 0.875rem;
+}
+.strongs-error {
+	color: #dc2626;
+	font-size: 0.875rem;
+}
+
+.strongs-divider {
+	border: none;
+	border-top: 1px solid #e5e7eb;
+	margin: 0.75rem 0;
+}
+
+.strongs-part-label {
+	font-size: 0.75rem;
+	font-weight: 600;
+	color: #6b7280;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	margin-bottom: 0.25rem;
+}
+
 /* mainthree */
 
 .Pray{
