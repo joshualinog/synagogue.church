@@ -110,7 +110,8 @@
                         <span class="orig text-[2rem] leading-snug" lang="{% if sectionKey == 'torah' or sectionKey == 'prophets' %}hbo{% else %}el{% endif %}">{{ w.orig }}</span>
                         {% if w.translit %}<span class="translit text-xs text-gray-500 italic leading-tight">{{ w.translit }}</span>{% endif %}
                         <span class="gloss text-xs font-medium leading-tight">{{ w.gloss }}</span>
-                        {% if w.strongs %}<button class="strongs text-xs text-blue-600 leading-tight hover:underline cursor-pointer bg-transparent border-0 p-0" onclick="openStrongsModal('{{ w.strongs }}')">{{ w.strongs }}</button>{% endif %}
+                        {% if w.strongs %}<button class="strongs text-xs text-blue-600 leading-tight hover:underline cursor-pointer bg-transparent border-0 p-0" onclick="openStrongsModal('{{ w.strongs | escape }}', '{{ w.morph | escape }}')">{{ w.strongs }}</button>{% endif %}
+                        {% if w.morph %}<button class="morph text-xs text-gray-400 leading-tight font-mono hover:text-emerald-600 cursor-pointer bg-transparent border-0 p-0" onclick="openMorphModal('{{ w.morph | escape }}', {% if sectionKey == 'torah' or sectionKey == 'prophets' %}true{% else %}false{% endif %})">{{ w.morph }}</button>{% endif %}
                       </span>
                     {% endfor %}
                   {% else %}
