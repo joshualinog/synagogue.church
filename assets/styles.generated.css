@@ -4046,6 +4046,9 @@ video {
 .align-middle{
   vertical-align: middle;
 }
+.font-mono{
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
 .font-sans{
   font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
@@ -4148,6 +4151,10 @@ video {
 }
 .italic{
   font-style: italic;
+}
+.ordinal{
+  --tw-ordinal: ordinal;
+  font-variant-numeric: var(--tw-ordinal) var(--tw-slashed-zero) var(--tw-numeric-figure) var(--tw-numeric-spacing) var(--tw-numeric-fraction);
 }
 .\!leading-snug{
   line-height: 1.375 !important;
@@ -5659,6 +5666,98 @@ body {
 	margin-bottom: 0.25rem;
 }
 
+.strongs-morph-tag {
+	color: #059669;
+	font-size: 0.8rem;
+	font-weight: 600;
+	text-transform: none;
+	letter-spacing: 0;
+}
+
+.strongs-morph-row {
+	margin-bottom: 0.5rem;
+	font-size: 0.875rem;
+}
+
+/* Morph code displayed in the interlinear word cell */
+.morph {
+	font-family: ui-monospace, monospace;
+	font-size: 0.65rem;
+	color: #d1d5db;
+	line-height: 1.2;
+}
+
+/* Morphology breakdown modal */
+#morph-modal {
+	border: none;
+	border-radius: 0.5rem;
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+	padding: 0;
+	max-width: 26rem;
+	width: calc(100% - 2rem);
+	font-family: var(--font-nunito-sans);
+}
+#morph-modal::backdrop {
+	background: rgba(0, 0, 0, 0.45);
+}
+.morph-modal-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0.75rem 1.25rem;
+	border-bottom: 1px solid #e5e7eb;
+}
+.morph-modal-header span {
+	font-weight: 700;
+	font-family: ui-monospace, monospace;
+	color: #059669;
+	font-size: 0.95rem;
+}
+#morph-modal-close {
+	background: none;
+	border: none;
+	font-size: 1.5rem;
+	line-height: 1;
+	cursor: pointer;
+	color: #6b7280;
+	padding: 0 0.25rem;
+}
+#morph-modal-close:hover { color: #111827; }
+#morph-modal-body {
+	padding: 1rem 1.25rem;
+	max-height: 24rem;
+	overflow-y: auto;
+}
+.morph-seg-label {
+	font-size: 0.75rem;
+	font-weight: 600;
+	color: #6b7280;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	margin-bottom: 0.5rem;
+}
+.morph-table {
+	width: 100%;
+	border-collapse: collapse;
+	font-size: 0.875rem;
+}
+.morph-table tr + tr td {
+	border-top: 1px solid #f3f4f6;
+}
+.morph-table-label {
+	color: #6b7280;
+	font-weight: 600;
+	padding: 0.3rem 0.5rem 0.3rem 0;
+	white-space: nowrap;
+	vertical-align: top;
+	width: 40%;
+}
+.morph-table-value {
+	color: #111827;
+	padding: 0.3rem 0;
+	vertical-align: top;
+}
+
 /* mainthree */
 
 .Pray{
@@ -5821,6 +5920,10 @@ div.verse{
 .hover\:\!text-gray-900:hover{
   --tw-text-opacity: 1 !important;
   color: rgb(17 24 39 / var(--tw-text-opacity, 1)) !important;
+}
+.hover\:text-emerald-600:hover{
+  --tw-text-opacity: 1;
+  color: rgb(5 150 105 / var(--tw-text-opacity, 1));
 }
 .hover\:text-white:hover{
   --tw-text-opacity: 1;
