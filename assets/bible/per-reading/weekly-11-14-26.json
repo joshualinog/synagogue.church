@@ -1366,14 +1366,934 @@
     }
   },
   "gospel": {
-    "passage": "?",
+    "passage": "Luke 22:24-30",
     "chunks": [
-      "?"
+      "Luke 22:24-30"
     ],
     "versions": {
-      "leb": [],
-      "nirv": [],
-      "interlinear": []
+      "leb": [
+        {
+          "book": "Luke",
+          "chapter": 22,
+          "verse": 24,
+          "text": "A Dispute About Who Is Greatest\nAnd a dispute also occurred among them as to which of them was recognized as being greatest.",
+          "isHeading": false
+        },
+        {
+          "book": "Luke",
+          "chapter": 22,
+          "verse": 25,
+          "text": "So he said to them, “The kings of the Gentiles lord it over them, and those who have authority over them are called benefactors.",
+          "isHeading": false
+        },
+        {
+          "book": "Luke",
+          "chapter": 22,
+          "verse": 26,
+          "text": "But you are not to be like this! But the one who is greatest among you must become like the youngest, and the one who leads like the one who serves.",
+          "isHeading": false
+        },
+        {
+          "book": "Luke",
+          "chapter": 22,
+          "verse": 27,
+          "text": "For who is greater, the one who reclines at the table or the one who serves? Is it not the one who reclines at the table? But I am in your midst as the one who serves.",
+          "isHeading": false
+        },
+        {
+          "book": "Luke",
+          "chapter": 22,
+          "verse": 28,
+          "text": "“And you are the ones who have remained with me in my trials,",
+          "isHeading": false
+        },
+        {
+          "book": "Luke",
+          "chapter": 22,
+          "verse": 29,
+          "text": "and I confer on you a kingdom, just as my Father conferred on me,",
+          "isHeading": false
+        },
+        {
+          "book": "Luke",
+          "chapter": 22,
+          "verse": 30,
+          "text": "that you may eat and drink at my table in my kingdom, and you will sit on thrones judging the twelve tribes of Israel.",
+          "isHeading": false
+        }
+      ],
+      "nirv": [
+        {
+          "book": "Luke",
+          "chapter": 22,
+          "verse": 24,
+          "text": "They also started to argue. They disagreed about which of them was thought to be the most important person.",
+          "isHeading": false
+        },
+        {
+          "book": "Luke",
+          "chapter": 22,
+          "verse": 25,
+          "text": "Jesus said to them, “The kings of the nations hold power over their people. And those who order them around call themselves Protectors.",
+          "isHeading": false
+        },
+        {
+          "book": "Luke",
+          "chapter": 22,
+          "verse": 26,
+          "text": "But you must not be like that. Instead, the most important among you should be like the youngest. The one who rules should be like the one who serves.",
+          "isHeading": false
+        },
+        {
+          "book": "Luke",
+          "chapter": 22,
+          "verse": 27,
+          "text": "“Who is more important? Is it the one at the table, or the one who serves? Isn’t it the one who is at the table? But I am among you as one who serves.",
+          "isHeading": false
+        },
+        {
+          "book": "Luke",
+          "chapter": 22,
+          "verse": 28,
+          "text": "You have stood by me during my troubles.",
+          "isHeading": false
+        },
+        {
+          "book": "Luke",
+          "chapter": 22,
+          "verse": 29,
+          "text": "And I give you a kingdom, just as my Father gave me a kingdom.",
+          "isHeading": false
+        },
+        {
+          "book": "Luke",
+          "chapter": 22,
+          "verse": 30,
+          "text": "Then you will eat and drink at my table in my kingdom. And you will sit on thrones, judging the 12 tribes of Israel.",
+          "isHeading": false
+        }
+      ],
+      "interlinear": [
+        {
+          "book": "Luke",
+          "chapter": 22,
+          "verse": 24,
+          "words": [
+            {
+              "orig": "Ἐγένετο",
+              "translit": "",
+              "gloss": "There was",
+              "strongs": "G1096",
+              "morph": "V-2ADI-3S"
+            },
+            {
+              "orig": "δὲ",
+              "translit": "",
+              "gloss": "then",
+              "strongs": "G1161",
+              "morph": "CONJ"
+            },
+            {
+              "orig": "καὶ",
+              "translit": "",
+              "gloss": "also",
+              "strongs": "G2532",
+              "morph": "CONJ"
+            },
+            {
+              "orig": "φιλονεικία",
+              "translit": "",
+              "gloss": "a dispute",
+              "strongs": "G5379",
+              "morph": "N-NSF"
+            },
+            {
+              "orig": "ἐν",
+              "translit": "",
+              "gloss": "among",
+              "strongs": "G1722",
+              "morph": "PREP"
+            },
+            {
+              "orig": "αὐτοῖς,",
+              "translit": "",
+              "gloss": "them,",
+              "strongs": "G0846",
+              "morph": "P-DPM"
+            },
+            {
+              "orig": "τὸ",
+              "translit": "",
+              "gloss": "<the>",
+              "strongs": "G3588",
+              "morph": "T-NSN"
+            },
+            {
+              "orig": "τίς",
+              "translit": "",
+              "gloss": "which",
+              "strongs": "G5101",
+              "morph": "I-NSM"
+            },
+            {
+              "orig": "αὐτῶν",
+              "translit": "",
+              "gloss": "of them",
+              "strongs": "G0846",
+              "morph": "P-GPM"
+            },
+            {
+              "orig": "δοκεῖ",
+              "translit": "",
+              "gloss": "is thought",
+              "strongs": "G1380",
+              "morph": "V-PAI-3S"
+            },
+            {
+              "orig": "εἶναι",
+              "translit": "",
+              "gloss": "to be",
+              "strongs": "G1511",
+              "morph": "V-PAN"
+            },
+            {
+              "orig": "μείζων.",
+              "translit": "",
+              "gloss": "[the] greatest.",
+              "strongs": "G3173",
+              "morph": "A-NSM-C"
+            }
+          ]
+        },
+        {
+          "book": "Luke",
+          "chapter": 22,
+          "verse": 25,
+          "words": [
+            {
+              "orig": "ὁ",
+              "translit": "",
+              "gloss": "<the>",
+              "strongs": "G3588",
+              "morph": "T-NSM"
+            },
+            {
+              "orig": "δὲ",
+              "translit": "",
+              "gloss": "And",
+              "strongs": "G1161",
+              "morph": "CONJ"
+            },
+            {
+              "orig": "εἶπεν",
+              "translit": "",
+              "gloss": "He said",
+              "strongs": "G2036",
+              "morph": "V-2AAI-3S"
+            },
+            {
+              "orig": "αὐτοῖς·",
+              "translit": "",
+              "gloss": "to them;",
+              "strongs": "G0846",
+              "morph": "P-DPM"
+            },
+            {
+              "orig": "οἱ",
+              "translit": "",
+              "gloss": "The",
+              "strongs": "G3588",
+              "morph": "T-NPM"
+            },
+            {
+              "orig": "βασιλεῖς",
+              "translit": "",
+              "gloss": "kings",
+              "strongs": "G0935",
+              "morph": "N-NPM"
+            },
+            {
+              "orig": "τῶν",
+              "translit": "",
+              "gloss": "of the",
+              "strongs": "G3588",
+              "morph": "T-GPN"
+            },
+            {
+              "orig": "ἐθνῶν",
+              "translit": "",
+              "gloss": "Gentiles",
+              "strongs": "H1471G|G1484«G1484",
+              "morph": "N-GPN"
+            },
+            {
+              "orig": "κυριεύουσιν",
+              "translit": "",
+              "gloss": "rule over",
+              "strongs": "G2961",
+              "morph": "V-PAI-3P"
+            },
+            {
+              "orig": "αὐτῶν,",
+              "translit": "",
+              "gloss": "them,",
+              "strongs": "G0846",
+              "morph": "P-GPN"
+            },
+            {
+              "orig": "καὶ",
+              "translit": "",
+              "gloss": "and",
+              "strongs": "G2532",
+              "morph": "CONJ"
+            },
+            {
+              "orig": "οἱ",
+              "translit": "",
+              "gloss": "those",
+              "strongs": "G3588",
+              "morph": "T-NPM"
+            },
+            {
+              "orig": "ἐξουσιάζοντες",
+              "translit": "",
+              "gloss": "exercising authority over",
+              "strongs": "G1850",
+              "morph": "V-PAP-NPM"
+            },
+            {
+              "orig": "αὐτῶν",
+              "translit": "",
+              "gloss": "them",
+              "strongs": "G0846",
+              "morph": "P-GPN"
+            },
+            {
+              "orig": "εὐεργέται",
+              "translit": "",
+              "gloss": "benefactors",
+              "strongs": "G2110",
+              "morph": "N-NPM"
+            },
+            {
+              "orig": "καλοῦνται.",
+              "translit": "",
+              "gloss": "are called.",
+              "strongs": "G2564G",
+              "morph": "V-PPI-3P"
+            }
+          ]
+        },
+        {
+          "book": "Luke",
+          "chapter": 22,
+          "verse": 26,
+          "words": [
+            {
+              "orig": "ὑμεῖς",
+              "translit": "",
+              "gloss": "You",
+              "strongs": "G4771",
+              "morph": "P-2NP"
+            },
+            {
+              "orig": "δὲ",
+              "translit": "",
+              "gloss": "however",
+              "strongs": "G1161",
+              "morph": "CONJ"
+            },
+            {
+              "orig": "οὐχ",
+              "translit": "",
+              "gloss": "not",
+              "strongs": "G3756",
+              "morph": "PRT-N"
+            },
+            {
+              "orig": "οὕτως,",
+              "translit": "",
+              "gloss": "thus [shall be],",
+              "strongs": "G3779",
+              "morph": "ADV"
+            },
+            {
+              "orig": "ἀλλ᾽",
+              "translit": "",
+              "gloss": "Instead",
+              "strongs": "G0235",
+              "morph": "CONJ"
+            },
+            {
+              "orig": "ὁ",
+              "translit": "",
+              "gloss": "the",
+              "strongs": "G3588",
+              "morph": "T-NSM"
+            },
+            {
+              "orig": "μείζων",
+              "translit": "",
+              "gloss": "greater",
+              "strongs": "G3173",
+              "morph": "A-NSM-C"
+            },
+            {
+              "orig": "ἐν",
+              "translit": "",
+              "gloss": "among",
+              "strongs": "G1722",
+              "morph": "PREP"
+            },
+            {
+              "orig": "ὑμῖν",
+              "translit": "",
+              "gloss": "you",
+              "strongs": "G4771",
+              "morph": "P-2DP"
+            },
+            {
+              "orig": "γινέσθω",
+              "translit": "",
+              "gloss": "he should become",
+              "strongs": "G1096",
+              "morph": "V-PNM-3S"
+            },
+            {
+              "orig": "ὡς",
+              "translit": "",
+              "gloss": "as",
+              "strongs": "G5613",
+              "morph": "PRT"
+            },
+            {
+              "orig": "ὁ",
+              "translit": "",
+              "gloss": "the",
+              "strongs": "G3588",
+              "morph": "T-NSM"
+            },
+            {
+              "orig": "νεώτερος,",
+              "translit": "",
+              "gloss": "younger,",
+              "strongs": "G3501",
+              "morph": "A-NSM-C"
+            },
+            {
+              "orig": "καὶ",
+              "translit": "",
+              "gloss": "and",
+              "strongs": "G2532",
+              "morph": "CONJ"
+            },
+            {
+              "orig": "ὁ",
+              "translit": "",
+              "gloss": "the [one]",
+              "strongs": "G3588",
+              "morph": "T-NSM"
+            },
+            {
+              "orig": "ἡγούμενος",
+              "translit": "",
+              "gloss": "leading",
+              "strongs": "G2233",
+              "morph": "V-PNP-NSM"
+            },
+            {
+              "orig": "ὡς",
+              "translit": "",
+              "gloss": "as",
+              "strongs": "G5613",
+              "morph": "PRT"
+            },
+            {
+              "orig": "ὁ",
+              "translit": "",
+              "gloss": "the [one]",
+              "strongs": "G3588",
+              "morph": "T-NSM"
+            },
+            {
+              "orig": "διακονῶν.",
+              "translit": "",
+              "gloss": "serving.",
+              "strongs": "G1247",
+              "morph": "V-PAP-NSM"
+            }
+          ]
+        },
+        {
+          "book": "Luke",
+          "chapter": 22,
+          "verse": 27,
+          "words": [
+            {
+              "orig": "τίς",
+              "translit": "",
+              "gloss": "Who",
+              "strongs": "G5101",
+              "morph": "I-NSM"
+            },
+            {
+              "orig": "γὰρ",
+              "translit": "",
+              "gloss": "for",
+              "strongs": "G1063",
+              "morph": "CONJ"
+            },
+            {
+              "orig": "μείζων,",
+              "translit": "",
+              "gloss": "[is] greater,",
+              "strongs": "G3173",
+              "morph": "A-NSM-C"
+            },
+            {
+              "orig": "ὁ",
+              "translit": "",
+              "gloss": "the [one]",
+              "strongs": "G3588",
+              "morph": "T-NSM"
+            },
+            {
+              "orig": "ἀνακείμενος",
+              "translit": "",
+              "gloss": "reclining",
+              "strongs": "G0345",
+              "morph": "V-PNP-NSM"
+            },
+            {
+              "orig": "ἢ",
+              "translit": "",
+              "gloss": "or",
+              "strongs": "G2228",
+              "morph": "CONJ"
+            },
+            {
+              "orig": "ὁ",
+              "translit": "",
+              "gloss": "the [one]",
+              "strongs": "G3588",
+              "morph": "T-NSM"
+            },
+            {
+              "orig": "διακονῶν;",
+              "translit": "",
+              "gloss": "serving?",
+              "strongs": "G1247",
+              "morph": "V-PAP-NSM"
+            },
+            {
+              "orig": "οὐχὶ",
+              "translit": "",
+              "gloss": "Surely",
+              "strongs": "G3780",
+              "morph": "PRT-N"
+            },
+            {
+              "orig": "ὁ",
+              "translit": "",
+              "gloss": "the [one]",
+              "strongs": "G3588",
+              "morph": "T-NSM"
+            },
+            {
+              "orig": "ἀνακείμενος;",
+              "translit": "",
+              "gloss": "reclining?",
+              "strongs": "G0345",
+              "morph": "V-PNP-NSM"
+            },
+            {
+              "orig": "ἐγὼ",
+              "translit": "",
+              "gloss": "I myself",
+              "strongs": "G1473",
+              "morph": "P-1NS"
+            },
+            {
+              "orig": "δὲ",
+              "translit": "",
+              "gloss": "however",
+              "strongs": "G1161",
+              "morph": "CONJ"
+            },
+            {
+              "orig": "ἐν",
+              "translit": "",
+              "gloss": "in",
+              "strongs": "G1722",
+              "morph": "PREP"
+            },
+            {
+              "orig": "μέσῳ",
+              "translit": "",
+              "gloss": "[the] midst",
+              "strongs": "G3319",
+              "morph": "A-DSN"
+            },
+            {
+              "orig": "ὑμῶν",
+              "translit": "",
+              "gloss": "of you",
+              "strongs": "G4771",
+              "morph": "P-2GP"
+            },
+            {
+              "orig": "εἰμι",
+              "translit": "",
+              "gloss": "am",
+              "strongs": "G1510",
+              "morph": "V-PAI-1S"
+            },
+            {
+              "orig": "ὡς",
+              "translit": "",
+              "gloss": "as",
+              "strongs": "G5613",
+              "morph": "PRT"
+            },
+            {
+              "orig": "ὁ",
+              "translit": "",
+              "gloss": "the [One]",
+              "strongs": "G3588",
+              "morph": "T-NSM"
+            },
+            {
+              "orig": "διακονῶν.",
+              "translit": "",
+              "gloss": "serving.",
+              "strongs": "G1247",
+              "morph": "V-PAP-NSM"
+            }
+          ]
+        },
+        {
+          "book": "Luke",
+          "chapter": 22,
+          "verse": 28,
+          "words": [
+            {
+              "orig": "ὑμεῖς",
+              "translit": "",
+              "gloss": "You yourselves",
+              "strongs": "G4771",
+              "morph": "P-2NP"
+            },
+            {
+              "orig": "δέ",
+              "translit": "",
+              "gloss": "now",
+              "strongs": "G1161",
+              "morph": "CONJ"
+            },
+            {
+              "orig": "ἐστε",
+              "translit": "",
+              "gloss": "are",
+              "strongs": "G1510",
+              "morph": "V-PAI-2P"
+            },
+            {
+              "orig": "οἱ",
+              "translit": "",
+              "gloss": "those",
+              "strongs": "G3588",
+              "morph": "T-NPM"
+            },
+            {
+              "orig": "διαμεμενηκότες",
+              "translit": "",
+              "gloss": "having remained",
+              "strongs": "G1265",
+              "morph": "V-RAP-NPM"
+            },
+            {
+              "orig": "μετ᾽",
+              "translit": "",
+              "gloss": "with",
+              "strongs": "G3326",
+              "morph": "PREP"
+            },
+            {
+              "orig": "ἐμοῦ",
+              "translit": "",
+              "gloss": "Me",
+              "strongs": "G1473",
+              "morph": "S-1SGSN"
+            },
+            {
+              "orig": "ἐν",
+              "translit": "",
+              "gloss": "in",
+              "strongs": "G1722",
+              "morph": "PREP"
+            },
+            {
+              "orig": "τοῖς",
+              "translit": "",
+              "gloss": "the",
+              "strongs": "G3588",
+              "morph": "T-DPM"
+            },
+            {
+              "orig": "πειρασμοῖς",
+              "translit": "",
+              "gloss": "trials",
+              "strongs": "G3986H",
+              "morph": "N-DPM"
+            },
+            {
+              "orig": "μου.",
+              "translit": "",
+              "gloss": "of Mine.",
+              "strongs": "G3165",
+              "morph": "P-1GS"
+            }
+          ]
+        },
+        {
+          "book": "Luke",
+          "chapter": 22,
+          "verse": 29,
+          "words": [
+            {
+              "orig": "κἀγὼ",
+              "translit": "",
+              "gloss": "And I myself",
+              "strongs": "G1473",
+              "morph": "P-1NS + G2532=CONJ"
+            },
+            {
+              "orig": "διατίθεμαι",
+              "translit": "",
+              "gloss": "appoint",
+              "strongs": "G1303",
+              "morph": "V-PMI-1S"
+            },
+            {
+              "orig": "ὑμῖν",
+              "translit": "",
+              "gloss": "to you",
+              "strongs": "G4771",
+              "morph": "P-2DP"
+            },
+            {
+              "orig": "καθὼς",
+              "translit": "",
+              "gloss": "even as",
+              "strongs": "G2531",
+              "morph": "CONJ"
+            },
+            {
+              "orig": "διέθετό",
+              "translit": "",
+              "gloss": "appointed",
+              "strongs": "G1303",
+              "morph": "V-2AMI-3S"
+            },
+            {
+              "orig": "μοι",
+              "translit": "",
+              "gloss": "to Me",
+              "strongs": "G3165",
+              "morph": "P-1DS"
+            },
+            {
+              "orig": "ὁ",
+              "translit": "",
+              "gloss": "the",
+              "strongs": "G3588",
+              "morph": "T-NSM"
+            },
+            {
+              "orig": "πατήρ",
+              "translit": "",
+              "gloss": "Father",
+              "strongs": "G3962",
+              "morph": "N-NSM-T"
+            },
+            {
+              "orig": "μου",
+              "translit": "",
+              "gloss": "of Mine",
+              "strongs": "G3165",
+              "morph": "P-1GS"
+            },
+            {
+              "orig": "βασιλείαν,",
+              "translit": "",
+              "gloss": "a kingdom,",
+              "strongs": "G0932",
+              "morph": "N-ASF"
+            }
+          ]
+        },
+        {
+          "book": "Luke",
+          "chapter": 22,
+          "verse": 30,
+          "words": [
+            {
+              "orig": "ἵνα",
+              "translit": "",
+              "gloss": "so that",
+              "strongs": "G2443",
+              "morph": "CONJ"
+            },
+            {
+              "orig": "ἔσθητε",
+              "translit": "",
+              "gloss": "you may eat",
+              "strongs": "G2068",
+              "morph": "V-PAS-2P"
+            },
+            {
+              "orig": "καὶ",
+              "translit": "",
+              "gloss": "and",
+              "strongs": "G2532",
+              "morph": "CONJ"
+            },
+            {
+              "orig": "πίνητε",
+              "translit": "",
+              "gloss": "may drink",
+              "strongs": "G4095",
+              "morph": "V-PAS-2P"
+            },
+            {
+              "orig": "ἐπὶ",
+              "translit": "",
+              "gloss": "at",
+              "strongs": "G1909",
+              "morph": "PREP"
+            },
+            {
+              "orig": "τῆς",
+              "translit": "",
+              "gloss": "the",
+              "strongs": "G3588",
+              "morph": "T-GSF"
+            },
+            {
+              "orig": "τραπέζης",
+              "translit": "",
+              "gloss": "table",
+              "strongs": "G5132",
+              "morph": "N-GSF"
+            },
+            {
+              "orig": "μου",
+              "translit": "",
+              "gloss": "of Mine",
+              "strongs": "G3165",
+              "morph": "P-1GS"
+            },
+            {
+              "orig": "ἐν",
+              "translit": "",
+              "gloss": "in",
+              "strongs": "G1722",
+              "morph": "PREP"
+            },
+            {
+              "orig": "τῇ",
+              "translit": "",
+              "gloss": "the",
+              "strongs": "G3588",
+              "morph": "T-DSF"
+            },
+            {
+              "orig": "βασιλείᾳ",
+              "translit": "",
+              "gloss": "kingdom",
+              "strongs": "G0932",
+              "morph": "N-DSF"
+            },
+            {
+              "orig": "μου",
+              "translit": "",
+              "gloss": "of Mine",
+              "strongs": "G3165",
+              "morph": "P-1GS"
+            },
+            {
+              "orig": "καὶ",
+              "translit": "",
+              "gloss": "and",
+              "strongs": "G2532",
+              "morph": "CONJ"
+            },
+            {
+              "orig": "καθήσεσθε",
+              "translit": "",
+              "gloss": "will sit",
+              "strongs": "G2521",
+              "morph": "V-FDI-2P"
+            },
+            {
+              "orig": "ἐπὶ",
+              "translit": "",
+              "gloss": "on",
+              "strongs": "G1909",
+              "morph": "PREP"
+            },
+            {
+              "orig": "θρόνων",
+              "translit": "",
+              "gloss": "thrones",
+              "strongs": "G2362",
+              "morph": "N-GPM"
+            },
+            {
+              "orig": "τὰς",
+              "translit": "",
+              "gloss": "the",
+              "strongs": "G3588",
+              "morph": "T-APF"
+            },
+            {
+              "orig": "δώδεκα",
+              "translit": "",
+              "gloss": "twelve",
+              "strongs": "G1427",
+              "morph": "A-NUI"
+            },
+            {
+              "orig": "φυλὰς",
+              "translit": "",
+              "gloss": "tribes",
+              "strongs": "G5443",
+              "morph": "N-APF"
+            },
+            {
+              "orig": "κρίνοντες",
+              "translit": "",
+              "gloss": "judging",
+              "strongs": "G2919",
+              "morph": "V-PAP-NPM"
+            },
+            {
+              "orig": "τοῦ",
+              "translit": "",
+              "gloss": "<the>",
+              "strongs": "G3588",
+              "morph": "T-GSM"
+            },
+            {
+              "orig": "Ἰσραήλ.¶",
+              "translit": "",
+              "gloss": "of Israel.",
+              "strongs": "H3478|G2474«G2474",
+              "morph": "N-GSM-L"
+            }
+          ]
+        }
+      ]
     }
   },
   "prophets": {
