@@ -2,6 +2,11 @@
 const fs = require("fs");
 const path = require("path");
 
+if (process.env.SKIP_BIBLE_BUILD === "1") {
+  console.log("SKIP_BIBLE_BUILD=1 — skipping Bible data build.");
+  process.exit(0);
+}
+
 const PUBLICREADING = path.resolve(
   __dirname,
   "../src/_data/publicreading.json"
