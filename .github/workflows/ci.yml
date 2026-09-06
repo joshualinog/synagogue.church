@@ -17,18 +17,37 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
+
       - name: Install dependencies
         run: npm ci
+
+      - name: Fetch reading schedule from Google Sheets
+        run: node scripts/fetch-google-sheet.js
+
+      - name: Rebuild per-reading Bible data (only if schedule changed)
+        run: |
+          if ! git diff --quiet src/_data/publicreading.json; then
+            echo "Reading schedule changed — rebuilding Bible data..."
+            npm run build-bible-data
+          else
+            echo "Reading schedule unchanged — skipping Bible data rebuild."
+          fi
+
+      - name: Copy per-reading data to assets
+        run: node scripts/copy-per-reading-to-assets.js
+
       - name: Build site
         env:
           ELEVENTY_ENV: production
           SKIP_FETCH: '1'
           SKIP_BIBLE_BUILD: '1'
         run: npm run build
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
