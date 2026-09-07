@@ -14,7 +14,7 @@
     {% set isFestival = false %}
     {% if reading.torahTitle %}
       {% set titleLower = reading.torahTitle | lower %}
-      {% if "pesach" in titleLower or "sukkot" in titleLower or "yom kippur" in titleLower %}
+      {% if "pesach" in titleLower or "sukkot" in titleLower or "yom kippur" in titleLower or "rosh hashana" in titleLower %}
         {% set isFestival = true %}
       {% endif %}
     {% endif %}

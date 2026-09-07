@@ -164,7 +164,7 @@ function collectVerses(bibleObj, specs) {
   const list = Array.isArray(specs) ? specs : [specs];
   const verses = [];
   const seen = new Set();
-  for (const spec of list) {
+  for (const [specIndex, spec] of list.entries()) {
     if (!spec || !spec.book) continue;
     const bookKey = findBookKey(spec.book, bibleObj);
     if (!bookKey) continue;
@@ -203,7 +203,7 @@ function collectVerses(bibleObj, specs) {
         // Preserve the exact contents stored in the bible JSON.
         const text = (rawText || "").toString();
         // Do not attempt any heading detection — keep text as-is and set isHeading:false
-        verses.push({ book: bookKey, chapter: ch, verse: v, text, isHeading: false });
+        verses.push({ book: bookKey, chapter: ch, verse: v, text, isHeading: false, chunkIndex: specIndex });
       }
     }
   }
@@ -220,7 +220,7 @@ function collectInterlinearVerses(interlinearObj, specs) {
   const list = Array.isArray(specs) ? specs : [specs];
   const verses = [];
   const seen = new Set();
-  for (const spec of list) {
+  for (const [specIndex, spec] of list.entries()) {
     if (!spec || !spec.book) continue;
     const bookKey = findBookKey(spec.book, interlinearObj);
     if (!bookKey) continue;
@@ -254,7 +254,7 @@ function collectInterlinearVerses(interlinearObj, specs) {
         if (seen.has(id)) continue;
         seen.add(id);
         const words = (chapterObj && chapterObj["" + v]) || [];
-        verses.push({ book: bookKey, chapter: ch, verse: v, words });
+        verses.push({ book: bookKey, chapter: ch, verse: v, words, chunkIndex: specIndex });
       }
     }
   }

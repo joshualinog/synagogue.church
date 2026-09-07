@@ -32,10 +32,17 @@
         <div class="version leb">
           {% if sectionData.versions.leb %}
             {% set prevBook = "" %}
+            {% set prevChunkIndex = -1 %}
             {% set chunkIndex = 0 %}
             {% set sectionChunks = sectionData.chunks | default([]) %}
             {% for v in sectionData.versions.leb %}
-              {% if v.book and v.book != prevBook %}
+              {% if v.chunkIndex is defined %}
+                {% if v.chunkIndex != prevChunkIndex %}
+                  {% set headingText = sectionChunks[v.chunkIndex] or v.book %}
+                  <h3 class="text-lg font-semibold mt-6">{{ headingText }}</h3>
+                  {% set prevChunkIndex = v.chunkIndex %}
+                {% endif %}
+              {% elif v.book and v.book != prevBook %}
                 {% set headingText = sectionChunks[chunkIndex] or v.book %}
                 <h3 class="text-lg font-semibold mt-6">{{ headingText }}</h3>
                 {% set prevBook = v.book %}
@@ -62,10 +69,17 @@
         <div class="version nirv server-nirv hidden">
           {% if sectionData.versions.nirv %}
             {% set prevBook = "" %}
+            {% set prevChunkIndex = -1 %}
             {% set chunkIndex = 0 %}
             {% set sectionChunks = sectionData.chunks | default([]) %}
             {% for v in sectionData.versions.nirv %}
-              {% if v.book and v.book != prevBook %}
+              {% if v.chunkIndex is defined %}
+                {% if v.chunkIndex != prevChunkIndex %}
+                  {% set headingText = sectionChunks[v.chunkIndex] or v.book %}
+                  <h3 class="text-lg font-semibold mt-6">{{ headingText }}</h3>
+                  {% set prevChunkIndex = v.chunkIndex %}
+                {% endif %}
+              {% elif v.book and v.book != prevBook %}
                 {% set headingText = sectionChunks[chunkIndex] or v.book %}
                 <h3 class="text-lg font-semibold mt-6">{{ headingText }}</h3>
                 {% set prevBook = v.book %}
@@ -92,10 +106,17 @@
         <div class="version interlinear hidden">
           {% if sectionData.versions.interlinear and sectionData.versions.interlinear | length %}
             {% set prevBook = "" %}
+            {% set prevChunkIndex = -1 %}
             {% set chunkIndex = 0 %}
             {% set sectionChunks = sectionData.chunks | default([]) %}
             {% for v in sectionData.versions.interlinear %}
-              {% if v.book and v.book != prevBook %}
+              {% if v.chunkIndex is defined %}
+                {% if v.chunkIndex != prevChunkIndex %}
+                  {% set headingText = sectionChunks[v.chunkIndex] or v.book %}
+                  <h3 class="text-lg font-semibold mt-6">{{ headingText }}</h3>
+                  {% set prevChunkIndex = v.chunkIndex %}
+                {% endif %}
+              {% elif v.book and v.book != prevBook %}
                 {% set headingText = sectionChunks[chunkIndex] or v.book %}
                 <h3 class="text-lg font-semibold mt-6">{{ headingText }}</h3>
                 {% set prevBook = v.book %}

@@ -76,7 +76,7 @@ publicreading.forEach((r) => {
     r.slug || (r.date ? "weekly-" + r.date.replace(/\//g, "-") : null);
   if (!slug) return;
 
-  const isFestival = /(Pesach|Sukkot|Yom Kippur)/i.test(r.torahTitle || "");
+  const isFestival = /(Pesach|Sukkot|Yom Kippur|Rosh Hashana)/i.test(r.torahTitle || "");
   const pr = {
     template: isFestival ? "festival" : "default",
     isFestival,
