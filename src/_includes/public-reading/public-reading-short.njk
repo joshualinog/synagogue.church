@@ -1,7 +1,42 @@
 <section class="p-8 public-reading-short" id="public-reading-short">
     <span class="pl-8 py-2 font-black lowercase text-4xl">public reading </span>
-    <a href="/public-reading/{{ nextReading.slug }}/" aria-label="Open this week's reading for {{ nextReading.date }}"><h2 class="text-2xl font-extralight pl-8 mb-8 mt-1">This Week's Reading <br><span class=" text-6xl font-extralight inline-block pt-2">{{ nextReading.date }}</span></h2></a>
+    <a href="/public-reading/{{ nextReading.slug }}/" data-week-link aria-label="Open this week's reading for {{ nextReading.date }}"><h2 class="text-2xl font-extralight pl-8 mb-8 mt-1">This Week's Reading <br><span data-week-date class=" text-6xl font-extralight inline-block pt-2">{{ nextReading.date }}</span></h2></a>
 
 {% include "public-reading/this-week-short.njk" %}
 {% include "public-reading/upcoming-readings-short.njk" %}
+
+{# Embedded schedule for client-side current-week detection — avoids needing a rebuild every week #}
+<script type="application/json" id="reading-schedule-data">{{ publicreading | dump }}</script>
+<script>
+(function(){
+  var el=document.getElementById('reading-schedule-data');
+  if(!el)return;
+  var readings=JSON.parse(el.textContent);
+  function nextSat(){
+    var d=new Date();d.setHours(0,0,0,0);
+    d.setDate(d.getDate()+(6-d.getDay()+7)%7);
+    return d;
+  }
+  function dateCmp(s){
+    var m=String(s||'').match(/^(\d{1,2})\/(\d{1,2})\/(\d{2,4})$/);
+    if(!m)return null;
+    var y=+m[3];if(y<100)y+=2000;
+    return y*10000+(+m[1])*100+(+m[2]);
+  }
+  var sat=nextSat();
+  var cmp=sat.getFullYear()*10000+(sat.getMonth()+1)*100+sat.getDate();
+  var r=readings.find(function(x){return dateCmp(x.date)===cmp;});
+  if(!r)return;
+  var sec=document.getElementById('public-reading-short');
+  if(!sec)return;
+  sec.querySelectorAll('[data-week-link]').forEach(function(a){a.href='/public-reading/'+r.slug+'/';a.setAttribute('aria-label','Open this week\'s reading for '+r.date);});
+  sec.querySelectorAll('[data-week-date]').forEach(function(s){s.textContent=r.date;});
+  sec.querySelectorAll('[data-this-week="torahPassage"]').forEach(function(s){s.textContent=r.torahPassage;});
+  sec.querySelectorAll('[data-this-week="torahTitle"]').forEach(function(s){s.textContent=r.torahTitle;});
+  sec.querySelectorAll('[data-this-week="torahVerseTotal"]').forEach(function(s){s.textContent=r.torahVerseTotal;});
+  sec.querySelectorAll('[data-this-week="gospelPassage"]').forEach(function(s){s.textContent=r.gospelPassage;});
+  sec.querySelectorAll('[data-this-week="gospelVerseTotal"]').forEach(function(s){s.textContent=r.gospelVerseTotal;});
+  sec.querySelectorAll('[data-this-week="link"]').forEach(function(a){a.href='/public-reading/'+r.slug+'/';});
+})();
+</script>
 </section>
