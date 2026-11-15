@@ -85,6 +85,10 @@
             const s = parseInt(pager.dataset.startIndex, 10);
             if (!isNaN(s)) startIndex = s;
         }
+        // Prefer the browser-computed current week (next-reading.js) over the build-time value.
+        if (window.NextReading && window.NextReading.index >= 0) {
+            startIndex = window.NextReading.index + 1;
+        }
 
         // If hash present, use it (deep-link): #page=2 (1-based)
         function pageFromHash() {
